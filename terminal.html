@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Terminal Simulado</title>
+    <link rel="stylesheet" href="https://unpkg.com/xterm/css/xterm.css" />
+    <style>
+      #terminal-container {
+        width: 80%;
+        height: 400px;
+        margin: 50px auto;
+        border: 1px solid #ccc;
+        overflow: hidden;
+      }
+      #terminal {
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="terminal-container">
+      <div id="terminal"></div>
+    </div>
+
+    <script src="https://unpkg.com/xterm"></script>
+    <script>
+      const term = new Terminal();
+      term.open(document.getElementById("terminal"));
+
+      function defaultReset() {
+        term.write("\r\n");
+        term.clear();
+        term.write("Bem-vindo ao Terminal!\r\n");
+        term.prompt();
+      }
+
+      term.write("Bem-vindo ao Terminal!\r\n");
+
+      term.prompt = () => {
+        term.write("\r\n$ ");
+      };
+
+      term.prompt();
+      const selection = window.getSelection();
+
+      term.onKey((e) => {
+        const printable = !e.altKey && !e.ctrlKey && !e.metaKey;
+        console.log(e.domEvent.keyCode);
+
+        if (e.domEvent.keyCode === 13) {
+          const input = term.buffer.active
+            .getLine(term.buffer.active.cursorY)
+            .translateToString()
+            .substring(2)
+            .trim()
+            .toLowerCase();
+
+          if (input != "clear") return term.prompt();
+
+          return defaultReset();
+        } else if (e.domEvent.keyCode === 8) {
+          // Do not delete the prompt
+          if (term._core.buffer.x > 2) {
+            term.write("\b \b");
+          }
+        } else if (e.domEvent.keyCode === 46) {
+          console.log("oi");
+          // Do not delete the prompt
+          if (term._core.buffer.x >= 2) {
+            term.write("\x1b[C\b \b"); // Move o cursor para a frente e, em seguida, escreve um espaço e move o cursor para trás
+          }
+        } else if (printable) {
+          term.write(e.key);
+        }
+      });
+
+      term.attachCustomKeyEventHandler(async (arg) => {
+        if (arg.ctrlKey && arg.code === "KeyC" && arg.type === "keydown") {
+          const selection = term.getSelection();
+
+          if (selection) {
+            console.log("oi", selection);
+            navigator.clipboard.writeText(selection.toString());
+            return false;
+          }
+          term.write("\r\n$ ");
+        }
+        if (arg.ctrlKey && arg.code === "KeyV" && arg.type === "keydown") {
+          if (selection) {
+            const text = await navigator.clipboard.readText();
+            term.write(text);
+            return false;
+          }
+        }
+        return true;
+      });
+    </script>
+  </body>
+</html>
