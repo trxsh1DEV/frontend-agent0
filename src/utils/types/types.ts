@@ -4,6 +4,11 @@ export type Agent = {
   online: boolean;
   // clientUid: Types.ObjectId;
   inventory: {
+    motherboard: {
+      manufacturer: string;
+      motherboard: string;
+      model: string;
+    };
     cpu: {
       model: string;
       architecture: string;
@@ -22,10 +27,7 @@ export type Agent = {
       version: string;
       architecture: string;
       domain: string;
-      manufacturer: string;
       type_machine: string;
-      motherboard: string;
-      model: string;
       hostname: string;
       user_logged: string;
       last_update: string;
@@ -77,5 +79,5 @@ export type TypePeripherical = {
   purchase_price: number;
   createdAt?: string;
   updatedAt?: string;
-  _id: string;
+  _id?: string;
 };

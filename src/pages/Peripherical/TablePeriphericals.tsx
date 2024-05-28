@@ -1,6 +1,7 @@
-import "./clients.css";
-import React, { useMemo, useState } from "react";
+import { useMemo, useState, FC } from "react";
+import { IconButton, Tooltip } from "@mui/material";
 import {
+  MRT_ActionMenuItem,
   MRT_ColumnFiltersState,
   MRT_PaginationState,
   MRT_SortingState,
@@ -11,16 +12,12 @@ import {
 import { TypePeripherical } from "../../utils/types/types";
 import { keepPreviousData, useQuery } from "@tanstack/react-query";
 import { formatDateString } from "../../utils/utils";
-import { useForm } from "react-hook-form";
-import {
-  FormPropsPeripherical,
-  schemaPeripherical,
-} from "../../utils/Schemas/PeriphericalSchema";
-import { zodResolver } from "@hookform/resolvers/zod";
-import Modal from "../../components/Modal/Modal";
 import { download, generateCsv, mkConfig } from "export-to-csv";
-import FormPeripherical from "./FormPeripherical";
 import { request } from "../../utils/request";
+import { ArrowsClockwise, Pen, Trash } from "phosphor-react";
+import TablePeriphericals from "./Periphericals";
+import { useDispatch } from "react-redux";
+import { toggleModal } from "../../redux/modalSlice";
 
 type UserApiResponse = {
   data: Array<TypePeripherical>;
@@ -35,7 +32,7 @@ const csvConfig = mkConfig({
   useKeysAsHeaders: true,
 });
 
-const Peripherical: React.FC = () => {
+const Peripherical: FC = () => {
   const [columnFilters, setColumnFilters] = useState<MRT_ColumnFiltersState>(
     []
   );
@@ -46,16 +43,8 @@ const Peripherical: React.FC = () => {
     pageIndex: 0,
     pageSize: 25,
   });
-  const [showModal, setShowModal] = useState<boolean>(false);
-  const {
-    register,
-    handleSubmit,
-    formState: { errors },
-    reset,
-  } = useForm<FormPropsPeripherical>({
-    mode: "onBlur",
-    resolver: zodResolver(schemaPeripherical),
-  });
+
+  const dispatch = useDispatch();
 
   const {
     data: { data = [], meta } = {},
@@ -91,63 +80,24 @@ const Peripherical: React.FC = () => {
 
   const handleExportData = () => {
     if (!data || data.length <= 0) return;
-    const periphericals = data.map((client: any) => ({
-      ...client,
-    }));
+    const periphericals = data.map((client: any) => ({ ...client }));
     const csv = generateCsv(csvConfig)(periphericals);
     download(csvConfig)(csv);
   };
 
-  const handleForm = async (data: TypePeripherical) => {
-    try {
-      await request.post("/peripherical", data);
-      await refetch();
-      setShowModal(false);
-      reset();
-    } catch (err: any) {
-      console.log(err.message);
-    }
-  };
-
   const columns = useMemo<MRT_ColumnDef<TypePeripherical>[]>(
     () => [
-      {
-        accessorKey: "status",
-        header: "Situação",
-      },
-      {
-        accessorKey: "host",
-        header: "Host",
-      },
-      {
-        accessorKey: "class",
-        header: "Classe",
-      },
-      // Adicione outras colunas aqui...
-      {
-        accessorKey: "sample",
-        header: "Modelo/Versão",
-      },
-      {
-        accessorKey: "manufacturer",
-        header: "Fabricante",
-      },
-      {
-        accessorKey: "department",
-        header: "Departamento",
-      },
-
-      {
-        accessorKey: "person",
-        header: "Pessoa",
-      },
-      {
-        accessorKey: "category",
-        header: "Categoria",
-      },
+      { accessorKey: "status", header: "Situação" },
+      { accessorKey: "host", header: "Host" },
+      { accessorKey: "class", header: "Classe" },
+      { accessorKey: "sample", header: "Modelo/Versão" },
+      { accessorKey: "manufacturer", header: "Fabricante" },
+      { accessorKey: "department", header: "Departamento" },
+      { accessorKey: "person", header: "Pessoa" },
+      { accessorKey: "category", header: "Categoria" },
       {
         accessorKey: "createdAt",
-        header: "data",
+        header: "Data",
         Cell: ({ cell }: any) => formatDateString(cell.getValue()),
       },
     ],
@@ -157,41 +107,37 @@ const Peripherical: React.FC = () => {
   const table = useMaterialReactTable({
     columns,
     data,
-    initialState: { showColumnFilters: true },
-    manualFiltering: true,
-    enableGlobalFilter: false,
-    manualPagination: true,
-    manualSorting: true,
-    defaultColumn: {
-      minSize: 50,
-      maxSize: 200,
-      size: 100,
-    },
-    enableDensityToggle: false,
-    enableColumnActions: false,
-    columnFilterDisplayMode: "popover",
-    muiPaginationProps: {
-      shape: "rounded",
-      rowsPerPageOptions: [10, 25, 50],
-      variant: "outlined",
-    },
-    paginationDisplayMode: "pages",
-    muiToolbarAlertBannerProps: isError
-      ? {
-          color: "error",
-          children: "Error loading data",
-        }
-      : undefined,
-    onColumnFiltersChange: setColumnFilters,
-    onPaginationChange: setPagination,
-    onSortingChange: setSorting,
+    enableRowActions: true,
+    renderRowActionMenuItems: ({ row, table }) => [
+      <MRT_ActionMenuItem
+        icon={<Pen />}
+        key="edit"
+        label="Edit"
+        onClick={() => console.info("Edit")}
+        table={table}
+      />,
+      <MRT_ActionMenuItem
+        icon={<Trash />}
+        key="delete"
+        label="Delete"
+        onClick={() => console.info("Delete")}
+        table={table}
+      />,
+    ],
     renderTopToolbarCustomActions: () => (
       <>
+        <Tooltip arrow title="Refresh Data">
+          <IconButton onClick={() => refetch()}>
+            <ArrowsClockwise />
+          </IconButton>
+        </Tooltip>
         <button onClick={handleExportData}>Export All</button>
-        {/* <button onClick={() => refetch()}>Recarregar</button> */}
+        <button onClick={() => dispatch(toggleModal())}>Adicionar novo</button>
       </>
     ),
+
     rowCount: meta?.totalRowCount ?? 0,
+    initialState: { showColumnFilters: true },
     state: {
       columnFilters,
       isLoading,
@@ -200,26 +146,36 @@ const Peripherical: React.FC = () => {
       showSkeletons: isRefetching,
       sorting,
     },
+    manualFiltering: true,
+    manualPagination: true,
+    manualSorting: true,
+    enableGlobalFilter: false,
+    enableDensityToggle: false,
+    enableColumnActions: false,
+    columnFilterDisplayMode: "popover",
+    paginationDisplayMode: "pages",
+    muiPaginationProps: {
+      shape: "rounded",
+      SelectProps: { hiddenLabel: false },
+      rowsPerPageOptions: [10, 25, 50],
+      variant: "outlined",
+      showRowsPerPage: false,
+      // @ts-ignore
+      labelRowsPerPage: "Linhas por página", // Altere o texto aqui
+    },
+    muiToolbarAlertBannerProps: isError
+      ? { color: "error", children: "Error loading data" }
+      : undefined,
+    onColumnFiltersChange: setColumnFilters,
+    onPaginationChange: setPagination,
+    onSortingChange: setSorting,
   });
 
   return (
     <>
-      <h1 style={{ marginRight: "200px" }}>Equipamentos</h1>
-      {/* Renderize a tabela */}
+      <h1>Equipamentos</h1>
       <MaterialReactTable table={table} />
-      <div style={{ marginTop: "20px" }}>
-        <button onClick={() => setShowModal(true)}>Novo equipamento</button>
-      </div>
-      {showModal && (
-        <Modal onClose={() => setShowModal(false)}>
-          <FormPeripherical
-            errors={errors}
-            handleForm={handleForm}
-            handleSubmit={handleSubmit}
-            register={register}
-          />
-        </Modal>
-      )}
+      <TablePeriphericals />
     </>
   );
 };

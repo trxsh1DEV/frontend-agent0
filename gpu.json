@@ -1,0 +1,11072 @@
+[
+  {
+    "gpu": "GeForce RTX 4090",
+    "score": 38695,
+    "rank": 1
+  },
+  {
+    "gpu": "GeForce RTX 4080",
+    "score": 34620,
+    "rank": 2
+  },
+  {
+    "gpu": "GeForce RTX 4080 SUPER",
+    "score": 34264,
+    "rank": 3
+  },
+  {
+    "gpu": "GeForce RTX 4090 D",
+    "score": 33683,
+    "rank": 4
+  },
+  {
+    "gpu": "GeForce RTX 4070 Ti",
+    "score": 31768,
+    "rank": 5
+  },
+  {
+    "gpu": "GeForce RTX 4070 Ti SUPER",
+    "score": 31621,
+    "rank": 6
+  },
+  {
+    "gpu": "Radeon RX 7900 XTX",
+    "score": 30969,
+    "rank": 7
+  },
+  {
+    "gpu": "GeForce RTX 4070 SUPER",
+    "score": 30007,
+    "rank": 8
+  },
+  {
+    "gpu": "RTX 4500 Ada Generation",
+    "score": 29955,
+    "rank": 9
+  },
+  {
+    "gpu": "GeForce RTX 3090 Ti",
+    "score": 29771,
+    "rank": 10
+  },
+  {
+    "gpu": "Radeon PRO W7900",
+    "score": 29149,
+    "rank": 11
+  },
+  {
+    "gpu": "Radeon PRO W7800",
+    "score": 29006,
+    "rank": 12
+  },
+  {
+    "gpu": "Radeon RX 7900 XT",
+    "score": 28782,
+    "rank": 13
+  },
+  {
+    "gpu": "Radeon RX 6950 XT",
+    "score": 28341,
+    "rank": 14
+  },
+  {
+    "gpu": "RTX 6000 Ada Generation",
+    "score": 28116,
+    "rank": 15
+  },
+  {
+    "gpu": "GeForce RTX 4090 Laptop GPU",
+    "score": 28045,
+    "rank": 16
+  },
+  {
+    "gpu": "GeForce RTX 3080 Ti",
+    "score": 27200,
+    "rank": 17
+  },
+  {
+    "gpu": "GeForce RTX 4070",
+    "score": 27021,
+    "rank": 18
+  },
+  {
+    "gpu": "Radeon RX 6900 XT",
+    "score": 26862,
+    "rank": 19
+  },
+  {
+    "gpu": "GeForce RTX 3090",
+    "score": 26812,
+    "rank": 20
+  },
+  {
+    "gpu": "GeForce RTX 3080 12GB",
+    "score": 26713,
+    "rank": 21
+  },
+  {
+    "gpu": "Radeon RX 7900 GRE",
+    "score": 26401,
+    "rank": 22
+  },
+  {
+    "gpu": "GeForce RTX 4080 Laptop GPU",
+    "score": 25634,
+    "rank": 23
+  },
+  {
+    "gpu": "RTX 4000 Ada Generation",
+    "score": 25493,
+    "rank": 24
+  },
+  {
+    "gpu": "GeForce RTX 3080",
+    "score": 25307,
+    "rank": 25
+  },
+  {
+    "gpu": "Radeon RX 6800 XT",
+    "score": 25021,
+    "rank": 26
+  },
+  {
+    "gpu": "RTX 5000 Ada Generation Laptop GPU",
+    "score": 24082,
+    "rank": 27
+  },
+  {
+    "gpu": "Radeon RX 7800 XT",
+    "score": 23977,
+    "rank": 28
+  },
+  {
+    "gpu": "GeForce RTX 3070 Ti",
+    "score": 23659,
+    "rank": 29
+  },
+  {
+    "gpu": "RTX 5000 Ada Generation",
+    "score": 23467,
+    "rank": 30
+  },
+  {
+    "gpu": "RTX 4000 Ada Generation Laptop GPU",
+    "score": 23429,
+    "rank": 31
+  },
+  {
+    "gpu": "GeForce RTX 4060 Ti 16GB",
+    "score": 22953,
+    "rank": 32
+  },
+  {
+    "gpu": "GeForce RTX 4060 Ti",
+    "score": 22888,
+    "rank": 33
+  },
+  {
+    "gpu": "RTX A5000",
+    "score": 22776,
+    "rank": 34
+  },
+  {
+    "gpu": "RTX A6000",
+    "score": 22775,
+    "rank": 35
+  },
+  {
+    "gpu": "GeForce RTX 3070",
+    "score": 22406,
+    "rank": 36
+  },
+  {
+    "gpu": "Radeon RX 6800",
+    "score": 22315,
+    "rank": 37
+  },
+  {
+    "gpu": "NVIDIA A10",
+    "score": 22064,
+    "rank": 38
+  },
+  {
+    "gpu": "Radeon RX 7700 XT",
+    "score": 21971,
+    "rank": 39
+  },
+  {
+    "gpu": "Radeon RX 7900M",
+    "score": 21837,
+    "rank": 40
+  },
+  {
+    "gpu": "GeForce RTX 2080 Ti",
+    "score": 21789,
+    "rank": 41
+  },
+  {
+    "gpu": "RTX A4500",
+    "score": 21786,
+    "rank": 42
+  },
+  {
+    "gpu": "Radeon 610M Ryzen 9 7845HX",
+    "score": 21622,
+    "rank": 43
+  },
+  {
+    "gpu": "RTX A5500",
+    "score": 21494,
+    "rank": 44
+  },
+  {
+    "gpu": "RTX 4000 SFF Ada Generation",
+    "score": 21142,
+    "rank": 45
+  },
+  {
+    "gpu": "Radeon RX 6750 XT",
+    "score": 20748,
+    "rank": 46
+  },
+  {
+    "gpu": "Radeon RX 6750 GRE 10GB",
+    "score": 20643,
+    "rank": 47
+  },
+  {
+    "gpu": "GeForce RTX 3060 Ti",
+    "score": 20544,
+    "rank": 48
+  },
+  {
+    "gpu": "Radeon PRO W7700",
+    "score": 20263,
+    "rank": 49
+  },
+  {
+    "gpu": "GeForce RTX 3080 Ti Laptop GPU",
+    "score": 20013,
+    "rank": 50
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "TITAN RTX",
+    "score": 19986,
+    "rank": 51
+  },
+  {
+    "gpu": "Radeon PRO W6800",
+    "score": 19922,
+    "rank": 52
+  },
+  {
+    "gpu": "TITAN V",
+    "score": 19883,
+    "rank": 53
+  },
+  {
+    "gpu": "Radeon RX 6700 XT",
+    "score": 19866,
+    "rank": 54
+  },
+  {
+    "gpu": "Quadro GV100",
+    "score": 19824,
+    "rank": 55
+  },
+  {
+    "gpu": "RTX 3500 Ada Generation Laptop GPU",
+    "score": 19779,
+    "rank": 56
+  },
+  {
+    "gpu": "GeForce RTX 4070 Laptop GPU",
+    "score": 19696,
+    "rank": 57
+  },
+  {
+    "gpu": "GeForce RTX 2080 SUPER",
+    "score": 19599,
+    "rank": 58
+  },
+  {
+    "gpu": "GeForce RTX 4060",
+    "score": 19585,
+    "rank": 59
+  },
+  {
+    "gpu": "Quadro RTX 8000",
+    "score": 19480,
+    "rank": 60
+  },
+  {
+    "gpu": "RTX A4000",
+    "score": 19415,
+    "rank": 61
+  },
+  {
+    "gpu": "TITAN Xp COLLECTORS EDITION",
+    "score": 19042,
+    "rank": 62
+  },
+  {
+    "gpu": "Quadro RTX 6000",
+    "score": 18864,
+    "rank": 63
+  },
+  {
+    "gpu": "GeForce RTX 2080",
+    "score": 18812,
+    "rank": 64
+  },
+  {
+    "gpu": "Radeon RX 6700",
+    "score": 18651,
+    "rank": 65
+  },
+  {
+    "gpu": "NVIDIA TITAN Xp",
+    "score": 18631,
+    "rank": 66
+  },
+  {
+    "gpu": "GeForce GTX 1080 Ti",
+    "score": 18560,
+    "rank": 67
+  },
+  {
+    "gpu": "Radeon RX 6750 GRE 12GB",
+    "score": 18538,
+    "rank": 68
+  },
+  {
+    "gpu": "NVIDIA A10G",
+    "score": 18487,
+    "rank": 69
+  },
+  {
+    "gpu": "RTX 2000 Ada Generation",
+    "score": 18314,
+    "rank": 70
+  },
+  {
+    "gpu": "GeForce RTX 2070 SUPER",
+    "score": 18255,
+    "rank": 71
+  },
+  {
+    "gpu": "GeForce RTX 3070 Ti Laptop GPU",
+    "score": 18106,
+    "rank": 72
+  },
+  {
+    "gpu": "Radeon PRO W7600",
+    "score": 17905,
+    "rank": 73
+  },
+  {
+    "gpu": "GeForce RTX 4060 Laptop GPU",
+    "score": 17722,
+    "rank": 74
+  },
+  {
+    "gpu": "RTX A4500 Laptop GPU",
+    "score": 17558,
+    "rank": 75
+  },
+  {
+    "gpu": "Radeon RX 6850M XT",
+    "score": 17453,
+    "rank": 76
+  },
+  {
+    "gpu": "RTX A5500 Laptop GPU",
+    "score": 17443,
+    "rank": 77
+  },
+  {
+    "gpu": "Radeon RX 7600 XT",
+    "score": 17385,
+    "rank": 78
+  },
+  {
+    "gpu": "Radeon RX 6650 XT",
+    "score": 17288,
+    "rank": 79
+  },
+  {
+    "gpu": "GeForce RTX 3060 12GB",
+    "score": 17064,
+    "rank": 80
+  },
+  {
+    "gpu": "TITAN V CEO Edition",
+    "score": 16987,
+    "rank": 81
+  },
+  {
+    "gpu": "Radeon VII",
+    "score": 16692,
+    "rank": 82
+  },
+  {
+    "gpu": "Radeon RX 5700 XT",
+    "score": 16654,
+    "rank": 83
+  },
+  {
+    "gpu": "Radeon RX 5700 XT 50th Anniversary",
+    "score": 16603,
+    "rank": 84
+  },
+  {
+    "gpu": "GeForce RTX 2060 SUPER",
+    "score": 16571,
+    "rank": 85
+  },
+  {
+    "gpu": "GeForce RTX 3080 Laptop GPU",
+    "score": 16508,
+    "rank": 86
+  },
+  {
+    "gpu": "Radeon RX 6600 XT",
+    "score": 16477,
+    "rank": 87
+  },
+  {
+    "gpu": "Quadro GP100",
+    "score": 16374,
+    "rank": 88
+  },
+  {
+    "gpu": "Radeon RX 7600",
+    "score": 16289,
+    "rank": 89
+  },
+  {
+    "gpu": "GeForce RTX 2070",
+    "score": 16172,
+    "rank": 90
+  },
+  {
+    "gpu": "Quadro RTX 5000",
+    "score": 16061,
+    "rank": 91
+  },
+  {
+    "gpu": "RTX A5000 Laptop GPU",
+    "score": 15945,
+    "rank": 92
+  },
+  {
+    "gpu": "GeForce RTX 2060 12GB",
+    "score": 15893,
+    "rank": 93
+  },
+  {
+    "gpu": "Radeon PRO W6600",
+    "score": 15862,
+    "rank": 94
+  },
+  {
+    "gpu": "RTX 3000 Ada Generation Laptop GPU",
+    "score": 15855,
+    "rank": 95
+  },
+  {
+    "gpu": "GeForce GTX 1080",
+    "score": 15531,
+    "rank": 96
+  },
+  {
+    "gpu": "GeForce RTX 3070 Laptop GPU",
+    "score": 15493,
+    "rank": 97
+  },
+  {
+    "gpu": "Radeon Pro Vega II",
+    "score": 15474,
+    "rank": 98
+  },
+  {
+    "gpu": "RTX 2000 Ada Generation Laptop GPU",
+    "score": 15472,
+    "rank": 99
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Radeon RX 6800S",
+    "score": 15459,
+    "rank": 100
+  },
+  {
+    "gpu": "Quadro RTX 4000",
+    "score": 15391,
+    "rank": 101
+  },
+  {
+    "gpu": "GeForce RTX 3060 8GB",
+    "score": 15383,
+    "rank": 102
+  },
+  {
+    "gpu": "RTX A4000 Laptop GPU",
+    "score": 15361,
+    "rank": 103
+  },
+  {
+    "gpu": "Radeon Pro W5700",
+    "score": 15224,
+    "rank": 104
+  },
+  {
+    "gpu": "Radeon RX 7700S",
+    "score": 15160,
+    "rank": 105
+  },
+  {
+    "gpu": "Quadro P6000",
+    "score": 15132,
+    "rank": 106
+  },
+  {
+    "gpu": "Radeon RX 6600",
+    "score": 15125,
+    "rank": 107
+  },
+  {
+    "gpu": "GeForce RTX 2080 (Mobile)",
+    "score": 15107,
+    "rank": 108
+  },
+  {
+    "gpu": "Radeon RX 6700S",
+    "score": 14917,
+    "rank": 109
+  },
+  {
+    "gpu": "Quadro RTX 5000 (Mobile)",
+    "score": 14832,
+    "rank": 110
+  },
+  {
+    "gpu": "Radeon RX 6650M",
+    "score": 14794,
+    "rank": 111
+  },
+  {
+    "gpu": "GeForce GTX 1070 Ti",
+    "score": 14687,
+    "rank": 112
+  },
+  {
+    "gpu": "Radeon PRO W7500",
+    "score": 14677,
+    "rank": 113
+  },
+  {
+    "gpu": "RTX A3000 12GB Laptop GPU",
+    "score": 14591,
+    "rank": 114
+  },
+  {
+    "gpu": "Radeon Pro VII",
+    "score": 14587,
+    "rank": 115
+  },
+  {
+    "gpu": "Radeon RX 5700",
+    "score": 14494,
+    "rank": 116
+  },
+  {
+    "gpu": "GeForce RTX 4050 Laptop GPU",
+    "score": 14487,
+    "rank": 117
+  },
+  {
+    "gpu": "Radeon RX Vega 64",
+    "score": 14391,
+    "rank": 118
+  },
+  {
+    "gpu": "Radeon RX 7600S",
+    "score": 14172,
+    "rank": 119
+  },
+  {
+    "gpu": "GeForce RTX 2060",
+    "score": 14152,
+    "rank": 120
+  },
+  {
+    "gpu": "Radeon Pro WX 8200",
+    "score": 13931,
+    "rank": 121
+  },
+  {
+    "gpu": "RadeonT RX 6850M XT",
+    "score": 13847,
+    "rank": 122
+  },
+  {
+    "gpu": "GeForce RTX 2070 Super with Max-Q Design",
+    "score": 13839,
+    "rank": 123
+  },
+  {
+    "gpu": "GeForce GTX 980 Ti",
+    "score": 13810,
+    "rank": 124
+  },
+  {
+    "gpu": "GeForce RTX 2080 Super with Max-Q Design",
+    "score": 13801,
+    "rank": 125
+  },
+  {
+    "gpu": "RTX A2000",
+    "score": 13771,
+    "rank": 126
+  },
+  {
+    "gpu": "RTX A2000 12GB",
+    "score": 13738,
+    "rank": 127
+  },
+  {
+    "gpu": "Radeon RX 6600S",
+    "score": 13678,
+    "rank": 128
+  },
+  {
+    "gpu": "Radeon RX 5600 XT",
+    "score": 13673,
+    "rank": 129
+  },
+  {
+    "gpu": "NVIDIA TITAN X",
+    "score": 13659,
+    "rank": 130
+  },
+  {
+    "gpu": "Quadro RTX 5000 with Max-Q Design",
+    "score": 13641,
+    "rank": 131
+  },
+  {
+    "gpu": "Radeon RX 6600M",
+    "score": 13631,
+    "rank": 132
+  },
+  {
+    "gpu": "GeForce GTX 1070",
+    "score": 13510,
+    "rank": 133
+  },
+  {
+    "gpu": "Radeon RX 6700M",
+    "score": 13399,
+    "rank": 134
+  },
+  {
+    "gpu": "GeForce RTX 3060 Laptop GPU",
+    "score": 13384,
+    "rank": 135
+  },
+  {
+    "gpu": "NVIDIA A40",
+    "score": 13370,
+    "rank": 136
+  },
+  {
+    "gpu": "Radeon Vega Frontier Edition",
+    "score": 13326,
+    "rank": 137
+  },
+  {
+    "gpu": "Radeon RX 6800M",
+    "score": 13295,
+    "rank": 138
+  },
+  {
+    "gpu": "Radeon RX Vega 56",
+    "score": 13277,
+    "rank": 139
+  },
+  {
+    "gpu": "RTX 1000 Ada Generation Laptop GPU",
+    "score": 13230,
+    "rank": 140
+  },
+  {
+    "gpu": "Intel Arc A770",
+    "score": 13170,
+    "rank": 141
+  },
+  {
+    "gpu": "GeForce RTX 2080 with Max-Q Design",
+    "score": 13146,
+    "rank": 142
+  },
+  {
+    "gpu": "Radeon PRO W6600X",
+    "score": 13113,
+    "rank": 143
+  },
+  {
+    "gpu": "GeForce GTX TITAN X",
+    "score": 13039,
+    "rank": 144
+  },
+  {
+    "gpu": "Radeon Pro Vega 64",
+    "score": 12984,
+    "rank": 145
+  },
+  {
+    "gpu": "GeForce GTX 1660 Ti",
+    "score": 12926,
+    "rank": 146
+  },
+  {
+    "gpu": "GeForce RTX 3050 8GB",
+    "score": 12884,
+    "rank": 147
+  },
+  {
+    "gpu": "Radeon Pro WX 9100",
+    "score": 12843,
+    "rank": 148
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Quadro RTX 4000 with Max-Q Design",
+    "score": 12794,
+    "rank": 149
+  },
+  {
+    "gpu": "GeForce GTX 1660 SUPER",
+    "score": 12776,
+    "rank": 150
+  },
+  {
+    "gpu": "Quadro RTX 4000 (Mobile)",
+    "score": 12699,
+    "rank": 151
+  },
+  {
+    "gpu": "Tesla P40",
+    "score": 12677,
+    "rank": 152
+  },
+  {
+    "gpu": "Tesla T10",
+    "score": 12650,
+    "rank": 153
+  },
+  {
+    "gpu": "Tesla V100-PCIE-16GB",
+    "score": 12632,
+    "rank": 154
+  },
+  {
+    "gpu": "Radeon Pro 5700 XT",
+    "score": 12613,
+    "rank": 155
+  },
+  {
+    "gpu": "RTX A3000 Laptop GPU",
+    "score": 12528,
+    "rank": 156
+  },
+  {
+    "gpu": "Quadro P5000",
+    "score": 12430,
+    "rank": 157
+  },
+  {
+    "gpu": "Quadro P5200 with Max-Q Design",
+    "score": 12355,
+    "rank": 158
+  },
+  {
+    "gpu": "GeForce RTX 2070 (Mobile)",
+    "score": 12354,
+    "rank": 159
+  },
+  {
+    "gpu": "Radeon Pro Vega 56",
+    "score": 12353,
+    "rank": 160
+  },
+  {
+    "gpu": "Quadro P5200",
+    "score": 12278,
+    "rank": 161
+  },
+  {
+    "gpu": "Radeon RX 6850M",
+    "score": 12274,
+    "rank": 162
+  },
+  {
+    "gpu": "Radeon Pro V520 MxGPU",
+    "score": 12257,
+    "rank": 163
+  },
+  {
+    "gpu": "GeForce RTX 3050 OEM",
+    "score": 12046,
+    "rank": 164
+  },
+  {
+    "gpu": "Radeon RX 5600 OEM",
+    "score": 12004,
+    "rank": 165
+  },
+  {
+    "gpu": "Intel Arc A750",
+    "score": 11940,
+    "rank": 166
+  },
+  {
+    "gpu": "Quadro M6000 24GB",
+    "score": 11890,
+    "rank": 167
+  },
+  {
+    "gpu": "Radeon Pro 5700",
+    "score": 11844,
+    "rank": 168
+  },
+  {
+    "gpu": "Quadro M6000",
+    "score": 11792,
+    "rank": 169
+  },
+  {
+    "gpu": "Intel Arc A770M",
+    "score": 11787,
+    "rank": 170
+  },
+  {
+    "gpu": "GeForce RTX 2070 with Max-Q Design",
+    "score": 11742,
+    "rank": 171
+  },
+  {
+    "gpu": "Radeon RX 7600M XT",
+    "score": 11741,
+    "rank": 172
+  },
+  {
+    "gpu": "GeForce GTX 1660",
+    "score": 11692,
+    "rank": 173
+  },
+  {
+    "gpu": "Quadro P4000",
+    "score": 11652,
+    "rank": 174
+  },
+  {
+    "gpu": "Radeon RX 5600",
+    "score": 11587,
+    "rank": 175
+  },
+  {
+    "gpu": "GeForce GTX 1080 with Max-Q Design",
+    "score": 11533,
+    "rank": 176
+  },
+  {
+    "gpu": "Intel Arc A580",
+    "score": 11503,
+    "rank": 177
+  },
+  {
+    "gpu": "Quadro P4200 with Max-Q Design",
+    "score": 11446,
+    "rank": 178
+  },
+  {
+    "gpu": "RTX A1000 Embedded GPU",
+    "score": 11368,
+    "rank": 179
+  },
+  {
+    "gpu": "GeForce RTX 2060 (Mobile)",
+    "score": 11354,
+    "rank": 180
+  },
+  {
+    "gpu": "Radeon Pro Vega 48",
+    "score": 11299,
+    "rank": 181
+  },
+  {
+    "gpu": "Quadro RTX 3000",
+    "score": 11175,
+    "rank": 182
+  },
+  {
+    "gpu": "GeForce GTX 980",
+    "score": 11124,
+    "rank": 183
+  },
+  {
+    "gpu": "Radeon Pro SSG",
+    "score": 10971,
+    "rank": 184
+  },
+  {
+    "gpu": "RTX A2000 8GB Laptop GPU",
+    "score": 10954,
+    "rank": 185
+  },
+  {
+    "gpu": "Tesla T4",
+    "score": 10908,
+    "rank": 186
+  },
+  {
+    "gpu": "GeForce RTX 3050 6GB",
+    "score": 10890,
+    "rank": 187
+  },
+  {
+    "gpu": "Quadro P4200",
+    "score": 10649,
+    "rank": 188
+  },
+  {
+    "gpu": "GeForce RTX 3050 6GB Laptop GPU",
+    "score": 10496,
+    "rank": 189
+  },
+  {
+    "gpu": "Intel Arc A730M",
+    "score": 10487,
+    "rank": 190
+  },
+  {
+    "gpu": "GeForce GTX 1070 (Mobile)",
+    "score": 10465,
+    "rank": 191
+  },
+  {
+    "gpu": "RTX 500 Ada Generation Laptop GPU",
+    "score": 10423,
+    "rank": 192
+  },
+  {
+    "gpu": "Tesla M40 24GB",
+    "score": 10417,
+    "rank": 193
+  },
+  {
+    "gpu": "Tesla M40",
+    "score": 10376,
+    "rank": 194
+  },
+  {
+    "gpu": "GeForce GTX 1660 Ti (Mobile)",
+    "score": 10200,
+    "rank": 195
+  },
+  {
+    "gpu": "GeForce RTX 3050 Ti Laptop GPU",
+    "score": 10166,
+    "rank": 196
+  },
+  {
+    "gpu": "GeForce GTX 1650 SUPER",
+    "score": 10148,
+    "rank": 197
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "RTX A1000 6GB Laptop GPU",
+    "score": 10130,
+    "rank": 198
+  },
+  {
+    "gpu": "GeForce GTX 1060",
+    "score": 10077,
+    "rank": 199
+  },
+  {
+    "gpu": "Radeon R9 Fury X",
+    "score": 10015,
+    "rank": 200
+  },
+  {
+    "gpu": "RTX A2000 Laptop GPU",
+    "score": 9964,
+    "rank": 201
+  },
+  {
+    "gpu": "GeForce GTX 1070 with Max-Q Design",
+    "score": 9883,
+    "rank": 202
+  },
+  {
+    "gpu": "GRID P40-2B",
+    "score": 9842,
+    "rank": 203
+  },
+  {
+    "gpu": "GeForce RTX 2060 with Max-Q Design",
+    "score": 9760,
+    "rank": 204
+  },
+  {
+    "gpu": "GeForce GTX 1060 3GB",
+    "score": 9759,
+    "rank": 205
+  },
+  {
+    "gpu": "Radeon R9 Fury + Fury X",
+    "score": 9741,
+    "rank": 206
+  },
+  {
+    "gpu": "GeForce GTX 970",
+    "score": 9643,
+    "rank": 207
+  },
+  {
+    "gpu": "Radeon R9 Fury",
+    "score": 9592,
+    "rank": 208
+  },
+  {
+    "gpu": "RTX A1000 Laptop GPU",
+    "score": 9531,
+    "rank": 209
+  },
+  {
+    "gpu": "Radeon RX 6500 XT",
+    "score": 9524,
+    "rank": 210
+  },
+  {
+    "gpu": "GeForce GTX 780 Ti",
+    "score": 9516,
+    "rank": 211
+  },
+  {
+    "gpu": "Parsec Virtual Display Adapter",
+    "score": 9458,
+    "rank": 212
+  },
+  {
+    "gpu": "GeForce RTX 3050 Laptop GPU",
+    "score": 9449,
+    "rank": 213
+  },
+  {
+    "gpu": "Radeon RX 590",
+    "score": 9444,
+    "rank": 214
+  },
+  {
+    "gpu": "Radeon R9 390X",
+    "score": 9436,
+    "rank": 215
+  },
+  {
+    "gpu": "Quadro M5000",
+    "score": 9393,
+    "rank": 216
+  },
+  {
+    "gpu": "Quadro P2200",
+    "score": 9326,
+    "rank": 217
+  },
+  {
+    "gpu": "Radeon Pro 5600M",
+    "score": 9313,
+    "rank": 218
+  },
+  {
+    "gpu": "Quadro P3200 with Max-Q Design",
+    "score": 9218,
+    "rank": 219
+  },
+  {
+    "gpu": "Radeon RX 5500 XT",
+    "score": 9160,
+    "rank": 220
+  },
+  {
+    "gpu": "Radeon Pro W5500",
+    "score": 9128,
+    "rank": 221
+  },
+  {
+    "gpu": "Radeon RX 6550M",
+    "score": 9116,
+    "rank": 222
+  },
+  {
+    "gpu": "Quadro P4000 with Max-Q Design",
+    "score": 9082,
+    "rank": 223
+  },
+  {
+    "gpu": "GeForce GTX 1060 5GB",
+    "score": 9058,
+    "rank": 224
+  },
+  {
+    "gpu": "GeForce GTX TITAN Black",
+    "score": 9039,
+    "rank": 225
+  },
+  {
+    "gpu": "GeForce GTX TITAN Z",
+    "score": 8986,
+    "rank": 226
+  },
+  {
+    "gpu": "Radeon R9 390",
+    "score": 8928,
+    "rank": 227
+  },
+  {
+    "gpu": "Quadro P3200",
+    "score": 8909,
+    "rank": 228
+  },
+  {
+    "gpu": "Radeon RX 580",
+    "score": 8876,
+    "rank": 229
+  },
+  {
+    "gpu": "Radeon RX 5500",
+    "score": 8786,
+    "rank": 230
+  },
+  {
+    "gpu": "Tesla P4",
+    "score": 8767,
+    "rank": 231
+  },
+  {
+    "gpu": "GRID P40-24Q",
+    "score": 8719,
+    "rank": 232
+  },
+  {
+    "gpu": "Radeon RX 5600M",
+    "score": 8669,
+    "rank": 233
+  },
+  {
+    "gpu": "Radeon R9 290X",
+    "score": 8642,
+    "rank": 234
+  },
+  {
+    "gpu": "Radeon R9 295X2",
+    "score": 8638,
+    "rank": 235
+  },
+  {
+    "gpu": "GeForce GTX 1660 Ti with Max-Q Design",
+    "score": 8632,
+    "rank": 236
+  },
+  {
+    "gpu": "Radeon RX 480",
+    "score": 8627,
+    "rank": 237
+  },
+  {
+    "gpu": "Radeon RX590 GME",
+    "score": 8571,
+    "rank": 238
+  },
+  {
+    "gpu": "GRID RTX6000-1B",
+    "score": 8473,
+    "rank": 239
+  },
+  {
+    "gpu": "Radeon R9 290X / 390X",
+    "score": 8389,
+    "rank": 240
+  },
+  {
+    "gpu": "Ryzen 5 4600HS with Radeon Graphics",
+    "score": 8370,
+    "rank": 241
+  },
+  {
+    "gpu": "Quadro RTX 3000 with Max-Q Design",
+    "score": 8365,
+    "rank": 242
+  },
+  {
+    "gpu": "Radeon Pro 5500 XT",
+    "score": 8358,
+    "rank": 243
+  },
+  {
+    "gpu": "Radeon R9 290",
+    "score": 8313,
+    "rank": 244
+  },
+  {
+    "gpu": "GeForce GTX Titan",
+    "score": 8189,
+    "rank": 245
+  },
+  {
+    "gpu": "Radeon Pro Duo",
+    "score": 8164,
+    "rank": 246
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "GeForce GTX 1060 (Mobile)",
+    "score": 8160,
+    "rank": 247
+  },
+  {
+    "gpu": "Radeon R9 290 / 390",
+    "score": 8150,
+    "rank": 248
+  },
+  {
+    "gpu": "CMP 30HX",
+    "score": 8135,
+    "rank": 249
+  },
+  {
+    "gpu": "Quadro K6000",
+    "score": 8059,
+    "rank": 250
+  },
+  {
+    "gpu": "Radeon RX 470/570",
+    "score": 8019,
+    "rank": 251
+  },
+  {
+    "gpu": "GeForce GTX 780",
+    "score": 8010,
+    "rank": 252
+  },
+  {
+    "gpu": "Ryzen 9 6900HS",
+    "score": 8005,
+    "rank": 253
+  },
+  {
+    "gpu": "FirePro W9100",
+    "score": 7986,
+    "rank": 254
+  },
+  {
+    "gpu": "Radeon PRO W6400",
+    "score": 7955,
+    "rank": 255
+  },
+  {
+    "gpu": "Tesla M60",
+    "score": 7927,
+    "rank": 256
+  },
+  {
+    "gpu": "Quadro M5500",
+    "score": 7915,
+    "rank": 257
+  },
+  {
+    "gpu": "GeForce GTX 1060 with Max-Q Design",
+    "score": 7896,
+    "rank": 258
+  },
+  {
+    "gpu": "Radeon Pro WX 7100",
+    "score": 7891,
+    "rank": 259
+  },
+  {
+    "gpu": "GeForce GTX 1650",
+    "score": 7878,
+    "rank": 260
+  },
+  {
+    "gpu": "T1200 Laptop GPU",
+    "score": 7853,
+    "rank": 261
+  },
+  {
+    "gpu": "Radeon RX 6500M",
+    "score": 7851,
+    "rank": 262
+  },
+  {
+    "gpu": "Radeon RX 6500",
+    "score": 7843,
+    "rank": 263
+  },
+  {
+    "gpu": "Radeon RX 580X",
+    "score": 7798,
+    "rank": 264
+  },
+  {
+    "gpu": "Radeon Pro 580",
+    "score": 7753,
+    "rank": 265
+  },
+  {
+    "gpu": "Radeon RX 580 2048SP",
+    "score": 7700,
+    "rank": 266
+  },
+  {
+    "gpu": "T1000",
+    "score": 7675,
+    "rank": 267
+  },
+  {
+    "gpu": "GeForce RTX 2050",
+    "score": 7661,
+    "rank": 268
+  },
+  {
+    "gpu": "Radeon RX 5300",
+    "score": 7641,
+    "rank": 269
+  },
+  {
+    "gpu": "T1000 8GB",
+    "score": 7621,
+    "rank": 270
+  },
+  {
+    "gpu": "GeForce GTX 1650 Ti",
+    "score": 7565,
+    "rank": 271
+  },
+  {
+    "gpu": "Radeon RX 6400",
+    "score": 7548,
+    "rank": 272
+  },
+  {
+    "gpu": "Radeon Pro 580X",
+    "score": 7540,
+    "rank": 273
+  },
+  {
+    "gpu": "GRID P40-8Q",
+    "score": 7432,
+    "rank": 274
+  },
+  {
+    "gpu": "Ryzen 9 4900HS with Radeon Graphics",
+    "score": 7418,
+    "rank": 275
+  },
+  {
+    "gpu": "Radeon Ryzen 9 6900HS",
+    "score": 7384,
+    "rank": 276
+  },
+  {
+    "gpu": "Radeon Pro W5500X",
+    "score": 7350,
+    "rank": 277
+  },
+  {
+    "gpu": "GeForce GTX 980M",
+    "score": 7350,
+    "rank": 278
+  },
+  {
+    "gpu": "FirePro W8100",
+    "score": 7279,
+    "rank": 279
+  },
+  {
+    "gpu": "Radeon Pro 5300",
+    "score": 7229,
+    "rank": 280
+  },
+  {
+    "gpu": "Tesla P100-PCIE-16GB",
+    "score": 7225,
+    "rank": 281
+  },
+  {
+    "gpu": "Quadro T2000",
+    "score": 7165,
+    "rank": 282
+  },
+  {
+    "gpu": "Radeon 780M",
+    "score": 7110,
+    "rank": 283
+  },
+  {
+    "gpu": "T600 Laptop GPU",
+    "score": 7048,
+    "rank": 284
+  },
+  {
+    "gpu": "A10-8Q",
+    "score": 7041,
+    "rank": 285
+  },
+  {
+    "gpu": "RadeonT 780M",
+    "score": 7031,
+    "rank": 286
+  },
+  {
+    "gpu": "GeForce GTX 1650 (Mobile)",
+    "score": 6968,
+    "rank": 287
+  },
+  {
+    "gpu": "Quadro M5000M",
+    "score": 6958,
+    "rank": 288
+  },
+  {
+    "gpu": "GeForce RTX 3050 4GB Laptop GPU",
+    "score": 6947,
+    "rank": 289
+  },
+  {
+    "gpu": "Quadro P2000",
+    "score": 6929,
+    "rank": 290
+  },
+  {
+    "gpu": "Quadro T2000 with Max-Q Design",
+    "score": 6927,
+    "rank": 291
+  },
+  {
+    "gpu": "GRID P4-4Q",
+    "score": 6843,
+    "rank": 292
+  },
+  {
+    "gpu": "RTX A500 Laptop GPU",
+    "score": 6835,
+    "rank": 293
+  },
+  {
+    "gpu": "Radeon Pro 5500M",
+    "score": 6832,
+    "rank": 294
+  },
+  {
+    "gpu": "GRID P4-8Q",
+    "score": 6733,
+    "rank": 295
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Quadro T1000 with Max-Q Design",
+    "score": 6726,
+    "rank": 296
+  },
+  {
+    "gpu": "Radeon Pro WX 7130",
+    "score": 6715,
+    "rank": 297
+  },
+  {
+    "gpu": "GeForce GTX 970XM FORCE",
+    "score": 6706,
+    "rank": 298
+  },
+  {
+    "gpu": "Quadro M4000",
+    "score": 6693,
+    "rank": 299
+  },
+  {
+    "gpu": "Ryzen 7 6800HS with Radeon Graphics",
+    "score": 6677,
+    "rank": 300
+  },
+  {
+    "gpu": "RTX A4500 Embedded GPU",
+    "score": 6644,
+    "rank": 301
+  },
+  {
+    "gpu": "Quadro T1000",
+    "score": 6579,
+    "rank": 302
+  },
+  {
+    "gpu": "Quadro P3000",
+    "score": 6579,
+    "rank": 303
+  },
+  {
+    "gpu": "Radeon RX Vega M GH",
+    "score": 6563,
+    "rank": 304
+  },
+  {
+    "gpu": "AMD Ryzen Z1 Extreme",
+    "score": 6511,
+    "rank": 305
+  },
+  {
+    "gpu": "T600",
+    "score": 6473,
+    "rank": 306
+  },
+  {
+    "gpu": "GeForce GTX 1650 Ti with Max-Q Design",
+    "score": 6420,
+    "rank": 307
+  },
+  {
+    "gpu": "P106-100",
+    "score": 6357,
+    "rank": 308
+  },
+  {
+    "gpu": "Radeon Pro 570",
+    "score": 6336,
+    "rank": 309
+  },
+  {
+    "gpu": "GeForce GTX 1050 Ti",
+    "score": 6315,
+    "rank": 310
+  },
+  {
+    "gpu": "Tesla M6",
+    "score": 6284,
+    "rank": 311
+  },
+  {
+    "gpu": "Intel Arc A530M",
+    "score": 6237,
+    "rank": 312
+  },
+  {
+    "gpu": "Radeon Ryzen 7 6800HS",
+    "score": 6228,
+    "rank": 313
+  },
+  {
+    "gpu": "Intel Arc A380",
+    "score": 6211,
+    "rank": 314
+  },
+  {
+    "gpu": "Radeon R9 280X",
+    "score": 6207,
+    "rank": 315
+  },
+  {
+    "gpu": "Radeon R9 380X",
+    "score": 6194,
+    "rank": 316
+  },
+  {
+    "gpu": "Quadro M4000M",
+    "score": 6186,
+    "rank": 317
+  },
+  {
+    "gpu": "GeForce MX570 A",
+    "score": 6179,
+    "rank": 318
+  },
+  {
+    "gpu": "GeForce GTX 1650 with Max-Q Design",
+    "score": 6168,
+    "rank": 319
+  },
+  {
+    "gpu": "Radeon 680M Ryzen 7 7735HS",
+    "score": 6166,
+    "rank": 320
+  },
+  {
+    "gpu": "Radeon R9 380",
+    "score": 6151,
+    "rank": 321
+  },
+  {
+    "gpu": "FirePro W9000",
+    "score": 6138,
+    "rank": 322
+  },
+  {
+    "gpu": "Ryzen 9 6900HS with Radeon Graphics",
+    "score": 6097,
+    "rank": 323
+  },
+  {
+    "gpu": "GeForce GTX 960",
+    "score": 6067,
+    "rank": 324
+  },
+  {
+    "gpu": "Radeon TM",
+    "score": 6041,
+    "rank": 325
+  },
+  {
+    "gpu": "Quadro K5200",
+    "score": 6030,
+    "rank": 326
+  },
+  {
+    "gpu": "Radeon Pro 5300M",
+    "score": 5988,
+    "rank": 327
+  },
+  {
+    "gpu": "Radeon 760M",
+    "score": 5987,
+    "rank": 328
+  },
+  {
+    "gpu": "GRID P100-16Q",
+    "score": 5944,
+    "rank": 329
+  },
+  {
+    "gpu": "GeForce GTX 770",
+    "score": 5927,
+    "rank": 330
+  },
+  {
+    "gpu": "GeForce GTX 1050 Ti (Mobile)",
+    "score": 5918,
+    "rank": 331
+  },
+  {
+    "gpu": "Radeon PRO W6300",
+    "score": 5897,
+    "rank": 332
+  },
+  {
+    "gpu": "Radeon RX 6300",
+    "score": 5866,
+    "rank": 333
+  },
+  {
+    "gpu": "Tesla K80",
+    "score": 5852,
+    "rank": 334
+  },
+  {
+    "gpu": "Matrox LUMA A380P",
+    "score": 5805,
+    "rank": 335
+  },
+  {
+    "gpu": "Radeon Ryzen 7 7736U",
+    "score": 5791,
+    "rank": 336
+  },
+  {
+    "gpu": "Radeon Ryzen 7 PRO 6850H",
+    "score": 5767,
+    "rank": 337
+  },
+  {
+    "gpu": "GeForce MX570",
+    "score": 5764,
+    "rank": 338
+  },
+  {
+    "gpu": "Ryzen 9 PRO 6950H",
+    "score": 5758,
+    "rank": 339
+  },
+  {
+    "gpu": "GeForce GTX 970M",
+    "score": 5727,
+    "rank": 340
+  },
+  {
+    "gpu": "Radeon PRO Ryzen 7 PRO 6850U",
+    "score": 5703,
+    "rank": 341
+  },
+  {
+    "gpu": "Intel Arc A310",
+    "score": 5648,
+    "rank": 342
+  },
+  {
+    "gpu": "A16",
+    "score": 5597,
+    "rank": 343
+  },
+  {
+    "gpu": "GeForce GTX 690",
+    "score": 5590,
+    "rank": 344
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Ryzen 7 PRO 6850U",
+    "score": 5580,
+    "rank": 345
+  },
+  {
+    "gpu": "Radeon Pro WX 5100",
+    "score": 5579,
+    "rank": 346
+  },
+  {
+    "gpu": "Ryzen 9 5900HS with Radeon Graphics",
+    "score": 5570,
+    "rank": 347
+  },
+  {
+    "gpu": "Radeon HD 7990",
+    "score": 5565,
+    "rank": 348
+  },
+  {
+    "gpu": "Radeon R9 280",
+    "score": 5562,
+    "rank": 349
+  },
+  {
+    "gpu": "Radeon R9 285 / 380",
+    "score": 5549,
+    "rank": 350
+  },
+  {
+    "gpu": "GeForce GTX 680",
+    "score": 5548,
+    "rank": 351
+  },
+  {
+    "gpu": "Quadro M3000M",
+    "score": 5526,
+    "rank": 352
+  },
+  {
+    "gpu": "GRID M60-8A",
+    "score": 5523,
+    "rank": 353
+  },
+  {
+    "gpu": "Radeon RX 5500M",
+    "score": 5495,
+    "rank": 354
+  },
+  {
+    "gpu": "Radeon Ryzen 7 6800HS Creator Edition",
+    "score": 5453,
+    "rank": 355
+  },
+  {
+    "gpu": "GeForce GTX 760 Ti OEM",
+    "score": 5427,
+    "rank": 356
+  },
+  {
+    "gpu": "Radeon Ryzen 7 7735HS",
+    "score": 5392,
+    "rank": 357
+  },
+  {
+    "gpu": "Ryzen 7 6800HS Creator Edition",
+    "score": 5382,
+    "rank": 358
+  },
+  {
+    "gpu": "GeForce GTX 1050 Ti with Max-Q Design",
+    "score": 5366,
+    "rank": 359
+  },
+  {
+    "gpu": "GRID P40-4Q",
+    "score": 5364,
+    "rank": 360
+  },
+  {
+    "gpu": "Ryzen 9 6900HX with Radeon Graphics",
+    "score": 5353,
+    "rank": 361
+  },
+  {
+    "gpu": "GeForce GTX 950",
+    "score": 5339,
+    "rank": 362
+  },
+  {
+    "gpu": "Quadro P2000 with Max-Q Design",
+    "score": 5337,
+    "rank": 363
+  },
+  {
+    "gpu": "Radeon Ryzen 7 6800H",
+    "score": 5336,
+    "rank": 364
+  },
+  {
+    "gpu": "GeForce GTX 670",
+    "score": 5330,
+    "rank": 365
+  },
+  {
+    "gpu": "FirePro W7100",
+    "score": 5313,
+    "rank": 366
+  },
+  {
+    "gpu": "Radeon Pro Vega 20",
+    "score": 5299,
+    "rank": 367
+  },
+  {
+    "gpu": "Radeon HD 7970 / R9 280X",
+    "score": 5247,
+    "rank": 368
+  },
+  {
+    "gpu": "Ryzen 7 6800H",
+    "score": 5247,
+    "rank": 369
+  },
+  {
+    "gpu": "GeForce GTX 760 Ti",
+    "score": 5240,
+    "rank": 370
+  },
+  {
+    "gpu": "Ryzen 7 6800HS",
+    "score": 5237,
+    "rank": 371
+  },
+  {
+    "gpu": "Radeon Ryzen 7 7735U",
+    "score": 5231,
+    "rank": 372
+  },
+  {
+    "gpu": "Ryzen 7 7735U with Radeon Graphics",
+    "score": 5215,
+    "rank": 373
+  },
+  {
+    "gpu": "Radeon HD 8990",
+    "score": 5214,
+    "rank": 374
+  },
+  {
+    "gpu": "Radeon Ryzen 7 PRO 6850HS",
+    "score": 5212,
+    "rank": 375
+  },
+  {
+    "gpu": "GRID M60-2Q",
+    "score": 5203,
+    "rank": 376
+  },
+  {
+    "gpu": "Radeon R9 M395X",
+    "score": 5194,
+    "rank": 377
+  },
+  {
+    "gpu": "Radeon Ryzen 7 PRO 6850U",
+    "score": 5179,
+    "rank": 378
+  },
+  {
+    "gpu": "Q12U-1",
+    "score": 5164,
+    "rank": 379
+  },
+  {
+    "gpu": "RadeonT 680M Ryzen 7 7735HS",
+    "score": 5161,
+    "rank": 380
+  },
+  {
+    "gpu": "Radeon R9 M295X",
+    "score": 5150,
+    "rank": 381
+  },
+  {
+    "gpu": "GeForce GTX 1050 3GB",
+    "score": 5149,
+    "rank": 382
+  },
+  {
+    "gpu": "Ryzen 7 7735HS with Radeon Graphics",
+    "score": 5127,
+    "rank": 383
+  },
+  {
+    "gpu": "Ryzen 7 PRO 6850U with Radeon Graphics",
+    "score": 5115,
+    "rank": 384
+  },
+  {
+    "gpu": "Intel Arc A370M",
+    "score": 5115,
+    "rank": 385
+  },
+  {
+    "gpu": "Ryzen 7 PRO 6860Z",
+    "score": 5076,
+    "rank": 386
+  },
+  {
+    "gpu": "FirePro S9000",
+    "score": 5059,
+    "rank": 387
+  },
+  {
+    "gpu": "GeForce GTX 1050",
+    "score": 5049,
+    "rank": 388
+  },
+  {
+    "gpu": "EIZO Quadro MED-XN51LP",
+    "score": 5048,
+    "rank": 389
+  },
+  {
+    "gpu": "Intel Arc",
+    "score": 5038,
+    "rank": 390
+  },
+  {
+    "gpu": "Radeon R9 M395",
+    "score": 5023,
+    "rank": 391
+  },
+  {
+    "gpu": "Radeon Ryzen 7 7735H",
+    "score": 5021,
+    "rank": 392
+  },
+  {
+    "gpu": "Ryzen 7 6800U",
+    "score": 5006,
+    "rank": 393
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "GeForce GTX 1630",
+    "score": 4985,
+    "rank": 394
+  },
+  {
+    "gpu": "Radeon Instinct MI25 MxGPU",
+    "score": 4978,
+    "rank": 395
+  },
+  {
+    "gpu": "Barco MXRT 7600",
+    "score": 4943,
+    "rank": 396
+  },
+  {
+    "gpu": "GRID P40-1A",
+    "score": 4909,
+    "rank": 397
+  },
+  {
+    "gpu": "FirePro S9050",
+    "score": 4901,
+    "rank": 398
+  },
+  {
+    "gpu": "Radeon R9 270X",
+    "score": 4889,
+    "rank": 399
+  },
+  {
+    "gpu": "Ryzen 7 PRO 6860Z with Radeon Graphics",
+    "score": 4869,
+    "rank": 400
+  },
+  {
+    "gpu": "T550 Laptop GPU",
+    "score": 4853,
+    "rank": 401
+  },
+  {
+    "gpu": "GRID P40-2Q",
+    "score": 4843,
+    "rank": 402
+  },
+  {
+    "gpu": "Ryzen 7 6800U with Radeon Graphics",
+    "score": 4829,
+    "rank": 403
+  },
+  {
+    "gpu": "A16-4Q",
+    "score": 4827,
+    "rank": 404
+  },
+  {
+    "gpu": "Radeon Pro Vega 16",
+    "score": 4809,
+    "rank": 405
+  },
+  {
+    "gpu": "Ryzen 7 6800H with Radeon Graphics",
+    "score": 4801,
+    "rank": 406
+  },
+  {
+    "gpu": "GeForce GTX 760",
+    "score": 4791,
+    "rank": 407
+  },
+  {
+    "gpu": "GRID RTX6000P-6Q",
+    "score": 4777,
+    "rank": 408
+  },
+  {
+    "gpu": "FirePro S10000",
+    "score": 4768,
+    "rank": 409
+  },
+  {
+    "gpu": "Radeon HD 7950 / R9 280",
+    "score": 4764,
+    "rank": 410
+  },
+  {
+    "gpu": "Radeon Sky 500",
+    "score": 4763,
+    "rank": 411
+  },
+  {
+    "gpu": "Radeon Eng Sample: 100-000000560-40_Y",
+    "score": 4749,
+    "rank": 412
+  },
+  {
+    "gpu": "Radeon R9 370",
+    "score": 4722,
+    "rank": 413
+  },
+  {
+    "gpu": "Ryzen 9 PRO 6950HS with Radeon Graphics",
+    "score": 4704,
+    "rank": 414
+  },
+  {
+    "gpu": "Radeon Pro WX Vega M GL",
+    "score": 4643,
+    "rank": 415
+  },
+  {
+    "gpu": "Radeon HD 7870",
+    "score": 4633,
+    "rank": 416
+  },
+  {
+    "gpu": "GeForce MX550",
+    "score": 4598,
+    "rank": 417
+  },
+  {
+    "gpu": "Radeon Ryzen 7 PRO 6860Z",
+    "score": 4594,
+    "rank": 418
+  },
+  {
+    "gpu": "Radeon Ryzen 7 6800U",
+    "score": 4570,
+    "rank": 419
+  },
+  {
+    "gpu": "GeForce GTX 580",
+    "score": 4566,
+    "rank": 420
+  },
+  {
+    "gpu": "B8DKMDAP",
+    "score": 4557,
+    "rank": 421
+  },
+  {
+    "gpu": "Radeon Ryzen 7 Pro 7735U",
+    "score": 4537,
+    "rank": 422
+  },
+  {
+    "gpu": "Radeon Pro 465",
+    "score": 4537,
+    "rank": 423
+  },
+  {
+    "gpu": "FirePro S7000",
+    "score": 4523,
+    "rank": 424
+  },
+  {
+    "gpu": "Radeon R7 370",
+    "score": 4518,
+    "rank": 425
+  },
+  {
+    "gpu": "GRID T4-8Q",
+    "score": 4518,
+    "rank": 426
+  },
+  {
+    "gpu": "Tesla K40c",
+    "score": 4494,
+    "rank": 427
+  },
+  {
+    "gpu": "Radeon HD 7870 XT",
+    "score": 4469,
+    "rank": 428
+  },
+  {
+    "gpu": "GeForce GTX 1050 (Mobile)",
+    "score": 4461,
+    "rank": 429
+  },
+  {
+    "gpu": "GRID M60-1B",
+    "score": 4456,
+    "rank": 430
+  },
+  {
+    "gpu": "Quadro P1000",
+    "score": 4453,
+    "rank": 431
+  },
+  {
+    "gpu": "Tesla K20m",
+    "score": 4432,
+    "rank": 432
+  },
+  {
+    "gpu": "GRID P6-4Q",
+    "score": 4429,
+    "rank": 433
+  },
+  {
+    "gpu": "GeForce GTX 660 Ti",
+    "score": 4409,
+    "rank": 434
+  },
+  {
+    "gpu": "FirePro W7000 Adapter",
+    "score": 4359,
+    "rank": 435
+  },
+  {
+    "gpu": "GRID GTX P40-6",
+    "score": 4340,
+    "rank": 436
+  },
+  {
+    "gpu": "Radeon Ryzen 9 PRO 6950HS",
+    "score": 4332,
+    "rank": 437
+  },
+  {
+    "gpu": "Quadro K4200",
+    "score": 4319,
+    "rank": 438
+  },
+  {
+    "gpu": "Radeon RX 5300M",
+    "score": 4307,
+    "rank": 439
+  },
+  {
+    "gpu": "Radeon R9 270",
+    "score": 4306,
+    "rank": 440
+  },
+  {
+    "gpu": "Radeon Ryzen 9 7950X 16-Core",
+    "score": 4302,
+    "rank": 441
+  },
+  {
+    "gpu": "FirePro W7000",
+    "score": 4288,
+    "rank": 442
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Quadro M2200",
+    "score": 4276,
+    "rank": 443
+  },
+  {
+    "gpu": "Radeon R9 270 / R7 370",
+    "score": 4259,
+    "rank": 444
+  },
+  {
+    "gpu": "NVIDIA A40-8Q",
+    "score": 4220,
+    "rank": 445
+  },
+  {
+    "gpu": "Radeon Ryzen 7 4800HS",
+    "score": 4190,
+    "rank": 446
+  },
+  {
+    "gpu": "GRID V100D-8Q",
+    "score": 4155,
+    "rank": 447
+  },
+  {
+    "gpu": "GeForce GTX 680MX",
+    "score": 4142,
+    "rank": 448
+  },
+  {
+    "gpu": "GeForce GTX 480",
+    "score": 4102,
+    "rank": 449
+  },
+  {
+    "gpu": "Radeon RX 460",
+    "score": 4100,
+    "rank": 450
+  },
+  {
+    "gpu": "FirePro W8000",
+    "score": 4095,
+    "rank": 451
+  },
+  {
+    "gpu": "Radeon PRO Ryzen 5 PRO 6650U",
+    "score": 4066,
+    "rank": 452
+  },
+  {
+    "gpu": "GeForce GTX 1050 with Max-Q Design",
+    "score": 4056,
+    "rank": 453
+  },
+  {
+    "gpu": "RadeonT 660M Ryzen 5 7535HS",
+    "score": 4051,
+    "rank": 454
+  },
+  {
+    "gpu": "Radeon Eng Sample: 100-000000561-40_Y",
+    "score": 4041,
+    "rank": 455
+  },
+  {
+    "gpu": "Radeon HD 7800-serie",
+    "score": 4029,
+    "rank": 456
+  },
+  {
+    "gpu": "GeForce GTX 660",
+    "score": 3998,
+    "rank": 457
+  },
+  {
+    "gpu": "Quadro M2000",
+    "score": 3995,
+    "rank": 458
+  },
+  {
+    "gpu": "Quadro K5000",
+    "score": 3987,
+    "rank": 459
+  },
+  {
+    "gpu": "GeForce GTX 570",
+    "score": 3927,
+    "rank": 460
+  },
+  {
+    "gpu": "GRID P6-2Q",
+    "score": 3925,
+    "rank": 461
+  },
+  {
+    "gpu": "Radeon Ryzen 5 7535HS",
+    "score": 3925,
+    "rank": 462
+  },
+  {
+    "gpu": "GeForce GTX 750 Ti",
+    "score": 3903,
+    "rank": 463
+  },
+  {
+    "gpu": "GRID M60-8Q",
+    "score": 3883,
+    "rank": 464
+  },
+  {
+    "gpu": "Radeon HD 8970M",
+    "score": 3876,
+    "rank": 465
+  },
+  {
+    "gpu": "Matrox LUMA A310F",
+    "score": 3873,
+    "rank": 466
+  },
+  {
+    "gpu": "Intel Arc A310 LP",
+    "score": 3862,
+    "rank": 467
+  },
+  {
+    "gpu": "Radeon HD 7850",
+    "score": 3855,
+    "rank": 468
+  },
+  {
+    "gpu": "GeForce GTX 780M",
+    "score": 3846,
+    "rank": 469
+  },
+  {
+    "gpu": "Radeon Eng Sample: 100-000000562-40_Y",
+    "score": 3841,
+    "rank": 470
+  },
+  {
+    "gpu": "GRID M60-4Q",
+    "score": 3831,
+    "rank": 471
+  },
+  {
+    "gpu": "Radeon Ryzen 5 7535U",
+    "score": 3825,
+    "rank": 472
+  },
+  {
+    "gpu": "Radeon Ryzen 5 6600H",
+    "score": 3813,
+    "rank": 473
+  },
+  {
+    "gpu": "GeForce GTX 880M",
+    "score": 3783,
+    "rank": 474
+  },
+  {
+    "gpu": "GeForce GTX 965M",
+    "score": 3775,
+    "rank": 475
+  },
+  {
+    "gpu": "Barco MXRT 7500",
+    "score": 3753,
+    "rank": 476
+  },
+  {
+    "gpu": "P104-100",
+    "score": 3743,
+    "rank": 477
+  },
+  {
+    "gpu": "Ryzen 7 PRO 6850HS with Radeon Graphics",
+    "score": 3736,
+    "rank": 478
+  },
+  {
+    "gpu": "GeForce MX450",
+    "score": 3731,
+    "rank": 479
+  },
+  {
+    "gpu": "T400 4GB",
+    "score": 3725,
+    "rank": 480
+  },
+  {
+    "gpu": "Radeon Pro WX 4100",
+    "score": 3717,
+    "rank": 481
+  },
+  {
+    "gpu": "Radeon Ryzen 5 6600HS Creator Edition",
+    "score": 3715,
+    "rank": 482
+  },
+  {
+    "gpu": "T500",
+    "score": 3706,
+    "rank": 483
+  },
+  {
+    "gpu": "GRID M60-1Q",
+    "score": 3694,
+    "rank": 484
+  },
+  {
+    "gpu": "Matrox LUMA A310",
+    "score": 3690,
+    "rank": 485
+  },
+  {
+    "gpu": "Radeon Ryzen 5 PRO 6650U",
+    "score": 3679,
+    "rank": 486
+  },
+  {
+    "gpu": "Radeon Pro 560X",
+    "score": 3677,
+    "rank": 487
+  },
+  {
+    "gpu": "Ryzen 5 6600HS Creator Edition",
+    "score": 3671,
+    "rank": 488
+  },
+  {
+    "gpu": "Radeon R9 M485X",
+    "score": 3660,
+    "rank": 489
+  },
+  {
+    "gpu": "Radeon RX 560",
+    "score": 3648,
+    "rank": 490
+  },
+  {
+    "gpu": "Radeon RX Vega M GL",
+    "score": 3631,
+    "rank": 491
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "T400",
+    "score": 3628,
+    "rank": 492
+  },
+  {
+    "gpu": "Radeon Ryzen 7 4800H",
+    "score": 3626,
+    "rank": 493
+  },
+  {
+    "gpu": "Quadro P620",
+    "score": 3624,
+    "rank": 494
+  },
+  {
+    "gpu": "Radeon R9 M390X",
+    "score": 3597,
+    "rank": 495
+  },
+  {
+    "gpu": "GeForce GTX 775M",
+    "score": 3593,
+    "rank": 496
+  },
+  {
+    "gpu": "GeForce GTX 680M KY_Bullet Edition",
+    "score": 3568,
+    "rank": 497
+  },
+  {
+    "gpu": "GRID M6-8Q",
+    "score": 3568,
+    "rank": 498
+  },
+  {
+    "gpu": "Quadro K2200",
+    "score": 3550,
+    "rank": 499
+  },
+  {
+    "gpu": "Radeon HD 7970M",
+    "score": 3529,
+    "rank": 500
+  },
+  {
+    "gpu": "Ryzen 5 7535U with Radeon Graphics",
+    "score": 3529,
+    "rank": 501
+  },
+  {
+    "gpu": "Ryzen 5 6600H with Radeon Graphics",
+    "score": 3525,
+    "rank": 502
+  },
+  {
+    "gpu": "Ryzen 5 PRO 6650U",
+    "score": 3519,
+    "rank": 503
+  },
+  {
+    "gpu": "GRID K520",
+    "score": 3516,
+    "rank": 504
+  },
+  {
+    "gpu": "Ryzen 5 PRO 6650U with Radeon Graphics",
+    "score": 3515,
+    "rank": 505
+  },
+  {
+    "gpu": "Quadro 7000",
+    "score": 3505,
+    "rank": 506
+  },
+  {
+    "gpu": "Radeon 740M",
+    "score": 3494,
+    "rank": 507
+  },
+  {
+    "gpu": "Radeon Pro 560",
+    "score": 3475,
+    "rank": 508
+  },
+  {
+    "gpu": "Quadro K2200M",
+    "score": 3468,
+    "rank": 509
+  },
+  {
+    "gpu": "Quadro M2000M",
+    "score": 3465,
+    "rank": 510
+  },
+  {
+    "gpu": "Radeon Ryzen 5 Pro 7535U",
+    "score": 3455,
+    "rank": 511
+  },
+  {
+    "gpu": "Radeon Pro 460",
+    "score": 3452,
+    "rank": 512
+  },
+  {
+    "gpu": "GRID T4-2Q",
+    "score": 3450,
+    "rank": 513
+  },
+  {
+    "gpu": "GeForce GTX 870M",
+    "score": 3449,
+    "rank": 514
+  },
+  {
+    "gpu": "Tesla C2050 / C2070",
+    "score": 3428,
+    "rank": 515
+  },
+  {
+    "gpu": "NVIDIA A10-4Q",
+    "score": 3424,
+    "rank": 516
+  },
+  {
+    "gpu": "GeForce GTX 960M",
+    "score": 3397,
+    "rank": 517
+  },
+  {
+    "gpu": "Radeon Ryzen 5 6600U",
+    "score": 3394,
+    "rank": 518
+  },
+  {
+    "gpu": "Radeon HD8970M",
+    "score": 3368,
+    "rank": 519
+  },
+  {
+    "gpu": "Radeon E8870PCIe",
+    "score": 3368,
+    "rank": 520
+  },
+  {
+    "gpu": "GeForce GTX 750",
+    "score": 3353,
+    "rank": 521
+  },
+  {
+    "gpu": "GRID M10-1Q",
+    "score": 3351,
+    "rank": 522
+  },
+  {
+    "gpu": "GeForce GTX 590",
+    "score": 3341,
+    "rank": 523
+  },
+  {
+    "gpu": "GeForce GTX 650 Ti BOOST",
+    "score": 3335,
+    "rank": 524
+  },
+  {
+    "gpu": "GRID T4-1Q",
+    "score": 3302,
+    "rank": 525
+  },
+  {
+    "gpu": "Tesla K40m",
+    "score": 3281,
+    "rank": 526
+  },
+  {
+    "gpu": "Quadro P600",
+    "score": 3270,
+    "rank": 527
+  },
+  {
+    "gpu": "GRID P100-8Q",
+    "score": 3267,
+    "rank": 528
+  },
+  {
+    "gpu": "Radeon R9 M290X",
+    "score": 3262,
+    "rank": 529
+  },
+  {
+    "gpu": "GRID T4-4Q",
+    "score": 3260,
+    "rank": 530
+  },
+  {
+    "gpu": "GeForce 770M",
+    "score": 3245,
+    "rank": 531
+  },
+  {
+    "gpu": "Radeon R9 M470X",
+    "score": 3244,
+    "rank": 532
+  },
+  {
+    "gpu": "Quadro M1200",
+    "score": 3243,
+    "rank": 533
+  },
+  {
+    "gpu": "Ryzen 5 6600U with Radeon Graphics",
+    "score": 3233,
+    "rank": 534
+  },
+  {
+    "gpu": "GeForce GTX 680M",
+    "score": 3215,
+    "rank": 535
+  },
+  {
+    "gpu": "GRID P4-8A",
+    "score": 3206,
+    "rank": 536
+  },
+  {
+    "gpu": "Intel Graphics",
+    "score": 3204,
+    "rank": 537
+  },
+  {
+    "gpu": "Radeon RX 560X",
+    "score": 3196,
+    "rank": 538
+  },
+  {
+    "gpu": "Radeon R7 260X",
+    "score": 3183,
+    "rank": 539
+  },
+  {
+    "gpu": "Radeon R9 260",
+    "score": 3181,
+    "rank": 540
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Tesla C2050",
+    "score": 3175,
+    "rank": 541
+  },
+  {
+    "gpu": "Tesla M10",
+    "score": 3171,
+    "rank": 542
+  },
+  {
+    "gpu": "FirePro V7000",
+    "score": 3161,
+    "rank": 543
+  },
+  {
+    "gpu": "FirePro W7170M",
+    "score": 3161,
+    "rank": 544
+  },
+  {
+    "gpu": "Radeon Pro 555",
+    "score": 3140,
+    "rank": 545
+  },
+  {
+    "gpu": "Radeon Pro 455",
+    "score": 3112,
+    "rank": 546
+  },
+  {
+    "gpu": "GeForce GTX 470",
+    "score": 3106,
+    "rank": 547
+  },
+  {
+    "gpu": "Radeon R7 360",
+    "score": 3092,
+    "rank": 548
+  },
+  {
+    "gpu": "Radeon HD 7790",
+    "score": 3090,
+    "rank": 549
+  },
+  {
+    "gpu": "Quadro K5100M",
+    "score": 3071,
+    "rank": 550
+  },
+  {
+    "gpu": "GeForce GTX 560 Ti",
+    "score": 3038,
+    "rank": 551
+  },
+  {
+    "gpu": "Radeon R9 360",
+    "score": 3031,
+    "rank": 552
+  },
+  {
+    "gpu": "GeForce GTX 860M",
+    "score": 3028,
+    "rank": 553
+  },
+  {
+    "gpu": "Tesla C2075",
+    "score": 3016,
+    "rank": 554
+  },
+  {
+    "gpu": "Radeon HD 6990",
+    "score": 3013,
+    "rank": 555
+  },
+  {
+    "gpu": "FirePro W5100",
+    "score": 2989,
+    "rank": 556
+  },
+  {
+    "gpu": "GRID M10-4Q",
+    "score": 2976,
+    "rank": 557
+  },
+  {
+    "gpu": "FirePro W5000",
+    "score": 2973,
+    "rank": 558
+  },
+  {
+    "gpu": "Radeon Ryzen 9 5900H",
+    "score": 2960,
+    "rank": 559
+  },
+  {
+    "gpu": "GRID K260Q",
+    "score": 2949,
+    "rank": 560
+  },
+  {
+    "gpu": "Quadro K1200",
+    "score": 2924,
+    "rank": 561
+  },
+  {
+    "gpu": "Tesla K20Xm",
+    "score": 2917,
+    "rank": 562
+  },
+  {
+    "gpu": "Ryzen 7 5800HS with Radeon Graphics",
+    "score": 2917,
+    "rank": 563
+  },
+  {
+    "gpu": "Radeon R7 260",
+    "score": 2891,
+    "rank": 564
+  },
+  {
+    "gpu": "Ryzen 9 5900HX with Radeon Graphics",
+    "score": 2890,
+    "rank": 565
+  },
+  {
+    "gpu": "Quadro M1000M",
+    "score": 2873,
+    "rank": 566
+  },
+  {
+    "gpu": "Eng Sample: 100-000000261-50_Y",
+    "score": 2859,
+    "rank": 567
+  },
+  {
+    "gpu": "FirePro M6100 FireGL V",
+    "score": 2858,
+    "rank": 568
+  },
+  {
+    "gpu": "Radeon Pro V340 MxGPU",
+    "score": 2853,
+    "rank": 569
+  },
+  {
+    "gpu": "Tesla C2070",
+    "score": 2839,
+    "rank": 570
+  },
+  {
+    "gpu": "GRID K280Q",
+    "score": 2839,
+    "rank": 571
+  },
+  {
+    "gpu": "Radeon HD 6970",
+    "score": 2836,
+    "rank": 572
+  },
+  {
+    "gpu": "Custom GPU 0405",
+    "score": 2833,
+    "rank": 573
+  },
+  {
+    "gpu": "Radeon Ryzen 7 5800H",
+    "score": 2820,
+    "rank": 574
+  },
+  {
+    "gpu": "FirePro W4300",
+    "score": 2818,
+    "rank": 575
+  },
+  {
+    "gpu": "FirePro 3D V9800",
+    "score": 2811,
+    "rank": 576
+  },
+  {
+    "gpu": "Quadro M620",
+    "score": 2810,
+    "rank": 577
+  },
+  {
+    "gpu": "GeForce MX350",
+    "score": 2804,
+    "rank": 578
+  },
+  {
+    "gpu": "Radeon Ryzen 5 5600GT",
+    "score": 2803,
+    "rank": 579
+  },
+  {
+    "gpu": "GeForce GTX 770M",
+    "score": 2801,
+    "rank": 580
+  },
+  {
+    "gpu": "Ryzen 7 5700G with Radeon Graphics",
+    "score": 2794,
+    "rank": 581
+  },
+  {
+    "gpu": "Radeon R9 M380",
+    "score": 2762,
+    "rank": 582
+  },
+  {
+    "gpu": "Quadro K5000M",
+    "score": 2752,
+    "rank": 583
+  },
+  {
+    "gpu": "GeForce GTX 675MX",
+    "score": 2744,
+    "rank": 584
+  },
+  {
+    "gpu": "Ryzen 7 5800H with Radeon Graphics",
+    "score": 2740,
+    "rank": 585
+  },
+  {
+    "gpu": "GeForce GTX 560",
+    "score": 2738,
+    "rank": 586
+  },
+  {
+    "gpu": "GRID K2",
+    "score": 2736,
+    "rank": 587
+  },
+  {
+    "gpu": "Quadro K4100M",
+    "score": 2735,
+    "rank": 588
+  },
+  {
+    "gpu": "FirePro S7150",
+    "score": 2726,
+    "rank": 589
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "FirePro V9800",
+    "score": 2726,
+    "rank": 590
+  },
+  {
+    "gpu": "Quadro K4000",
+    "score": 2722,
+    "rank": 591
+  },
+  {
+    "gpu": "Radeon Pro 450",
+    "score": 2722,
+    "rank": 592
+  },
+  {
+    "gpu": "Radeon HD 8950",
+    "score": 2718,
+    "rank": 593
+  },
+  {
+    "gpu": "Radeon RX 550",
+    "score": 2717,
+    "rank": 594
+  },
+  {
+    "gpu": "Quadro 6000",
+    "score": 2706,
+    "rank": 595
+  },
+  {
+    "gpu": "Ryzen 7 5700GE with Radeon Graphics",
+    "score": 2702,
+    "rank": 596
+  },
+  {
+    "gpu": "Barco MXRT 5500",
+    "score": 2701,
+    "rank": 597
+  },
+  {
+    "gpu": "GRID M10-2Q",
+    "score": 2691,
+    "rank": 598
+  },
+  {
+    "gpu": "Radeon Ryzen 5 5500GT",
+    "score": 2688,
+    "rank": 599
+  },
+  {
+    "gpu": "Intel Iris Xe",
+    "score": 2685,
+    "rank": 600
+  },
+  {
+    "gpu": "Ryzen 7 Pro 4750G with Radeon Graphics",
+    "score": 2681,
+    "rank": 601
+  },
+  {
+    "gpu": "Radeon Ryzen 9 7900X 12-Core",
+    "score": 2676,
+    "rank": 602
+  },
+  {
+    "gpu": "GeForce GTX 465",
+    "score": 2673,
+    "rank": 603
+  },
+  {
+    "gpu": "Radeon Eng Sample: 100-000000300-40_Y",
+    "score": 2670,
+    "rank": 604
+  },
+  {
+    "gpu": "FirePro R5000",
+    "score": 2646,
+    "rank": 605
+  },
+  {
+    "gpu": "MONSTER GeForce GTX 675M",
+    "score": 2637,
+    "rank": 606
+  },
+  {
+    "gpu": "Radeon HD 6950",
+    "score": 2612,
+    "rank": 607
+  },
+  {
+    "gpu": "Radeon Ryzen 7 4700GE",
+    "score": 2610,
+    "rank": 608
+  },
+  {
+    "gpu": "GeForce GTX 950A",
+    "score": 2604,
+    "rank": 609
+  },
+  {
+    "gpu": "Ryzen 5 5600GE with Radeon Graphics",
+    "score": 2601,
+    "rank": 610
+  },
+  {
+    "gpu": "GRID T4-2B",
+    "score": 2601,
+    "rank": 611
+  },
+  {
+    "gpu": "Radeon Ryzen 7 PRO 4750G",
+    "score": 2598,
+    "rank": 612
+  },
+  {
+    "gpu": "Radeon Eng Sample: 100-000000371-40_42/18_Y",
+    "score": 2590,
+    "rank": 613
+  },
+  {
+    "gpu": "Radeon Ryzen 7 4700G",
+    "score": 2586,
+    "rank": 614
+  },
+  {
+    "gpu": "GeForce GTX 950M",
+    "score": 2585,
+    "rank": 615
+  },
+  {
+    "gpu": "Ryzen 5 5600G with Radeon Graphics",
+    "score": 2584,
+    "rank": 616
+  },
+  {
+    "gpu": "Ryzen 7 PRO 4750GE with Radeon Graphics",
+    "score": 2549,
+    "rank": 617
+  },
+  {
+    "gpu": "Ryzen 7 PRO 7730U with Radeon Graphics",
+    "score": 2549,
+    "rank": 618
+  },
+  {
+    "gpu": "Radeon Ryzen 9 4900H",
+    "score": 2548,
+    "rank": 619
+  },
+  {
+    "gpu": "GRID K240Q",
+    "score": 2541,
+    "rank": 620
+  },
+  {
+    "gpu": "Radeon HD 6850 X2",
+    "score": 2534,
+    "rank": 621
+  },
+  {
+    "gpu": "Radeon Ryzen 5 5600GE",
+    "score": 2530,
+    "rank": 622
+  },
+  {
+    "gpu": "FireStream 9370",
+    "score": 2528,
+    "rank": 623
+  },
+  {
+    "gpu": "Radeon Pro WX 4150",
+    "score": 2528,
+    "rank": 624
+  },
+  {
+    "gpu": "N18E-Q1",
+    "score": 2525,
+    "rank": 625
+  },
+  {
+    "gpu": "GeForce GTX 650 Ti",
+    "score": 2524,
+    "rank": 626
+  },
+  {
+    "gpu": "Ryzen 7 PRO 5750GE with Radeon Graphics",
+    "score": 2520,
+    "rank": 627
+  },
+  {
+    "gpu": "Ryzen 5 5500GT with Radeon Graphics",
+    "score": 2517,
+    "rank": 628
+  },
+  {
+    "gpu": "Radeon Ryzen 7 5800HS",
+    "score": 2515,
+    "rank": 629
+  },
+  {
+    "gpu": "Radeon Pro WX 3100",
+    "score": 2515,
+    "rank": 630
+  },
+  {
+    "gpu": "GeForce GTX 850M",
+    "score": 2508,
+    "rank": 631
+  },
+  {
+    "gpu": "Ryzen 5 PRO 5650G with Radeon Graphics",
+    "score": 2500,
+    "rank": 632
+  },
+  {
+    "gpu": "Ryzen 7 4700GE with Radeon Graphics",
+    "score": 2496,
+    "rank": 633
+  },
+  {
+    "gpu": "Radeon Ryzen 7 7730U",
+    "score": 2476,
+    "rank": 634
+  },
+  {
+    "gpu": "GeForce GT 1030",
+    "score": 2471,
+    "rank": 635
+  },
+  {
+    "gpu": "Ryzen 7 7730U with Radeon Graphics",
+    "score": 2470,
+    "rank": 636
+  },
+  {
+    "gpu": "SuperDisplay Virtual Adapter",
+    "score": 2469,
+    "rank": 637
+  },
+  {
+    "gpu": "Barco MXRT 5600",
+    "score": 2465,
+    "rank": 638
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Ryzen 7 PRO 5750G with Radeon Graphics",
+    "score": 2453,
+    "rank": 639
+  },
+  {
+    "gpu": "Radeon Ryzen 9 7900 12-Core",
+    "score": 2452,
+    "rank": 640
+  },
+  {
+    "gpu": "GeForce MX330",
+    "score": 2445,
+    "rank": 641
+  },
+  {
+    "gpu": "FirePro 3D V8800",
+    "score": 2437,
+    "rank": 642
+  },
+  {
+    "gpu": "Ryzen 5 PRO 5650GE with Radeon Graphics",
+    "score": 2435,
+    "rank": 643
+  },
+  {
+    "gpu": "Radeon Pro WX 3200",
+    "score": 2428,
+    "rank": 644
+  },
+  {
+    "gpu": "GeForce MX250",
+    "score": 2424,
+    "rank": 645
+  },
+  {
+    "gpu": "Radeon Eng Sample: 100-000000262-30_Y",
+    "score": 2415,
+    "rank": 646
+  },
+  {
+    "gpu": "Radeon Ryzen 5 5600H",
+    "score": 2413,
+    "rank": 647
+  },
+  {
+    "gpu": "GeForce GTX 960A",
+    "score": 2410,
+    "rank": 648
+  },
+  {
+    "gpu": "Radeon Eng Sample: 100-000000285-40_Y",
+    "score": 2404,
+    "rank": 649
+  },
+  {
+    "gpu": "Ryzen 5 Pro 4650G with Radeon Graphics",
+    "score": 2402,
+    "rank": 650
+  },
+  {
+    "gpu": "Radeon RX Vega 11 PRD",
+    "score": 2401,
+    "rank": 651
+  },
+  {
+    "gpu": "Radeon Ryzen 7 5800U",
+    "score": 2398,
+    "rank": 652
+  },
+  {
+    "gpu": "Radeon Ryzen 7 5825U",
+    "score": 2384,
+    "rank": 653
+  },
+  {
+    "gpu": "Ryzen 5 4600G with Radeon Graphics",
+    "score": 2379,
+    "rank": 654
+  },
+  {
+    "gpu": "Radeon Ryzen 5 PRO 4655G",
+    "score": 2375,
+    "rank": 655
+  },
+  {
+    "gpu": "Radeon Ryzen 5 7430U",
+    "score": 2373,
+    "rank": 656
+  },
+  {
+    "gpu": "Citrix Indirect Display Adapter",
+    "score": 2365,
+    "rank": 657
+  },
+  {
+    "gpu": "Radeon Vega 11 Ryzen 5 PRO 3350G",
+    "score": 2362,
+    "rank": 658
+  },
+  {
+    "gpu": "Ryzen 7 5800U with Radeon Graphics",
+    "score": 2361,
+    "rank": 659
+  },
+  {
+    "gpu": "Radeon Ryzen 5 PRO 4655GE",
+    "score": 2361,
+    "rank": 660
+  },
+  {
+    "gpu": "GeForce GTX 485M",
+    "score": 2359,
+    "rank": 661
+  },
+  {
+    "gpu": "FirePro W6150M",
+    "score": 2358,
+    "rank": 662
+  },
+  {
+    "gpu": "Ryzen 7 4800U with Radeon Graphics",
+    "score": 2343,
+    "rank": 663
+  },
+  {
+    "gpu": "Radeon Ryzen 7 PRO 7730U",
+    "score": 2343,
+    "rank": 664
+  },
+  {
+    "gpu": "P106-090",
+    "score": 2342,
+    "rank": 665
+  },
+  {
+    "gpu": "Ryzen 7 5825U with Radeon Graphics",
+    "score": 2342,
+    "rank": 666
+  },
+  {
+    "gpu": "Ryzen 5 5600H with Radeon Graphics",
+    "score": 2336,
+    "rank": 667
+  },
+  {
+    "gpu": "Radeon RX Vega Ryzen 3 5300U",
+    "score": 2334,
+    "rank": 668
+  },
+  {
+    "gpu": "GRID M10-2B",
+    "score": 2333,
+    "rank": 669
+  },
+  {
+    "gpu": "Radeon R9 M470",
+    "score": 2330,
+    "rank": 670
+  },
+  {
+    "gpu": "Ryzen 3 PRO 5350G with Radeon Graphics",
+    "score": 2330,
+    "rank": 671
+  },
+  {
+    "gpu": "Radeon Ryzen 7 PRO 4750GE",
+    "score": 2325,
+    "rank": 672
+  },
+  {
+    "gpu": "Radeon Ryzen 5 PRO 5650G",
+    "score": 2315,
+    "rank": 673
+  },
+  {
+    "gpu": "Radeon RX Vega - Renoir Ryzen 3 5300U",
+    "score": 2312,
+    "rank": 674
+  },
+  {
+    "gpu": "Radeon Ryzen 7 4800U",
+    "score": 2311,
+    "rank": 675
+  },
+  {
+    "gpu": "GRID M10-1B",
+    "score": 2309,
+    "rank": 676
+  },
+  {
+    "gpu": "Ryzen 5 PRO 4400G with Radeon Graphics",
+    "score": 2305,
+    "rank": 677
+  },
+  {
+    "gpu": "FirePro V7900",
+    "score": 2304,
+    "rank": 678
+  },
+  {
+    "gpu": "Radeon Ryzen 7 5700U",
+    "score": 2303,
+    "rank": 679
+  },
+  {
+    "gpu": "Radeon HD 5970",
+    "score": 2301,
+    "rank": 680
+  },
+  {
+    "gpu": "Radeon Ryzen 5 PRO 5650GE",
+    "score": 2294,
+    "rank": 681
+  },
+  {
+    "gpu": "Radeon Ryzen 7 Microsoft Surface Edition",
+    "score": 2290,
+    "rank": 682
+  },
+  {
+    "gpu": "FirePro V8800",
+    "score": 2280,
+    "rank": 683
+  },
+  {
+    "gpu": "GeForce MX150",
+    "score": 2278,
+    "rank": 684
+  },
+  {
+    "gpu": "Ryzen 3 4300GE with Radeon Graphics",
+    "score": 2272,
+    "rank": 685
+  },
+  {
+    "gpu": "Radeon HD 6970M",
+    "score": 2270,
+    "rank": 686
+  },
+  {
+    "gpu": "Ryzen 5 7530U with Radeon Graphics",
+    "score": 2269,
+    "rank": 687
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Radeon R7 250X",
+    "score": 2268,
+    "rank": 688
+  },
+  {
+    "gpu": "Ryzen 7 PRO 5850U with Radeon Graphics",
+    "score": 2268,
+    "rank": 689
+  },
+  {
+    "gpu": "Quadro K3100M",
+    "score": 2264,
+    "rank": 690
+  },
+  {
+    "gpu": "GeForce GTX 460",
+    "score": 2264,
+    "rank": 691
+  },
+  {
+    "gpu": "Intel HD 5600",
+    "score": 2263,
+    "rank": 692
+  },
+  {
+    "gpu": "Radeon RX 550X",
+    "score": 2252,
+    "rank": 693
+  },
+  {
+    "gpu": "Ryzen 7 5700U with Radeon Graphics",
+    "score": 2246,
+    "rank": 694
+  },
+  {
+    "gpu": "Radeon Ryzen Embedded V2546",
+    "score": 2236,
+    "rank": 695
+  },
+  {
+    "gpu": "Quadro K620",
+    "score": 2233,
+    "rank": 696
+  },
+  {
+    "gpu": "Intel Iris Pro P580",
+    "score": 2231,
+    "rank": 697
+  },
+  {
+    "gpu": "Ryzen 7 Extreme Edition",
+    "score": 2226,
+    "rank": 698
+  },
+  {
+    "gpu": "Radeon Ryzen 5 7530U",
+    "score": 2226,
+    "rank": 699
+  },
+  {
+    "gpu": "GRID P100-1B",
+    "score": 2223,
+    "rank": 700
+  },
+  {
+    "gpu": "Radeon HD 6870",
+    "score": 2220,
+    "rank": 701
+  },
+  {
+    "gpu": "Radeon Ryzen 7 7700X 8-Core",
+    "score": 2216,
+    "rank": 702
+  },
+  {
+    "gpu": "Radeon HD 5870",
+    "score": 2216,
+    "rank": 703
+  },
+  {
+    "gpu": "Ryzen 5 4600H with Radeon Graphics",
+    "score": 2212,
+    "rank": 704
+  },
+  {
+    "gpu": "Ryzen 3 PRO 5350GE with Radeon Graphics",
+    "score": 2193,
+    "rank": 705
+  },
+  {
+    "gpu": "Ryzen 7 4700G with Radeon Graphics",
+    "score": 2186,
+    "rank": 706
+  },
+  {
+    "gpu": "Radeon RX Vega 11 Ryzen 5 3400G",
+    "score": 2184,
+    "rank": 707
+  },
+  {
+    "gpu": "Ryzen 5 5600U with Radeon Graphics",
+    "score": 2178,
+    "rank": 708
+  },
+  {
+    "gpu": "Quadro M600M",
+    "score": 2177,
+    "rank": 709
+  },
+  {
+    "gpu": "Intel UHD Graphics P630",
+    "score": 2174,
+    "rank": 710
+  },
+  {
+    "gpu": "Radeon HD 7770",
+    "score": 2168,
+    "rank": 711
+  },
+  {
+    "gpu": "Radeon Ryzen 5 5625U",
+    "score": 2152,
+    "rank": 712
+  },
+  {
+    "gpu": "GRID P4-1B",
+    "score": 2151,
+    "rank": 713
+  },
+  {
+    "gpu": "GeForce GTX 745",
+    "score": 2144,
+    "rank": 714
+  },
+  {
+    "gpu": "Ryzen 3 Pro 4350G with Radeon Graphics",
+    "score": 2142,
+    "rank": 715
+  },
+  {
+    "gpu": "Radeon Ryzen 3 PRO 7335U",
+    "score": 2133,
+    "rank": 716
+  },
+  {
+    "gpu": "FirePro M6100",
+    "score": 2122,
+    "rank": 717
+  },
+  {
+    "gpu": "Radeon RX Vega 11",
+    "score": 2120,
+    "rank": 718
+  },
+  {
+    "gpu": "Ryzen 7 4800H with Radeon Graphics",
+    "score": 2113,
+    "rank": 719
+  },
+  {
+    "gpu": "Radeon Pro",
+    "score": 2109,
+    "rank": 720
+  },
+  {
+    "gpu": "GeForce 945M",
+    "score": 2108,
+    "rank": 721
+  },
+  {
+    "gpu": "Radeon TM R9 A360",
+    "score": 2105,
+    "rank": 722
+  },
+  {
+    "gpu": "Ryzen 5 PRO 4650GE with Radeon Graphics",
+    "score": 2103,
+    "rank": 723
+  },
+  {
+    "gpu": "FirePro M5100",
+    "score": 2102,
+    "rank": 724
+  },
+  {
+    "gpu": "Radeon Ryzen 5 5600U",
+    "score": 2101,
+    "rank": 725
+  },
+  {
+    "gpu": "Quadro P520",
+    "score": 2101,
+    "rank": 726
+  },
+  {
+    "gpu": "Intel G35 Express",
+    "score": 2097,
+    "rank": 727
+  },
+  {
+    "gpu": "Radeon Ryzen 5 Microsoft Surface Edition",
+    "score": 2095,
+    "rank": 728
+  },
+  {
+    "gpu": "Radeon Ryzen 5 5500U",
+    "score": 2095,
+    "rank": 729
+  },
+  {
+    "gpu": "GeForce GTX 580M",
+    "score": 2074,
+    "rank": 730
+  },
+  {
+    "gpu": "Ryzen 5 5560U with Radeon Graphics",
+    "score": 2073,
+    "rank": 731
+  },
+  {
+    "gpu": "GRID M6-1Q",
+    "score": 2069,
+    "rank": 732
+  },
+  {
+    "gpu": "Ryzen 3 4300G with Radeon Graphics",
+    "score": 2068,
+    "rank": 733
+  },
+  {
+    "gpu": "Radeon RX Vega 11 Ryzen 5 3400GE",
+    "score": 2068,
+    "rank": 734
+  },
+  {
+    "gpu": "Ryzen 7 PRO 5875U with Radeon Graphics",
+    "score": 2067,
+    "rank": 735
+  },
+  {
+    "gpu": "Radeon R9 M385",
+    "score": 2060,
+    "rank": 736
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Quadro 5000M",
+    "score": 2059,
+    "rank": 737
+  },
+  {
+    "gpu": "Radeon Ryzen 7 PRO 4750U",
+    "score": 2047,
+    "rank": 738
+  },
+  {
+    "gpu": "Radeon Ryzen 7 4700U",
+    "score": 2044,
+    "rank": 739
+  },
+  {
+    "gpu": "Ryzen 5 PRO 5650U with Radeon Graphics",
+    "score": 2039,
+    "rank": 740
+  },
+  {
+    "gpu": "Ryzen 7 4700U with Radeon Graphics",
+    "score": 2034,
+    "rank": 741
+  },
+  {
+    "gpu": "Ryzen 7 PRO 4750U with Radeon Graphics",
+    "score": 2029,
+    "rank": 742
+  },
+  {
+    "gpu": "FirePro V7800",
+    "score": 2028,
+    "rank": 743
+  },
+  {
+    "gpu": "Radeon R9 350",
+    "score": 2018,
+    "rank": 744
+  },
+  {
+    "gpu": "Radeon Ryzen 5 5560U",
+    "score": 2018,
+    "rank": 745
+  },
+  {
+    "gpu": "Ryzen 3 5300G with Radeon Graphics",
+    "score": 2017,
+    "rank": 746
+  },
+  {
+    "gpu": "Radeon Ryzen 3 PRO 7330U",
+    "score": 2016,
+    "rank": 747
+  },
+  {
+    "gpu": "Ryzen 3 5300GE with Radeon Graphics",
+    "score": 2012,
+    "rank": 748
+  },
+  {
+    "gpu": "GeForce GTX 460 SE",
+    "score": 2010,
+    "rank": 749
+  },
+  {
+    "gpu": "Radeon Pro W5500M",
+    "score": 2010,
+    "rank": 750
+  },
+  {
+    "gpu": "Ryzen 5 PRO 4500U with Radeon Graphics",
+    "score": 2007,
+    "rank": 751
+  },
+  {
+    "gpu": "Ryzen 5 5600GT with Radeon Graphics",
+    "score": 2006,
+    "rank": 752
+  },
+  {
+    "gpu": "GeForce GT 645",
+    "score": 2005,
+    "rank": 753
+  },
+  {
+    "gpu": "Radeon Ryzen Embedded V2718",
+    "score": 1998,
+    "rank": 754
+  },
+  {
+    "gpu": "GeForce GTX 765M",
+    "score": 1995,
+    "rank": 755
+  },
+  {
+    "gpu": "Radeon Ryzen 7 PRO 5875U",
+    "score": 1994,
+    "rank": 756
+  },
+  {
+    "gpu": "Radeon R9 M385X",
+    "score": 1993,
+    "rank": 757
+  },
+  {
+    "gpu": "GRID M10-8Q",
+    "score": 1992,
+    "rank": 758
+  },
+  {
+    "gpu": "Ryzen 5 5500U with Radeon Graphics",
+    "score": 1991,
+    "rank": 759
+  },
+  {
+    "gpu": "Ryzen 5 5625U with Radeon Graphics",
+    "score": 1989,
+    "rank": 760
+  },
+  {
+    "gpu": "Ryzen 3 PRO 7330U with Radeon Graphics",
+    "score": 1984,
+    "rank": 761
+  },
+  {
+    "gpu": "Radeon R7 + R7 350 Dual",
+    "score": 1982,
+    "rank": 762
+  },
+  {
+    "gpu": "Radeon Ryzen 3 7335U",
+    "score": 1980,
+    "rank": 763
+  },
+  {
+    "gpu": "Radeon HD 5850",
+    "score": 1979,
+    "rank": 764
+  },
+  {
+    "gpu": "Intel Iris Pro 580",
+    "score": 1978,
+    "rank": 765
+  },
+  {
+    "gpu": "Intel Iris Xe MAX",
+    "score": 1971,
+    "rank": 766
+  },
+  {
+    "gpu": "Radeon HD 6850",
+    "score": 1971,
+    "rank": 767
+  },
+  {
+    "gpu": "Radeon Pro WX 4130",
+    "score": 1966,
+    "rank": 768
+  },
+  {
+    "gpu": "Radeon R7 + HD 7700 Dual",
+    "score": 1962,
+    "rank": 769
+  },
+  {
+    "gpu": "Quadro K4000M",
+    "score": 1960,
+    "rank": 770
+  },
+  {
+    "gpu": "Radeon HD 7660D + HD 7700 Dual",
+    "score": 1958,
+    "rank": 771
+  },
+  {
+    "gpu": "Qualcomm Adreno 8cx Gen 3",
+    "score": 1954,
+    "rank": 772
+  },
+  {
+    "gpu": "Radeon RX 640",
+    "score": 1953,
+    "rank": 773
+  },
+  {
+    "gpu": "GeForce GTX 470M",
+    "score": 1953,
+    "rank": 774
+  },
+  {
+    "gpu": "GeForce GTX 670MX",
+    "score": 1947,
+    "rank": 775
+  },
+  {
+    "gpu": "Ryzen 5 PRO 7530U with Radeon Graphics",
+    "score": 1944,
+    "rank": 776
+  },
+  {
+    "gpu": "Radeon Vega 11 Ryzen 5 PRO 3400G",
+    "score": 1938,
+    "rank": 777
+  },
+  {
+    "gpu": "Radeon R7 450",
+    "score": 1937,
+    "rank": 778
+  },
+  {
+    "gpu": "Radeon Vega 8 Ryzen 3 3200G",
+    "score": 1932,
+    "rank": 779
+  },
+  {
+    "gpu": "Quadro 5000",
+    "score": 1931,
+    "rank": 780
+  },
+  {
+    "gpu": "GeForce GTX 675M",
+    "score": 1929,
+    "rank": 781
+  },
+  {
+    "gpu": "Intel Iris Xe MAX 100",
+    "score": 1927,
+    "rank": 782
+  },
+  {
+    "gpu": "Radeon RX 570X",
+    "score": 1923,
+    "rank": 783
+  },
+  {
+    "gpu": "Radeon Vega 11 Ryzen 5 PRO 3400GE w/",
+    "score": 1922,
+    "rank": 784
+  },
+  {
+    "gpu": "Radeon HD 7560D + 7700 Dual",
+    "score": 1919,
+    "rank": 785
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "GeForce GTX 560 SE",
+    "score": 1914,
+    "rank": 786
+  },
+  {
+    "gpu": "Radeon Ryzen 5 PRO 5675U",
+    "score": 1905,
+    "rank": 787
+  },
+  {
+    "gpu": "Matrox C680 PCIe x16",
+    "score": 1903,
+    "rank": 788
+  },
+  {
+    "gpu": "Radeon HD 7700-serie",
+    "score": 1899,
+    "rank": 789
+  },
+  {
+    "gpu": "Ryzen 5 4600U with Radeon Graphics",
+    "score": 1893,
+    "rank": 790
+  },
+  {
+    "gpu": "Radeon HD 8670D + HD 7700 Dual",
+    "score": 1892,
+    "rank": 791
+  },
+  {
+    "gpu": "Radeon 550",
+    "score": 1885,
+    "rank": 792
+  },
+  {
+    "gpu": "Ryzen 3 PRO 4350GE with Radeon Graphics",
+    "score": 1885,
+    "rank": 793
+  },
+  {
+    "gpu": "GeForce GTX 460 v2",
+    "score": 1871,
+    "rank": 794
+  },
+  {
+    "gpu": "GeForce GTX 645",
+    "score": 1870,
+    "rank": 795
+  },
+  {
+    "gpu": "Quadro M520",
+    "score": 1870,
+    "rank": 796
+  },
+  {
+    "gpu": "FirePro 3D V7800",
+    "score": 1867,
+    "rank": 797
+  },
+  {
+    "gpu": "Radeon Ryzen Embedded R2544",
+    "score": 1864,
+    "rank": 798
+  },
+  {
+    "gpu": "GeForce GTX 570M",
+    "score": 1863,
+    "rank": 799
+  },
+  {
+    "gpu": "Radeon Ryzen 5 7600 6-Core",
+    "score": 1863,
+    "rank": 800
+  },
+  {
+    "gpu": "Radeon Eng Sample: 100-000000287-40_Y",
+    "score": 1861,
+    "rank": 801
+  },
+  {
+    "gpu": "Radeon Vega 8 Ryzen 3 PRO 3200G",
+    "score": 1861,
+    "rank": 802
+  },
+  {
+    "gpu": "Intel UHD Graphics 770",
+    "score": 1858,
+    "rank": 803
+  },
+  {
+    "gpu": "Radeon RX 540",
+    "score": 1856,
+    "rank": 804
+  },
+  {
+    "gpu": "GeForce MX130",
+    "score": 1854,
+    "rank": 805
+  },
+  {
+    "gpu": "GeForce 945A",
+    "score": 1852,
+    "rank": 806
+  },
+  {
+    "gpu": "Radeon Ryzen Embedded V2748",
+    "score": 1842,
+    "rank": 807
+  },
+  {
+    "gpu": "Radeon Vega 11",
+    "score": 1839,
+    "rank": 808
+  },
+  {
+    "gpu": "FirePro M5100 FireGL V",
+    "score": 1839,
+    "rank": 809
+  },
+  {
+    "gpu": "GeForce MX230",
+    "score": 1838,
+    "rank": 810
+  },
+  {
+    "gpu": "GRID M60-0B",
+    "score": 1838,
+    "rank": 811
+  },
+  {
+    "gpu": "Radeon R9 M360",
+    "score": 1837,
+    "rank": 812
+  },
+  {
+    "gpu": "Radeon HD 8570D + HD 7700 Dual",
+    "score": 1834,
+    "rank": 813
+  },
+  {
+    "gpu": "Radeon Pro WX 2100",
+    "score": 1833,
+    "rank": 814
+  },
+  {
+    "gpu": "MxGPU",
+    "score": 1826,
+    "rank": 815
+  },
+  {
+    "gpu": "Radeon RX Vega 10 Ryzen 7 3750H",
+    "score": 1825,
+    "rank": 816
+  },
+  {
+    "gpu": "Radeon RX Vega 11 Processor",
+    "score": 1822,
+    "rank": 817
+  },
+  {
+    "gpu": "FirePro M6000",
+    "score": 1820,
+    "rank": 818
+  },
+  {
+    "gpu": "Intel Iris Plus",
+    "score": 1817,
+    "rank": 819
+  },
+  {
+    "gpu": "Ryzen 5 4500U with Radeon Graphics",
+    "score": 1814,
+    "rank": 820
+  },
+  {
+    "gpu": "Matrox C900 PCIe x16",
+    "score": 1812,
+    "rank": 821
+  },
+  {
+    "gpu": "Embedded Radeon E9173",
+    "score": 1806,
+    "rank": 822
+  },
+  {
+    "gpu": "Radeon HD 8870M / R9 M270X / M370X",
+    "score": 1799,
+    "rank": 823
+  },
+  {
+    "gpu": "Radeon RX Vega 11 Ryzen 5 3350G",
+    "score": 1797,
+    "rank": 824
+  },
+  {
+    "gpu": "Radeon Ryzen 5 4600GE with Radeon Graphics",
+    "score": 1792,
+    "rank": 825
+  },
+  {
+    "gpu": "Radeon HD 8670D + 7700 Dual",
+    "score": 1788,
+    "rank": 826
+  },
+  {
+    "gpu": "Radeon Ryzen 3 PRO 5450U",
+    "score": 1776,
+    "rank": 827
+  },
+  {
+    "gpu": "Quadro 5010M",
+    "score": 1771,
+    "rank": 828
+  },
+  {
+    "gpu": "Firepro W5170M",
+    "score": 1761,
+    "rank": 829
+  },
+  {
+    "gpu": "GeForce GTX 650",
+    "score": 1749,
+    "rank": 830
+  },
+  {
+    "gpu": "Ryzen 3 PRO 4200GE with Radeon Graphics",
+    "score": 1748,
+    "rank": 831
+  },
+  {
+    "gpu": "Radeon Ryzen 5 7600X 6-Core",
+    "score": 1740,
+    "rank": 832
+  },
+  {
+    "gpu": "Intel Iris Plus 655",
+    "score": 1739,
+    "rank": 833
+  },
+  {
+    "gpu": "GeForce GTX 670M",
+    "score": 1736,
+    "rank": 834
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Intel UHD Graphics 750",
+    "score": 1736,
+    "rank": 835
+  },
+  {
+    "gpu": "Radeon HD 5830",
+    "score": 1734,
+    "rank": 836
+  },
+  {
+    "gpu": "Radeon Ryzen 9 PRO 7945 12-Core",
+    "score": 1731,
+    "rank": 837
+  },
+  {
+    "gpu": "Ryzen 5 PRO 4650U with Radeon Graphics",
+    "score": 1728,
+    "rank": 838
+  },
+  {
+    "gpu": "Radeon R9 M375X",
+    "score": 1727,
+    "rank": 839
+  },
+  {
+    "gpu": "Intel UHD Graphics P750",
+    "score": 1727,
+    "rank": 840
+  },
+  {
+    "gpu": "Intel Iris Plus 645",
+    "score": 1727,
+    "rank": 841
+  },
+  {
+    "gpu": "Ryzen 5 PRO 5675U with Radeon Graphics",
+    "score": 1719,
+    "rank": 842
+  },
+  {
+    "gpu": "GeForce GTX 760M",
+    "score": 1717,
+    "rank": 843
+  },
+  {
+    "gpu": "Radeon Ryzen 9 7900X3D 12-Core",
+    "score": 1716,
+    "rank": 844
+  },
+  {
+    "gpu": "FirePro M6000 Mobility Pro",
+    "score": 1712,
+    "rank": 845
+  },
+  {
+    "gpu": "Radeon HD 6900M",
+    "score": 1702,
+    "rank": 846
+  },
+  {
+    "gpu": "Radeon HD 7750",
+    "score": 1701,
+    "rank": 847
+  },
+  {
+    "gpu": "Radeon Ryzen 7 7800X3D 8-Core",
+    "score": 1698,
+    "rank": 848
+  },
+  {
+    "gpu": "Radeon Vega 8 Ryzen 5 3550H",
+    "score": 1691,
+    "rank": 849
+  },
+  {
+    "gpu": "GeForce GT 755M",
+    "score": 1687,
+    "rank": 850
+  },
+  {
+    "gpu": "Radeon E8860",
+    "score": 1686,
+    "rank": 851
+  },
+  {
+    "gpu": "Radeon Ryzen 7 7700 8-Core",
+    "score": 1683,
+    "rank": 852
+  },
+  {
+    "gpu": "Radeon RX Vega11 Ryzen 7 3750H",
+    "score": 1674,
+    "rank": 853
+  },
+  {
+    "gpu": "FirePro W600",
+    "score": 1671,
+    "rank": 854
+  },
+  {
+    "gpu": "Radeon R7 M380",
+    "score": 1668,
+    "rank": 855
+  },
+  {
+    "gpu": "Ryzen 3 5425U with Radeon Graphics",
+    "score": 1667,
+    "rank": 856
+  },
+  {
+    "gpu": "Radeon Vega 10 Ryzen 7 PRO 3700U w/",
+    "score": 1662,
+    "rank": 857
+  },
+  {
+    "gpu": "PCI\\VEN_1002&DEV_164E&SUBSYS_D0001458&REV_C3 Ryzen",
+    "score": 1653,
+    "rank": 858
+  },
+  {
+    "gpu": "Quadro K3000M",
+    "score": 1652,
+    "rank": 859
+  },
+  {
+    "gpu": "Radeon HD HD7850M",
+    "score": 1651,
+    "rank": 860
+  },
+  {
+    "gpu": "Ryzen 3 7330U with Radeon Graphics",
+    "score": 1649,
+    "rank": 861
+  },
+  {
+    "gpu": "PCI\\VEN_1002&DEV_164E&SUBSYS_D0001458&REV_C7 Ryzen",
+    "score": 1642,
+    "rank": 862
+  },
+  {
+    "gpu": "Quadro P400",
+    "score": 1641,
+    "rank": 863
+  },
+  {
+    "gpu": "Radeon RX Vega 10",
+    "score": 1639,
+    "rank": 864
+  },
+  {
+    "gpu": "Radeon HD 8870M",
+    "score": 1638,
+    "rank": 865
+  },
+  {
+    "gpu": "Quadro P500",
+    "score": 1636,
+    "rank": 866
+  },
+  {
+    "gpu": "FirePro M4000 Mobility Pro",
+    "score": 1628,
+    "rank": 867
+  },
+  {
+    "gpu": "Intel Iris Pro P6300",
+    "score": 1625,
+    "rank": 868
+  },
+  {
+    "gpu": "Radeon R7 M465X",
+    "score": 1623,
+    "rank": 869
+  },
+  {
+    "gpu": "Ryzen 7 2700U with Radeon Vega",
+    "score": 1617,
+    "rank": 870
+  },
+  {
+    "gpu": "GeForce GTX 480M",
+    "score": 1617,
+    "rank": 871
+  },
+  {
+    "gpu": "Intel UHD Graphics 730",
+    "score": 1616,
+    "rank": 872
+  },
+  {
+    "gpu": "Radeon HD 6790",
+    "score": 1616,
+    "rank": 873
+  },
+  {
+    "gpu": "Radeon Ryzen 5 PRO 7645 6-Core",
+    "score": 1615,
+    "rank": 874
+  },
+  {
+    "gpu": "Radeon Ryzen 9 7950X3D 16-Core",
+    "score": 1607,
+    "rank": 875
+  },
+  {
+    "gpu": "Radeon RX Vega11",
+    "score": 1605,
+    "rank": 876
+  },
+  {
+    "gpu": "FirePro M4000",
+    "score": 1604,
+    "rank": 877
+  },
+  {
+    "gpu": "Seria Radeon HD 7700",
+    "score": 1603,
+    "rank": 878
+  },
+  {
+    "gpu": "Ryzen 3 PRO 5450U with Radeon Graphics",
+    "score": 1601,
+    "rank": 879
+  },
+  {
+    "gpu": "Radeon Vega 9",
+    "score": 1590,
+    "rank": 880
+  },
+  {
+    "gpu": "Intel Iris Plus 650",
+    "score": 1584,
+    "rank": 881
+  },
+  {
+    "gpu": "Radeon Vega 8",
+    "score": 1583,
+    "rank": 882
+  },
+  {
+    "gpu": "Quadro K2000D",
+    "score": 1577,
+    "rank": 883
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Quadro K2000",
+    "score": 1577,
+    "rank": 884
+  },
+  {
+    "gpu": "Ryzen 3 5400U with Radeon Graphics",
+    "score": 1576,
+    "rank": 885
+  },
+  {
+    "gpu": "Radeon R9 M275X / M375",
+    "score": 1574,
+    "rank": 886
+  },
+  {
+    "gpu": "Radeon Athlon Gold PRO 4150GE",
+    "score": 1573,
+    "rank": 887
+  },
+  {
+    "gpu": "Radeon Ryzen 3 5300U",
+    "score": 1573,
+    "rank": 888
+  },
+  {
+    "gpu": "GeForce GTX 555",
+    "score": 1571,
+    "rank": 889
+  },
+  {
+    "gpu": "Radeon RX Vega 10 Ryzen 7 PRO 3700U w/",
+    "score": 1569,
+    "rank": 890
+  },
+  {
+    "gpu": "Radeon Vega 10",
+    "score": 1568,
+    "rank": 891
+  },
+  {
+    "gpu": "Radeon Vega 9 Ryzen 5 3550H",
+    "score": 1561,
+    "rank": 892
+  },
+  {
+    "gpu": "Radeon HD 7560D + HD 6670 Dual",
+    "score": 1554,
+    "rank": 893
+  },
+  {
+    "gpu": "GeForce GTX 550 Ti",
+    "score": 1549,
+    "rank": 894
+  },
+  {
+    "gpu": "Radeon Vega 6 Ryzen 3 3350U",
+    "score": 1546,
+    "rank": 895
+  },
+  {
+    "gpu": "Radeon HD 8470D + HD 7500 Dual",
+    "score": 1545,
+    "rank": 896
+  },
+  {
+    "gpu": "Ryzen 3 PRO 4300U with Radeon Graphics",
+    "score": 1542,
+    "rank": 897
+  },
+  {
+    "gpu": "Radeon R9 M370X",
+    "score": 1541,
+    "rank": 898
+  },
+  {
+    "gpu": "Radeon Ryzen 7 PRO 7745 8-Core",
+    "score": 1539,
+    "rank": 899
+  },
+  {
+    "gpu": "FirePro V8700",
+    "score": 1538,
+    "rank": 900
+  },
+  {
+    "gpu": "Ryzen 3 PRO 4450U with Radeon Graphics",
+    "score": 1537,
+    "rank": 901
+  },
+  {
+    "gpu": "Radeon R9 M275X",
+    "score": 1537,
+    "rank": 902
+  },
+  {
+    "gpu": "Radeon Ryzen 3 5425U",
+    "score": 1535,
+    "rank": 903
+  },
+  {
+    "gpu": "FirePro W4100",
+    "score": 1531,
+    "rank": 904
+  },
+  {
+    "gpu": "Ryzen 3 5300U with Radeon Graphics",
+    "score": 1527,
+    "rank": 905
+  },
+  {
+    "gpu": "Radeon Ryzen Embedded V2516",
+    "score": 1527,
+    "rank": 906
+  },
+  {
+    "gpu": "GeForce 845M",
+    "score": 1524,
+    "rank": 907
+  },
+  {
+    "gpu": "Radeon RX Vega 10 Ryzen 7 3700U",
+    "score": 1523,
+    "rank": 908
+  },
+  {
+    "gpu": "Radeon 610M Ryzen 9 7945HX",
+    "score": 1518,
+    "rank": 909
+  },
+  {
+    "gpu": "GeForce GTX 285",
+    "score": 1515,
+    "rank": 910
+  },
+  {
+    "gpu": "GeForce 940MX",
+    "score": 1513,
+    "rank": 911
+  },
+  {
+    "gpu": "Radeon Vega 9 Ryzen 5 Microsoft Surface Edition",
+    "score": 1512,
+    "rank": 912
+  },
+  {
+    "gpu": "Radeon HD 4890",
+    "score": 1507,
+    "rank": 913
+  },
+  {
+    "gpu": "Radeon HD 7870M",
+    "score": 1507,
+    "rank": 914
+  },
+  {
+    "gpu": "Radeon Vega 8 Ryzen 3 PRO 3200GE w/",
+    "score": 1504,
+    "rank": 915
+  },
+  {
+    "gpu": "Ryzen 5 2500U with Radeon Vega",
+    "score": 1503,
+    "rank": 916
+  },
+  {
+    "gpu": "Radeon Vega 10 Mobile",
+    "score": 1493,
+    "rank": 917
+  },
+  {
+    "gpu": "Radeon HD 6670 + 7660D Dual",
+    "score": 1492,
+    "rank": 918
+  },
+  {
+    "gpu": "GeForce GT 740",
+    "score": 1490,
+    "rank": 919
+  },
+  {
+    "gpu": "Radeon RX Vega 8",
+    "score": 1487,
+    "rank": 920
+  },
+  {
+    "gpu": "Radeon HD 7660D + HD 6670 Dual",
+    "score": 1484,
+    "rank": 921
+  },
+  {
+    "gpu": "Radeon Ryzen Embedded R2514",
+    "score": 1482,
+    "rank": 922
+  },
+  {
+    "gpu": "Radeon R9 M365X",
+    "score": 1481,
+    "rank": 923
+  },
+  {
+    "gpu": "Radeon Vega 8 Ryzen 5 PRO 3500U w/",
+    "score": 1481,
+    "rank": 924
+  },
+  {
+    "gpu": "Quadro 4000",
+    "score": 1478,
+    "rank": 925
+  },
+  {
+    "gpu": "Intel UHD Graphics",
+    "score": 1477,
+    "rank": 926
+  },
+  {
+    "gpu": "Radeon R7 FX-9830P RADEON",
+    "score": 1471,
+    "rank": 927
+  },
+  {
+    "gpu": "Intel Iris Pro Graphics 6200",
+    "score": 1461,
+    "rank": 928
+  },
+  {
+    "gpu": "Radeon R9 255",
+    "score": 1456,
+    "rank": 929
+  },
+  {
+    "gpu": "GeForce MX110",
+    "score": 1443,
+    "rank": 930
+  },
+  {
+    "gpu": "Ryzen 5 PRO 4400GE with Radeon Graphics",
+    "score": 1441,
+    "rank": 931
+  },
+  {
+    "gpu": "Radeon Eng Sample: 100-000000085-40_35/24_Y",
+    "score": 1440,
+    "rank": 932
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Radeon 550X",
+    "score": 1438,
+    "rank": 933
+  },
+  {
+    "gpu": "Radeon HD 8470D + HD 6670 Dual",
+    "score": 1435,
+    "rank": 934
+  },
+  {
+    "gpu": "GeForce GTX 660M",
+    "score": 1433,
+    "rank": 935
+  },
+  {
+    "gpu": "Radeon Ryzen 7 3700U",
+    "score": 1433,
+    "rank": 936
+  },
+  {
+    "gpu": "Intel Iris 650",
+    "score": 1432,
+    "rank": 937
+  },
+  {
+    "gpu": "Ryzen 3 PRO 5475U with Radeon Graphics",
+    "score": 1431,
+    "rank": 938
+  },
+  {
+    "gpu": "Intel Iris 550",
+    "score": 1431,
+    "rank": 939
+  },
+  {
+    "gpu": "Radeon Ryzen 3 PRO 4355GE",
+    "score": 1431,
+    "rank": 940
+  },
+  {
+    "gpu": "Radeon HD 7560D + 7670 Dual",
+    "score": 1426,
+    "rank": 941
+  },
+  {
+    "gpu": "Radeon 540X",
+    "score": 1424,
+    "rank": 942
+  },
+  {
+    "gpu": "Radeon Vega 8 Mobile",
+    "score": 1424,
+    "rank": 943
+  },
+  {
+    "gpu": "Radeon Ryzen 3 7330U",
+    "score": 1423,
+    "rank": 944
+  },
+  {
+    "gpu": "Radeon R7 M370",
+    "score": 1417,
+    "rank": 945
+  },
+  {
+    "gpu": "GeForce GTX 275",
+    "score": 1414,
+    "rank": 946
+  },
+  {
+    "gpu": "FirePro W5130M",
+    "score": 1409,
+    "rank": 947
+  },
+  {
+    "gpu": "Radeon Pro WX 4170",
+    "score": 1409,
+    "rank": 948
+  },
+  {
+    "gpu": "Radeon RX Vega11 Ryzen 7 Microsoft Surface Edition",
+    "score": 1398,
+    "rank": 949
+  },
+  {
+    "gpu": "Radeon Vega 8 Ryzen 5 3500U",
+    "score": 1394,
+    "rank": 950
+  },
+  {
+    "gpu": "Radeon Vega 6 Ryzen 3 PRO 3300U w/",
+    "score": 1387,
+    "rank": 951
+  },
+  {
+    "gpu": "Radeon Ryzen 3 PRO 5475U",
+    "score": 1383,
+    "rank": 952
+  },
+  {
+    "gpu": "Radeon HD 7560D + HD 7670 Dual",
+    "score": 1380,
+    "rank": 953
+  },
+  {
+    "gpu": "Radeon HD 7850M",
+    "score": 1372,
+    "rank": 954
+  },
+  {
+    "gpu": "Radeon HD 4870",
+    "score": 1370,
+    "rank": 955
+  },
+  {
+    "gpu": "FirePro M40003",
+    "score": 1364,
+    "rank": 956
+  },
+  {
+    "gpu": "Radeon 540",
+    "score": 1361,
+    "rank": 957
+  },
+  {
+    "gpu": "Radeon HD 8670D + 6670 Dual",
+    "score": 1361,
+    "rank": 958
+  },
+  {
+    "gpu": "Quadro K2100M",
+    "score": 1357,
+    "rank": 959
+  },
+  {
+    "gpu": "Ryzen 3 4300U with Radeon Graphics",
+    "score": 1351,
+    "rank": 960
+  },
+  {
+    "gpu": "Intel Iris Plus 640",
+    "score": 1348,
+    "rank": 961
+  },
+  {
+    "gpu": "Radeon HD 7560D + HD 7700 Dual",
+    "score": 1346,
+    "rank": 962
+  },
+  {
+    "gpu": "Radeon HD 5770",
+    "score": 1342,
+    "rank": 963
+  },
+  {
+    "gpu": "FireStream 9270",
+    "score": 1341,
+    "rank": 964
+  },
+  {
+    "gpu": "Virtual Display Device",
+    "score": 1332,
+    "rank": 965
+  },
+  {
+    "gpu": "Quadro 4000M",
+    "score": 1328,
+    "rank": 966
+  },
+  {
+    "gpu": "GeForce GT 750M",
+    "score": 1326,
+    "rank": 967
+  },
+  {
+    "gpu": "GeForce GTS 450",
+    "score": 1320,
+    "rank": 968
+  },
+  {
+    "gpu": "Radeon HD 8670D + HD 7600 Dual",
+    "score": 1317,
+    "rank": 969
+  },
+  {
+    "gpu": "FirePro M5950",
+    "score": 1314,
+    "rank": 970
+  },
+  {
+    "gpu": "Radeon Vega 6",
+    "score": 1310,
+    "rank": 971
+  },
+  {
+    "gpu": "Radeon R7 PRO A8-8670E",
+    "score": 1309,
+    "rank": 972
+  },
+  {
+    "gpu": "Radeon HD 4870 X2",
+    "score": 1309,
+    "rank": 973
+  },
+  {
+    "gpu": "Radeon Vega 6 Ryzen 3 3300U",
+    "score": 1306,
+    "rank": 974
+  },
+  {
+    "gpu": "Tesla M2070-Q",
+    "score": 1305,
+    "rank": 975
+  },
+  {
+    "gpu": "Radeon HD 8790M",
+    "score": 1305,
+    "rank": 976
+  },
+  {
+    "gpu": "TENSOR 1.0 Driver Intel HD 630",
+    "score": 1299,
+    "rank": 977
+  },
+  {
+    "gpu": "GeForce GTX 280",
+    "score": 1299,
+    "rank": 978
+  },
+  {
+    "gpu": "GeForce 930MX",
+    "score": 1294,
+    "rank": 979
+  },
+  {
+    "gpu": "Radeon R7 A370",
+    "score": 1281,
+    "rank": 980
+  },
+  {
+    "gpu": "FirePro 3D V8750",
+    "score": 1271,
+    "rank": 981
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Radeon 630",
+    "score": 1269,
+    "rank": 982
+  },
+  {
+    "gpu": "GeForce 930A",
+    "score": 1267,
+    "rank": 983
+  },
+  {
+    "gpu": "FirePro V5900",
+    "score": 1263,
+    "rank": 984
+  },
+  {
+    "gpu": "Radeon HD 8570D + HD 6670 Dual",
+    "score": 1260,
+    "rank": 985
+  },
+  {
+    "gpu": "Intel Iris 540",
+    "score": 1259,
+    "rank": 986
+  },
+  {
+    "gpu": "Radeon HD 7560D + HD 7600 Dual",
+    "score": 1258,
+    "rank": 987
+  },
+  {
+    "gpu": "Radeon HD 6770",
+    "score": 1248,
+    "rank": 988
+  },
+  {
+    "gpu": "GeForce GTX 560M",
+    "score": 1244,
+    "rank": 989
+  },
+  {
+    "gpu": "Intel UHD Graphics 630",
+    "score": 1242,
+    "rank": 990
+  },
+  {
+    "gpu": "Quadro 2000 D",
+    "score": 1239,
+    "rank": 991
+  },
+  {
+    "gpu": "Radeon HD 8570D + 6570 Dual",
+    "score": 1239,
+    "rank": 992
+  },
+  {
+    "gpu": "Radeon HD 7660D + 6670 Dual",
+    "score": 1238,
+    "rank": 993
+  },
+  {
+    "gpu": "Radeon HD 7560D + HD 6570 Dual",
+    "score": 1237,
+    "rank": 994
+  },
+  {
+    "gpu": "GeForce GTX 460M",
+    "score": 1237,
+    "rank": 995
+  },
+  {
+    "gpu": "Radeon R7 + R5 340 Dual",
+    "score": 1234,
+    "rank": 996
+  },
+  {
+    "gpu": "Radeon R7 + R7 250 Dual",
+    "score": 1232,
+    "rank": 997
+  },
+  {
+    "gpu": "FirePro 3D V5800",
+    "score": 1231,
+    "rank": 998
+  },
+  {
+    "gpu": "GeForce GT 745A",
+    "score": 1228,
+    "rank": 999
+  },
+  {
+    "gpu": "GeForce GTX 760A",
+    "score": 1226,
+    "rank": 1000
+  },
+  {
+    "gpu": "GeForce GTX 260",
+    "score": 1223,
+    "rank": 1001
+  },
+  {
+    "gpu": "Quadro FX 5800",
+    "score": 1223,
+    "rank": 1002
+  },
+  {
+    "gpu": "Radeon HD 8670D + HD 6670 Dual",
+    "score": 1221,
+    "rank": 1003
+  },
+  {
+    "gpu": "Radeon HD 8790M / R9 M290X",
+    "score": 1210,
+    "rank": 1004
+  },
+  {
+    "gpu": "GeForce GT 650M",
+    "score": 1206,
+    "rank": 1005
+  },
+  {
+    "gpu": "FirePro 3D V8700",
+    "score": 1206,
+    "rank": 1006
+  },
+  {
+    "gpu": "GeForce GTX 295",
+    "score": 1206,
+    "rank": 1007
+  },
+  {
+    "gpu": "Radeon HD 7730",
+    "score": 1205,
+    "rank": 1008
+  },
+  {
+    "gpu": "N16P-GX",
+    "score": 1204,
+    "rank": 1009
+  },
+  {
+    "gpu": "Radeon HD 7660D + 7540D Dual",
+    "score": 1204,
+    "rank": 1010
+  },
+  {
+    "gpu": "Radeon R9 M270X",
+    "score": 1204,
+    "rank": 1011
+  },
+  {
+    "gpu": "Intel HD P630",
+    "score": 1203,
+    "rank": 1012
+  },
+  {
+    "gpu": "Radeon Vega 8 Ryzen 5 3450U",
+    "score": 1203,
+    "rank": 1013
+  },
+  {
+    "gpu": "Intel Iris Pro 5200",
+    "score": 1192,
+    "rank": 1014
+  },
+  {
+    "gpu": "Radeon HD 7750M",
+    "score": 1191,
+    "rank": 1015
+  },
+  {
+    "gpu": "Radeon R7 +8G",
+    "score": 1190,
+    "rank": 1016
+  },
+  {
+    "gpu": "GeForce GPU",
+    "score": 1189,
+    "rank": 1017
+  },
+  {
+    "gpu": "GeForce 840A",
+    "score": 1179,
+    "rank": 1018
+  },
+  {
+    "gpu": "NVS 810",
+    "score": 1179,
+    "rank": 1019
+  },
+  {
+    "gpu": "GeForce GT 640",
+    "score": 1177,
+    "rank": 1020
+  },
+  {
+    "gpu": "FirePro V5800",
+    "score": 1175,
+    "rank": 1021
+  },
+  {
+    "gpu": "Quadro M500M",
+    "score": 1169,
+    "rank": 1022
+  },
+  {
+    "gpu": "Radeon R7 Opteron X3421",
+    "score": 1168,
+    "rank": 1023
+  },
+  {
+    "gpu": "Quadro K620M",
+    "score": 1165,
+    "rank": 1024
+  },
+  {
+    "gpu": "FireStream 9250",
+    "score": 1164,
+    "rank": 1025
+  },
+  {
+    "gpu": "Radeon HD 5750",
+    "score": 1162,
+    "rank": 1026
+  },
+  {
+    "gpu": "Barco MXRT 5400",
+    "score": 1161,
+    "rank": 1027
+  },
+  {
+    "gpu": "Intel Coffee Lake UHD",
+    "score": 1158,
+    "rank": 1028
+  },
+  {
+    "gpu": "Intel HD P530",
+    "score": 1154,
+    "rank": 1029
+  },
+  {
+    "gpu": "Firepro W4190M",
+    "score": 1147,
+    "rank": 1030
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Radeon HD 8850M / R9 M265X",
+    "score": 1139,
+    "rank": 1031
+  },
+  {
+    "gpu": "Radeon R9 M265X",
+    "score": 1138,
+    "rank": 1032
+  },
+  {
+    "gpu": "GeForce 830A",
+    "score": 1138,
+    "rank": 1033
+  },
+  {
+    "gpu": "Radeon HD 4850 X2",
+    "score": 1132,
+    "rank": 1034
+  },
+  {
+    "gpu": "Radeon HD 7560D + 6670 Dual",
+    "score": 1130,
+    "rank": 1035
+  },
+  {
+    "gpu": "Radeon HD 8650G + 7700M Dual",
+    "score": 1126,
+    "rank": 1036
+  },
+  {
+    "gpu": "GeForce 940M",
+    "score": 1122,
+    "rank": 1037
+  },
+  {
+    "gpu": "Radeon HD 7660D + 7500 Dual",
+    "score": 1121,
+    "rank": 1038
+  },
+  {
+    "gpu": "RadeonT 610M",
+    "score": 1121,
+    "rank": 1039
+  },
+  {
+    "gpu": "FirePro M4170",
+    "score": 1119,
+    "rank": 1040
+  },
+  {
+    "gpu": "Radeon R9 M275",
+    "score": 1114,
+    "rank": 1041
+  },
+  {
+    "gpu": "Radeon R7 A10-7870K",
+    "score": 1113,
+    "rank": 1042
+  },
+  {
+    "gpu": "Radeon R7 430",
+    "score": 1108,
+    "rank": 1043
+  },
+  {
+    "gpu": "Intel HD 630",
+    "score": 1108,
+    "rank": 1044
+  },
+  {
+    "gpu": "GeForce 940A",
+    "score": 1106,
+    "rank": 1045
+  },
+  {
+    "gpu": "Radeon 610M",
+    "score": 1100,
+    "rank": 1046
+  },
+  {
+    "gpu": "Radeon HD 7660D + 6570 Dual",
+    "score": 1100,
+    "rank": 1047
+  },
+  {
+    "gpu": "Quadro 2100M",
+    "score": 1100,
+    "rank": 1048
+  },
+  {
+    "gpu": "GeForce GT 545",
+    "score": 1099,
+    "rank": 1049
+  },
+  {
+    "gpu": "Radeon R5 PRO A6-9500 2C+6G",
+    "score": 1096,
+    "rank": 1050
+  },
+  {
+    "gpu": "Radeon R7 M465",
+    "score": 1095,
+    "rank": 1051
+  },
+  {
+    "gpu": "Radeon R7 M350",
+    "score": 1092,
+    "rank": 1052
+  },
+  {
+    "gpu": "GeForce GT 745M",
+    "score": 1092,
+    "rank": 1053
+  },
+  {
+    "gpu": "GeForce GTX 850M - MODDED",
+    "score": 1091,
+    "rank": 1054
+  },
+  {
+    "gpu": "Radeon R7 M460",
+    "score": 1090,
+    "rank": 1055
+  },
+  {
+    "gpu": "GeForce 840M",
+    "score": 1088,
+    "rank": 1056
+  },
+  {
+    "gpu": "Quadro K1100M",
+    "score": 1085,
+    "rank": 1057
+  },
+  {
+    "gpu": "MIRRORV3",
+    "score": 1080,
+    "rank": 1058
+  },
+  {
+    "gpu": "Intel UHD Graphics 710",
+    "score": 1080,
+    "rank": 1059
+  },
+  {
+    "gpu": "Barco MXRT 5450",
+    "score": 1079,
+    "rank": 1060
+  },
+  {
+    "gpu": "GeForce 920MX",
+    "score": 1079,
+    "rank": 1061
+  },
+  {
+    "gpu": "Radeon R7 + R7 200 Dual",
+    "score": 1077,
+    "rank": 1062
+  },
+  {
+    "gpu": "Radeon 625",
+    "score": 1077,
+    "rank": 1063
+  },
+  {
+    "gpu": "Radeon Ryzen 5 3450U",
+    "score": 1077,
+    "rank": 1064
+  },
+  {
+    "gpu": "Mobility Radeon HD 5870",
+    "score": 1076,
+    "rank": 1065
+  },
+  {
+    "gpu": "Radeon R7 A12-9800 RADEON",
+    "score": 1075,
+    "rank": 1066
+  },
+  {
+    "gpu": "Radeon R7 250",
+    "score": 1072,
+    "rank": 1067
+  },
+  {
+    "gpu": "Radeon 535",
+    "score": 1071,
+    "rank": 1068
+  },
+  {
+    "gpu": "Radeon HD 8450G + 8600/8700M Dual",
+    "score": 1070,
+    "rank": 1069
+  },
+  {
+    "gpu": "Radeon HD 7660D + 7670 Dual",
+    "score": 1061,
+    "rank": 1070
+  },
+  {
+    "gpu": "Radeon HD 7520G + 7700M Dual",
+    "score": 1060,
+    "rank": 1071
+  },
+  {
+    "gpu": "Firepro M4100",
+    "score": 1059,
+    "rank": 1072
+  },
+  {
+    "gpu": "OPAL XT/GL",
+    "score": 1053,
+    "rank": 1073
+  },
+  {
+    "gpu": "Radeon HD 7670A",
+    "score": 1050,
+    "rank": 1074
+  },
+  {
+    "gpu": "GeForce GTX 850A",
+    "score": 1049,
+    "rank": 1075
+  },
+  {
+    "gpu": "Radeon R7 A12-9730P RADEON",
+    "score": 1047,
+    "rank": 1076
+  },
+  {
+    "gpu": "Radeon HD 6750",
+    "score": 1046,
+    "rank": 1077
+  },
+  {
+    "gpu": "Radeon R7 + R7 240 Dual",
+    "score": 1045,
+    "rank": 1078
+  },
+  {
+    "gpu": "Radeon Vega 3 Athlon 300GE",
+    "score": 1044,
+    "rank": 1079
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Intel UHD Graphics 620",
+    "score": 1042,
+    "rank": 1080
+  },
+  {
+    "gpu": "FirePro W4170M",
+    "score": 1040,
+    "rank": 1081
+  },
+  {
+    "gpu": "Radeon HD 8570D + 6670 Dual",
+    "score": 1039,
+    "rank": 1082
+  },
+  {
+    "gpu": "Radeon Vega 3 Mobile",
+    "score": 1034,
+    "rank": 1083
+  },
+  {
+    "gpu": "Radeon HD 8570D + HD 8570 Dual",
+    "score": 1032,
+    "rank": 1084
+  },
+  {
+    "gpu": "Radeon HD 8600/8700M",
+    "score": 1029,
+    "rank": 1085
+  },
+  {
+    "gpu": "Radeon R7 + R5 330 Dual",
+    "score": 1028,
+    "rank": 1086
+  },
+  {
+    "gpu": "Radeon HD 8670D + R7 240 Dual",
+    "score": 1020,
+    "rank": 1087
+  },
+  {
+    "gpu": "Quadro 3000M",
+    "score": 1019,
+    "rank": 1088
+  },
+  {
+    "gpu": "Radeon HD 6700M",
+    "score": 1016,
+    "rank": 1089
+  },
+  {
+    "gpu": "Radeon 530",
+    "score": 1015,
+    "rank": 1090
+  },
+  {
+    "gpu": "Radeon R5 A6-9500E 2C+4G",
+    "score": 1014,
+    "rank": 1091
+  },
+  {
+    "gpu": "Qualcomm Adreno 690 GPU",
+    "score": 1012,
+    "rank": 1092
+  },
+  {
+    "gpu": "GeForce 930M",
+    "score": 1012,
+    "rank": 1093
+  },
+  {
+    "gpu": "Quadro K2000M",
+    "score": 1011,
+    "rank": 1094
+  },
+  {
+    "gpu": "GeForce 830M",
+    "score": 1010,
+    "rank": 1095
+  },
+  {
+    "gpu": "Radeon HD 7690M XT",
+    "score": 1009,
+    "rank": 1096
+  },
+  {
+    "gpu": "Glenfly Arise-GT-10C0",
+    "score": 1007,
+    "rank": 1097
+  },
+  {
+    "gpu": "Radeon HD 7690M",
+    "score": 1003,
+    "rank": 1098
+  },
+  {
+    "gpu": "Radeon HD 7660G + HD 7500/7600 7500/7600 Dual",
+    "score": 1002,
+    "rank": 1099
+  },
+  {
+    "gpu": "Radeon R7 340",
+    "score": 1000,
+    "rank": 1100
+  },
+  {
+    "gpu": "Radeon HD 8570D + R7 200 Dual",
+    "score": 999,
+    "rank": 1101
+  },
+  {
+    "gpu": "Radeon HD 7660G + HD 7500M/7600M Dual",
+    "score": 999,
+    "rank": 1102
+  },
+  {
+    "gpu": "Radeon R7 M260X",
+    "score": 997,
+    "rank": 1103
+  },
+  {
+    "gpu": "Radeon HD 7640G + HD 8750M Dual",
+    "score": 996,
+    "rank": 1104
+  },
+  {
+    "gpu": "Radeon Vega 3 Athlon 3000G",
+    "score": 994,
+    "rank": 1105
+  },
+  {
+    "gpu": "Intel HD 530",
+    "score": 994,
+    "rank": 1106
+  },
+  {
+    "gpu": "Radeon R7 A265",
+    "score": 993,
+    "rank": 1107
+  },
+  {
+    "gpu": "Radeon HD 8750M",
+    "score": 988,
+    "rank": 1108
+  },
+  {
+    "gpu": "FirePro V4900",
+    "score": 987,
+    "rank": 1109
+  },
+  {
+    "gpu": "Radeon HD 7560D + 7570 Dual",
+    "score": 985,
+    "rank": 1110
+  },
+  {
+    "gpu": "Radeon R5 PRO A6-8570 R5, 8 COMPUTE CORES 2C+6G",
+    "score": 984,
+    "rank": 1111
+  },
+  {
+    "gpu": "Radeon HD 8690M",
+    "score": 984,
+    "rank": 1112
+  },
+  {
+    "gpu": "Radeon HD 7560D + 7560D Dual",
+    "score": 982,
+    "rank": 1113
+  },
+  {
+    "gpu": "Quadro FX 4800",
+    "score": 982,
+    "rank": 1114
+  },
+  {
+    "gpu": "Radeon R9 M375",
+    "score": 979,
+    "rank": 1115
+  },
+  {
+    "gpu": "Radeon R7 A10-7850K",
+    "score": 978,
+    "rank": 1116
+  },
+  {
+    "gpu": "Radeon R5 A10-9630P 4C+6G",
+    "score": 977,
+    "rank": 1117
+  },
+  {
+    "gpu": "Quadro 2000D",
+    "score": 974,
+    "rank": 1118
+  },
+  {
+    "gpu": "Radeon HD 8670D + 8570 Dual",
+    "score": 974,
+    "rank": 1119
+  },
+  {
+    "gpu": "Radeon HD 8850M",
+    "score": 973,
+    "rank": 1120
+  },
+  {
+    "gpu": "Radeon R6 A10-9600P 4C+6G",
+    "score": 970,
+    "rank": 1121
+  },
+  {
+    "gpu": "Radeon R7 PRO A10-9700E",
+    "score": 969,
+    "rank": 1122
+  },
+  {
+    "gpu": "Radeon R7 A10-9700E RADEON",
+    "score": 968,
+    "rank": 1123
+  },
+  {
+    "gpu": "Radeon HD 7660G N HD 7660G + HD 7700M N HD 7700M D",
+    "score": 966,
+    "rank": 1124
+  },
+  {
+    "gpu": "Radeon HD 6770M",
+    "score": 964,
+    "rank": 1125
+  },
+  {
+    "gpu": "Radeon HD 8570D + R7 240 Dual",
+    "score": 963,
+    "rank": 1126
+  },
+  {
+    "gpu": "Radeon R7 PRO A12-9800E",
+    "score": 957,
+    "rank": 1127
+  },
+  {
+    "gpu": "Radeon R6 Opteron X3418",
+    "score": 955,
+    "rank": 1128
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Radeon HD 8670D + R7 200 Dual",
+    "score": 949,
+    "rank": 1129
+  },
+  {
+    "gpu": "Radeon HD 8570 + HD 7660D Dual",
+    "score": 949,
+    "rank": 1130
+  },
+  {
+    "gpu": "Quadro 2000",
+    "score": 948,
+    "rank": 1131
+  },
+  {
+    "gpu": "Quadro CX",
+    "score": 947,
+    "rank": 1132
+  },
+  {
+    "gpu": "Radeon HD 6670/7670",
+    "score": 945,
+    "rank": 1133
+  },
+  {
+    "gpu": "Radeon HD 7640G + 7690M Dual",
+    "score": 945,
+    "rank": 1134
+  },
+  {
+    "gpu": "FirePro M4150",
+    "score": 945,
+    "rank": 1135
+  },
+  {
+    "gpu": "Radeon R7 PRO A10-8850B",
+    "score": 945,
+    "rank": 1136
+  },
+  {
+    "gpu": "Radeon R7 M445",
+    "score": 943,
+    "rank": 1137
+  },
+  {
+    "gpu": "Radeon HD 7660D + R7 240 Dual",
+    "score": 941,
+    "rank": 1138
+  },
+  {
+    "gpu": "Radeon HD 8570",
+    "score": 939,
+    "rank": 1139
+  },
+  {
+    "gpu": "Radeon HD 6750M",
+    "score": 937,
+    "rank": 1140
+  },
+  {
+    "gpu": "Radeon HD 7560D + HD 8570 Dual",
+    "score": 935,
+    "rank": 1141
+  },
+  {
+    "gpu": "Radeon R5 340",
+    "score": 935,
+    "rank": 1142
+  },
+  {
+    "gpu": "Radeon Vega 3 Athlon PRO 300GE w/",
+    "score": 935,
+    "rank": 1143
+  },
+  {
+    "gpu": "Radeon HD 4850",
+    "score": 931,
+    "rank": 1144
+  },
+  {
+    "gpu": "Radeon HD 7660G + 7730M Dual",
+    "score": 931,
+    "rank": 1145
+  },
+  {
+    "gpu": "Radeon R7 240 + HD 8670D Dual",
+    "score": 930,
+    "rank": 1146
+  },
+  {
+    "gpu": "GeForce GT 645M",
+    "score": 928,
+    "rank": 1147
+  },
+  {
+    "gpu": "Radeon R7 A10-7860K",
+    "score": 926,
+    "rank": 1148
+  },
+  {
+    "gpu": "Intel HD Graphics 620",
+    "score": 925,
+    "rank": 1149
+  },
+  {
+    "gpu": "Intel Iris Pro 6100",
+    "score": 925,
+    "rank": 1150
+  },
+  {
+    "gpu": "Radeon R7 A10-9700 RADEON",
+    "score": 925,
+    "rank": 1151
+  },
+  {
+    "gpu": "Radeon R5 A6-9500 RADEON R5, 8 COMPUTE CORES 2C+6G",
+    "score": 921,
+    "rank": 1152
+  },
+  {
+    "gpu": "Radeon R7 PRO A12-8870E",
+    "score": 920,
+    "rank": 1153
+  },
+  {
+    "gpu": "GeForce GT 640M",
+    "score": 919,
+    "rank": 1154
+  },
+  {
+    "gpu": "Radeon R5 430",
+    "score": 918,
+    "rank": 1155
+  },
+  {
+    "gpu": "Radeon R7 240 + HD 8570D Dual",
+    "score": 917,
+    "rank": 1156
+  },
+  {
+    "gpu": "Radeon R7 A12-9800E RADEON",
+    "score": 913,
+    "rank": 1157
+  },
+  {
+    "gpu": "Radeon R7 A8-8650",
+    "score": 912,
+    "rank": 1158
+  },
+  {
+    "gpu": "GRID K220Q",
+    "score": 912,
+    "rank": 1159
+  },
+  {
+    "gpu": "GRID M6-0B",
+    "score": 911,
+    "rank": 1160
+  },
+  {
+    "gpu": "Radeon 6750M",
+    "score": 911,
+    "rank": 1161
+  },
+  {
+    "gpu": "Radeon HD 4770",
+    "score": 908,
+    "rank": 1162
+  },
+  {
+    "gpu": "Radeon R7 A8-7500",
+    "score": 907,
+    "rank": 1163
+  },
+  {
+    "gpu": "Radeon R7 240",
+    "score": 906,
+    "rank": 1164
+  },
+  {
+    "gpu": "Radeon R7 M440",
+    "score": 905,
+    "rank": 1165
+  },
+  {
+    "gpu": "Radeon R7 PRO A12-8870",
+    "score": 904,
+    "rank": 1166
+  },
+  {
+    "gpu": "Radeon HD 8550G + 7600M Dual",
+    "score": 901,
+    "rank": 1167
+  },
+  {
+    "gpu": "Barco MXRT 7400",
+    "score": 900,
+    "rank": 1168
+  },
+  {
+    "gpu": "Barco MXRT 2600",
+    "score": 900,
+    "rank": 1169
+  },
+  {
+    "gpu": "Radeon R7 PRO A10-8770",
+    "score": 899,
+    "rank": 1170
+  },
+  {
+    "gpu": "Intel UHD Graphics 617",
+    "score": 897,
+    "rank": 1171
+  },
+  {
+    "gpu": "Intel Iris 6100",
+    "score": 897,
+    "rank": 1172
+  },
+  {
+    "gpu": "Radeon R7 + R5 Dual",
+    "score": 897,
+    "rank": 1173
+  },
+  {
+    "gpu": "Radeon 620",
+    "score": 897,
+    "rank": 1174
+  },
+  {
+    "gpu": "Radeon R7 PRO A8-9600",
+    "score": 893,
+    "rank": 1175
+  },
+  {
+    "gpu": "7900 MOD - Radeon HD 6550D",
+    "score": 892,
+    "rank": 1176
+  },
+  {
+    "gpu": "Qualcomm Adreno 685 GPU",
+    "score": 892,
+    "rank": 1177
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Radeon Vega 3",
+    "score": 890,
+    "rank": 1178
+  },
+  {
+    "gpu": "Radeon R7 + R5 435 Dual A10-9700 RADEON",
+    "score": 885,
+    "rank": 1179
+  },
+  {
+    "gpu": "Radeon HD 8650G + 7670M Dual",
+    "score": 883,
+    "rank": 1180
+  },
+  {
+    "gpu": "FirePro W2100",
+    "score": 882,
+    "rank": 1181
+  },
+  {
+    "gpu": "Radeon R7 A10 PRO-7850B",
+    "score": 882,
+    "rank": 1182
+  },
+  {
+    "gpu": "Radeon HD 7660G + HD 7730M Dual",
+    "score": 881,
+    "rank": 1183
+  },
+  {
+    "gpu": "Radeon R7 PRO A12-9800",
+    "score": 877,
+    "rank": 1184
+  },
+  {
+    "gpu": "Radeon E6760",
+    "score": 876,
+    "rank": 1185
+  },
+  {
+    "gpu": "GRID M10-0B",
+    "score": 870,
+    "rank": 1186
+  },
+  {
+    "gpu": "Radeon R7 G",
+    "score": 869,
+    "rank": 1187
+  },
+  {
+    "gpu": "Radeon HD 8570D + HD 6570 Dual",
+    "score": 868,
+    "rank": 1188
+  },
+  {
+    "gpu": "Intel HD 520",
+    "score": 867,
+    "rank": 1189
+  },
+  {
+    "gpu": "Mobility Radeon HD 4850",
+    "score": 866,
+    "rank": 1190
+  },
+  {
+    "gpu": "Intel HD 6000",
+    "score": 866,
+    "rank": 1191
+  },
+  {
+    "gpu": "Radeon HD 8470D + HD 6450 Dual",
+    "score": 862,
+    "rank": 1192
+  },
+  {
+    "gpu": "Radeon Vega 3 Athlon 300U",
+    "score": 861,
+    "rank": 1193
+  },
+  {
+    "gpu": "Radeon 520",
+    "score": 860,
+    "rank": 1194
+  },
+  {
+    "gpu": "Radeon Vega 3 Ryzen 3 3200U",
+    "score": 858,
+    "rank": 1195
+  },
+  {
+    "gpu": "Radeon R7 A10-8750",
+    "score": 856,
+    "rank": 1196
+  },
+  {
+    "gpu": "Radeon Vega 3 Athlon Silver 3050U",
+    "score": 855,
+    "rank": 1197
+  },
+  {
+    "gpu": "FirePro 3D V4800",
+    "score": 853,
+    "rank": 1198
+  },
+  {
+    "gpu": "Radeon R5 A6-9500 2C+6G",
+    "score": 853,
+    "rank": 1199
+  },
+  {
+    "gpu": "Radeon R7 A8-7500 4C+6G",
+    "score": 853,
+    "rank": 1200
+  },
+  {
+    "gpu": "Radeon HD 8500M/8700M",
+    "score": 852,
+    "rank": 1201
+  },
+  {
+    "gpu": "Radeon R5 435",
+    "score": 850,
+    "rank": 1202
+  },
+  {
+    "gpu": "Radeon R7 A10-7890K",
+    "score": 850,
+    "rank": 1203
+  },
+  {
+    "gpu": "Radeon R7 A8-7670K",
+    "score": 848,
+    "rank": 1204
+  },
+  {
+    "gpu": "Radeon R5 PRO A6-8570 2C+6G",
+    "score": 847,
+    "rank": 1205
+  },
+  {
+    "gpu": "GeForce 920A",
+    "score": 846,
+    "rank": 1206
+  },
+  {
+    "gpu": "FireGL V8600",
+    "score": 838,
+    "rank": 1207
+  },
+  {
+    "gpu": "Radeon HD 8470D + 6570 Dual",
+    "score": 837,
+    "rank": 1208
+  },
+  {
+    "gpu": "Radeon HD 8670D + R5 235 Dual",
+    "score": 836,
+    "rank": 1209
+  },
+  {
+    "gpu": "Radeon HD 4830",
+    "score": 835,
+    "rank": 1210
+  },
+  {
+    "gpu": "Radeon HD 6650A",
+    "score": 835,
+    "rank": 1211
+  },
+  {
+    "gpu": "GeForce GT 730",
+    "score": 834,
+    "rank": 1212
+  },
+  {
+    "gpu": "Radeon HD 7560D + 6570 Dual",
+    "score": 833,
+    "rank": 1213
+  },
+  {
+    "gpu": "GeForce GT 635",
+    "score": 832,
+    "rank": 1214
+  },
+  {
+    "gpu": "Radeon HD 7520G + HD 7500/7600 Dual",
+    "score": 832,
+    "rank": 1215
+  },
+  {
+    "gpu": "Radeon HD 8650G + 8600/8700M Dual",
+    "score": 831,
+    "rank": 1216
+  },
+  {
+    "gpu": "Radeon HD 7660G + 7600M Dual",
+    "score": 831,
+    "rank": 1217
+  },
+  {
+    "gpu": "Intel HD 5200",
+    "score": 830,
+    "rank": 1218
+  },
+  {
+    "gpu": "Radeon R7 FX-8800P",
+    "score": 829,
+    "rank": 1219
+  },
+  {
+    "gpu": "Radeon R7 A8-9600 RADEON",
+    "score": 828,
+    "rank": 1220
+  },
+  {
+    "gpu": "Radeon R7 PRO A10-8770E",
+    "score": 828,
+    "rank": 1221
+  },
+  {
+    "gpu": "Radeon R7 A10 PRO-7800B",
+    "score": 827,
+    "rank": 1222
+  },
+  {
+    "gpu": "GRID M60-0Q",
+    "score": 827,
+    "rank": 1223
+  },
+  {
+    "gpu": "Radeon HD 7640G N HD 7640G + HD 7600M N HD 7600M D",
+    "score": 824,
+    "rank": 1224
+  },
+  {
+    "gpu": "Radeon HD 3850 X2",
+    "score": 822,
+    "rank": 1225
+  },
+  {
+    "gpu": "Radeon R7 A8-7680",
+    "score": 821,
+    "rank": 1226
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Radeon HD 7540D + 7500 Dual",
+    "score": 821,
+    "rank": 1227
+  },
+  {
+    "gpu": "Radeon HD 8650G + HD 7600M Dual",
+    "score": 819,
+    "rank": 1228
+  },
+  {
+    "gpu": "Radeon HD 8550G + HD 8750M Dual",
+    "score": 819,
+    "rank": 1229
+  },
+  {
+    "gpu": "Radeon R7 M260DX",
+    "score": 816,
+    "rank": 1230
+  },
+  {
+    "gpu": "Radeon R7 A10 Extreme Edition",
+    "score": 816,
+    "rank": 1231
+  },
+  {
+    "gpu": "GeForce GT 730M",
+    "score": 814,
+    "rank": 1232
+  },
+  {
+    "gpu": "Radeon R9 M280X",
+    "score": 813,
+    "rank": 1233
+  },
+  {
+    "gpu": "Radeon HD 7670",
+    "score": 813,
+    "rank": 1234
+  },
+  {
+    "gpu": "Radeon HD 8670D + 7000 Dual",
+    "score": 811,
+    "rank": 1235
+  },
+  {
+    "gpu": "GeForce GT 445M",
+    "score": 811,
+    "rank": 1236
+  },
+  {
+    "gpu": "Radeon R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G",
+    "score": 809,
+    "rank": 1237
+  },
+  {
+    "gpu": "Radeon HD 5670",
+    "score": 805,
+    "rank": 1238
+  },
+  {
+    "gpu": "Radeon Vega 3 Ryzen 3 3250U",
+    "score": 803,
+    "rank": 1239
+  },
+  {
+    "gpu": "Radeon HD 8550G + 8600/8700M Dual",
+    "score": 802,
+    "rank": 1240
+  },
+  {
+    "gpu": "Radeon R5 M435",
+    "score": 800,
+    "rank": 1241
+  },
+  {
+    "gpu": "Radeon HD 8650G + HD 8790M Dual",
+    "score": 799,
+    "rank": 1242
+  },
+  {
+    "gpu": "Radeon HD 6800M",
+    "score": 798,
+    "rank": 1243
+  },
+  {
+    "gpu": "Quadro FX 3800",
+    "score": 798,
+    "rank": 1244
+  },
+  {
+    "gpu": "Radeon R7 PRO A10-9700",
+    "score": 798,
+    "rank": 1245
+  },
+  {
+    "gpu": "GeForce 9800 GX2",
+    "score": 797,
+    "rank": 1246
+  },
+  {
+    "gpu": "Radeon R8 M445DX",
+    "score": 796,
+    "rank": 1247
+  },
+  {
+    "gpu": "Radeon HD 8650G N HD 8650G + HD 8600/8700M Dual",
+    "score": 796,
+    "rank": 1248
+  },
+  {
+    "gpu": "Radeon HD 8550G + 8750M Dual",
+    "score": 795,
+    "rank": 1249
+  },
+  {
+    "gpu": "GRID M10-0Q",
+    "score": 795,
+    "rank": 1250
+  },
+  {
+    "gpu": "GeForce GT 740M",
+    "score": 791,
+    "rank": 1251
+  },
+  {
+    "gpu": "Radeon Ryzen 3 3250U",
+    "score": 789,
+    "rank": 1252
+  },
+  {
+    "gpu": "Radeon 535DX",
+    "score": 788,
+    "rank": 1253
+  },
+  {
+    "gpu": "Radeon HD 8650G + 8750M Dual",
+    "score": 786,
+    "rank": 1254
+  },
+  {
+    "gpu": "Radeon R7 A8-7600",
+    "score": 785,
+    "rank": 1255
+  },
+  {
+    "gpu": "GeForce 825M",
+    "score": 782,
+    "rank": 1256
+  },
+  {
+    "gpu": "Quadro K1000M",
+    "score": 782,
+    "rank": 1257
+  },
+  {
+    "gpu": "Quadro 2000M",
+    "score": 781,
+    "rank": 1258
+  },
+  {
+    "gpu": "Radeon R7 PRO A6-9500 2C+6G",
+    "score": 781,
+    "rank": 1259
+  },
+  {
+    "gpu": "Radeon R7 A365",
+    "score": 781,
+    "rank": 1260
+  },
+  {
+    "gpu": "Radeon HD 7660G + HD 7700M Dual",
+    "score": 777,
+    "rank": 1261
+  },
+  {
+    "gpu": "Radeon R7 A10-7700K",
+    "score": 777,
+    "rank": 1262
+  },
+  {
+    "gpu": "Radeon HD 7640G + 7500M/7600M Dual",
+    "score": 775,
+    "rank": 1263
+  },
+  {
+    "gpu": "Radeon R7 M365X",
+    "score": 774,
+    "rank": 1264
+  },
+  {
+    "gpu": "Radeon HD 7600M + 7600M Dual",
+    "score": 773,
+    "rank": 1265
+  },
+  {
+    "gpu": "Radeon HD 8650G N HD 8650G + HD 8570M Dual",
+    "score": 773,
+    "rank": 1266
+  },
+  {
+    "gpu": "Mobility Radeon HD 5000",
+    "score": 773,
+    "rank": 1267
+  },
+  {
+    "gpu": "Radeon R7 A10-8850",
+    "score": 773,
+    "rank": 1268
+  },
+  {
+    "gpu": "GeForce 730A",
+    "score": 771,
+    "rank": 1269
+  },
+  {
+    "gpu": "GeForce GT 440",
+    "score": 770,
+    "rank": 1270
+  },
+  {
+    "gpu": "Radeon R5 PRO A6-9500E 2C+4G",
+    "score": 770,
+    "rank": 1271
+  },
+  {
+    "gpu": "Radeon HD 4810",
+    "score": 769,
+    "rank": 1272
+  },
+  {
+    "gpu": "GeForce 9800 GTX",
+    "score": 769,
+    "rank": 1273
+  },
+  {
+    "gpu": "Radeon HD 8730M",
+    "score": 768,
+    "rank": 1274
+  },
+  {
+    "gpu": "Radeon R7 PRO A10-8750B",
+    "score": 767,
+    "rank": 1275
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Radeon R7 M270",
+    "score": 766,
+    "rank": 1276
+  },
+  {
+    "gpu": "Radeon HD 8650G + HD 8600/8700M Dual",
+    "score": 763,
+    "rank": 1277
+  },
+  {
+    "gpu": "Mobility Radeon HD 5850",
+    "score": 763,
+    "rank": 1278
+  },
+  {
+    "gpu": "Radeon HD 6450 + 8470D Dual",
+    "score": 762,
+    "rank": 1279
+  },
+  {
+    "gpu": "Radeon HD 7730M",
+    "score": 762,
+    "rank": 1280
+  },
+  {
+    "gpu": "Radeon HD 7660G + HD 7500/7600 Dual",
+    "score": 760,
+    "rank": 1281
+  },
+  {
+    "gpu": "Radeon Athlon Gold 3150U",
+    "score": 759,
+    "rank": 1282
+  },
+  {
+    "gpu": "Radeon HD 7660G + HD 8500M Dual",
+    "score": 758,
+    "rank": 1283
+  },
+  {
+    "gpu": "Radeon HD 8650G + HD 8600M N HD 8600M Dual",
+    "score": 757,
+    "rank": 1284
+  },
+  {
+    "gpu": "Radeon HD 7660G + 7700M Dual",
+    "score": 757,
+    "rank": 1285
+  },
+  {
+    "gpu": "Quadro 1100M",
+    "score": 755,
+    "rank": 1286
+  },
+  {
+    "gpu": "Radeon HD 7640G + 7450M Dual",
+    "score": 754,
+    "rank": 1287
+  },
+  {
+    "gpu": "Radeon HD 6650M",
+    "score": 753,
+    "rank": 1288
+  },
+  {
+    "gpu": "Radeon HD 8570D + HD 7000 Dual",
+    "score": 753,
+    "rank": 1289
+  },
+  {
+    "gpu": "Radeon R5 A10-9630P RADEON R5, 10 COMPUTE CORES 4C",
+    "score": 750,
+    "rank": 1290
+  },
+  {
+    "gpu": "IncrediblE HD 4600",
+    "score": 749,
+    "rank": 1291
+  },
+  {
+    "gpu": "Radeon M535DX",
+    "score": 749,
+    "rank": 1292
+  },
+  {
+    "gpu": "Qualcomm Adreno 7c Gen 3 GPU",
+    "score": 748,
+    "rank": 1293
+  },
+  {
+    "gpu": "Radeon HD 7640G + 7650M Dual",
+    "score": 747,
+    "rank": 1294
+  },
+  {
+    "gpu": "Radeon HD 7660G + HD 8600/8700M Dual",
+    "score": 747,
+    "rank": 1295
+  },
+  {
+    "gpu": "Radeon HD 8670D + R5 330 Dual",
+    "score": 746,
+    "rank": 1296
+  },
+  {
+    "gpu": "Quadro K420",
+    "score": 745,
+    "rank": 1297
+  },
+  {
+    "gpu": "Radeon HD 7660G + 7610M Dual",
+    "score": 745,
+    "rank": 1298
+  },
+  {
+    "gpu": "Radeon R7 A8-7650K",
+    "score": 745,
+    "rank": 1299
+  },
+  {
+    "gpu": "Intel Iris 5100",
+    "score": 744,
+    "rank": 1300
+  },
+  {
+    "gpu": "Radeon R5 235 + HD 7560D Dual",
+    "score": 743,
+    "rank": 1301
+  },
+  {
+    "gpu": "Radeon HD 7660G + 7670M Dual",
+    "score": 743,
+    "rank": 1302
+  },
+  {
+    "gpu": "Quadro K600",
+    "score": 742,
+    "rank": 1303
+  },
+  {
+    "gpu": "GeForce GT 730A",
+    "score": 742,
+    "rank": 1304
+  },
+  {
+    "gpu": "Radeon HD 8650G + 7600M Dual",
+    "score": 741,
+    "rank": 1305
+  },
+  {
+    "gpu": "Intel UHD Graphics 615",
+    "score": 740,
+    "rank": 1306
+  },
+  {
+    "gpu": "Radeon R7 FX-9800P RADEON",
+    "score": 740,
+    "rank": 1307
+  },
+  {
+    "gpu": "Intel Poison Ivy",
+    "score": 738,
+    "rank": 1308
+  },
+  {
+    "gpu": "GeForce GT 340",
+    "score": 738,
+    "rank": 1309
+  },
+  {
+    "gpu": "Radeon HD 7670M + 7670M Dual",
+    "score": 738,
+    "rank": 1310
+  },
+  {
+    "gpu": "Radeon R5 235 + HD 8570D Dual",
+    "score": 737,
+    "rank": 1311
+  },
+  {
+    "gpu": "Radeon R7 A12-9720P RADEON",
+    "score": 735,
+    "rank": 1312
+  },
+  {
+    "gpu": "Radeon R5 A10-9620P 4C+6G",
+    "score": 731,
+    "rank": 1313
+  },
+  {
+    "gpu": "Radeon HD 6670",
+    "score": 730,
+    "rank": 1314
+  },
+  {
+    "gpu": "Radeon HD 7550M/7650M",
+    "score": 728,
+    "rank": 1315
+  },
+  {
+    "gpu": "Radeon R7 A12-9700P RADEON",
+    "score": 727,
+    "rank": 1316
+  },
+  {
+    "gpu": "GRID K140Q",
+    "score": 727,
+    "rank": 1317
+  },
+  {
+    "gpu": "Quadro K610M",
+    "score": 727,
+    "rank": 1318
+  },
+  {
+    "gpu": "Radeon R5 A6-9500E RADEON R5, 6 COMPUTE CORES 2C+4",
+    "score": 726,
+    "rank": 1319
+  },
+  {
+    "gpu": "Radeon R7 PRO A8-8650B",
+    "score": 724,
+    "rank": 1320
+  },
+  {
+    "gpu": "GeForce 920M",
+    "score": 723,
+    "rank": 1321
+  },
+  {
+    "gpu": "Radeon HD 7660G N HD 7660G + HD 7600M N HD 7600M D",
+    "score": 722,
+    "rank": 1322
+  },
+  {
+    "gpu": "Radeon HD 8650G + R5 M200 Dual",
+    "score": 722,
+    "rank": 1323
+  },
+  {
+    "gpu": "Mi Pad 5 Adreno 640 GPU",
+    "score": 722,
+    "rank": 1324
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Asus GTX 650 FML II EC-EGPU",
+    "score": 720,
+    "rank": 1325
+  },
+  {
+    "gpu": "Mobility Radeon HD 4870",
+    "score": 719,
+    "rank": 1326
+  },
+  {
+    "gpu": "Radeon HD 7540D + 6570 Dual",
+    "score": 719,
+    "rank": 1327
+  },
+  {
+    "gpu": "Radeon HD 8670D + HD 7000 Dual",
+    "score": 718,
+    "rank": 1328
+  },
+  {
+    "gpu": "Radeon HD 8470D + 6450 Dual",
+    "score": 717,
+    "rank": 1329
+  },
+  {
+    "gpu": "Radeon HD 8650G + HD 8570M Dual",
+    "score": 716,
+    "rank": 1330
+  },
+  {
+    "gpu": "Intel UHD Graphics 610",
+    "score": 716,
+    "rank": 1331
+  },
+  {
+    "gpu": "Radeon Vega 3 Athlon 320GE",
+    "score": 714,
+    "rank": 1332
+  },
+  {
+    "gpu": "Intel HD 615",
+    "score": 713,
+    "rank": 1333
+  },
+  {
+    "gpu": "Radeon Vega 3 Ryzen Embedded R1505G",
+    "score": 713,
+    "rank": 1334
+  },
+  {
+    "gpu": "Radeon HD 7660G + HD 8670M Dual",
+    "score": 711,
+    "rank": 1335
+  },
+  {
+    "gpu": "Qualcomm Adreno 680 GPU",
+    "score": 709,
+    "rank": 1336
+  },
+  {
+    "gpu": "Radeon R5 A10-9600P RADEON R5, 10 COMPUTE CORES 4C",
+    "score": 708,
+    "rank": 1337
+  },
+  {
+    "gpu": "Radeon HD 3870 X2",
+    "score": 708,
+    "rank": 1338
+  },
+  {
+    "gpu": "Radeon HD 6550A",
+    "score": 707,
+    "rank": 1339
+  },
+  {
+    "gpu": "Radeon HD 7660G + HD 7670M Dual",
+    "score": 706,
+    "rank": 1340
+  },
+  {
+    "gpu": "Radeon R7 A10-7800",
+    "score": 706,
+    "rank": 1341
+  },
+  {
+    "gpu": "Radeon HD 7640G + 7600M Dual",
+    "score": 705,
+    "rank": 1342
+  },
+  {
+    "gpu": "Radeon HD 7660G N HD 7660G + HD 7670M Dual",
+    "score": 704,
+    "rank": 1343
+  },
+  {
+    "gpu": "Radeon HD 7640G + HD 7600M Dual",
+    "score": 704,
+    "rank": 1344
+  },
+  {
+    "gpu": "Radeon R7 PRO A12-9800B",
+    "score": 702,
+    "rank": 1345
+  },
+  {
+    "gpu": "NVS 510",
+    "score": 700,
+    "rank": 1346
+  },
+  {
+    "gpu": "TRINITY DEVASTATOR MOBILE",
+    "score": 699,
+    "rank": 1347
+  },
+  {
+    "gpu": "Radeon HD 7570M/HD 7670M",
+    "score": 699,
+    "rank": 1348
+  },
+  {
+    "gpu": "Radeon R5 A6-7480",
+    "score": 698,
+    "rank": 1349
+  },
+  {
+    "gpu": "Radeon R5 PRO A10-8730B 4C+6G",
+    "score": 695,
+    "rank": 1350
+  },
+  {
+    "gpu": "Radeon R5 PRO A6-9500B 2C+4G",
+    "score": 693,
+    "rank": 1351
+  },
+  {
+    "gpu": "GeForce GT 640M LE",
+    "score": 692,
+    "rank": 1352
+  },
+  {
+    "gpu": "Radeon HD 7640G + 7700M Dual",
+    "score": 690,
+    "rank": 1353
+  },
+  {
+    "gpu": "Intel HD 610",
+    "score": 690,
+    "rank": 1354
+  },
+  {
+    "gpu": "Radeon R5 PRO A6-8570E R5, 6 COMPUTE CORES 2C+4G",
+    "score": 689,
+    "rank": 1355
+  },
+  {
+    "gpu": "Radeon R5 PRO A6-8530B 2C+4G",
+    "score": 689,
+    "rank": 1356
+  },
+  {
+    "gpu": "Radeon HD 7640G + 8600/8700M Dual",
+    "score": 688,
+    "rank": 1357
+  },
+  {
+    "gpu": "Radeon HD 8650G + R5 M230 Dual",
+    "score": 686,
+    "rank": 1358
+  },
+  {
+    "gpu": "Radeon HD 6630M",
+    "score": 684,
+    "rank": 1359
+  },
+  {
+    "gpu": "GRID P40-3Q",
+    "score": 681,
+    "rank": 1360
+  },
+  {
+    "gpu": "Radeon Athlon Silver 3050U",
+    "score": 679,
+    "rank": 1361
+  },
+  {
+    "gpu": "Radeon HD 8650G N HD 8650G + HD 8600M N HD 8600M D",
+    "score": 679,
+    "rank": 1362
+  },
+  {
+    "gpu": "Radeon HD 7640G N HD 7640G + HD 7670M Dual",
+    "score": 679,
+    "rank": 1363
+  },
+  {
+    "gpu": "GeForce GT 630",
+    "score": 679,
+    "rank": 1364
+  },
+  {
+    "gpu": "GeForce GTS 160M",
+    "score": 678,
+    "rank": 1365
+  },
+  {
+    "gpu": "Radeon R5 A10-9620P RADEON R5, 10 COMPUTE CORES 4C",
+    "score": 677,
+    "rank": 1366
+  },
+  {
+    "gpu": "Radeon HD 7640G + HD 8670M Dual",
+    "score": 677,
+    "rank": 1367
+  },
+  {
+    "gpu": "Radeon HD 8610G + R5 M200 Dual",
+    "score": 676,
+    "rank": 1368
+  },
+  {
+    "gpu": "Quadro FX 4700 X2",
+    "score": 676,
+    "rank": 1369
+  },
+  {
+    "gpu": "Radeon R7 A8 PRO-7600B",
+    "score": 670,
+    "rank": 1370
+  },
+  {
+    "gpu": "Radeon R8 M535DX",
+    "score": 670,
+    "rank": 1371
+  },
+  {
+    "gpu": "GeForce GT 740A",
+    "score": 667,
+    "rank": 1372
+  },
+  {
+    "gpu": "Radeon HD 7640G + HD 8500M N HD 8500M Dual",
+    "score": 665,
+    "rank": 1373
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "FirePro M7740",
+    "score": 665,
+    "rank": 1374
+  },
+  {
+    "gpu": "Radeon HD 8550G + 8690M Dual",
+    "score": 664,
+    "rank": 1375
+  },
+  {
+    "gpu": "GeForce GT 530",
+    "score": 663,
+    "rank": 1376
+  },
+  {
+    "gpu": "FireGL V7700",
+    "score": 660,
+    "rank": 1377
+  },
+  {
+    "gpu": "Radeon R7 M340",
+    "score": 659,
+    "rank": 1378
+  },
+  {
+    "gpu": "Radeon HD 2900 XT",
+    "score": 659,
+    "rank": 1379
+  },
+  {
+    "gpu": "Radeon R5 PRO A8-9600B 4C+6G",
+    "score": 658,
+    "rank": 1380
+  },
+  {
+    "gpu": "GeForce GT 555M",
+    "score": 657,
+    "rank": 1381
+  },
+  {
+    "gpu": "GeForce GT 140",
+    "score": 657,
+    "rank": 1382
+  },
+  {
+    "gpu": "Radeon HD 7640G + 8750M Dual",
+    "score": 654,
+    "rank": 1383
+  },
+  {
+    "gpu": "Radeon HD 8550G + HD 8600/8700M Dual",
+    "score": 654,
+    "rank": 1384
+  },
+  {
+    "gpu": "Radeon HD 8650G + 8570M Dual",
+    "score": 654,
+    "rank": 1385
+  },
+  {
+    "gpu": "Radeon HD 8650G + HD 8750M Dual",
+    "score": 651,
+    "rank": 1386
+  },
+  {
+    "gpu": "GeForce GTS 360M",
+    "score": 651,
+    "rank": 1387
+  },
+  {
+    "gpu": "Radeon HD 7520G + HD 8750M Dual",
+    "score": 651,
+    "rank": 1388
+  },
+  {
+    "gpu": "GRID K1",
+    "score": 650,
+    "rank": 1389
+  },
+  {
+    "gpu": "SUMO 9640",
+    "score": 650,
+    "rank": 1390
+  },
+  {
+    "gpu": "Radeon R5 M430",
+    "score": 648,
+    "rank": 1391
+  },
+  {
+    "gpu": "FireStream 9170",
+    "score": 647,
+    "rank": 1392
+  },
+  {
+    "gpu": "Radeon HD 6670 + 6670 Dual",
+    "score": 646,
+    "rank": 1393
+  },
+  {
+    "gpu": "Radeon HD 5600/5700",
+    "score": 646,
+    "rank": 1394
+  },
+  {
+    "gpu": "Radeon HD 8610G + HD 8500M Dual",
+    "score": 645,
+    "rank": 1395
+  },
+  {
+    "gpu": "Radeon HD 7640G + 7670M Dual",
+    "score": 644,
+    "rank": 1396
+  },
+  {
+    "gpu": "FirePro V3900",
+    "score": 643,
+    "rank": 1397
+  },
+  {
+    "gpu": "Radeon HD 7540D + HD 6450 Dual",
+    "score": 643,
+    "rank": 1398
+  },
+  {
+    "gpu": "GeForce 8800 Ultra",
+    "score": 642,
+    "rank": 1399
+  },
+  {
+    "gpu": "Quadro K510M",
+    "score": 641,
+    "rank": 1400
+  },
+  {
+    "gpu": "Radeon R5 PRO A6-8570E 2C+4G",
+    "score": 637,
+    "rank": 1401
+  },
+  {
+    "gpu": "Radeon HD 7640G + 7400M Dual",
+    "score": 637,
+    "rank": 1402
+  },
+  {
+    "gpu": "Radeon HD 8450G + 8750M Dual",
+    "score": 637,
+    "rank": 1403
+  },
+  {
+    "gpu": "GeForce GTX 285M",
+    "score": 636,
+    "rank": 1404
+  },
+  {
+    "gpu": "GeForce 9800 S",
+    "score": 635,
+    "rank": 1405
+  },
+  {
+    "gpu": "GeForce GT 735M",
+    "score": 635,
+    "rank": 1406
+  },
+  {
+    "gpu": "Radeon HD 8650G + 8670M Dual",
+    "score": 635,
+    "rank": 1407
+  },
+  {
+    "gpu": "Radeon HD 8650G + HD 7670M Dual",
+    "score": 634,
+    "rank": 1408
+  },
+  {
+    "gpu": "Intel HD P4600/P4700",
+    "score": 634,
+    "rank": 1409
+  },
+  {
+    "gpu": "Radeon HD 7660D + HD 7000 Dual",
+    "score": 633,
+    "rank": 1410
+  },
+  {
+    "gpu": "Intel HD 515",
+    "score": 633,
+    "rank": 1411
+  },
+  {
+    "gpu": "Radeon HD 7610M",
+    "score": 632,
+    "rank": 1412
+  },
+  {
+    "gpu": "Radeon HD 7640G + HD 7700M N HD 7700M Dual",
+    "score": 630,
+    "rank": 1413
+  },
+  {
+    "gpu": "Radeon HD 7660G + 7470M Dual",
+    "score": 630,
+    "rank": 1414
+  },
+  {
+    "gpu": "GeForce GT 710",
+    "score": 630,
+    "rank": 1415
+  },
+  {
+    "gpu": "Radeon R7 PRO A10-9700B",
+    "score": 629,
+    "rank": 1416
+  },
+  {
+    "gpu": "Radeon HD 8510G + HD 8500M Dual",
+    "score": 629,
+    "rank": 1417
+  },
+  {
+    "gpu": "Intel HD 4600",
+    "score": 628,
+    "rank": 1418
+  },
+  {
+    "gpu": "GRID K160Q",
+    "score": 628,
+    "rank": 1419
+  },
+  {
+    "gpu": "Radeon HD 2900 PRO",
+    "score": 627,
+    "rank": 1420
+  },
+  {
+    "gpu": "Radeon HD 7640G + 7500/7600 Dual",
+    "score": 627,
+    "rank": 1421
+  },
+  {
+    "gpu": "Radeon HD 8650G + 8500M Dual",
+    "score": 626,
+    "rank": 1422
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "NVS 5400M",
+    "score": 625,
+    "rank": 1423
+  },
+  {
+    "gpu": "Intel HD 510",
+    "score": 625,
+    "rank": 1424
+  },
+  {
+    "gpu": "Radeon R5 PRO A10-8730B R5, 10 COMPUTE CORES 4C+6G",
+    "score": 624,
+    "rank": 1425
+  },
+  {
+    "gpu": "Radeon HD 7520G + HD 8600/8700M Dual",
+    "score": 623,
+    "rank": 1426
+  },
+  {
+    "gpu": "GeForce 810A",
+    "score": 622,
+    "rank": 1427
+  },
+  {
+    "gpu": "Radeon HD 7640G + HD 7400M Dual",
+    "score": 621,
+    "rank": 1428
+  },
+  {
+    "gpu": "Radeon HD 8570 + 8670D Dual",
+    "score": 620,
+    "rank": 1429
+  },
+  {
+    "gpu": "Radeon HD 8550G + R5 M200 Dual",
+    "score": 619,
+    "rank": 1430
+  },
+  {
+    "gpu": "Radeon R5 A10-9600P 4C+6G",
+    "score": 619,
+    "rank": 1431
+  },
+  {
+    "gpu": "Radeon R6",
+    "score": 617,
+    "rank": 1432
+  },
+  {
+    "gpu": "Radeon HD 8550G + 8600M Dual",
+    "score": 617,
+    "rank": 1433
+  },
+  {
+    "gpu": "Radeon HD 7570",
+    "score": 616,
+    "rank": 1434
+  },
+  {
+    "gpu": "Radeon HD 7500G + 7500M/7600M Dual",
+    "score": 616,
+    "rank": 1435
+  },
+  {
+    "gpu": "FireGL V7600",
+    "score": 615,
+    "rank": 1436
+  },
+  {
+    "gpu": "GeForce 720A",
+    "score": 614,
+    "rank": 1437
+  },
+  {
+    "gpu": "Radeon HD 8650G + 8600M Dual",
+    "score": 613,
+    "rank": 1438
+  },
+  {
+    "gpu": "Radeon HD 8550G N HD 8550G + HD 8600M N HD 8600M D",
+    "score": 611,
+    "rank": 1439
+  },
+  {
+    "gpu": "GeForce GT 720",
+    "score": 610,
+    "rank": 1440
+  },
+  {
+    "gpu": "7900 MOD - Radeon HD 6520G",
+    "score": 610,
+    "rank": 1441
+  },
+  {
+    "gpu": "Radeon HD 8610G + 8500M Dual",
+    "score": 610,
+    "rank": 1442
+  },
+  {
+    "gpu": "GeForce 9800 GTX/9800 GTX+",
+    "score": 608,
+    "rank": 1443
+  },
+  {
+    "gpu": "Radeon R7 A360",
+    "score": 607,
+    "rank": 1444
+  },
+  {
+    "gpu": "Radeon HD 7640G + HD 8500M Dual",
+    "score": 607,
+    "rank": 1445
+  },
+  {
+    "gpu": "Radeon HD 8650G + HD 8600M Dual",
+    "score": 606,
+    "rank": 1446
+  },
+  {
+    "gpu": "Radeon R6 M255DX",
+    "score": 605,
+    "rank": 1447
+  },
+  {
+    "gpu": "Radeon R5 A6-9400 RADEON R5, 6 COMPUTE CORES 2C+4G",
+    "score": 605,
+    "rank": 1448
+  },
+  {
+    "gpu": "Intel HD P4600",
+    "score": 604,
+    "rank": 1449
+  },
+  {
+    "gpu": "Radeon HD 8550G + 8500M Dual",
+    "score": 602,
+    "rank": 1450
+  },
+  {
+    "gpu": "GeForce GT 430",
+    "score": 601,
+    "rank": 1451
+  },
+  {
+    "gpu": "Radeon R8 M365DX",
+    "score": 601,
+    "rank": 1452
+  },
+  {
+    "gpu": "GeForce 910M",
+    "score": 601,
+    "rank": 1453
+  },
+  {
+    "gpu": "GeForce GTS 250",
+    "score": 600,
+    "rank": 1454
+  },
+  {
+    "gpu": "Radeon HD 8610G + 8670M Dual",
+    "score": 599,
+    "rank": 1455
+  },
+  {
+    "gpu": "Radeon R7 PRO A12-8800B",
+    "score": 597,
+    "rank": 1456
+  },
+  {
+    "gpu": "Radeon Vega 3 Athlon Gold 3150U",
+    "score": 597,
+    "rank": 1457
+  },
+  {
+    "gpu": "Matrox C420 LP PCIe x16",
+    "score": 597,
+    "rank": 1458
+  },
+  {
+    "gpu": "Radeon HD 8510G + 8500M Dual",
+    "score": 596,
+    "rank": 1459
+  },
+  {
+    "gpu": "Radeon R5 M330",
+    "score": 595,
+    "rank": 1460
+  },
+  {
+    "gpu": "Radeon HD 7640G + 7470M Dual",
+    "score": 595,
+    "rank": 1461
+  },
+  {
+    "gpu": "Qualcomm Adreno 7c+ Gen 3",
+    "score": 594,
+    "rank": 1462
+  },
+  {
+    "gpu": "Radeon R7 PRO A12-8830B",
+    "score": 593,
+    "rank": 1463
+  },
+  {
+    "gpu": "Radeon HD 8550G + HD 8600M Dual",
+    "score": 593,
+    "rank": 1464
+  },
+  {
+    "gpu": "Surface Duo Adreno 640 GPU",
+    "score": 592,
+    "rank": 1465
+  },
+  {
+    "gpu": "Radeon HD 7520G + 7600M Dual",
+    "score": 591,
+    "rank": 1466
+  },
+  {
+    "gpu": "Radeon R6 PRO A8-8600B R6, 10 Compute Cores 4C+6G",
+    "score": 590,
+    "rank": 1467
+  },
+  {
+    "gpu": "GeForce 8800 GTX",
+    "score": 590,
+    "rank": 1468
+  },
+  {
+    "gpu": "Radeon HD 7640G + HD 7700M Dual",
+    "score": 589,
+    "rank": 1469
+  },
+  {
+    "gpu": "Intel HD 5500",
+    "score": 588,
+    "rank": 1470
+  },
+  {
+    "gpu": "Radeon HD 8610G + 8600M Dual",
+    "score": 588,
+    "rank": 1471
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Radeon HD 7520G + 7610M Dual",
+    "score": 588,
+    "rank": 1472
+  },
+  {
+    "gpu": "Radeon HD 7660G + 7400M Dual",
+    "score": 588,
+    "rank": 1473
+  },
+  {
+    "gpu": "Radeon HD 7660G + 8670M Dual",
+    "score": 587,
+    "rank": 1474
+  },
+  {
+    "gpu": "Radeon HD 7640G + HD 8600/8700M Dual",
+    "score": 586,
+    "rank": 1475
+  },
+  {
+    "gpu": "Radeon R5 A6-8500P",
+    "score": 586,
+    "rank": 1476
+  },
+  {
+    "gpu": "Radeon HD 7640G + 8500M Dual",
+    "score": 585,
+    "rank": 1477
+  },
+  {
+    "gpu": "Quadro FX 3800M",
+    "score": 585,
+    "rank": 1478
+  },
+  {
+    "gpu": "Radeon HD 8650G + HD 8670M Dual",
+    "score": 585,
+    "rank": 1479
+  },
+  {
+    "gpu": "Radeon HD 7520G + 7500/7600 Dual",
+    "score": 582,
+    "rank": 1480
+  },
+  {
+    "gpu": "Intel HD 5000",
+    "score": 581,
+    "rank": 1481
+  },
+  {
+    "gpu": "GeForce GT 720A",
+    "score": 581,
+    "rank": 1482
+  },
+  {
+    "gpu": "Radeon HD 8550G + 8670M Dual",
+    "score": 579,
+    "rank": 1483
+  },
+  {
+    "gpu": "Radeon HD 8450G + R5 M230 Dual",
+    "score": 578,
+    "rank": 1484
+  },
+  {
+    "gpu": "Radeon HD 8610G + HD 8670M Dual",
+    "score": 577,
+    "rank": 1485
+  },
+  {
+    "gpu": "Radeon HD 7620G + 8670M Dual",
+    "score": 577,
+    "rank": 1486
+  },
+  {
+    "gpu": "Intel Skylake HD DT GT2",
+    "score": 576,
+    "rank": 1487
+  },
+  {
+    "gpu": "Radeon R5 A240",
+    "score": 576,
+    "rank": 1488
+  },
+  {
+    "gpu": "GeForce GTX 280M",
+    "score": 575,
+    "rank": 1489
+  },
+  {
+    "gpu": "Radeon HD 7520G + HD 7700M Dual",
+    "score": 574,
+    "rank": 1490
+  },
+  {
+    "gpu": "Radeon R5 420",
+    "score": 574,
+    "rank": 1491
+  },
+  {
+    "gpu": "Radeon HD 7520G N HD 7520G + HD 7500/7600 7500/760",
+    "score": 574,
+    "rank": 1492
+  },
+  {
+    "gpu": "GeForce GT 550M",
+    "score": 573,
+    "rank": 1493
+  },
+  {
+    "gpu": "GeForce GT 820M",
+    "score": 571,
+    "rank": 1494
+  },
+  {
+    "gpu": "Radeon HD 7650A",
+    "score": 571,
+    "rank": 1495
+  },
+  {
+    "gpu": "Quadro 500M",
+    "score": 570,
+    "rank": 1496
+  },
+  {
+    "gpu": "Radeon Vega 3 3020e",
+    "score": 570,
+    "rank": 1497
+  },
+  {
+    "gpu": "Radeon R6 + R7 M265DX Dual",
+    "score": 570,
+    "rank": 1498
+  },
+  {
+    "gpu": "Quadro 1000M",
+    "score": 569,
+    "rank": 1499
+  },
+  {
+    "gpu": "Radeon HD 7560D + 6450 Dual",
+    "score": 568,
+    "rank": 1500
+  },
+  {
+    "gpu": "GeForce 8800 GTS 512",
+    "score": 568,
+    "rank": 1501
+  },
+  {
+    "gpu": "Radeon R7 M360",
+    "score": 567,
+    "rank": 1502
+  },
+  {
+    "gpu": "Radeon HD 8550D",
+    "score": 566,
+    "rank": 1503
+  },
+  {
+    "gpu": "Radeon HD 6610M",
+    "score": 565,
+    "rank": 1504
+  },
+  {
+    "gpu": "Radeon R7E",
+    "score": 564,
+    "rank": 1505
+  },
+  {
+    "gpu": "Radeon HD 7560D + R5 235 Dual",
+    "score": 563,
+    "rank": 1506
+  },
+  {
+    "gpu": "Radeon R5 PRO A8-9600B R5, 10 COMPUTE CORES 4C+6G",
+    "score": 562,
+    "rank": 1507
+  },
+  {
+    "gpu": "GeForce GT 635M",
+    "score": 561,
+    "rank": 1508
+  },
+  {
+    "gpu": "Radeon HD 7640G + R5 M200 Dual",
+    "score": 559,
+    "rank": 1509
+  },
+  {
+    "gpu": "Radeon HD 8550G + HD 8500M Dual",
+    "score": 558,
+    "rank": 1510
+  },
+  {
+    "gpu": "Radeon HD 7640G + 8670M Dual",
+    "score": 558,
+    "rank": 1511
+  },
+  {
+    "gpu": "Radeon HD 7640G + 8570M Dual",
+    "score": 558,
+    "rank": 1512
+  },
+  {
+    "gpu": "Radeon HD 6570",
+    "score": 556,
+    "rank": 1513
+  },
+  {
+    "gpu": "GeForce GTS 240",
+    "score": 556,
+    "rank": 1514
+  },
+  {
+    "gpu": "GeForce 820A",
+    "score": 555,
+    "rank": 1515
+  },
+  {
+    "gpu": "Radeon Athlon PRO 3045B",
+    "score": 555,
+    "rank": 1516
+  },
+  {
+    "gpu": "Radeon HD 3870",
+    "score": 555,
+    "rank": 1517
+  },
+  {
+    "gpu": "GeForce 9800M GS",
+    "score": 554,
+    "rank": 1518
+  },
+  {
+    "gpu": "GF117",
+    "score": 554,
+    "rank": 1519
+  },
+  {
+    "gpu": "GeForce GTS 250M",
+    "score": 553,
+    "rank": 1520
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Radeon R7 7850A10-7850K",
+    "score": 551,
+    "rank": 1521
+  },
+  {
+    "gpu": "FireGL V8650",
+    "score": 550,
+    "rank": 1522
+  },
+  {
+    "gpu": "Radeon R5 M335",
+    "score": 548,
+    "rank": 1523
+  },
+  {
+    "gpu": "Radeon HD 8550G + HD 7600M Dual",
+    "score": 547,
+    "rank": 1524
+  },
+  {
+    "gpu": "Mobility Radeon HD 3870",
+    "score": 547,
+    "rank": 1525
+  },
+  {
+    "gpu": "FirePro 3D V5700",
+    "score": 546,
+    "rank": 1526
+  },
+  {
+    "gpu": "Radeon HD 8550G + HD 8670M Dual",
+    "score": 546,
+    "rank": 1527
+  },
+  {
+    "gpu": "Radeon R7 M265",
+    "score": 545,
+    "rank": 1528
+  },
+  {
+    "gpu": "GeForce 615",
+    "score": 545,
+    "rank": 1529
+  },
+  {
+    "gpu": "Radeon HD 8450G + 8600M Dual",
+    "score": 545,
+    "rank": 1530
+  },
+  {
+    "gpu": "FirePro 3D V7750",
+    "score": 545,
+    "rank": 1531
+  },
+  {
+    "gpu": "Radeon HD 7520G + HD 7400M Dual",
+    "score": 544,
+    "rank": 1532
+  },
+  {
+    "gpu": "Radeon Vega 2 Athlon Silver 3050U",
+    "score": 544,
+    "rank": 1533
+  },
+  {
+    "gpu": "Radeon HD 7600G + HD 8670M Dual",
+    "score": 543,
+    "rank": 1534
+  },
+  {
+    "gpu": "Quadro FX 2700",
+    "score": 543,
+    "rank": 1535
+  },
+  {
+    "gpu": "Radeon HD 7520G + 7470M Dual",
+    "score": 542,
+    "rank": 1536
+  },
+  {
+    "gpu": "Radeon R6 PRO A10-8700B R6, 10 Compute Cores 4C+6G",
+    "score": 540,
+    "rank": 1537
+  },
+  {
+    "gpu": "GeForce GT 630M",
+    "score": 540,
+    "rank": 1538
+  },
+  {
+    "gpu": "Qualcomm Adreno 675 GPU",
+    "score": 539,
+    "rank": 1539
+  },
+  {
+    "gpu": "Radeon R5 240",
+    "score": 539,
+    "rank": 1540
+  },
+  {
+    "gpu": "GeForce GT 435M",
+    "score": 539,
+    "rank": 1541
+  },
+  {
+    "gpu": "Radeon R6 PRO A10-8700B 4C+6G",
+    "score": 538,
+    "rank": 1542
+  },
+  {
+    "gpu": "Radeon R6 A10-8700P",
+    "score": 537,
+    "rank": 1543
+  },
+  {
+    "gpu": "Quadro 600",
+    "score": 534,
+    "rank": 1544
+  },
+  {
+    "gpu": "Radeon HD 7560D + HD 7000 Dual",
+    "score": 534,
+    "rank": 1545
+  },
+  {
+    "gpu": "Radeon R5 M255",
+    "score": 534,
+    "rank": 1546
+  },
+  {
+    "gpu": "GRID K180Q",
+    "score": 533,
+    "rank": 1547
+  },
+  {
+    "gpu": "Radeon HD 8670D",
+    "score": 532,
+    "rank": 1548
+  },
+  {
+    "gpu": "Radeon HD 8550G + 8570M Dual",
+    "score": 532,
+    "rank": 1549
+  },
+  {
+    "gpu": "Radeon R6 PRO A8-8600B 4C+6G",
+    "score": 531,
+    "rank": 1550
+  },
+  {
+    "gpu": "RADEON HD6530D",
+    "score": 531,
+    "rank": 1551
+  },
+  {
+    "gpu": "Radeon HD 8550G + HD 8570M Dual",
+    "score": 529,
+    "rank": 1552
+  },
+  {
+    "gpu": "GeForce GT 425M",
+    "score": 527,
+    "rank": 1553
+  },
+  {
+    "gpu": "Mobility Radeon HD 5570",
+    "score": 527,
+    "rank": 1554
+  },
+  {
+    "gpu": "Radeon HD 7640G + 6400M Dual",
+    "score": 526,
+    "rank": 1555
+  },
+  {
+    "gpu": "Radeon HD 8650G",
+    "score": 526,
+    "rank": 1556
+  },
+  {
+    "gpu": "Radeon HD 7600G N HD 7600G + HD ON HD Dual",
+    "score": 526,
+    "rank": 1557
+  },
+  {
+    "gpu": "Quadro FX 5600",
+    "score": 525,
+    "rank": 1558
+  },
+  {
+    "gpu": "Radeon 6600M",
+    "score": 524,
+    "rank": 1559
+  },
+  {
+    "gpu": "Radeon HD 7660D + R5 235 Dual",
+    "score": 523,
+    "rank": 1560
+  },
+  {
+    "gpu": "Radeon HD 7660G + HD 7600M Dual",
+    "score": 523,
+    "rank": 1561
+  },
+  {
+    "gpu": "Radeon HD 7520G + 7670M Dual",
+    "score": 523,
+    "rank": 1562
+  },
+  {
+    "gpu": "Intel HD 4400",
+    "score": 520,
+    "rank": 1563
+  },
+  {
+    "gpu": "Radeon R5 330",
+    "score": 520,
+    "rank": 1564
+  },
+  {
+    "gpu": "Radeon HD 8670M",
+    "score": 520,
+    "rank": 1565
+  },
+  {
+    "gpu": "Radeon HD 7640G + HD 7670M Dual",
+    "score": 518,
+    "rank": 1566
+  },
+  {
+    "gpu": "IncrediblE HD 4000",
+    "score": 517,
+    "rank": 1567
+  },
+  {
+    "gpu": "Intel HD P4000",
+    "score": 516,
+    "rank": 1568
+  },
+  {
+    "gpu": "NVS 5200M",
+    "score": 513,
+    "rank": 1569
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Mobility Radeon HD 4830",
+    "score": 511,
+    "rank": 1570
+  },
+  {
+    "gpu": "Radeon HD 7640G + 7610M Dual",
+    "score": 510,
+    "rank": 1571
+  },
+  {
+    "gpu": "GeForce GT 240",
+    "score": 509,
+    "rank": 1572
+  },
+  {
+    "gpu": "Radeon HD 7600G + HD 7550M Dual",
+    "score": 509,
+    "rank": 1573
+  },
+  {
+    "gpu": "Radeon HD 7620G + 8600M Dual",
+    "score": 508,
+    "rank": 1574
+  },
+  {
+    "gpu": "Radeon R5 PRO A6-8500B 2C+4G",
+    "score": 508,
+    "rank": 1575
+  },
+  {
+    "gpu": "Radeon Vega 3 Athlon Silver 3050e",
+    "score": 507,
+    "rank": 1576
+  },
+  {
+    "gpu": "Radeon HD 7620G + HD 8670M Dual",
+    "score": 507,
+    "rank": 1577
+  },
+  {
+    "gpu": "GeForce 9800 GTX+",
+    "score": 506,
+    "rank": 1578
+  },
+  {
+    "gpu": "Radeon Vega 2",
+    "score": 506,
+    "rank": 1579
+  },
+  {
+    "gpu": "GeForce GTS 150M",
+    "score": 504,
+    "rank": 1580
+  },
+  {
+    "gpu": "Radeon HD 8450G + HD 8750M Dual",
+    "score": 503,
+    "rank": 1581
+  },
+  {
+    "gpu": "Radeon HD 7660D",
+    "score": 503,
+    "rank": 1582
+  },
+  {
+    "gpu": "Mobility Radeon HD 5730",
+    "score": 500,
+    "rank": 1583
+  },
+  {
+    "gpu": "GeForce 820M",
+    "score": 498,
+    "rank": 1584
+  },
+  {
+    "gpu": "Radeon R7 M265DX",
+    "score": 498,
+    "rank": 1585
+  },
+  {
+    "gpu": "TRINITY SCRAPPER MOBILE",
+    "score": 498,
+    "rank": 1586
+  },
+  {
+    "gpu": "SUMO 964A",
+    "score": 497,
+    "rank": 1587
+  },
+  {
+    "gpu": "Radeon HD 7500G + 7550M Dual",
+    "score": 497,
+    "rank": 1588
+  },
+  {
+    "gpu": "ASUS EAH4870x2",
+    "score": 496,
+    "rank": 1589
+  },
+  {
+    "gpu": "Radeon HD 8690A",
+    "score": 495,
+    "rank": 1590
+  },
+  {
+    "gpu": "Radeon R7 M260",
+    "score": 495,
+    "rank": 1591
+  },
+  {
+    "gpu": "Radeon HD 7520G + HD 7670M Dual",
+    "score": 495,
+    "rank": 1592
+  },
+  {
+    "gpu": "Radeon R5 M420",
+    "score": 492,
+    "rank": 1593
+  },
+  {
+    "gpu": "Radeon HD8530M",
+    "score": 490,
+    "rank": 1594
+  },
+  {
+    "gpu": "Radeon HD 8670D N HD 8670D + HD 8670D Dual",
+    "score": 488,
+    "rank": 1595
+  },
+  {
+    "gpu": "Radeon HD 8550G + R5 M230 Dual",
+    "score": 487,
+    "rank": 1596
+  },
+  {
+    "gpu": "GeForce 9600 GT",
+    "score": 487,
+    "rank": 1597
+  },
+  {
+    "gpu": "Radeon R4E",
+    "score": 487,
+    "rank": 1598
+  },
+  {
+    "gpu": "Radeon HD 7520G + 7400M Dual",
+    "score": 486,
+    "rank": 1599
+  },
+  {
+    "gpu": "GeForce 8800 GT",
+    "score": 481,
+    "rank": 1600
+  },
+  {
+    "gpu": "Radeon HD 8610G + HD 8600M Dual",
+    "score": 480,
+    "rank": 1601
+  },
+  {
+    "gpu": "Radeon HD 5570",
+    "score": 479,
+    "rank": 1602
+  },
+  {
+    "gpu": "Mobility Radeon HD 5000 Serisi",
+    "score": 478,
+    "rank": 1603
+  },
+  {
+    "gpu": "GeForce GT 625M",
+    "score": 478,
+    "rank": 1604
+  },
+  {
+    "gpu": "GeForce GT 540M",
+    "score": 478,
+    "rank": 1605
+  },
+  {
+    "gpu": "Radeon R5 PRO A6-8500B R5, 6 Compute Cores 2C+4G",
+    "score": 478,
+    "rank": 1606
+  },
+  {
+    "gpu": "Mobility Radeon HD 3870 X2",
+    "score": 477,
+    "rank": 1607
+  },
+  {
+    "gpu": "Radeon HD 8450G + HD 8670M Dual",
+    "score": 477,
+    "rank": 1608
+  },
+  {
+    "gpu": "Radeon R5 M315",
+    "score": 477,
+    "rank": 1609
+  },
+  {
+    "gpu": "Radeon HD 7600G + HD 7500M/7600M Dual",
+    "score": 476,
+    "rank": 1610
+  },
+  {
+    "gpu": "GeForce 800A",
+    "score": 476,
+    "rank": 1611
+  },
+  {
+    "gpu": "Radeon HD 7670M",
+    "score": 475,
+    "rank": 1612
+  },
+  {
+    "gpu": "GeForce 710A",
+    "score": 475,
+    "rank": 1613
+  },
+  {
+    "gpu": "Radeon R6 A8-8600P",
+    "score": 474,
+    "rank": 1614
+  },
+  {
+    "gpu": "Radeon HD 8450G + 8670M Dual",
+    "score": 474,
+    "rank": 1615
+  },
+  {
+    "gpu": "Radeon HD 7640G + HD 8570M Dual",
+    "score": 474,
+    "rank": 1616
+  },
+  {
+    "gpu": "FirePro 3D V3800",
+    "score": 472,
+    "rank": 1617
+  },
+  {
+    "gpu": "Radeon HD 7660G",
+    "score": 471,
+    "rank": 1618
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Radeon HD 8570D + R5 235 Dual",
+    "score": 470,
+    "rank": 1619
+  },
+  {
+    "gpu": "Quadro FX 3600M",
+    "score": 466,
+    "rank": 1620
+  },
+  {
+    "gpu": "Quadro FX 1800M",
+    "score": 466,
+    "rank": 1621
+  },
+  {
+    "gpu": "SUMO 9644",
+    "score": 465,
+    "rank": 1622
+  },
+  {
+    "gpu": "Radeon HD 7660D + 7470 Dual",
+    "score": 465,
+    "rank": 1623
+  },
+  {
+    "gpu": "Radeon HD 7550M",
+    "score": 464,
+    "rank": 1624
+  },
+  {
+    "gpu": "GeForce GT 320",
+    "score": 464,
+    "rank": 1625
+  },
+  {
+    "gpu": "FirePro V5700",
+    "score": 464,
+    "rank": 1626
+  },
+  {
+    "gpu": "GeForce 9800 GT",
+    "score": 463,
+    "rank": 1627
+  },
+  {
+    "gpu": "Mobility Radeon HD 4670",
+    "score": 463,
+    "rank": 1628
+  },
+  {
+    "gpu": "Radeon 3020e",
+    "score": 463,
+    "rank": 1629
+  },
+  {
+    "gpu": "GeForce GT 720M",
+    "score": 462,
+    "rank": 1630
+  },
+  {
+    "gpu": "GeForce 8800M GTX",
+    "score": 462,
+    "rank": 1631
+  },
+  {
+    "gpu": "GeForce 710M",
+    "score": 460,
+    "rank": 1632
+  },
+  {
+    "gpu": "GeForce GT 525M",
+    "score": 460,
+    "rank": 1633
+  },
+  {
+    "gpu": "Radeon HD 7660G + HD 7600M N HD 7600M Dual",
+    "score": 460,
+    "rank": 1634
+  },
+  {
+    "gpu": "Intel HD Family",
+    "score": 459,
+    "rank": 1635
+  },
+  {
+    "gpu": "Radeon HD 7640G",
+    "score": 459,
+    "rank": 1636
+  },
+  {
+    "gpu": "GeForce 800M",
+    "score": 457,
+    "rank": 1637
+  },
+  {
+    "gpu": "GeForce GT625M",
+    "score": 457,
+    "rank": 1638
+  },
+  {
+    "gpu": "Radeon HD 7560D",
+    "score": 456,
+    "rank": 1639
+  },
+  {
+    "gpu": "Quadro FX 3700M",
+    "score": 456,
+    "rank": 1640
+  },
+  {
+    "gpu": "GeForce 705M",
+    "score": 455,
+    "rank": 1641
+  },
+  {
+    "gpu": "GeForce 9800M GTX",
+    "score": 454,
+    "rank": 1642
+  },
+  {
+    "gpu": "Radeon HD 7520G + 7650M Dual",
+    "score": 453,
+    "rank": 1643
+  },
+  {
+    "gpu": "Radeon HD 8450G + HD 8600M Dual",
+    "score": 452,
+    "rank": 1644
+  },
+  {
+    "gpu": "Radeon HD 7620G N HD 7620G + HD 8600M N HD 8600M D",
+    "score": 451,
+    "rank": 1645
+  },
+  {
+    "gpu": "Radeon R5 M240",
+    "score": 449,
+    "rank": 1646
+  },
+  {
+    "gpu": "Mobility Radeon HD 5650",
+    "score": 449,
+    "rank": 1647
+  },
+  {
+    "gpu": "Radeon HD 7520G + HD 7600M Dual",
+    "score": 447,
+    "rank": 1648
+  },
+  {
+    "gpu": "Radeon HD 7660G + 8600M Dual",
+    "score": 445,
+    "rank": 1649
+  },
+  {
+    "gpu": "PHDGD Ivy 5",
+    "score": 445,
+    "rank": 1650
+  },
+  {
+    "gpu": "GeForce GT 710M",
+    "score": 445,
+    "rank": 1651
+  },
+  {
+    "gpu": "Radeon R5 M320",
+    "score": 444,
+    "rank": 1652
+  },
+  {
+    "gpu": "Radeon HD 8570D",
+    "score": 443,
+    "rank": 1653
+  },
+  {
+    "gpu": "Radeon HD 7620G + HD 8600M Dual",
+    "score": 442,
+    "rank": 1654
+  },
+  {
+    "gpu": "Radeon HD 7650M",
+    "score": 442,
+    "rank": 1655
+  },
+  {
+    "gpu": "Radeon HD 8570M",
+    "score": 441,
+    "rank": 1656
+  },
+  {
+    "gpu": "Quadro 410",
+    "score": 438,
+    "rank": 1657
+  },
+  {
+    "gpu": "GeForce GT 620M",
+    "score": 436,
+    "rank": 1658
+  },
+  {
+    "gpu": "Radeon HD 7600G + HD Dual",
+    "score": 435,
+    "rank": 1659
+  },
+  {
+    "gpu": "Radeon HD 8410G",
+    "score": 435,
+    "rank": 1660
+  },
+  {
+    "gpu": "Radeon HD 3850 AGP",
+    "score": 432,
+    "rank": 1661
+  },
+  {
+    "gpu": "Quadro FX 4600",
+    "score": 430,
+    "rank": 1662
+  },
+  {
+    "gpu": "Radeon HD 7570M",
+    "score": 428,
+    "rank": 1663
+  },
+  {
+    "gpu": "Radeon HD 8610G",
+    "score": 425,
+    "rank": 1664
+  },
+  {
+    "gpu": "FirePro M2000",
+    "score": 424,
+    "rank": 1665
+  },
+  {
+    "gpu": "Radeon HD 7640G + HD 7500/7600 Dual",
+    "score": 423,
+    "rank": 1666
+  },
+  {
+    "gpu": "GeForce GT 420",
+    "score": 423,
+    "rank": 1667
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Radeon HD 7600G + 7550M Dual",
+    "score": 423,
+    "rank": 1668
+  },
+  {
+    "gpu": "RADEON HD6410D",
+    "score": 422,
+    "rank": 1669
+  },
+  {
+    "gpu": "Radeon HD 7640G N HD 7640G + HD 8570M Dual",
+    "score": 422,
+    "rank": 1670
+  },
+  {
+    "gpu": "Intel 4th Generation Haswell HD",
+    "score": 419,
+    "rank": 1671
+  },
+  {
+    "gpu": "Radeon HD 8500M",
+    "score": 418,
+    "rank": 1672
+  },
+  {
+    "gpu": "GeForce 8800 GTS",
+    "score": 418,
+    "rank": 1673
+  },
+  {
+    "gpu": "Radeon R5 M230",
+    "score": 415,
+    "rank": 1674
+  },
+  {
+    "gpu": "Quadro FX 2800M",
+    "score": 413,
+    "rank": 1675
+  },
+  {
+    "gpu": "Radeon HD 8550G",
+    "score": 410,
+    "rank": 1676
+  },
+  {
+    "gpu": "Radeon R5 PRO A6-9500B R5, 6 COMPUTE CORES 2C+4G",
+    "score": 408,
+    "rank": 1677
+  },
+  {
+    "gpu": "GeForce GTS 350M",
+    "score": 407,
+    "rank": 1678
+  },
+  {
+    "gpu": "Radeon HD 7470M",
+    "score": 407,
+    "rank": 1679
+  },
+  {
+    "gpu": "Radeon HD 7640G + HD 7600M N HD 7600M Dual",
+    "score": 406,
+    "rank": 1680
+  },
+  {
+    "gpu": "Radeon HD 7600G + 7500M/7600M Dual",
+    "score": 405,
+    "rank": 1681
+  },
+  {
+    "gpu": "RADEON E4690",
+    "score": 405,
+    "rank": 1682
+  },
+  {
+    "gpu": "GeForce GT 420M",
+    "score": 405,
+    "rank": 1683
+  },
+  {
+    "gpu": "GeForce 810M",
+    "score": 404,
+    "rank": 1684
+  },
+  {
+    "gpu": "Quadro FX 1800",
+    "score": 403,
+    "rank": 1685
+  },
+  {
+    "gpu": "Mobility Radeon HD 4650",
+    "score": 401,
+    "rank": 1686
+  },
+  {
+    "gpu": "Radeon HD 6550D",
+    "score": 400,
+    "rank": 1687
+  },
+  {
+    "gpu": "GeForce GT 330",
+    "score": 397,
+    "rank": 1688
+  },
+  {
+    "gpu": "Radeon HD 8650D",
+    "score": 396,
+    "rank": 1689
+  },
+  {
+    "gpu": "Radeon R5 Opteron X3216",
+    "score": 394,
+    "rank": 1690
+  },
+  {
+    "gpu": "Radeon HD 3850",
+    "score": 392,
+    "rank": 1691
+  },
+  {
+    "gpu": "Intel HD 5300",
+    "score": 391,
+    "rank": 1692
+  },
+  {
+    "gpu": "Radeon HD 7600G + 7450M Dual",
+    "score": 389,
+    "rank": 1693
+  },
+  {
+    "gpu": "IncrediblE HD",
+    "score": 389,
+    "rank": 1694
+  },
+  {
+    "gpu": "GeForce 7900 GTX",
+    "score": 387,
+    "rank": 1695
+  },
+  {
+    "gpu": "GeForce GT 335M",
+    "score": 384,
+    "rank": 1696
+  },
+  {
+    "gpu": "GeForce 8800M GTS",
+    "score": 382,
+    "rank": 1697
+  },
+  {
+    "gpu": "GeForce 9800M GT",
+    "score": 381,
+    "rank": 1698
+  },
+  {
+    "gpu": "GeForce GT 130",
+    "score": 381,
+    "rank": 1699
+  },
+  {
+    "gpu": "Radeon HD 4670",
+    "score": 380,
+    "rank": 1700
+  },
+  {
+    "gpu": "GeForce GTX 260M",
+    "score": 379,
+    "rank": 1701
+  },
+  {
+    "gpu": "Quadro FX 3700",
+    "score": 377,
+    "rank": 1702
+  },
+  {
+    "gpu": "Radeon HD 6490M",
+    "score": 377,
+    "rank": 1703
+  },
+  {
+    "gpu": "GeForce GT 620",
+    "score": 377,
+    "rank": 1704
+  },
+  {
+    "gpu": "Radeon HD 7520G + 8750M Dual",
+    "score": 376,
+    "rank": 1705
+  },
+  {
+    "gpu": "Radeon HD 7600G + 6400M Dual",
+    "score": 376,
+    "rank": 1706
+  },
+  {
+    "gpu": "Radeon HD 5550",
+    "score": 376,
+    "rank": 1707
+  },
+  {
+    "gpu": "GeForce 9800M GTS",
+    "score": 376,
+    "rank": 1708
+  },
+  {
+    "gpu": "Radeon HD 8570D + HD8490 Dual",
+    "score": 374,
+    "rank": 1709
+  },
+  {
+    "gpu": "PHDGD Ivy 4",
+    "score": 374,
+    "rank": 1710
+  },
+  {
+    "gpu": "Intel UHD Graphics 605",
+    "score": 371,
+    "rank": 1711
+  },
+  {
+    "gpu": "Radeon 3015e",
+    "score": 370,
+    "rank": 1712
+  },
+  {
+    "gpu": "Quadro FX 2700M",
+    "score": 370,
+    "rank": 1713
+  },
+  {
+    "gpu": "GeForce GT 610M / GT 620M / GT 710M / GT 720M / GT",
+    "score": 368,
+    "rank": 1714
+  },
+  {
+    "gpu": "Matrox Millennium P690 PCIe x16",
+    "score": 366,
+    "rank": 1715
+  },
+  {
+    "gpu": "Radeon HD4670",
+    "score": 365,
+    "rank": 1716
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Mobility Radeon HD 3850",
+    "score": 365,
+    "rank": 1717
+  },
+  {
+    "gpu": "Radeon HD 7520G N HD 7520G + HD 7600M N HD 7600M D",
+    "score": 364,
+    "rank": 1718
+  },
+  {
+    "gpu": "Radeon HD 8470D",
+    "score": 364,
+    "rank": 1719
+  },
+  {
+    "gpu": "Radeon HD 7620G",
+    "score": 363,
+    "rank": 1720
+  },
+  {
+    "gpu": "Radeon HD 7660G + HD 8600M Dual",
+    "score": 363,
+    "rank": 1721
+  },
+  {
+    "gpu": "Radeon Vega 3 Ryzen Embedded R1305G",
+    "score": 358,
+    "rank": 1722
+  },
+  {
+    "gpu": "Radeon HD 8510G",
+    "score": 356,
+    "rank": 1723
+  },
+  {
+    "gpu": "Radeon HD 7500G + HD 7500M/7600M Dual",
+    "score": 355,
+    "rank": 1724
+  },
+  {
+    "gpu": "Intel HD 505",
+    "score": 354,
+    "rank": 1725
+  },
+  {
+    "gpu": "GeForce GT 625",
+    "score": 353,
+    "rank": 1726
+  },
+  {
+    "gpu": "Radeon HD 6480M",
+    "score": 353,
+    "rank": 1727
+  },
+  {
+    "gpu": "Mobility Radeon HD 565v",
+    "score": 353,
+    "rank": 1728
+  },
+  {
+    "gpu": "ZX C-1080",
+    "score": 351,
+    "rank": 1729
+  },
+  {
+    "gpu": "Radeon HD 7580D",
+    "score": 350,
+    "rank": 1730
+  },
+  {
+    "gpu": "Radeon HD 8450G",
+    "score": 348,
+    "rank": 1731
+  },
+  {
+    "gpu": "Intel HD 4000",
+    "score": 345,
+    "rank": 1732
+  },
+  {
+    "gpu": "GeForce 7950 GT",
+    "score": 344,
+    "rank": 1733
+  },
+  {
+    "gpu": "FirePro 3D V3750",
+    "score": 341,
+    "rank": 1734
+  },
+  {
+    "gpu": "Radeon HD 6620G",
+    "score": 341,
+    "rank": 1735
+  },
+  {
+    "gpu": "FireGL V5600",
+    "score": 341,
+    "rank": 1736
+  },
+  {
+    "gpu": "Radeon HD 8310E",
+    "score": 340,
+    "rank": 1737
+  },
+  {
+    "gpu": "Radeon HD 7660D + HD 7400 Dual",
+    "score": 339,
+    "rank": 1738
+  },
+  {
+    "gpu": "Radeon HD 8570D + HD 8470 Dual",
+    "score": 338,
+    "rank": 1739
+  },
+  {
+    "gpu": "Radeon HD 6530D",
+    "score": 337,
+    "rank": 1740
+  },
+  {
+    "gpu": "Radeon R5 235",
+    "score": 336,
+    "rank": 1741
+  },
+  {
+    "gpu": "FirePro RG220",
+    "score": 335,
+    "rank": 1742
+  },
+  {
+    "gpu": "Radeon R4",
+    "score": 334,
+    "rank": 1743
+  },
+  {
+    "gpu": "Radeon HD 7600G + 8500M/8700M Dual",
+    "score": 333,
+    "rank": 1744
+  },
+  {
+    "gpu": "Radeon R5 310",
+    "score": 331,
+    "rank": 1745
+  },
+  {
+    "gpu": "GeForce GT 705",
+    "score": 331,
+    "rank": 1746
+  },
+  {
+    "gpu": "Radeon HD 7540D",
+    "score": 330,
+    "rank": 1747
+  },
+  {
+    "gpu": "GeForce 8800 GS",
+    "score": 330,
+    "rank": 1748
+  },
+  {
+    "gpu": "GeForce 9600 GSO 512",
+    "score": 329,
+    "rank": 1749
+  },
+  {
+    "gpu": "Radeon HD 7450M",
+    "score": 329,
+    "rank": 1750
+  },
+  {
+    "gpu": "Radeon HD 7600G + HD 7400M Dual",
+    "score": 328,
+    "rank": 1751
+  },
+  {
+    "gpu": "Radeon HD 7600G",
+    "score": 327,
+    "rank": 1752
+  },
+  {
+    "gpu": "GeForce 9600 GSO",
+    "score": 327,
+    "rank": 1753
+  },
+  {
+    "gpu": "GeForce GT 120 / 9500 GT",
+    "score": 324,
+    "rank": 1754
+  },
+  {
+    "gpu": "Radeon E6460",
+    "score": 323,
+    "rank": 1755
+  },
+  {
+    "gpu": "GeForce GT 230",
+    "score": 323,
+    "rank": 1756
+  },
+  {
+    "gpu": "Intel UHD Graphics 600",
+    "score": 321,
+    "rank": 1757
+  },
+  {
+    "gpu": "FirePro V3800",
+    "score": 320,
+    "rank": 1758
+  },
+  {
+    "gpu": "RADEON HD6370D",
+    "score": 320,
+    "rank": 1759
+  },
+  {
+    "gpu": "GeForce 605",
+    "score": 320,
+    "rank": 1760
+  },
+  {
+    "gpu": "GeForce 240M GT",
+    "score": 319,
+    "rank": 1761
+  },
+  {
+    "gpu": "Mobility Radeon HD 560v",
+    "score": 318,
+    "rank": 1762
+  },
+  {
+    "gpu": "Radeon HD 7520G",
+    "score": 315,
+    "rank": 1763
+  },
+  {
+    "gpu": "Radeon HD 8370D",
+    "score": 314,
+    "rank": 1764
+  },
+  {
+    "gpu": "Radeon HD 7520G + 8600/8700M Dual",
+    "score": 311,
+    "rank": 1765
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "GeForce GT 520",
+    "score": 310,
+    "rank": 1766
+  },
+  {
+    "gpu": "Radeon HD 7420G",
+    "score": 308,
+    "rank": 1767
+  },
+  {
+    "gpu": "GeForce GT 610",
+    "score": 308,
+    "rank": 1768
+  },
+  {
+    "gpu": "Radeon HD 7500G",
+    "score": 307,
+    "rank": 1769
+  },
+  {
+    "gpu": "Quadro FX 3500M",
+    "score": 306,
+    "rank": 1770
+  },
+  {
+    "gpu": "Radeon R3",
+    "score": 304,
+    "rank": 1771
+  },
+  {
+    "gpu": "Radeon HD 8350G",
+    "score": 304,
+    "rank": 1772
+  },
+  {
+    "gpu": "NVS 315",
+    "score": 301,
+    "rank": 1773
+  },
+  {
+    "gpu": "Radeon R1E",
+    "score": 301,
+    "rank": 1774
+  },
+  {
+    "gpu": "Radeon HD 6520G",
+    "score": 299,
+    "rank": 1775
+  },
+  {
+    "gpu": "Intel HD 500",
+    "score": 299,
+    "rank": 1776
+  },
+  {
+    "gpu": "Radeon R5E",
+    "score": 296,
+    "rank": 1777
+  },
+  {
+    "gpu": "GRID K120Q",
+    "score": 293,
+    "rank": 1778
+  },
+  {
+    "gpu": "GeForce 9600M GT / GeForce GT 220M",
+    "score": 293,
+    "rank": 1779
+  },
+  {
+    "gpu": "Radeon HD 2900 GT",
+    "score": 292,
+    "rank": 1780
+  },
+  {
+    "gpu": "GeForce 610M",
+    "score": 291,
+    "rank": 1781
+  },
+  {
+    "gpu": "GeForce 7800 GTX",
+    "score": 290,
+    "rank": 1782
+  },
+  {
+    "gpu": "Radeon HD 7470",
+    "score": 289,
+    "rank": 1783
+  },
+  {
+    "gpu": "Radeon HD 7450A",
+    "score": 288,
+    "rank": 1784
+  },
+  {
+    "gpu": "GeForce 7950 Xtreme",
+    "score": 287,
+    "rank": 1785
+  },
+  {
+    "gpu": "Intel HD P3000",
+    "score": 286,
+    "rank": 1786
+  },
+  {
+    "gpu": "GeForce GT 415M",
+    "score": 286,
+    "rank": 1787
+  },
+  {
+    "gpu": "Mobility Radeon HD 5165",
+    "score": 284,
+    "rank": 1788
+  },
+  {
+    "gpu": "Qualcomm Adreno 630 GPU",
+    "score": 282,
+    "rank": 1789
+  },
+  {
+    "gpu": "Radeon HD 2600 XT",
+    "score": 282,
+    "rank": 1790
+  },
+  {
+    "gpu": "GeForce 9600 GS",
+    "score": 281,
+    "rank": 1791
+  },
+  {
+    "gpu": "GeForce GT 520MX",
+    "score": 281,
+    "rank": 1792
+  },
+  {
+    "gpu": "GeForce GT 520M",
+    "score": 280,
+    "rank": 1793
+  },
+  {
+    "gpu": "Radeon HD 7480D",
+    "score": 278,
+    "rank": 1794
+  },
+  {
+    "gpu": "GeForce 9700M GTS",
+    "score": 278,
+    "rank": 1795
+  },
+  {
+    "gpu": "Radeon R5 235X",
+    "score": 277,
+    "rank": 1796
+  },
+  {
+    "gpu": "NVS 4200M",
+    "score": 277,
+    "rank": 1797
+  },
+  {
+    "gpu": "Radeon HD 6370M",
+    "score": 275,
+    "rank": 1798
+  },
+  {
+    "gpu": "Radeon HD 8400E",
+    "score": 275,
+    "rank": 1799
+  },
+  {
+    "gpu": "RDPDD Chained DD",
+    "score": 270,
+    "rank": 1800
+  },
+  {
+    "gpu": "GeForce Go 7900 GTX",
+    "score": 270,
+    "rank": 1801
+  },
+  {
+    "gpu": "GeForce 9650M GS",
+    "score": 270,
+    "rank": 1802
+  },
+  {
+    "gpu": "Radeon HD 8280G",
+    "score": 269,
+    "rank": 1803
+  },
+  {
+    "gpu": "Radeon HD 5470",
+    "score": 268,
+    "rank": 1804
+  },
+  {
+    "gpu": "Radeon HD 7400G",
+    "score": 267,
+    "rank": 1805
+  },
+  {
+    "gpu": "Mobility Radeon HD 550v",
+    "score": 266,
+    "rank": 1806
+  },
+  {
+    "gpu": "GeForce Go 7950 GTX",
+    "score": 263,
+    "rank": 1807
+  },
+  {
+    "gpu": "Radeon HD 8490",
+    "score": 263,
+    "rank": 1808
+  },
+  {
+    "gpu": "Radeon HD 8400",
+    "score": 261,
+    "rank": 1809
+  },
+  {
+    "gpu": "Radeon HD 8280",
+    "score": 260,
+    "rank": 1810
+  },
+  {
+    "gpu": "Radeon HD 8330",
+    "score": 260,
+    "rank": 1811
+  },
+  {
+    "gpu": "Radeon HD 6450A",
+    "score": 260,
+    "rank": 1812
+  },
+  {
+    "gpu": "Quadro FX 3500",
+    "score": 259,
+    "rank": 1813
+  },
+  {
+    "gpu": "GeForce 7900 GT",
+    "score": 258,
+    "rank": 1814
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "GeForce 410M",
+    "score": 257,
+    "rank": 1815
+  },
+  {
+    "gpu": "Radeon HD 6480G",
+    "score": 256,
+    "rank": 1816
+  },
+  {
+    "gpu": "Intel HD 3000",
+    "score": 255,
+    "rank": 1817
+  },
+  {
+    "gpu": "GeForce 510",
+    "score": 254,
+    "rank": 1818
+  },
+  {
+    "gpu": "Radeon HD 6370D",
+    "score": 254,
+    "rank": 1819
+  },
+  {
+    "gpu": "GeForce 7900 GS",
+    "score": 253,
+    "rank": 1820
+  },
+  {
+    "gpu": "Quadro NVS 510M",
+    "score": 253,
+    "rank": 1821
+  },
+  {
+    "gpu": "Radeon HD 8470",
+    "score": 251,
+    "rank": 1822
+  },
+  {
+    "gpu": "GeForce GT 415",
+    "score": 251,
+    "rank": 1823
+  },
+  {
+    "gpu": "Radeon HD 8330E",
+    "score": 251,
+    "rank": 1824
+  },
+  {
+    "gpu": "Radeon HD 7640G + 8600M Dual",
+    "score": 249,
+    "rank": 1825
+  },
+  {
+    "gpu": "GeForce 7900 GT/GTO",
+    "score": 247,
+    "rank": 1826
+  },
+  {
+    "gpu": "NVS 310",
+    "score": 246,
+    "rank": 1827
+  },
+  {
+    "gpu": "Radeon R2",
+    "score": 245,
+    "rank": 1828
+  },
+  {
+    "gpu": "GeForce 7800 GT",
+    "score": 244,
+    "rank": 1829
+  },
+  {
+    "gpu": "Quadro FX 5500",
+    "score": 242,
+    "rank": 1830
+  },
+  {
+    "gpu": "Radeon HD4650",
+    "score": 239,
+    "rank": 1831
+  },
+  {
+    "gpu": "Radeon HD 4650",
+    "score": 238,
+    "rank": 1832
+  },
+  {
+    "gpu": "Radeon HD 6410D",
+    "score": 236,
+    "rank": 1833
+  },
+  {
+    "gpu": "Radeon HD 8280E",
+    "score": 236,
+    "rank": 1834
+  },
+  {
+    "gpu": "Mobility Radeon HD 5470",
+    "score": 236,
+    "rank": 1835
+  },
+  {
+    "gpu": "Quadro FX 4500 X2",
+    "score": 236,
+    "rank": 1836
+  },
+  {
+    "gpu": "Mobile Intel HD",
+    "score": 235,
+    "rank": 1837
+  },
+  {
+    "gpu": "Radeon HD 4550",
+    "score": 235,
+    "rank": 1838
+  },
+  {
+    "gpu": "Radeon HD 8240",
+    "score": 234,
+    "rank": 1839
+  },
+  {
+    "gpu": "Quadro FX 570",
+    "score": 232,
+    "rank": 1840
+  },
+  {
+    "gpu": "Mobility Radeon HD 3670",
+    "score": 232,
+    "rank": 1841
+  },
+  {
+    "gpu": "Radeon E6465",
+    "score": 231,
+    "rank": 1842
+  },
+  {
+    "gpu": "Quadro NVS 290",
+    "score": 228,
+    "rank": 1843
+  },
+  {
+    "gpu": "Radeon HD 6470M",
+    "score": 227,
+    "rank": 1844
+  },
+  {
+    "gpu": "Quadro FX 4500",
+    "score": 227,
+    "rank": 1845
+  },
+  {
+    "gpu": "Radeon HD 7450",
+    "score": 224,
+    "rank": 1846
+  },
+  {
+    "gpu": "GT 430",
+    "score": 223,
+    "rank": 1847
+  },
+  {
+    "gpu": "Intel G965 Express",
+    "score": 222,
+    "rank": 1848
+  },
+  {
+    "gpu": "Radeon R5 230",
+    "score": 221,
+    "rank": 1849
+  },
+  {
+    "gpu": "Radeon HD 7340M",
+    "score": 221,
+    "rank": 1850
+  },
+  {
+    "gpu": "Quadro FX 770M",
+    "score": 220,
+    "rank": 1851
+  },
+  {
+    "gpu": "A6 Micro-6500T Quad-Core APU with RadeonR4",
+    "score": 220,
+    "rank": 1852
+  },
+  {
+    "gpu": "Mobility FireGL V5725",
+    "score": 219,
+    "rank": 1853
+  },
+  {
+    "gpu": "Quadro FX 2500M",
+    "score": 217,
+    "rank": 1854
+  },
+  {
+    "gpu": "Radeon HD 8250",
+    "score": 217,
+    "rank": 1855
+  },
+  {
+    "gpu": "GeForce 7600 GT",
+    "score": 217,
+    "rank": 1856
+  },
+  {
+    "gpu": "Radeon HD 6320 Graphic",
+    "score": 216,
+    "rank": 1857
+  },
+  {
+    "gpu": "Mobility Radeon. HD 5470",
+    "score": 215,
+    "rank": 1858
+  },
+  {
+    "gpu": "Quadro FX 880M",
+    "score": 215,
+    "rank": 1859
+  },
+  {
+    "gpu": "GeForce GT 220",
+    "score": 215,
+    "rank": 1860
+  },
+  {
+    "gpu": "Mobility Radeon HD 5450",
+    "score": 214,
+    "rank": 1861
+  },
+  {
+    "gpu": "GeForce GT 330M",
+    "score": 214,
+    "rank": 1862
+  },
+  {
+    "gpu": "Intel HD 2000",
+    "score": 213,
+    "rank": 1863
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Radeon R2E",
+    "score": 212,
+    "rank": 1864
+  },
+  {
+    "gpu": "GeForce GT 230M",
+    "score": 212,
+    "rank": 1865
+  },
+  {
+    "gpu": "Radeon HD 2600 PRO",
+    "score": 211,
+    "rank": 1866
+  },
+  {
+    "gpu": "GeForce Go 7600 GT",
+    "score": 210,
+    "rank": 1867
+  },
+  {
+    "gpu": "GeForce 320M",
+    "score": 209,
+    "rank": 1868
+  },
+  {
+    "gpu": "GeForce Go 7800 GTX",
+    "score": 209,
+    "rank": 1869
+  },
+  {
+    "gpu": "GeForce 9700M GT",
+    "score": 208,
+    "rank": 1870
+  },
+  {
+    "gpu": "Quadro NVS 320M",
+    "score": 208,
+    "rank": 1871
+  },
+  {
+    "gpu": "Radeon HD 4650 AGP",
+    "score": 207,
+    "rank": 1872
+  },
+  {
+    "gpu": "Radeon R3E",
+    "score": 205,
+    "rank": 1873
+  },
+  {
+    "gpu": "Barco MXRT 1450",
+    "score": 205,
+    "rank": 1874
+  },
+  {
+    "gpu": "Intel Q45/Q43 Express Chipset",
+    "score": 205,
+    "rank": 1875
+  },
+  {
+    "gpu": "Intel 2nd Generation SandyBridge HD 3000",
+    "score": 205,
+    "rank": 1876
+  },
+  {
+    "gpu": "GeForce GT 240M",
+    "score": 203,
+    "rank": 1877
+  },
+  {
+    "gpu": "GeForce 7950 GX2",
+    "score": 201,
+    "rank": 1878
+  },
+  {
+    "gpu": "Radeon HD 6380G",
+    "score": 200,
+    "rank": 1879
+  },
+  {
+    "gpu": "Mobility Radeon HD 545v",
+    "score": 199,
+    "rank": 1880
+  },
+  {
+    "gpu": "RADEON HD7450",
+    "score": 199,
+    "rank": 1881
+  },
+  {
+    "gpu": "Radeon HD 6320M",
+    "score": 198,
+    "rank": 1882
+  },
+  {
+    "gpu": "Radeon HD 6450",
+    "score": 198,
+    "rank": 1883
+  },
+  {
+    "gpu": "Radeon HD 7340G",
+    "score": 196,
+    "rank": 1884
+  },
+  {
+    "gpu": "Intel Infoshock HD",
+    "score": 193,
+    "rank": 1885
+  },
+  {
+    "gpu": "Radeon HD 8210E",
+    "score": 193,
+    "rank": 1886
+  },
+  {
+    "gpu": "Radeon HD 6430M",
+    "score": 192,
+    "rank": 1887
+  },
+  {
+    "gpu": "Mobility Radeon HD 2600 XT",
+    "score": 191,
+    "rank": 1888
+  },
+  {
+    "gpu": "GeForce 6800 GS",
+    "score": 191,
+    "rank": 1889
+  },
+  {
+    "gpu": "Mobility Radeon HD 4550",
+    "score": 191,
+    "rank": 1890
+  },
+  {
+    "gpu": "NVS 5100M",
+    "score": 188,
+    "rank": 1891
+  },
+  {
+    "gpu": "Mobility Radeon HD 540v",
+    "score": 188,
+    "rank": 1892
+  },
+  {
+    "gpu": "Radeon HD 8210",
+    "score": 187,
+    "rank": 1893
+  },
+  {
+    "gpu": "GeForce 9500 GS",
+    "score": 187,
+    "rank": 1894
+  },
+  {
+    "gpu": "Intel 2nd Generation SandyBridge HD",
+    "score": 185,
+    "rank": 1895
+  },
+  {
+    "gpu": "GeForce G100",
+    "score": 184,
+    "rank": 1896
+  },
+  {
+    "gpu": "Mobility Radeon HD 5430",
+    "score": 181,
+    "rank": 1897
+  },
+  {
+    "gpu": "Radeon HD 7310G",
+    "score": 180,
+    "rank": 1898
+  },
+  {
+    "gpu": "Barco MXRT 7100",
+    "score": 180,
+    "rank": 1899
+  },
+  {
+    "gpu": "FireGL V3600",
+    "score": 179,
+    "rank": 1900
+  },
+  {
+    "gpu": "Quadro FX 3450/4000 SDI",
+    "score": 179,
+    "rank": 1901
+  },
+  {
+    "gpu": "Radeon HD 6230",
+    "score": 179,
+    "rank": 1902
+  },
+  {
+    "gpu": "FirePro 3D V3700",
+    "score": 178,
+    "rank": 1903
+  },
+  {
+    "gpu": "GeForce 7800 GS",
+    "score": 177,
+    "rank": 1904
+  },
+  {
+    "gpu": "GeForce Go 7900 GS",
+    "score": 176,
+    "rank": 1905
+  },
+  {
+    "gpu": "Mobility Radeon HD 530v",
+    "score": 174,
+    "rank": 1906
+  },
+  {
+    "gpu": "Radeon HD 7310 - Carte graphique",
+    "score": 174,
+    "rank": 1907
+  },
+  {
+    "gpu": "Quadro FX 1700M",
+    "score": 172,
+    "rank": 1908
+  },
+  {
+    "gpu": "Intel Q965/Q963 Express",
+    "score": 172,
+    "rank": 1909
+  },
+  {
+    "gpu": "Quadro FX 1500M",
+    "score": 171,
+    "rank": 1910
+  },
+  {
+    "gpu": "Radeon HDG 4670",
+    "score": 170,
+    "rank": 1911
+  },
+  {
+    "gpu": "FirePro 2460",
+    "score": 170,
+    "rank": 1912
+  },
+  {
+    "gpu": "Passmark G3D Mark",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Rank",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(lower is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(higher is better)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "Price",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "(USD)",
+    "score": "",
+    "rank": ""
+  },
+  {
+    "gpu": "GeForce GT 325M",
+    "score": 169,
+    "rank": 1913
+  },
+  {
+    "gpu": "Quadro FX 1500",
+    "score": 169,
+    "rank": 1914
+  },
+  {
+    "gpu": "GeForce GT 120",
+    "score": 168,
+    "rank": 1915
+  },
+  {
+    "gpu": "GeForce 9200",
+    "score": 168,
+    "rank": 1916
+  },
+  {
+    "gpu": "Mobility Radeon HD 2600",
+    "score": 167,
+    "rank": 1917
+  },
+  {
+    "gpu": "GeForce G102M",
+    "score": 167,
+    "rank": 1918
+  },
+  {
+    "gpu": "Radeon HD 7310M",
+    "score": 166,
+    "rank": 1919
+  },
+  {
+    "gpu": "Intel HD manual-gen9_2015-133271",
+    "score": 165,
+    "rank": 1920
+  },
+  {
+    "gpu": "Radeon HD 7350",
+    "score": 165,
+    "rank": 1921
+  },
+  {
+    "gpu": "Radeon HD 8350",
+    "score": 162,
+    "rank": 1922
+  },
+  {
+    "gpu": "Quadro FX 580",
+    "score": 161,
+    "rank": 1923
+  },
+  {
+    "gpu": "Quadro FX 1700",
+    "score": 160,
+    "rank": 1924
+  },
+  {
+    "gpu": "GeForce 315",
+    "score": 158,
+    "rank": 1925
+  },
+  {
+    "gpu": "Quadro FX 380",
+    "score": 157,
+    "rank": 1926
+  },
+  {
+    "gpu": "GeForce 9500 GT",
+    "score": 157,
+    "rank": 1927
+  },
+  {
+    "gpu": "GeForce 7600 GS",
+    "score": 157,
+    "rank": 1928
+  },
+  {
+    "gpu": "Radeon HD 3450",
+    "score": 156,
+    "rank": 1929
+  },
+  {
+    "gpu": "GeForce 8200",
+    "score": 155,
+    "rank": 1930
+  },
+  {
+    "gpu": "Radeon HD 4300/4500 Serisi",
+    "score": 155,
+    "rank": 1931
+  },
+  {
+    "gpu": "Radeon HD 3670",
+    "score": 153,
+    "rank": 1932
+  },
+  {
+    "gpu": "Radeon HD 7340",
+    "score": 153,
+    "rank": 1933
+  },
+  {
+    "gpu": "Radeon X1950 CrossFire Edition",
+    "score": 151,
+    "rank": 1934
+  },
+  {
+    "gpu": "GeForce GT 120M",
+    "score": 150,
+    "rank": 1935
+  },
+  {
+    "gpu": "GeForce 305M",
+    "score": 150,
+    "rank": 1936
+  },
+  {
+    "gpu": "GeForce 8400 GS",
+    "score": 150,
+    "rank": 1937
+  },
+  {
+    "gpu": "Radeon HD 3650 AGP",
+    "score": 150,
+    "rank": 1938
+  },
+  {
+    "gpu": "GeForce 8600 GTS",
+    "score": 149,
+    "rank": 1939
+  },
+  {
+    "gpu": "Quadro FX 3450",
+    "score": 148,
+    "rank": 1940
+  },
+  {
+    "gpu": "Quadro 400",
+    "score": 148,
+    "rank": 1941
+  }
+]

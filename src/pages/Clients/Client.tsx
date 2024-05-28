@@ -3,6 +3,7 @@ import { useLocation } from "react-router-dom";
 import "./style.css";
 import { Agent } from "../../utils/types/types";
 import { request } from "../../utils/request";
+
 const renderKeyValuePair = (
   key: string,
   value: any,
@@ -75,7 +76,6 @@ const renderKeyValuePair = (
 };
 
 const renderKeyValuePairs = (obj: any): JSX.Element[] => {
-  // console.log("----------------------");
   // Object.entries(obj).map(([key, value]) => console.log(key, value));
   return Object.entries(obj).map(([key, value]) =>
     renderKeyValuePair(key, value)
@@ -297,7 +297,7 @@ export default function Client() {
                   <label htmlFor="sys-manufact">Fabricante</label>
                   <input
                     id="sys-manufact"
-                    value={agent.inventory.system.manufacturer}
+                    value={agent.inventory.motherboard.manufacturer}
                     readOnly
                     className={"ProfileInput"}
                     onClick={() => handleLabelClick("sys-manufact")}
@@ -305,10 +305,10 @@ export default function Client() {
                 </div>
 
                 <div className="Content">
-                  <label htmlFor="manufacturer">Fabricante</label>
+                  <label htmlFor="manufacturer">Placa mãe</label>
                   <input
                     id="manufacturer"
-                    value={agent.inventory.system.manufacturer}
+                    value={agent.inventory.motherboard.motherboard}
                     readOnly
                     className={"ProfileInput"}
                     onClick={() => handleLabelClick("manufacturer")}
@@ -316,10 +316,10 @@ export default function Client() {
                 </div>
 
                 <div className="Content">
-                  <label htmlFor="motherboard">Placa mãe</label>
+                  <label htmlFor="motherboard">Modelo</label>
                   <input
                     id="motherboard"
-                    value={agent.inventory.system.motherboard}
+                    value={agent.inventory.motherboard.model}
                     readOnly
                     className={"ProfileInput"}
                     onClick={() => handleLabelClick("motherboard")}

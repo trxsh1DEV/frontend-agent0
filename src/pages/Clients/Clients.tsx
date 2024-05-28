@@ -11,10 +11,11 @@ import {
 } from "phosphor-react";
 import { formatDateString } from "../../utils/utils";
 import { Agent } from "../../utils/types/types";
-import BlackScreen from "./BlackScreen";
 import { Link } from "react-router-dom";
 import { mkConfig, generateCsv, download } from "export-to-csv";
 import { request } from "../../utils/request";
+import BlackScreen from "./Shell";
+import { AxiosError } from "axios";
 
 const csvConfig = mkConfig({
   fieldSeparator: ",",
@@ -24,12 +25,11 @@ const csvConfig = mkConfig({
 
 const Clients: React.FC = () => {
   const [clients, setClients] = useState<Agent[] | null>(null);
-  const [showBlackScreen, setShowBlackScreen] = useState(false);
-  const [resultCommand, setResultCommand] = useState("");
+  const [isTerminalOpen, setIsTerminalOpen] = useState(false);
+  const [selectedClientId, setSelectedClientId] = useState<string | null>(null);
   const fileInputRef = useRef<any>();
 
   const handleExportData = () => {
-    console.log(clients);
     if (!clients || clients.length <= 0) return;
 
     // Mapeie os clientes para o formato adequado antes de gerar o CSV
@@ -56,6 +56,10 @@ const Clients: React.FC = () => {
         accessorKey: "inventory.system.so",
         header: "SO",
       },
+      // {
+      //   accessorKey: "uid",
+      //   header: "UID",
+      // },
       {
         accessorKey: "inventory.system.type_machine",
         header: "Categoria",
@@ -71,10 +75,11 @@ const Clients: React.FC = () => {
         header: "Armazenamento",
         Cell: ({ cell }: any) => cell.getValue() + " GB",
       },
-      {
-        accessorKey: "custom.patrimony",
-        header: "Patrimônio",
-      },
+      // {
+      //   accessorKey: "custom.patrimony",
+      //   header: "Patrimônio",
+      //   Cell: ({ cell }: any) => (cell.getValue() ? "N/A" : cell.getValue()),
+      // },
       {
         accessorKey: "createdAt",
         header: "Data de inclusão",
@@ -108,20 +113,13 @@ const Clients: React.FC = () => {
     fetchClients();
   }, []);
 
-  const handleCustomCommand = (clientId: string) => {
-    const customCommand = prompt("Digite seu comando")?.replace("-", "/") || "";
-    if (!customCommand) return alert("Não é possível enviar um comando vazio");
-    sendCommand(clientId, customCommand);
-  };
-
   const sendCommand = async (clientId: string, command: string) => {
     try {
-      const result = await request.post("/clients/send-command", {
+      const result = await request.post("/sockets/send-command", {
         clientId,
         command,
       });
-      setResultCommand(result.data);
-      setShowBlackScreen(true);
+      console.log(result.data);
     } catch (error: any) {
       console.error(
         `Error sending ${command} command:`,
@@ -136,16 +134,30 @@ const Clients: React.FC = () => {
     formData.append("file", file);
 
     try {
-      const result = await request.post("/clients/send-file", formData, {
+      await request.post("/sockets/send-file", formData, {
         headers: {
           "Content-Type": "multipart/form-data", // Define o cabeçalho correto para a requisição multipart/form-data
         },
       });
-      setResultCommand(result.data);
-      setShowBlackScreen(true);
-    } catch (error) {
+      alert("Upload do arquivo .bat concluído com sucesso!");
+    } catch (error: any) {
       console.error("Erro ao fazer upload do arquivo .bat:", error);
+      alert(error.response.data.message);
+    } finally {
+      // Limpa o valor do elemento input
+      fileInputRef.current.value = "";
     }
+  };
+
+  const openTerminal = (clientId: string) => {
+    setIsTerminalOpen(true);
+    setSelectedClientId(clientId);
+  };
+
+  // Função para fechar o terminal
+  const closeTerminal = () => {
+    setIsTerminalOpen(false);
+    setSelectedClientId(null);
   };
 
   return (
@@ -210,7 +222,7 @@ const Clients: React.FC = () => {
                 <span>
                   <IconButton
                     color="info"
-                    onClick={() => handleCustomCommand(row.id)}
+                    onClick={() => openTerminal(row.id)}
                     disabled={!row.original.online}
                   >
                     <Code size={32} />
@@ -225,7 +237,7 @@ const Clients: React.FC = () => {
                 <span>
                   <IconButton
                     color="error"
-                    onClick={() => handleCustomCommand(row.id)}
+                    onClick={() => console.log(row.id)}
                     disabled={!row.original.online}
                   >
                     <Eraser size={32} />
@@ -240,7 +252,7 @@ const Clients: React.FC = () => {
                 <span>
                   <IconButton
                     color="success"
-                    onClick={() => handleCustomCommand(row.id)}
+                    onClick={() => console.log(row.id)}
                     disabled={!row.original.online}
                   >
                     <ShieldCheck size={32} />
@@ -284,11 +296,8 @@ const Clients: React.FC = () => {
           )}
         />
       )}
-      {showBlackScreen && (
-        <BlackScreen
-          text={resultCommand}
-          onClose={() => setShowBlackScreen(false)}
-        />
+      {isTerminalOpen && selectedClientId && (
+        <BlackScreen clientId={selectedClientId} onClose={closeTerminal} />
       )}
     </>
   );

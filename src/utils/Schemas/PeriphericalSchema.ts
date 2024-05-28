@@ -22,3 +22,11 @@ export const schemaPeripherical = z.object({
 });
 
 export type FormPropsPeripherical = z.infer<typeof schemaPeripherical>;
+
+export const schemaTeste = z.object({
+  name: z.string().min(5, "Maior que 5"),
+  email: z.string().email("E-mail inválido"),
+  password: z.string().min(8, "password pequena"),
+});
+
+export type FormPropsTeste = z.infer<typeof schemaTeste>;

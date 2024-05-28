@@ -2,7 +2,6 @@
     max-width: 1400px;
     margin: 0 auto;
     padding: 20px;
-    border: 1px solid #ddd;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 1200px;
@@ -51,7 +50,7 @@
 
 
 .Content:hover::after {
-    content: "Copy";
+    /* content: "Copy"; */
     position: absolute;
     top: 85%;
     right: -10%;

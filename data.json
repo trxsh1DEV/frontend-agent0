@@ -1,0 +1,10042 @@
+[
+  {
+    "cpu": "AMD Ryzen Threadripper PRO 7995WX",
+    "score": 154.674,
+    "rank": 1
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper 7980X",
+    "score": 136.887,
+    "rank": 2
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper PRO 7985WX",
+    "score": 136.734,
+    "rank": 3
+  },
+  {
+    "cpu": "AMD EPYC 9684X",
+    "score": 122.615,
+    "rank": 4
+  },
+  {
+    "cpu": "AMD EPYC 9654",
+    "score": 122.561,
+    "rank": 5
+  },
+  {
+    "cpu": "AMD EPYC 9R14",
+    "score": 116.475,
+    "rank": 6
+  },
+  {
+    "cpu": "AMD EPYC 9654P",
+    "score": 113.949,
+    "rank": 7
+  },
+  {
+    "cpu": "AMD EPYC 9554",
+    "score": 111.635,
+    "rank": 8
+  },
+  {
+    "cpu": "AMD EPYC 9554P",
+    "score": 109.858,
+    "rank": 9
+  },
+  {
+    "cpu": "AMD EPYC 9634",
+    "score": 107.944,
+    "rank": 10
+  },
+  {
+    "cpu": "AMD EPYC 9474F",
+    "score": 105.003,
+    "rank": 11
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper 7970X",
+    "score": 97.273,
+    "rank": 12
+  },
+  {
+    "cpu": "AMD EPYC 9454P",
+    "score": 96.104,
+    "rank": 13
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper PRO 7975WX",
+    "score": 94.233,
+    "rank": 14
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper PRO 5995WX",
+    "score": 93.192,
+    "rank": 15
+  },
+  {
+    "cpu": "AMD EPYC 7773X",
+    "score": 91.491,
+    "rank": 16
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8470 @2.00GHz",
+    "score": 89.85,
+    "rank": 17
+  },
+  {
+    "cpu": "AMD EPYC 9534",
+    "score": 88.716,
+    "rank": 18
+  },
+  {
+    "cpu": "Intel Xeon w9-3495X",
+    "score": 88.707,
+    "rank": 19
+  },
+  {
+    "cpu": "Intel Xeon Max 9480",
+    "score": 87.42,
+    "rank": 20
+  },
+  {
+    "cpu": "AMD EPYC 7J13",
+    "score": 84.786,
+    "rank": 21
+  },
+  {
+    "cpu": "AMD EPYC 7763",
+    "score": 84.522,
+    "rank": 22
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper PRO 3995WX",
+    "score": 83.709,
+    "rank": 23
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper PRO 7965WX",
+    "score": 83.328,
+    "rank": 24
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper 7960X",
+    "score": 82.987,
+    "rank": 25
+  },
+  {
+    "cpu": "AMD EPYC 7663",
+    "score": 82.883,
+    "rank": 26
+  },
+  {
+    "cpu": "AMD EPYC 7V13",
+    "score": 82.878,
+    "rank": 27
+  },
+  {
+    "cpu": "AMD EPYC 7713",
+    "score": 82.666,
+    "rank": 28
+  },
+  {
+    "cpu": "AMD EPYC 7T83",
+    "score": 81.757,
+    "rank": 29
+  },
+  {
+    "cpu": "AMD EPYC 9754",
+    "score": 81.404,
+    "rank": 30
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper 3990X",
+    "score": 80.892,
+    "rank": 31
+  },
+  {
+    "cpu": "AMD EPYC 7713P",
+    "score": 80.373,
+    "rank": 32
+  },
+  {
+    "cpu": "AMD EPYC 9374F",
+    "score": 79.927,
+    "rank": 33
+  },
+  {
+    "cpu": "AMD EPYC 9354P",
+    "score": 78.872,
+    "rank": 34
+  },
+  {
+    "cpu": "AMD EPYC 7B13",
+    "score": 77.46,
+    "rank": 35
+  },
+  {
+    "cpu": "AMD EPYC 7643",
+    "score": 76.455,
+    "rank": 36
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper PRO 5975WX",
+    "score": 76.009,
+    "rank": 37
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8461V",
+    "score": 74.982,
+    "rank": 38
+  },
+  {
+    "cpu": "AMD EPYC 9274F",
+    "score": 73.463,
+    "rank": 39
+  },
+  {
+    "cpu": "AMD EPYC 7662",
+    "score": 72.653,
+    "rank": 40
+  },
+  {
+    "cpu": "AMD EPYC 7702",
+    "score": 69.872,
+    "rank": 41
+  },
+  {
+    "cpu": "AMD EPYC 7H12",
+    "score": 69.633,
+    "rank": 42
+  },
+  {
+    "cpu": "AMD EPYC 7573X",
+    "score": 69.432,
+    "rank": 43
+  },
+  {
+    "cpu": "AMD EPYC 8534P",
+    "score": 69.382,
+    "rank": 44
+  },
+  {
+    "cpu": "AMD EPYC 7742",
+    "score": 69.183,
+    "rank": 45
+  },
+  {
+    "cpu": "AMD EPYC 9254",
+    "score": 68.988,
+    "rank": 46
+  },
+  {
+    "cpu": "AMD EPYC 75F3",
+    "score": 68.505,
+    "rank": 47
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8571N",
+    "score": 68.385,
+    "rank": 48
+  },
+  {
+    "cpu": "AMD EPYC 9354",
+    "score": 67.842,
+    "rank": 49
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper PRO 5965WX",
+    "score": 66.768,
+    "rank": 50
+  },
+  {
+    "cpu": "AMD EPYC 7543P",
+    "score": 66.687,
+    "rank": 51
+  },
+  {
+    "cpu": "Intel Xeon w7-3465X",
+    "score": 65.926,
+    "rank": 52
+  },
+  {
+    "cpu": "AMD EPYC 7B12",
+    "score": 65.658,
+    "rank": 53
+  },
+  {
+    "cpu": "AMD EPYC 8434P",
+    "score": 65.579,
+    "rank": 54
+  },
+  {
+    "cpu": "Intel Xeon Gold 6530",
+    "score": 65.533,
+    "rank": 55
+  },
+  {
+    "cpu": "Intel Xeon w9-3475X",
+    "score": 65.288,
+    "rank": 56
+  },
+  {
+    "cpu": "AMD EPYC 9334",
+    "score": 64.841,
+    "rank": 57
+  },
+  {
+    "cpu": "AMD EPYC 7R32",
+    "score": 64.727,
+    "rank": 58
+  },
+  {
+    "cpu": "AMD EPYC 7702P",
+    "score": 64.276,
+    "rank": 59
+  },
+  {
+    "cpu": "Intel Core i9-14900KS",
+    "score": 63.921,
+    "rank": 60
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper 3970X",
+    "score": 63.274,
+    "rank": 61
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper PRO 3975WX",
+    "score": 62.99,
+    "rank": 62
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X",
+    "score": 62.919,
+    "rank": 63
+  },
+  {
+    "cpu": "AMD EPYC 9224",
+    "score": 62.9,
+    "rank": 64
+  },
+  {
+    "cpu": "AMD EPYC 7543",
+    "score": 62.569,
+    "rank": 65
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X3D",
+    "score": 62.531,
+    "rank": 66
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8454H",
+    "score": 62.53,
+    "rank": 67
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8380 @ 2.30GHz",
+    "score": 62.318,
+    "rank": 68
+  },
+  {
+    "cpu": "Intel Core i9-13900KS",
+    "score": 61.885,
+    "rank": 69
+  },
+  {
+    "cpu": "Intel Core i9-14900K",
+    "score": 60.914,
+    "rank": 70
+  },
+  {
+    "cpu": "AMD EPYC 74F3",
+    "score": 60.666,
+    "rank": 71
+  },
+  {
+    "cpu": "Intel Xeon Gold 6448Y",
+    "score": 60.449,
+    "rank": 72
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper PRO 7955WX",
+    "score": 60.249,
+    "rank": 73
+  },
+  {
+    "cpu": "Intel Core i9-14900KF",
+    "score": 60.125,
+    "rank": 74
+  },
+  {
+    "cpu": "AMD EPYC 7642",
+    "score": 60.029,
+    "rank": 75
+  },
+  {
+    "cpu": "Intel Xeon Gold 5512U",
+    "score": 59.877,
+    "rank": 76
+  },
+  {
+    "cpu": "Intel Core i9-13900K",
+    "score": 59.323,
+    "rank": 77
+  },
+  {
+    "cpu": "AMD EPYC 7513",
+    "score": 59.285,
+    "rank": 78
+  },
+  {
+    "cpu": "AMD EPYC 7473X",
+    "score": 59.28,
+    "rank": 79
+  },
+  {
+    "cpu": "Intel Xeon W-3375 @ 2.50GHz",
+    "score": 59.069,
+    "rank": 80
+  },
+  {
+    "cpu": "Intel Xeon W-3365 @ 2.70GHz",
+    "score": 59.038,
+    "rank": 81
+  },
+  {
+    "cpu": "Intel Xeon w7-2495X",
+    "score": 59.023,
+    "rank": 82
+  },
+  {
+    "cpu": "AMD Ryzen 9 7945HX3D",
+    "score": 58.829,
+    "rank": 83
+  },
+  {
+    "cpu": "Intel Xeon Gold 6421N",
+    "score": 58.797,
+    "rank": 84
+  },
+  {
+    "cpu": "Intel Core i9-13900KF",
+    "score": 58.67,
+    "rank": 85
+  },
+  {
+    "cpu": "Intel Xeon Gold 5420+",
+    "score": 57.593,
+    "rank": 86
+  },
+  {
+    "cpu": "Intel Xeon Gold 6423N",
+    "score": 57.434,
+    "rank": 87
+  },
+  {
+    "cpu": "Intel Xeon Gold 6414U",
+    "score": 57.2,
+    "rank": 88
+  },
+  {
+    "cpu": "AMD EPYC 7443P",
+    "score": 57.193,
+    "rank": 89
+  },
+  {
+    "cpu": "Intel Xeon w7-3455",
+    "score": 57.164,
+    "rank": 90
+  },
+  {
+    "cpu": "AMD EPYC 7443",
+    "score": 55.901,
+    "rank": 91
+  },
+  {
+    "cpu": "AMD EPYC 8324P",
+    "score": 55.832,
+    "rank": 92
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8375C @ 2.90GHz",
+    "score": 55.705,
+    "rank": 93
+  },
+  {
+    "cpu": "AMD EPYC 9174F",
+    "score": 55.485,
+    "rank": 94
+  },
+  {
+    "cpu": "Intel Xeon w7-2475X",
+    "score": 55.354,
+    "rank": 95
+  },
+  {
+    "cpu": "AMD Ryzen 9 7945HX",
+    "score": 54.963,
+    "rank": 96
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper 3960X",
+    "score": 54.869,
+    "rank": 97
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8358 @ 2.60GHz",
+    "score": 54.416,
+    "rank": 98
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8360Y @ 2.40GHz",
+    "score": 54.078,
+    "rank": 99
+  },
+  {
+    "cpu": "Intel Core i7-14700K",
+    "score": 53.716,
+    "rank": 100
+  },
+  {
+    "cpu": "Intel Core i7-14700KF",
+    "score": 53.452,
+    "rank": 101
+  },
+  {
+    "cpu": "AMD Ryzen 9 7940HX",
+    "score": 53.338,
+    "rank": 102
+  },
+  {
+    "cpu": "AMD EPYC 7532",
+    "score": 53.051,
+    "rank": 103
+  },
+  {
+    "cpu": "Intel Xeon Gold 5412U",
+    "score": 52.942,
+    "rank": 104
+  },
+  {
+    "cpu": "Intel Xeon Gold 6438N",
+    "score": 52.789,
+    "rank": 105
+  },
+  {
+    "cpu": "Intel Xeon Gold 6348 @ 2.60GHz",
+    "score": 52.276,
+    "rank": 106
+  },
+  {
+    "cpu": "AMD EPYC 7F72",
+    "score": 52.11,
+    "rank": 107
+  },
+  {
+    "cpu": "AMD Ryzen 9 7900X",
+    "score": 51.895,
+    "rank": 108
+  },
+  {
+    "cpu": "Intel Core i9-13900F",
+    "score": 51.544,
+    "rank": 109
+  },
+  {
+    "cpu": "AMD EPYC 7552",
+    "score": 51.104,
+    "rank": 110
+  },
+  {
+    "cpu": "AMD EPYC 7453",
+    "score": 50.575,
+    "rank": 111
+  },
+  {
+    "cpu": "AMD Ryzen 9 7900X3D",
+    "score": 50.413,
+    "rank": 112
+  },
+  {
+    "cpu": "AMD EPYC 9184X",
+    "score": 50.344,
+    "rank": 113
+  },
+  {
+    "cpu": "AMD EPYC 7502P",
+    "score": 50.298,
+    "rank": 114
+  },
+  {
+    "cpu": "AMD EPYC 7413",
+    "score": 50.223,
+    "rank": 115
+  },
+  {
+    "cpu": "Intel Core i9-14900F",
+    "score": 50.111,
+    "rank": 116
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper PRO 5955WX",
+    "score": 50.023,
+    "rank": 117
+  },
+  {
+    "cpu": "Apple M2 Ultra 24 Core",
+    "score": 49.629,
+    "rank": 118
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper PRO 7945WX",
+    "score": 49.567,
+    "rank": 119
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8347C @ 2.10GHz",
+    "score": 49.386,
+    "rank": 120
+  },
+  {
+    "cpu": "AMD EPYC 7K62",
+    "score": 49.104,
+    "rank": 121
+  },
+  {
+    "cpu": "AMD EPYC 7R12",
+    "score": 48.934,
+    "rank": 122
+  },
+  {
+    "cpu": "AMD Ryzen 9 7900",
+    "score": 48.763,
+    "rank": 123
+  },
+  {
+    "cpu": "Intel Core i9-14900",
+    "score": 48.695,
+    "rank": 124
+  },
+  {
+    "cpu": "Intel Xeon Gold 6314U @ 2.30GHz",
+    "score": 48.013,
+    "rank": 125
+  },
+  {
+    "cpu": "AMD EPYC 7452",
+    "score": 47.951,
+    "rank": 126
+  },
+  {
+    "cpu": "AMD Ryzen 9 PRO 7945",
+    "score": 47.938,
+    "rank": 127
+  },
+  {
+    "cpu": "Intel Core i9-13900",
+    "score": 47.897,
+    "rank": 128
+  },
+  {
+    "cpu": "AMD EPYC 7542",
+    "score": 47.626,
+    "rank": 129
+  },
+  {
+    "cpu": "Intel Core i9-13980HX",
+    "score": 47.398,
+    "rank": 130
+  },
+  {
+    "cpu": "Intel Xeon Gold 6342 @ 2.80GHz",
+    "score": 47.32,
+    "rank": 131
+  },
+  {
+    "cpu": "AMD EPYC 7502",
+    "score": 47.021,
+    "rank": 132
+  },
+  {
+    "cpu": "Intel Core i9-14900HX",
+    "score": 46.979,
+    "rank": 133
+  },
+  {
+    "cpu": "Intel Xeon w5-2465X",
+    "score": 46.925,
+    "rank": 134
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8368Q @ 2.60GHz",
+    "score": 46.681,
+    "rank": 135
+  },
+  {
+    "cpu": "Intel Xeon w5-3435X",
+    "score": 46.569,
+    "rank": 136
+  },
+  {
+    "cpu": "Intel Core i7-13700K",
+    "score": 46.541,
+    "rank": 137
+  },
+  {
+    "cpu": "Intel Xeon Gold 6338N @ 2.20GHz",
+    "score": 46.443,
+    "rank": 138
+  },
+  {
+    "cpu": "Intel Core i7-13700KF",
+    "score": 46.36,
+    "rank": 139
+  },
+  {
+    "cpu": "Intel Core i7-13790F",
+    "score": 46.11,
+    "rank": 140
+  },
+  {
+    "cpu": "AMD EPYC 73F3",
+    "score": 46.103,
+    "rank": 141
+  },
+  {
+    "cpu": "AMD EPYC 7402",
+    "score": 46.028,
+    "rank": 142
+  },
+  {
+    "cpu": "Intel Xeon Gold 6526Y",
+    "score": 46.025,
+    "rank": 143
+  },
+  {
+    "cpu": "AMD Ryzen 9 7845HX",
+    "score": 45.922,
+    "rank": 144
+  },
+  {
+    "cpu": "Intel Xeon W-3345 @ 3.00GHz",
+    "score": 45.694,
+    "rank": 145
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X",
+    "score": 45.668,
+    "rank": 146
+  },
+  {
+    "cpu": "Intel Core i7-14700",
+    "score": 45.663,
+    "rank": 147
+  },
+  {
+    "cpu": "Intel Xeon Gold 6336Y @ 2.40GHz",
+    "score": 45.517,
+    "rank": 148
+  },
+  {
+    "cpu": "Intel Xeon w7-3445",
+    "score": 45.188,
+    "rank": 149
+  },
+  {
+    "cpu": "Intel Xeon Silver 4416+",
+    "score": 45.127,
+    "rank": 150
+  },
+  {
+    "cpu": "Intel Xeon Gold 6538N",
+    "score": 44.895,
+    "rank": 151
+  },
+  {
+    "cpu": "Intel Core i7-14700F",
+    "score": 44.888,
+    "rank": 152
+  },
+  {
+    "cpu": "Intel Core i9-13900HX",
+    "score": 44.684,
+    "rank": 153
+  },
+  {
+    "cpu": "Intel Xeon Gold 5418Y",
+    "score": 44.487,
+    "rank": 154
+  },
+  {
+    "cpu": "Intel Core i9-13950HX",
+    "score": 44.418,
+    "rank": 155
+  },
+  {
+    "cpu": "AMD EPYC 7343",
+    "score": 44.189,
+    "rank": 156
+  },
+  {
+    "cpu": "Intel Core i9-13900T",
+    "score": 44.099,
+    "rank": 157
+  },
+  {
+    "cpu": "Intel Core i9-12900KS",
+    "score": 44.056,
+    "rank": 158
+  },
+  {
+    "cpu": "AMD EPYC 9124",
+    "score": 43.999,
+    "rank": 159
+  },
+  {
+    "cpu": "AMD EPYC 7402P",
+    "score": 43.664,
+    "rank": 160
+  },
+  {
+    "cpu": "ARM Neoverse-N1 128 Core 3000 MHz",
+    "score": 43.229,
+    "rank": 161
+  },
+  {
+    "cpu": "ARM Neoverse-N1 128 Core 2800 MHz",
+    "score": 43.111,
+    "rank": 162
+  },
+  {
+    "cpu": "Intel Xeon Gold 6330 @ 2.00GHz",
+    "score": 43.056,
+    "rank": 163
+  },
+  {
+    "cpu": "AMD EPYC 7D12",
+    "score": 42.762,
+    "rank": 164
+  },
+  {
+    "cpu": "Intel Core i9-14900T",
+    "score": 42.67,
+    "rank": 165
+  },
+  {
+    "cpu": "AMD EPYC 8224P",
+    "score": 42.192,
+    "rank": 166
+  },
+  {
+    "cpu": "Intel Xeon Gold 6312U @ 2.40GHz",
+    "score": 42.124,
+    "rank": 167
+  },
+  {
+    "cpu": "AMD EPYC 7313P",
+    "score": 42.032,
+    "rank": 168
+  },
+  {
+    "cpu": "Intel Xeon Gold 6426Y",
+    "score": 41.625,
+    "rank": 169
+  },
+  {
+    "cpu": "Intel Xeon W-3275 @ 2.50GHz",
+    "score": 41.554,
+    "rank": 170
+  },
+  {
+    "cpu": "Intel Xeon Gold 6354 @ 3.00GHz",
+    "score": 41.445,
+    "rank": 171
+  },
+  {
+    "cpu": "Intel Core i9-12900K",
+    "score": 41.376,
+    "rank": 172
+  },
+  {
+    "cpu": "Intel Core i9-12900KF",
+    "score": 41.143,
+    "rank": 173
+  },
+  {
+    "cpu": "Apple M1 Ultra 20 Core",
+    "score": 41.025,
+    "rank": 174
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8275CL @ 3.00GHz",
+    "score": 40.794,
+    "rank": 175
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper PRO 5945WX",
+    "score": 40.67,
+    "rank": 176
+  },
+  {
+    "cpu": "Intel Xeon Gold 6416H",
+    "score": 40.606,
+    "rank": 177
+  },
+  {
+    "cpu": "Apple M3 Max 16 Core",
+    "score": 40.404,
+    "rank": 178
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper PRO 3955WX",
+    "score": 40.368,
+    "rank": 179
+  },
+  {
+    "cpu": "AMD EPYC 7352",
+    "score": 40.096,
+    "rank": 180
+  },
+  {
+    "cpu": "AMD EPYC 7F52",
+    "score": 39.923,
+    "rank": 181
+  },
+  {
+    "cpu": "Intel Core i5-14600KF",
+    "score": 39.509,
+    "rank": 182
+  },
+  {
+    "cpu": "Intel Xeon W-3335 @ 3.40GHz",
+    "score": 39.293,
+    "rank": 183
+  },
+  {
+    "cpu": "Intel Core i5-14600K",
+    "score": 39.239,
+    "rank": 184
+  },
+  {
+    "cpu": "Intel Xeon W-3275M @ 2.50GHz",
+    "score": 39.197,
+    "rank": 185
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X",
+    "score": 39.186,
+    "rank": 186
+  },
+  {
+    "cpu": "Intel Core i7-13700F",
+    "score": 39.095,
+    "rank": 187
+  },
+  {
+    "cpu": "AMD EPYC 7313",
+    "score": 39.091,
+    "rank": 188
+  },
+  {
+    "cpu": "AMD Ryzen 9 3950X",
+    "score": 38.8,
+    "rank": 189
+  },
+  {
+    "cpu": "Intel Core i7-14650HX",
+    "score": 38.63,
+    "rank": 190
+  },
+  {
+    "cpu": "AMD EPYC 7551P",
+    "score": 38.399,
+    "rank": 191
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8180 @ 2.50GHz",
+    "score": 38.259,
+    "rank": 192
+  },
+  {
+    "cpu": "Intel Core i7-14700HX",
+    "score": 38.247,
+    "rank": 193
+  },
+  {
+    "cpu": "Intel Core i7-13850HX",
+    "score": 38.228,
+    "rank": 194
+  },
+  {
+    "cpu": "Intel Core i5-13600K",
+    "score": 38.109,
+    "rank": 195
+  },
+  {
+    "cpu": "Intel Core i5-13600KF",
+    "score": 37.88,
+    "rank": 196
+  },
+  {
+    "cpu": "Intel Xeon w5-2455X",
+    "score": 37.874,
+    "rank": 197
+  },
+  {
+    "cpu": "Intel Xeon Gold 6346 @ 3.10GHz",
+    "score": 37.665,
+    "rank": 198
+  },
+  {
+    "cpu": "Intel Xeon Gold 5320 @ 2.20GHz",
+    "score": 37.558,
+    "rank": 199
+  },
+  {
+    "cpu": "Intel Xeon Gold 6238R @ 2.20GHz",
+    "score": 37.511,
+    "rank": 200
+  },
+  {
+    "cpu": "Intel Core i7-13700",
+    "score": 37.504,
+    "rank": 201
+  },
+  {
+    "cpu": "Intel Xeon W-3175X @ 3.10GHz",
+    "score": 37.167,
+    "rank": 202
+  },
+  {
+    "cpu": "Intel Core i9-12900F",
+    "score": 36.981,
+    "rank": 203
+  },
+  {
+    "cpu": "Intel Xeon Gold 6268CL @ 2.80GHz",
+    "score": 36.878,
+    "rank": 204
+  },
+  {
+    "cpu": "ARM Neoverse-N1 80 Core 3000 MHz",
+    "score": 36.48,
+    "rank": 205
+  },
+  {
+    "cpu": "Intel Xeon w5-3425",
+    "score": 36.457,
+    "rank": 206
+  },
+  {
+    "cpu": "Intel Xeon Gold 5416S",
+    "score": 36.4,
+    "rank": 207
+  },
+  {
+    "cpu": "Intel Xeon Gold 6330N @ 2.20GHz",
+    "score": 36.36,
+    "rank": 208
+  },
+  {
+    "cpu": "Apple M3 Max 14 Core",
+    "score": 36.068,
+    "rank": 209
+  },
+  {
+    "cpu": "AMD Ryzen 7 7700X",
+    "score": 35.974,
+    "rank": 210
+  },
+  {
+    "cpu": "AMD EPYC 8124P",
+    "score": 35.766,
+    "rank": 211
+  },
+  {
+    "cpu": "Intel Xeon Gold 6248R @ 3.00GHz",
+    "score": 35.626,
+    "rank": 212
+  },
+  {
+    "cpu": "Intel Xeon Gold 6326 @ 2.90GHz",
+    "score": 35.224,
+    "rank": 213
+  },
+  {
+    "cpu": "Intel Core i9-12900TE",
+    "score": 35.057,
+    "rank": 214
+  },
+  {
+    "cpu": "Intel Xeon Gold 6242R @ 3.10GHz",
+    "score": 34.963,
+    "rank": 215
+  },
+  {
+    "cpu": "Intel Core i5-14600",
+    "score": 34.85,
+    "rank": 216
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 7745",
+    "score": 34.767,
+    "rank": 217
+  },
+  {
+    "cpu": "AMD Ryzen 9 PRO 5945",
+    "score": 34.756,
+    "rank": 218
+  },
+  {
+    "cpu": "Intel Core i7-13700E",
+    "score": 34.728,
+    "rank": 219
+  },
+  {
+    "cpu": "Intel Core i7-12700K",
+    "score": 34.631,
+    "rank": 220
+  },
+  {
+    "cpu": "AMD Ryzen 7 7700",
+    "score": 34.611,
+    "rank": 221
+  },
+  {
+    "cpu": "Intel Core i9-12900HX",
+    "score": 34.593,
+    "rank": 222
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8268 @ 2.90GHz",
+    "score": 34.483,
+    "rank": 223
+  },
+  {
+    "cpu": "Intel Core i7-12700KF",
+    "score": 34.45,
+    "rank": 224
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900",
+    "score": 34.392,
+    "rank": 225
+  },
+  {
+    "cpu": "AMD Ryzen 7 7800X3D",
+    "score": 34.36,
+    "rank": 226
+  },
+  {
+    "cpu": "Intel Core i9-12900",
+    "score": 34.341,
+    "rank": 227
+  },
+  {
+    "cpu": "AMD EPYC 7601",
+    "score": 34.079,
+    "rank": 228
+  },
+  {
+    "cpu": "Intel Xeon Silver 4510",
+    "score": 34.052,
+    "rank": 229
+  },
+  {
+    "cpu": "Intel Core i9-13900E",
+    "score": 34.049,
+    "rank": 230
+  },
+  {
+    "cpu": "Intel Core i7-13700HX",
+    "score": 33.985,
+    "rank": 231
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8260M @ 2.30GHz",
+    "score": 33.97,
+    "rank": 232
+  },
+  {
+    "cpu": "Intel Xeon Gold 6338 @ 2.00GHz",
+    "score": 33.814,
+    "rank": 233
+  },
+  {
+    "cpu": "Intel Xeon D-2799 @ 2.40GHz",
+    "score": 33.792,
+    "rank": 234
+  },
+  {
+    "cpu": "Intel Xeon Gold 6230R @ 2.10GHz",
+    "score": 33.724,
+    "rank": 235
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper PRO 3945WX",
+    "score": 33.506,
+    "rank": 236
+  },
+  {
+    "cpu": "Intel Xeon Gold 5220R @ 2.20GHz",
+    "score": 33.37,
+    "rank": 237
+  },
+  {
+    "cpu": "Intel Xeon Gold 6240R @ 2.40GHz",
+    "score": 33.353,
+    "rank": 238
+  },
+  {
+    "cpu": "Intel Xeon Gold 5318Y @ 2.10GHz",
+    "score": 33.283,
+    "rank": 239
+  },
+  {
+    "cpu": "AMD EPYC 7302",
+    "score": 33.002,
+    "rank": 240
+  },
+  {
+    "cpu": "Intel Core i9-10980XE @ 3.00GHz",
+    "score": 32.876,
+    "rank": 241
+  },
+  {
+    "cpu": "AMD Ryzen 7 7745HX",
+    "score": 32.838,
+    "rank": 242
+  },
+  {
+    "cpu": "Intel Xeon Gold 6278C @ 2.60GHz",
+    "score": 32.835,
+    "rank": 243
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8168 @ 2.70GHz",
+    "score": 32.811,
+    "rank": 244
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8280 @ 2.70GHz",
+    "score": 32.781,
+    "rank": 245
+  },
+  {
+    "cpu": "AMD Ryzen 9 3900XT",
+    "score": 32.737,
+    "rank": 246
+  },
+  {
+    "cpu": "Intel Core i5-14500",
+    "score": 32.727,
+    "rank": 247
+  },
+  {
+    "cpu": "Intel Core i7-12800HX",
+    "score": 32.661,
+    "rank": 248
+  },
+  {
+    "cpu": "AMD Ryzen 9 3900X",
+    "score": 32.656,
+    "rank": 249
+  },
+  {
+    "cpu": "AMD EPYC 7302P",
+    "score": 32.612,
+    "rank": 250
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper 2990WX",
+    "score": 32.569,
+    "rank": 251
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 8700G",
+    "score": 32.522,
+    "rank": 252
+  },
+  {
+    "cpu": "Intel Core i9-12950HX",
+    "score": 32.427,
+    "rank": 253
+  },
+  {
+    "cpu": "Intel Core i5-13600",
+    "score": 32.389,
+    "rank": 254
+  },
+  {
+    "cpu": "Intel Xeon w5-2445",
+    "score": 32.273,
+    "rank": 255
+  },
+  {
+    "cpu": "Intel Core i9-9980XE @ 3.00GHz",
+    "score": 32.054,
+    "rank": 256
+  },
+  {
+    "cpu": "Intel Core i5-13500",
+    "score": 32.033,
+    "rank": 257
+  },
+  {
+    "cpu": "Intel Xeon W-3265M @ 2.70GHz",
+    "score": 32.025,
+    "rank": 258
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8173M @ 2.00GHz",
+    "score": 31.837,
+    "rank": 259
+  },
+  {
+    "cpu": "AMD Ryzen 9 8945H",
+    "score": 31.671,
+    "rank": 260
+  },
+  {
+    "cpu": "Intel Core i7-13650HX",
+    "score": 31.653,
+    "rank": 261
+  },
+  {
+    "cpu": "AMD Ryzen 7 8700G",
+    "score": 31.641,
+    "rank": 262
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 8700GE",
+    "score": 31.618,
+    "rank": 263
+  },
+  {
+    "cpu": "AMD Ryzen 9 PRO 3900",
+    "score": 31.609,
+    "rank": 264
+  },
+  {
+    "cpu": "Intel Xeon Silver 4316 @ 2.30GHz",
+    "score": 31.341,
+    "rank": 265
+  },
+  {
+    "cpu": "Intel Core i9-13900HK",
+    "score": 31.312,
+    "rank": 266
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8259CL @ 2.50GHz",
+    "score": 31.142,
+    "rank": 267
+  },
+  {
+    "cpu": "AMD EPYC 7371",
+    "score": 31.094,
+    "rank": 268
+  },
+  {
+    "cpu": "Intel Core i7-12850HX",
+    "score": 30.875,
+    "rank": 269
+  },
+  {
+    "cpu": "AMD Ryzen 9 3900",
+    "score": 30.817,
+    "rank": 270
+  },
+  {
+    "cpu": "Intel Core i7-12700",
+    "score": 30.814,
+    "rank": 271
+  },
+  {
+    "cpu": "Intel Xeon W-2295 @ 3.00GHz",
+    "score": 30.721,
+    "rank": 272
+  },
+  {
+    "cpu": "AMD Ryzen 9 7940H",
+    "score": 30.71,
+    "rank": 273
+  },
+  {
+    "cpu": "Intel Xeon W-3245 @ 3.20GHz",
+    "score": 30.71,
+    "rank": 274
+  },
+  {
+    "cpu": "Intel Core i7-12700F",
+    "score": 30.634,
+    "rank": 275
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8171M @ 2.60GHz",
+    "score": 30.632,
+    "rank": 276
+  },
+  {
+    "cpu": "Intel Core i9-9960X @ 3.10GHz",
+    "score": 30.563,
+    "rank": 277
+  },
+  {
+    "cpu": "AMD EPYC Embedded 7292P",
+    "score": 30.542,
+    "rank": 278
+  },
+  {
+    "cpu": "AMD Ryzen 9 7940HS",
+    "score": 30.523,
+    "rank": 279
+  },
+  {
+    "cpu": "Intel Xeon Gold 6246R @ 3.40GHz",
+    "score": 30.468,
+    "rank": 280
+  },
+  {
+    "cpu": "Intel Xeon Gold 6254 @ 3.10GHz",
+    "score": 30.381,
+    "rank": 281
+  },
+  {
+    "cpu": "Intel Xeon E-2488",
+    "score": 30.368,
+    "rank": 282
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8260 @ 2.40GHz",
+    "score": 30.347,
+    "rank": 283
+  },
+  {
+    "cpu": "Intel Core i9-13905H",
+    "score": 30.306,
+    "rank": 284
+  },
+  {
+    "cpu": "Intel Core i9-7980XE @ 2.60GHz",
+    "score": 30.178,
+    "rank": 285
+  },
+  {
+    "cpu": "Intel Core i9-9990XE @ 4.00GHz",
+    "score": 30.162,
+    "rank": 286
+  },
+  {
+    "cpu": "Intel Core i9-12900T",
+    "score": 30.113,
+    "rank": 287
+  },
+  {
+    "cpu": "Intel Xeon W-3265 @ 2.70GHz",
+    "score": 30.105,
+    "rank": 288
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8270 @ 2.70GHz",
+    "score": 29.986,
+    "rank": 289
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper 2970WX",
+    "score": 29.949,
+    "rank": 290
+  },
+  {
+    "cpu": "AMD EPYC 7282",
+    "score": 29.846,
+    "rank": 291
+  },
+  {
+    "cpu": "Intel Core i7-12800HE",
+    "score": 29.805,
+    "rank": 292
+  },
+  {
+    "cpu": "Intel Xeon Gold 6248 @ 2.50GHz",
+    "score": 29.504,
+    "rank": 293
+  },
+  {
+    "cpu": "AMD Ryzen 7 8845H",
+    "score": 29.424,
+    "rank": 294
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper 2950X",
+    "score": 29.394,
+    "rank": 295
+  },
+  {
+    "cpu": "Intel Core i7-12700E",
+    "score": 29.384,
+    "rank": 296
+  },
+  {
+    "cpu": "Intel Xeon Silver 4314 @ 2.40GHz",
+    "score": 29.346,
+    "rank": 297
+  },
+  {
+    "cpu": "Intel Core i9-13900H",
+    "score": 29.228,
+    "rank": 298
+  },
+  {
+    "cpu": "Intel Core i5-14500HX",
+    "score": 29.224,
+    "rank": 299
+  },
+  {
+    "cpu": "Intel Core i5-13500HX",
+    "score": 29.102,
+    "rank": 300
+  },
+  {
+    "cpu": "Intel Xeon w5-3423",
+    "score": 29.024,
+    "rank": 301
+  },
+  {
+    "cpu": "AMD Ryzen 9 8945HS",
+    "score": 29.012,
+    "rank": 302
+  },
+  {
+    "cpu": "Intel Xeon Gold 6148 @ 2.40GHz",
+    "score": 28.999,
+    "rank": 303
+  },
+  {
+    "cpu": "AMD Ryzen 7 7840HS",
+    "score": 28.992,
+    "rank": 304
+  },
+  {
+    "cpu": "Intel Xeon Gold 6210U @ 2.50GHz",
+    "score": 28.915,
+    "rank": 305
+  },
+  {
+    "cpu": "Intel Xeon Silver 4410T",
+    "score": 28.859,
+    "rank": 306
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8160 @ 2.10GHz",
+    "score": 28.825,
+    "rank": 307
+  },
+  {
+    "cpu": "Intel Core i5-13600HX",
+    "score": 28.758,
+    "rank": 308
+  },
+  {
+    "cpu": "Intel Core i9-7960X @ 2.80GHz",
+    "score": 28.754,
+    "rank": 309
+  },
+  {
+    "cpu": "AMD Ryzen 7 8845HS",
+    "score": 28.75,
+    "rank": 310
+  },
+  {
+    "cpu": "Intel Xeon Gold 6238 @ 2.10GHz",
+    "score": 28.668,
+    "rank": 311
+  },
+  {
+    "cpu": "Intel Core Ultra 9 185H",
+    "score": 28.632,
+    "rank": 312
+  },
+  {
+    "cpu": "Intel Xeon Gold 6154 @ 3.00GHz",
+    "score": 28.632,
+    "rank": 313
+  },
+  {
+    "cpu": "AMD Ryzen 5 7600X",
+    "score": 28.559,
+    "rank": 314
+  },
+  {
+    "cpu": "Intel Xeon Gold 6253CL @ 3.10GHz",
+    "score": 28.549,
+    "rank": 315
+  },
+  {
+    "cpu": "AMD EPYC 7401P",
+    "score": 28.546,
+    "rank": 316
+  },
+  {
+    "cpu": "AMD Ryzen 7 7840H",
+    "score": 28.469,
+    "rank": 317
+  },
+  {
+    "cpu": "Intel Xeon D-2795NT @ 2.00GHz",
+    "score": 28.463,
+    "rank": 318
+  },
+  {
+    "cpu": "Intel Xeon W-2191B @ 2.30GHz",
+    "score": 28.449,
+    "rank": 319
+  },
+  {
+    "cpu": "Intel Xeon Gold 6240 @ 2.60GHz",
+    "score": 28.369,
+    "rank": 320
+  },
+  {
+    "cpu": "AMD Ryzen 7 5800X3D",
+    "score": 28.292,
+    "rank": 321
+  },
+  {
+    "cpu": "AMD Ryzen 9 PRO 7940HS",
+    "score": 28.287,
+    "rank": 322
+  },
+  {
+    "cpu": "Intel Core i9-12900H",
+    "score": 28.16,
+    "rank": 323
+  },
+  {
+    "cpu": "ARM Neoverse-N1 64 Core 0 MHz",
+    "score": 28.064,
+    "rank": 324
+  },
+  {
+    "cpu": "Intel Core i9-9940X @ 3.30GHz",
+    "score": 28.059,
+    "rank": 325
+  },
+  {
+    "cpu": "Intel Core i5-13500E",
+    "score": 28.036,
+    "rank": 326
+  },
+  {
+    "cpu": "Intel Core i9-10940X @ 3.30GHz",
+    "score": 27.914,
+    "rank": 327
+  },
+  {
+    "cpu": "Intel Xeon W-2195 @ 2.30GHz",
+    "score": 27.907,
+    "rank": 328
+  },
+  {
+    "cpu": "AMD Ryzen 7 5800X",
+    "score": 27.903,
+    "rank": 329
+  },
+  {
+    "cpu": "Intel Xeon W-2275 @ 3.30GHz",
+    "score": 27.895,
+    "rank": 330
+  },
+  {
+    "cpu": "Intel Core i9-12900HK",
+    "score": 27.847,
+    "rank": 331
+  },
+  {
+    "cpu": "Intel Xeon E-2468",
+    "score": 27.806,
+    "rank": 332
+  },
+  {
+    "cpu": "Intel Core i5-12600K",
+    "score": 27.741,
+    "rank": 333
+  },
+  {
+    "cpu": "Apple M3 Pro 12 Core",
+    "score": 27.613,
+    "rank": 334
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper 2990X",
+    "score": 27.606,
+    "rank": 335
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper 1950X",
+    "score": 27.574,
+    "rank": 336
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 8840HS",
+    "score": 27.51,
+    "rank": 337
+  },
+  {
+    "cpu": "Intel Core Ultra 7 165H",
+    "score": 27.505,
+    "rank": 338
+  },
+  {
+    "cpu": "Intel Xeon Gold 6212U @ 2.40GHz",
+    "score": 27.47,
+    "rank": 339
+  },
+  {
+    "cpu": "Intel Core i5-13490F",
+    "score": 27.467,
+    "rank": 340
+  },
+  {
+    "cpu": "Intel Core i7-13700H",
+    "score": 27.458,
+    "rank": 341
+  },
+  {
+    "cpu": "AMD EPYC 7571",
+    "score": 27.445,
+    "rank": 342
+  },
+  {
+    "cpu": "Intel Core i5-12600KF",
+    "score": 27.443,
+    "rank": 343
+  },
+  {
+    "cpu": "Intel Xeon Gold 5317 @ 3.00GHz",
+    "score": 27.387,
+    "rank": 344
+  },
+  {
+    "cpu": "Intel Xeon Gold 6150 @ 2.70GHz",
+    "score": 27.337,
+    "rank": 345
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8124M @ 3.00GHz",
+    "score": 27.336,
+    "rank": 346
+  },
+  {
+    "cpu": "Intel Xeon D-2775TE @ 2.00GHz",
+    "score": 27.299,
+    "rank": 347
+  },
+  {
+    "cpu": "AMD EPYC 72F3",
+    "score": 27.252,
+    "rank": 348
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 7645",
+    "score": 27.25,
+    "rank": 349
+  },
+  {
+    "cpu": "Intel Core i7-13700T",
+    "score": 27.247,
+    "rank": 350
+  },
+  {
+    "cpu": "AMD Ryzen 5 7600",
+    "score": 27.217,
+    "rank": 352
+  },
+  {
+    "cpu": "Intel Core i7-13800H",
+    "score": 27.217,
+    "rank": 351
+  },
+  {
+    "cpu": "Intel Xeon Gold 6252 @ 2.10GHz",
+    "score": 27.148,
+    "rank": 353
+  },
+  {
+    "cpu": "Intel Xeon Gold 6208U @ 2.90GHz",
+    "score": 27.085,
+    "rank": 354
+  },
+  {
+    "cpu": "Intel Xeon Gold 6230 @ 2.10GHz",
+    "score": 27.069,
+    "rank": 355
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F",
+    "score": 26.937,
+    "rank": 356
+  },
+  {
+    "cpu": "AMD Ryzen 5 7645HX",
+    "score": 26.868,
+    "rank": 357
+  },
+  {
+    "cpu": "Intel Xeon w3-2435",
+    "score": 26.859,
+    "rank": 358
+  },
+  {
+    "cpu": "Intel Xeon W-3245M @ 3.20GHz",
+    "score": 26.814,
+    "rank": 359
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X",
+    "score": 26.71,
+    "rank": 360
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8175M @ 2.50GHz",
+    "score": 26.659,
+    "rank": 361
+  },
+  {
+    "cpu": "Intel Core i5-14400",
+    "score": 26.568,
+    "rank": 362
+  },
+  {
+    "cpu": "Apple M2 Max 12 Core 3680 MHz",
+    "score": 26.413,
+    "rank": 363
+  },
+  {
+    "cpu": "Intel Xeon D-2796TE @ 2.00GHz",
+    "score": 26.342,
+    "rank": 364
+  },
+  {
+    "cpu": "Apple M2 Pro 12 Core 3480 MHz",
+    "score": 26.338,
+    "rank": 365
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 7840HS",
+    "score": 26.311,
+    "rank": 366
+  },
+  {
+    "cpu": "Intel Xeon Gold 6226R @ 2.90GHz",
+    "score": 26.297,
+    "rank": 367
+  },
+  {
+    "cpu": "Intel Xeon Gold 6242 @ 2.80GHz",
+    "score": 26.288,
+    "rank": 368
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X3D",
+    "score": 26.286,
+    "rank": 369
+  },
+  {
+    "cpu": "Intel Core i9-10920X @ 3.50GHz",
+    "score": 26.274,
+    "rank": 370
+  },
+  {
+    "cpu": "Intel Core i7-12700H",
+    "score": 26.245,
+    "rank": 371
+  },
+  {
+    "cpu": "Intel Xeon W-2265 @ 3.50GHz",
+    "score": 26.115,
+    "rank": 372
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 5845",
+    "score": 26.057,
+    "rank": 373
+  },
+  {
+    "cpu": "AMD Ryzen 7 8840U",
+    "score": 26.044,
+    "rank": 374
+  },
+  {
+    "cpu": "Intel Core i9-7940X @ 3.10GHz",
+    "score": 26.007,
+    "rank": 375
+  },
+  {
+    "cpu": "Intel Core i9-12900E",
+    "score": 25.921,
+    "rank": 376
+  },
+  {
+    "cpu": "Intel Core i5-14400F",
+    "score": 25.913,
+    "rank": 377
+  },
+  {
+    "cpu": "Intel Xeon W-3323 @ 3.50GHz",
+    "score": 25.875,
+    "rank": 378
+  },
+  {
+    "cpu": "AMD EPYC 7451",
+    "score": 25.863,
+    "rank": 379
+  },
+  {
+    "cpu": "AMD Ryzen 7 5800",
+    "score": 25.846,
+    "rank": 380
+  },
+  {
+    "cpu": "Intel Core i5-13600T",
+    "score": 25.84,
+    "rank": 381
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 8600GE",
+    "score": 25.776,
+    "rank": 382
+  },
+  {
+    "cpu": "Intel Core i5-14400T",
+    "score": 25.774,
+    "rank": 383
+  },
+  {
+    "cpu": "Intel Core i7-13620H",
+    "score": 25.722,
+    "rank": 384
+  },
+  {
+    "cpu": "AMD EPYC 7351P",
+    "score": 25.657,
+    "rank": 385
+  },
+  {
+    "cpu": "AMD Ryzen 7 8840HS",
+    "score": 25.636,
+    "rank": 386
+  },
+  {
+    "cpu": "Intel Xeon E5-2698R v4 @ 2.20GHz",
+    "score": 25.605,
+    "rank": 387
+  },
+  {
+    "cpu": "AMD EPYC 7272",
+    "score": 25.568,
+    "rank": 388
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper 2920X",
+    "score": 25.557,
+    "rank": 389
+  },
+  {
+    "cpu": "Intel Xeon W-3235 @ 3.30GHz",
+    "score": 25.53,
+    "rank": 390
+  },
+  {
+    "cpu": "Intel Xeon E5-2699 v4 @ 2.20GHz",
+    "score": 25.518,
+    "rank": 391
+  },
+  {
+    "cpu": "AMD Ryzen Z1 Extreme",
+    "score": 25.434,
+    "rank": 392
+  },
+  {
+    "cpu": "Intel Xeon W-1390P @ 3.50GHz",
+    "score": 25.419,
+    "rank": 393
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8167M @ 2.00GHz",
+    "score": 25.396,
+    "rank": 394
+  },
+  {
+    "cpu": "Intel Core i5-13450HX",
+    "score": 25.379,
+    "rank": 395
+  },
+  {
+    "cpu": "Intel Core i9-11900K @ 3.50GHz",
+    "score": 25.316,
+    "rank": 396
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 8600G",
+    "score": 25.288,
+    "rank": 397
+  },
+  {
+    "cpu": "AMD Ryzen 5 8600G",
+    "score": 25.269,
+    "rank": 398
+  },
+  {
+    "cpu": "Intel Core i9-11900KF @ 3.50GHz",
+    "score": 25.241,
+    "rank": 399
+  },
+  {
+    "cpu": "Intel Core i5-13400F",
+    "score": 25.233,
+    "rank": 400
+  },
+  {
+    "cpu": "Intel Core i9-9920X @ 3.50GHz",
+    "score": 25.163,
+    "rank": 401
+  },
+  {
+    "cpu": "Intel Core i5-13600H",
+    "score": 25.126,
+    "rank": 402
+  },
+  {
+    "cpu": "Intel Xeon Gold 5415+",
+    "score": 25.012,
+    "rank": 403
+  },
+  {
+    "cpu": "Intel Xeon E5-2699A v4 @ 2.40GHz",
+    "score": 25,
+    "rank": 404
+  },
+  {
+    "cpu": "AMD Ryzen 7 7840U",
+    "score": 24.996,
+    "rank": 405
+  },
+  {
+    "cpu": "Intel Core i7-12800H",
+    "score": 24.974,
+    "rank": 406
+  },
+  {
+    "cpu": "Intel Core Ultra 7 155H",
+    "score": 24.952,
+    "rank": 407
+  },
+  {
+    "cpu": "Intel Xeon Gold 6142 @ 2.60GHz",
+    "score": 24.938,
+    "rank": 408
+  },
+  {
+    "cpu": "AMD EPYC 7501",
+    "score": 24.925,
+    "rank": 409
+  },
+  {
+    "cpu": "Intel Core i5-13400",
+    "score": 24.89,
+    "rank": 410
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 7840U",
+    "score": 24.841,
+    "rank": 411
+  },
+  {
+    "cpu": "AMD Ryzen 9 6900HX",
+    "score": 24.836,
+    "rank": 413
+  },
+  {
+    "cpu": "Intel Xeon Gold 6434",
+    "score": 24.836,
+    "rank": 412
+  },
+  {
+    "cpu": "Intel Xeon Gold 6246 @ 3.30GHz",
+    "score": 24.829,
+    "rank": 414
+  },
+  {
+    "cpu": "Intel Xeon E5-2696 v4 @ 2.20GHz",
+    "score": 24.813,
+    "rank": 415
+  },
+  {
+    "cpu": "Intel Xeon Gold 6143 @ 2.80GHz",
+    "score": 24.786,
+    "rank": 416
+  },
+  {
+    "cpu": "Intel Xeon Gold 5218R @ 2.10GHz",
+    "score": 24.742,
+    "rank": 417
+  },
+  {
+    "cpu": "Intel Xeon E E-2486",
+    "score": 24.713,
+    "rank": 418
+  },
+  {
+    "cpu": "Intel Xeon Gold 6152 @ 2.10GHz",
+    "score": 24.68,
+    "rank": 419
+  },
+  {
+    "cpu": "Intel Core i7-11700K @ 3.60GHz",
+    "score": 24.642,
+    "rank": 420
+  },
+  {
+    "cpu": "AMD Ryzen 7 7840S",
+    "score": 24.635,
+    "rank": 421
+  },
+  {
+    "cpu": "Intel Core i5-12600HE",
+    "score": 24.599,
+    "rank": 422
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700G",
+    "score": 24.586,
+    "rank": 423
+  },
+  {
+    "cpu": "Intel Xeon W-1370P @ 3.60GHz",
+    "score": 24.54,
+    "rank": 424
+  },
+  {
+    "cpu": "Intel Core i5-12600HX",
+    "score": 24.522,
+    "rank": 425
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 5750G",
+    "score": 24.449,
+    "rank": 426
+  },
+  {
+    "cpu": "Intel Xeon Gold 6140 @ 2.30GHz",
+    "score": 24.445,
+    "rank": 427
+  },
+  {
+    "cpu": "Apple M3 Pro 11 Core",
+    "score": 24.417,
+    "rank": 428
+  },
+  {
+    "cpu": "AMD Ryzen 7 7735H",
+    "score": 24.262,
+    "rank": 429
+  },
+  {
+    "cpu": "AMD Ryzen 7 7735HS",
+    "score": 24.214,
+    "rank": 430
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700",
+    "score": 24.206,
+    "rank": 431
+  },
+  {
+    "cpu": "Intel Xeon Gold 5220 @ 2.20GHz",
+    "score": 24.154,
+    "rank": 432
+  },
+  {
+    "cpu": "Intel Xeon E5-2679 v4 @ 2.50GHz",
+    "score": 24.131,
+    "rank": 433
+  },
+  {
+    "cpu": "Intel Xeon W-2170B @ 2.50GHz",
+    "score": 24.033,
+    "rank": 434
+  },
+  {
+    "cpu": "Intel Core i7-11700KF @ 3.60GHz",
+    "score": 24.017,
+    "rank": 435
+  },
+  {
+    "cpu": "Intel Xeon Silver 4410Y",
+    "score": 23.971,
+    "rank": 436
+  },
+  {
+    "cpu": "Intel Xeon W-1390 @ 2.80GHz",
+    "score": 23.902,
+    "rank": 437
+  },
+  {
+    "cpu": "Intel Xeon Gold 6122 @ 1.80GHz",
+    "score": 23.781,
+    "rank": 438
+  },
+  {
+    "cpu": "Intel Core Ultra 5 135H",
+    "score": 23.765,
+    "rank": 439
+  },
+  {
+    "cpu": "AMD Ryzen 9 6900HS",
+    "score": 23.712,
+    "rank": 440
+  },
+  {
+    "cpu": "Intel Xeon E-2388G @ 3.20GHz",
+    "score": 23.711,
+    "rank": 441
+  },
+  {
+    "cpu": "Intel Xeon W-11865MRE @ 2.60GHz",
+    "score": 23.702,
+    "rank": 442
+  },
+  {
+    "cpu": "Intel Core i7-13705H",
+    "score": 23.682,
+    "rank": 443
+  },
+  {
+    "cpu": "AMD Ryzen 7 3800XT",
+    "score": 23.622,
+    "rank": 444
+  },
+  {
+    "cpu": "Intel Xeon E5-2698 v4 @ 2.20GHz",
+    "score": 23.617,
+    "rank": 445
+  },
+  {
+    "cpu": "Intel Core i9-7920X @ 2.90GHz",
+    "score": 23.616,
+    "rank": 446
+  },
+  {
+    "cpu": "AMD Ryzen 9 5980HX",
+    "score": 23.569,
+    "rank": 447
+  },
+  {
+    "cpu": "AMD EPYC 7351",
+    "score": 23.566,
+    "rank": 448
+  },
+  {
+    "cpu": "AMD Ryzen 7 6800H",
+    "score": 23.527,
+    "rank": 449
+  },
+  {
+    "cpu": "Intel Xeon W-1370 @ 2.90GHz",
+    "score": 23.52,
+    "rank": 450
+  },
+  {
+    "cpu": "Intel Xeon Gold 6138 @ 2.00GHz",
+    "score": 23.476,
+    "rank": 451
+  },
+  {
+    "cpu": "AMD EPYC 7F32",
+    "score": 23.453,
+    "rank": 452
+  },
+  {
+    "cpu": "Intel Xeon W-2175 @ 2.50GHz",
+    "score": 23.378,
+    "rank": 453
+  },
+  {
+    "cpu": "Intel Xeon E-2456",
+    "score": 23.33,
+    "rank": 454
+  },
+  {
+    "cpu": "Intel Xeon Gold 6146 @ 3.20GHz",
+    "score": 23.296,
+    "rank": 455
+  },
+  {
+    "cpu": "Intel Core i5-13500T",
+    "score": 23.28,
+    "rank": 456
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8176 @ 2.10GHz",
+    "score": 23.179,
+    "rank": 457
+  },
+  {
+    "cpu": "AMD Ryzen 7 3800X",
+    "score": 23.171,
+    "rank": 458
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper 1920X",
+    "score": 23.142,
+    "rank": 459
+  },
+  {
+    "cpu": "Intel Core i7-13700TE",
+    "score": 23.074,
+    "rank": 460
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 6850H",
+    "score": 22.988,
+    "rank": 461
+  },
+  {
+    "cpu": "Intel Core i5-13500H",
+    "score": 22.984,
+    "rank": 462
+  },
+  {
+    "cpu": "Intel Core i9-10900K @ 3.70GHz",
+    "score": 22.926,
+    "rank": 463
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 7640HS",
+    "score": 22.923,
+    "rank": 465
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 3700",
+    "score": 22.923,
+    "rank": 464
+  },
+  {
+    "cpu": "Intel Core i9-11900 @ 2.50GHz",
+    "score": 22.921,
+    "rank": 466
+  },
+  {
+    "cpu": "Intel Core i7-12650H",
+    "score": 22.92,
+    "rank": 467
+  },
+  {
+    "cpu": "Intel Core i9-11980HK @ 2.60GHz",
+    "score": 22.903,
+    "rank": 468
+  },
+  {
+    "cpu": "Intel Core i9-11900KB @ 3.30GHz",
+    "score": 22.901,
+    "rank": 469
+  },
+  {
+    "cpu": "AMD Ryzen 7 6800HS",
+    "score": 22.87,
+    "rank": 470
+  },
+  {
+    "cpu": "AMD Ryzen 5 7640HS",
+    "score": 22.836,
+    "rank": 471
+  },
+  {
+    "cpu": "AMD Ryzen 9 PRO 6950HS",
+    "score": 22.797,
+    "rank": 472
+  },
+  {
+    "cpu": "Intel Xeon E-2436",
+    "score": 22.775,
+    "rank": 473
+  },
+  {
+    "cpu": "Intel Core i7-11700B @ 3.20GHz",
+    "score": 22.767,
+    "rank": 474
+  },
+  {
+    "cpu": "Intel Core i5-12600H",
+    "score": 22.714,
+    "rank": 475
+  },
+  {
+    "cpu": "Intel Xeon Platinum P-8124 @ 3.00GHz",
+    "score": 22.674,
+    "rank": 476
+  },
+  {
+    "cpu": "Intel Xeon Silver 4310 @ 2.10GHz",
+    "score": 22.642,
+    "rank": 477
+  },
+  {
+    "cpu": "Intel Xeon W-11955M @ 2.60GHz",
+    "score": 22.624,
+    "rank": 478
+  },
+  {
+    "cpu": "Intel Core i9-10900KF @ 3.70GHz",
+    "score": 22.617,
+    "rank": 479
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900HX",
+    "score": 22.594,
+    "rank": 481
+  },
+  {
+    "cpu": "Intel Core i9-11900F @ 2.50GHz",
+    "score": 22.594,
+    "rank": 480
+  },
+  {
+    "cpu": "AMD Ryzen 7 3700X",
+    "score": 22.572,
+    "rank": 482
+  },
+  {
+    "cpu": "Intel Core i9-10900X @ 3.70GHz",
+    "score": 22.515,
+    "rank": 483
+  },
+  {
+    "cpu": "AMD EPYC 7551",
+    "score": 22.463,
+    "rank": 484
+  },
+  {
+    "cpu": "AMD Ryzen 9 PRO 6950H",
+    "score": 22.447,
+    "rank": 485
+  },
+  {
+    "cpu": "Intel Xeon W-1290P @ 3.70GHz",
+    "score": 22.445,
+    "rank": 486
+  },
+  {
+    "cpu": "Intel Core i9-10850K @ 3.60GHz",
+    "score": 22.442,
+    "rank": 487
+  },
+  {
+    "cpu": "Intel Xeon W-2255 @ 3.70GHz",
+    "score": 22.345,
+    "rank": 488
+  },
+  {
+    "cpu": "Intel Xeon E5-2699C v4 @ 2.20GHz",
+    "score": 22.308,
+    "rank": 489
+  },
+  {
+    "cpu": "Intel Xeon E5-2696 v3 @ 2.30GHz",
+    "score": 22.301,
+    "rank": 490
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700GE",
+    "score": 22.279,
+    "rank": 491
+  },
+  {
+    "cpu": "Montage Jintide C5318Y",
+    "score": 22.237,
+    "rank": 492
+  },
+  {
+    "cpu": "AMD Ryzen 7 7736U",
+    "score": 22.195,
+    "rank": 493
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900HS Creator Edition",
+    "score": 22.138,
+    "rank": 494
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600X3D",
+    "score": 22.112,
+    "rank": 495
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 8500G",
+    "score": 22.076,
+    "rank": 496
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper 1920",
+    "score": 22.066,
+    "rank": 497
+  },
+  {
+    "cpu": "Apple M1 Max 10 Core 3200 MHz",
+    "score": 22.026,
+    "rank": 498
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 6850HS",
+    "score": 21.998,
+    "rank": 499
+  },
+  {
+    "cpu": "Intel Xeon Gold 5218 @ 2.30GHz",
+    "score": 21.986,
+    "rank": 500
+  },
+  {
+    "cpu": "AMD Ryzen 9 6900HS Creator Edition",
+    "score": 21.957,
+    "rank": 501
+  },
+  {
+    "cpu": "Intel Xeon Gold 6132 @ 2.60GHz",
+    "score": 21.947,
+    "rank": 502
+  },
+  {
+    "cpu": "AMD Ryzen 7 6800HS Creator Edition",
+    "score": 21.94,
+    "rank": 503
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 5750GE",
+    "score": 21.927,
+    "rank": 504
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600X",
+    "score": 21.908,
+    "rank": 505
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 5645",
+    "score": 21.904,
+    "rank": 506
+  },
+  {
+    "cpu": "Intel Xeon Gold 6262 @ 1.90GHz",
+    "score": 21.823,
+    "rank": 507
+  },
+  {
+    "cpu": "Apple M1 Pro 10 Core 3200 MHz",
+    "score": 21.817,
+    "rank": 508
+  },
+  {
+    "cpu": "Intel Xeon Gold 6130T @ 2.10GHz",
+    "score": 21.804,
+    "rank": 509
+  },
+  {
+    "cpu": "Intel Core i9-9900X @ 3.50GHz",
+    "score": 21.803,
+    "rank": 510
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900HS",
+    "score": 21.747,
+    "rank": 511
+  },
+  {
+    "cpu": "Intel Core Ultra 5 125H",
+    "score": 21.646,
+    "rank": 512
+  },
+  {
+    "cpu": "AMD Ryzen 5 7640U",
+    "score": 21.622,
+    "rank": 513
+  },
+  {
+    "cpu": "AMD EPYC 7281",
+    "score": 21.621,
+    "rank": 514
+  },
+  {
+    "cpu": "AMD Ryzen 5 8500G",
+    "score": 21.616,
+    "rank": 515
+  },
+  {
+    "cpu": "Intel Xeon E7-8891 v3 @ 2.80GHz",
+    "score": 21.615,
+    "rank": 516
+  },
+  {
+    "cpu": "Apple M2 Pro 10 Core 3480 MHz",
+    "score": 21.601,
+    "rank": 517
+  },
+  {
+    "cpu": "Intel Core i9-10910 @ 3.60GHz",
+    "score": 21.593,
+    "rank": 518
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600",
+    "score": 21.574,
+    "rank": 519
+  },
+  {
+    "cpu": "Intel Core i7-12700T",
+    "score": 21.536,
+    "rank": 520
+  },
+  {
+    "cpu": "AMD Ryzen 7 Pro 7735U",
+    "score": 21.533,
+    "rank": 521
+  },
+  {
+    "cpu": "Intel Xeon Gold 6334 @ 3.60GHz",
+    "score": 21.521,
+    "rank": 522
+  },
+  {
+    "cpu": "Intel Core i5-14500T",
+    "score": 21.482,
+    "rank": 523
+  },
+  {
+    "cpu": "Intel Core i5-13500TE",
+    "score": 21.478,
+    "rank": 524
+  },
+  {
+    "cpu": "Intel Xeon Gold 5218T @ 2.10GHz",
+    "score": 21.433,
+    "rank": 525
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 8500GE",
+    "score": 21.426,
+    "rank": 526
+  },
+  {
+    "cpu": "AMD Ryzen 7 7735U",
+    "score": 21.378,
+    "rank": 527
+  },
+  {
+    "cpu": "Intel Xeon E5-2697A v4 @ 2.60GHz",
+    "score": 21.368,
+    "rank": 528
+  },
+  {
+    "cpu": "Intel Core i9-11950H @ 2.60GHz",
+    "score": 21.359,
+    "rank": 529
+  },
+  {
+    "cpu": "AMD Ryzen 9 5980HS",
+    "score": 21.32,
+    "rank": 530
+  },
+  {
+    "cpu": "Intel Core i5-12600",
+    "score": 21.293,
+    "rank": 531
+  },
+  {
+    "cpu": "Intel Core i5-12500H",
+    "score": 21.287,
+    "rank": 532
+  },
+  {
+    "cpu": "Intel Xeon E-2378G @ 2.80GHz",
+    "score": 21.218,
+    "rank": 533
+  },
+  {
+    "cpu": "Intel Core i9-7900X @ 3.30GHz",
+    "score": 21.175,
+    "rank": 534
+  },
+  {
+    "cpu": "AMD Ryzen 7 5800HS Creator Edition",
+    "score": 21.166,
+    "rank": 535
+  },
+  {
+    "cpu": "Intel Core i5-13400T",
+    "score": 21.147,
+    "rank": 536
+  },
+  {
+    "cpu": "AMD Ryzen 7 5800H",
+    "score": 21.08,
+    "rank": 537
+  },
+  {
+    "cpu": "Intel Core i7-11700F @ 2.50GHz",
+    "score": 21.059,
+    "rank": 538
+  },
+  {
+    "cpu": "Intel Xeon E5-2697 v4 @ 2.30GHz",
+    "score": 21.058,
+    "rank": 539
+  },
+  {
+    "cpu": "Intel Xeon W-2155 @ 3.30GHz",
+    "score": 21.045,
+    "rank": 540
+  },
+  {
+    "cpu": "Intel Core i7-7900X @ 3.30GHz",
+    "score": 21.008,
+    "rank": 541
+  },
+  {
+    "cpu": "Intel Xeon Silver 4310T @ 2.30GHz",
+    "score": 20.973,
+    "rank": 542
+  },
+  {
+    "cpu": "Intel Xeon Gold 6250 @ 3.90GHz",
+    "score": 20.915,
+    "rank": 543
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 6850U",
+    "score": 20.901,
+    "rank": 544
+  },
+  {
+    "cpu": "Intel Xeon E5-2686 v4 @ 2.30GHz",
+    "score": 20.887,
+    "rank": 545
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 6860Z",
+    "score": 20.863,
+    "rank": 546
+  },
+  {
+    "cpu": "Intel Xeon E5-2697R v4 @ 2.30GHz",
+    "score": 20.843,
+    "rank": 547
+  },
+  {
+    "cpu": "Intel Xeon Gold 5315Y @ 3.20GHz",
+    "score": 20.82,
+    "rank": 548
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 5650G",
+    "score": 20.803,
+    "rank": 549
+  },
+  {
+    "cpu": "Intel Xeon Gold 6136 @ 3.00GHz",
+    "score": 20.796,
+    "rank": 550
+  },
+  {
+    "cpu": "AMD EPYC 7262",
+    "score": 20.795,
+    "rank": 551
+  },
+  {
+    "cpu": "Intel Xeon E5-2673 v4 @ 2.30GHz",
+    "score": 20.709,
+    "rank": 552
+  },
+  {
+    "cpu": "Intel Core i5-12500E",
+    "score": 20.699,
+    "rank": 553
+  },
+  {
+    "cpu": "AMD Ryzen 7 6800U",
+    "score": 20.655,
+    "rank": 554
+  },
+  {
+    "cpu": "Intel Xeon Gold 6138T @ 2.00GHz",
+    "score": 20.649,
+    "rank": 555
+  },
+  {
+    "cpu": "Intel Core i9-11900H @ 2.50GHz",
+    "score": 20.646,
+    "rank": 556
+  },
+  {
+    "cpu": "Intel Xeon D-2753NT @ 2.00GHz",
+    "score": 20.626,
+    "rank": 557
+  },
+  {
+    "cpu": "Intel Core i7-11800H @ 2.30GHz",
+    "score": 20.615,
+    "rank": 558
+  },
+  {
+    "cpu": "Intel Xeon Silver 4216 @ 2.10GHz",
+    "score": 20.613,
+    "rank": 559
+  },
+  {
+    "cpu": "Intel Core i7-11850H @ 2.50GHz",
+    "score": 20.61,
+    "rank": 560
+  },
+  {
+    "cpu": "Intel Core i7-1280P",
+    "score": 20.594,
+    "rank": 561
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900H",
+    "score": 20.557,
+    "rank": 562
+  },
+  {
+    "cpu": "Intel Xeon W-2150B @ 3.00GHz",
+    "score": 20.539,
+    "rank": 563
+  },
+  {
+    "cpu": "Intel Core i5-12490F",
+    "score": 20.506,
+    "rank": 564
+  },
+  {
+    "cpu": "AMD EPYC 8024P",
+    "score": 20.497,
+    "rank": 565
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 4750G",
+    "score": 20.48,
+    "rank": 566
+  },
+  {
+    "cpu": "Intel Xeon Gold 6226 @ 2.70GHz",
+    "score": 20.429,
+    "rank": 567
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500GT",
+    "score": 20.423,
+    "rank": 568
+  },
+  {
+    "cpu": "Intel Xeon Gold 6130 @ 2.10GHz",
+    "score": 20.411,
+    "rank": 569
+  },
+  {
+    "cpu": "Intel Xeon E5-4667 v4 @ 2.20GHz",
+    "score": 20.319,
+    "rank": 570
+  },
+  {
+    "cpu": "Intel Xeon E5-2699 v3 @ 2.30GHz",
+    "score": 20.289,
+    "rank": 571
+  },
+  {
+    "cpu": "Intel Xeon D-1747NTE @ 2.50GHz",
+    "score": 20.279,
+    "rank": 572
+  },
+  {
+    "cpu": "Intel Core i5-1250P",
+    "score": 20.229,
+    "rank": 573
+  },
+  {
+    "cpu": "AMD Ryzen Embedded V3C48",
+    "score": 20.203,
+    "rank": 574
+  },
+  {
+    "cpu": "Intel Core i7-1370P",
+    "score": 20.174,
+    "rank": 575
+  },
+  {
+    "cpu": "AMD Ryzen 7 5800HS",
+    "score": 20.167,
+    "rank": 576
+  },
+  {
+    "cpu": "AMD Ryzen 7 4700G",
+    "score": 20.126,
+    "rank": 577
+  },
+  {
+    "cpu": "Intel CoreT i5-1350P",
+    "score": 20.087,
+    "rank": 578
+  },
+  {
+    "cpu": "Intel Xeon W-1290 @ 3.20GHz",
+    "score": 20.071,
+    "rank": 579
+  },
+  {
+    "cpu": "Intel Core i9-9820X @ 3.30GHz",
+    "score": 20.045,
+    "rank": 580
+  },
+  {
+    "cpu": "Intel Core i5-1340PE",
+    "score": 20.041,
+    "rank": 581
+  },
+  {
+    "cpu": "Intel Core i9-10900F @ 2.80GHz",
+    "score": 20.028,
+    "rank": 582
+  },
+  {
+    "cpu": "Intel Xeon Gold 6144 @ 3.50GHz",
+    "score": 19.993,
+    "rank": 583
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600GT",
+    "score": 19.945,
+    "rank": 584
+  },
+  {
+    "cpu": "Intel Core i5-12500",
+    "score": 19.903,
+    "rank": 585
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600G",
+    "score": 19.898,
+    "rank": 586
+  },
+  {
+    "cpu": "Intel Core i9-10900 @ 2.80GHz",
+    "score": 19.867,
+    "rank": 587
+  },
+  {
+    "cpu": "AMD Ryzen 7 4700GE",
+    "score": 19.831,
+    "rank": 588
+  },
+  {
+    "cpu": "Intel Xeon W-1350P @ 4.00GHz",
+    "score": 19.821,
+    "rank": 589
+  },
+  {
+    "cpu": "Intel Core i7-11700 @ 2.50GHz",
+    "score": 19.788,
+    "rank": 590
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 4700G",
+    "score": 19.786,
+    "rank": 591
+  },
+  {
+    "cpu": "Intel Core i5-11600KF @ 3.90GHz",
+    "score": 19.661,
+    "rank": 592
+  },
+  {
+    "cpu": "Apple M3 8 Core",
+    "score": 19.653,
+    "rank": 593
+  },
+  {
+    "cpu": "Intel Core i5-11600K @ 3.90GHz",
+    "score": 19.649,
+    "rank": 594
+  },
+  {
+    "cpu": "Intel Xeon E-2386G @ 3.50GHz",
+    "score": 19.613,
+    "rank": 595
+  },
+  {
+    "cpu": "Intel Xeon E5-2690 v4 @ 2.60GHz",
+    "score": 19.607,
+    "rank": 596
+  },
+  {
+    "cpu": "Intel Core i5-12400F",
+    "score": 19.565,
+    "rank": 597
+  },
+  {
+    "cpu": "AMD EPYC 3451",
+    "score": 19.532,
+    "rank": 598
+  },
+  {
+    "cpu": "Intel Core i9-9900KS @ 4.00GHz",
+    "score": 19.498,
+    "rank": 599
+  },
+  {
+    "cpu": "Intel Xeon E5-2695 v4 @ 2.10GHz",
+    "score": 19.48,
+    "rank": 600
+  },
+  {
+    "cpu": "Intel Xeon W-2245 @ 3.90GHz",
+    "score": 19.47,
+    "rank": 601
+  },
+  {
+    "cpu": "Intel Core i9-10900E @ 2.80GHz",
+    "score": 19.456,
+    "rank": 602
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "score": 19.453,
+    "rank": 603
+  },
+  {
+    "cpu": "AMD Ryzen 5 8540U",
+    "score": 19.425,
+    "rank": 604
+  },
+  {
+    "cpu": "Intel Core i7-1360P",
+    "score": 19.422,
+    "rank": 605
+  },
+  {
+    "cpu": "Intel Core i5-12400",
+    "score": 19.416,
+    "rank": 606
+  },
+  {
+    "cpu": "AMD EPYC 7252",
+    "score": 19.411,
+    "rank": 607
+  },
+  {
+    "cpu": "Intel Core i5-1350P",
+    "score": 19.378,
+    "rank": 608
+  },
+  {
+    "cpu": "Intel Xeon D-2183IT @ 2.20GHz",
+    "score": 19.377,
+    "rank": 609
+  },
+  {
+    "cpu": "Intel Xeon Gold 6137 @ 3.90GHz",
+    "score": 19.365,
+    "rank": 610
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 7730U",
+    "score": 19.273,
+    "rank": 611
+  },
+  {
+    "cpu": "AMD Ryzen 5 7540U",
+    "score": 19.213,
+    "rank": 612
+  },
+  {
+    "cpu": "AMD Ryzen 9 4900H",
+    "score": 19.156,
+    "rank": 613
+  },
+  {
+    "cpu": "Intel Xeon D-2752TER @ 1.80GHz",
+    "score": 19.102,
+    "rank": 614
+  },
+  {
+    "cpu": "Intel Xeon Silver 4309Y @ 2.80GHz",
+    "score": 19.1,
+    "rank": 615
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 6650H",
+    "score": 19.094,
+    "rank": 616
+  },
+  {
+    "cpu": "AMD Ryzen 9 4900HS",
+    "score": 19.046,
+    "rank": 617
+  },
+  {
+    "cpu": "Intel Xeon W-1350 @ 3.30GHz",
+    "score": 19.015,
+    "rank": 618
+  },
+  {
+    "cpu": "Intel Xeon Gold 6244 @ 3.60GHz",
+    "score": 18.98,
+    "rank": 619
+  },
+  {
+    "cpu": "Intel Xeon E5-2676 v4 @ 2.40GHz",
+    "score": 18.978,
+    "rank": 620
+  },
+  {
+    "cpu": "Intel Core i9-11900T @ 1.50GHz",
+    "score": 18.968,
+    "rank": 621
+  },
+  {
+    "cpu": "Intel Xeon E5-2698 v3 @ 2.30GHz",
+    "score": 18.96,
+    "rank": 622
+  },
+  {
+    "cpu": "AMD Ryzen 5 6600H",
+    "score": 18.917,
+    "rank": 623
+  },
+  {
+    "cpu": "Intel Core i5-13420H",
+    "score": 18.915,
+    "rank": 624
+  },
+  {
+    "cpu": "Intel Core i5-1340P",
+    "score": 18.91,
+    "rank": 625
+  },
+  {
+    "cpu": "Intel Core i7-11850HE @ 2.60GHz",
+    "score": 18.899,
+    "rank": 626
+  },
+  {
+    "cpu": "Intel Core Ultra 5 135U",
+    "score": 18.856,
+    "rank": 627
+  },
+  {
+    "cpu": "Hygon C86 7255 16-core",
+    "score": 18.831,
+    "rank": 628
+  },
+  {
+    "cpu": "Intel Core i7-10700K @ 3.80GHz",
+    "score": 18.829,
+    "rank": 629
+  },
+  {
+    "cpu": "ARM Neoverse-N1 80 Core 2600 MHz",
+    "score": 18.823,
+    "rank": 630
+  },
+  {
+    "cpu": "ARM Neoverse-N1 64 Core 2200 MHz",
+    "score": 18.803,
+    "rank": 631
+  },
+  {
+    "cpu": "Intel Xeon W-1290E @ 3.50GHz",
+    "score": 18.786,
+    "rank": 632
+  },
+  {
+    "cpu": "Intel Xeon E5-2682 v4 @ 2.50GHz",
+    "score": 18.781,
+    "rank": 633
+  },
+  {
+    "cpu": "AMD Ryzen 7 7730U",
+    "score": 18.756,
+    "rank": 634
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600GE",
+    "score": 18.749,
+    "rank": 635
+  },
+  {
+    "cpu": "Intel Xeon E5-2697 v3 @ 2.60GHz",
+    "score": 18.725,
+    "rank": 636
+  },
+  {
+    "cpu": "AMD Ryzen Z1",
+    "score": 18.67,
+    "rank": 637
+  },
+  {
+    "cpu": "AMD Ryzen 5 3600XT",
+    "score": 18.65,
+    "rank": 638
+  },
+  {
+    "cpu": "Intel Core i5-12450HX",
+    "score": 18.643,
+    "rank": 639
+  },
+  {
+    "cpu": "Intel Xeon W-1270E @ 3.40GHz",
+    "score": 18.635,
+    "rank": 640
+  },
+  {
+    "cpu": "Intel Core i7-10700KF @ 3.80GHz",
+    "score": 18.625,
+    "rank": 641
+  },
+  {
+    "cpu": "AMD Ryzen 7 4800H",
+    "score": 18.575,
+    "rank": 642
+  },
+  {
+    "cpu": "Intel Xeon W-1270P @ 3.80GHz",
+    "score": 18.553,
+    "rank": 643
+  },
+  {
+    "cpu": "AMD Ryzen 7 5800U",
+    "score": 18.519,
+    "rank": 645
+  },
+  {
+    "cpu": "Intel Core Ultra 7 165U",
+    "score": 18.519,
+    "rank": 644
+  },
+  {
+    "cpu": "Intel Xeon E-2356G @ 3.20GHz",
+    "score": 18.496,
+    "rank": 646
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 4750GE",
+    "score": 18.471,
+    "rank": 647
+  },
+  {
+    "cpu": "AMD Ryzen 7 4800HS",
+    "score": 18.462,
+    "rank": 648
+  },
+  {
+    "cpu": "Intel Xeon Gold 6126 @ 2.60GHz",
+    "score": 18.441,
+    "rank": 649
+  },
+  {
+    "cpu": "AMD Ryzen 5 7535HS",
+    "score": 18.434,
+    "rank": 650
+  },
+  {
+    "cpu": "Intel Xeon W-1290T @ 1.90GHz",
+    "score": 18.409,
+    "rank": 651
+  },
+  {
+    "cpu": "AMD Ryzen 7 5825U",
+    "score": 18.382,
+    "rank": 652
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 5650GE",
+    "score": 18.362,
+    "rank": 653
+  },
+  {
+    "cpu": "AMD Ryzen 5 6600HS Creator Edition",
+    "score": 18.358,
+    "rank": 654
+  },
+  {
+    "cpu": "Intel Xeon Silver 4214R @ 2.40GHz",
+    "score": 18.342,
+    "rank": 655
+  },
+  {
+    "cpu": "Intel Core i9-9900KF @ 3.60GHz",
+    "score": 18.324,
+    "rank": 656
+  },
+  {
+    "cpu": "Intel Core i9-9900K @ 3.60GHz",
+    "score": 18.314,
+    "rank": 657
+  },
+  {
+    "cpu": "Intel Xeon w3-2425",
+    "score": 18.284,
+    "rank": 658
+  },
+  {
+    "cpu": "Intel Xeon E7-8880 v3 @ 2.30GHz",
+    "score": 18.244,
+    "rank": 659
+  },
+  {
+    "cpu": "AMD Ryzen 5 3600X",
+    "score": 18.213,
+    "rank": 660
+  },
+  {
+    "cpu": "Intel Xeon W-11855M @ 3.20GHz",
+    "score": 18.184,
+    "rank": 661
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 7540U",
+    "score": 18.182,
+    "rank": 662
+  },
+  {
+    "cpu": "Intel Xeon W-2145 @ 3.70GHz",
+    "score": 18.178,
+    "rank": 663
+  },
+  {
+    "cpu": "Intel Xeon E5-2686 v3 @ 2.00GHz",
+    "score": 18.148,
+    "rank": 664
+  },
+  {
+    "cpu": "Intel Xeon Gold 5120T @ 2.20GHz",
+    "score": 18.127,
+    "rank": 665
+  },
+  {
+    "cpu": "Intel Core i5-11600 @ 2.80GHz",
+    "score": 18.101,
+    "rank": 666
+  },
+  {
+    "cpu": "AMD 4700S",
+    "score": 18.07,
+    "rank": 667
+  },
+  {
+    "cpu": "Intel Xeon D-2187NT @ 2.00GHz",
+    "score": 18.07,
+    "rank": 668
+  },
+  {
+    "cpu": "Intel Core i7-9800X @ 3.80GHz",
+    "score": 18.069,
+    "rank": 669
+  },
+  {
+    "cpu": "Intel Core i7-1270PE",
+    "score": 17.96,
+    "rank": 670
+  },
+  {
+    "cpu": "Intel Xeon D-1736NT @ 2.70GHz",
+    "score": 17.826,
+    "rank": 671
+  },
+  {
+    "cpu": "Intel Xeon E5-2680 v4 @ 2.40GHz",
+    "score": 17.799,
+    "rank": 672
+  },
+  {
+    "cpu": "AMD Ryzen 5 Pro 7535U",
+    "score": 17.791,
+    "rank": 673
+  },
+  {
+    "cpu": "AMD Ryzen 5 3600",
+    "score": 17.765,
+    "rank": 674
+  },
+  {
+    "cpu": "Intel Core 7 150U",
+    "score": 17.757,
+    "rank": 675
+  },
+  {
+    "cpu": "Intel Xeon E5-2687W v4 @ 3.00GHz",
+    "score": 17.755,
+    "rank": 676
+  },
+  {
+    "cpu": "Intel Xeon Gold 6234 @ 3.30GHz",
+    "score": 17.752,
+    "rank": 677
+  },
+  {
+    "cpu": "Intel Core i5-1250PE",
+    "score": 17.738,
+    "rank": 678
+  },
+  {
+    "cpu": "Intel Xeon Gold 5120 @ 2.20GHz",
+    "score": 17.686,
+    "rank": 679
+  },
+  {
+    "cpu": "Intel Xeon E5-2683 v4 @ 2.10GHz",
+    "score": 17.685,
+    "rank": 680
+  },
+  {
+    "cpu": "Intel Xeon W-1270 @ 3.40GHz",
+    "score": 17.641,
+    "rank": 681
+  },
+  {
+    "cpu": "Intel Core i5-11500B @ 3.30GHz",
+    "score": 17.624,
+    "rank": 682
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 3600",
+    "score": 17.606,
+    "rank": 683
+  },
+  {
+    "cpu": "Intel Core i5-12600T",
+    "score": 17.576,
+    "rank": 684
+  },
+  {
+    "cpu": "Intel Core Ultra 5 125U",
+    "score": 17.535,
+    "rank": 685
+  },
+  {
+    "cpu": "AMD Ryzen 7 2700X",
+    "score": 17.532,
+    "rank": 686
+  },
+  {
+    "cpu": "Intel Xeon E5-2680R v4 @ 2.40GHz",
+    "score": 17.487,
+    "rank": 687
+  },
+  {
+    "cpu": "Intel Xeon W-11555MRE @ 2.60GHz",
+    "score": 17.484,
+    "rank": 688
+  },
+  {
+    "cpu": "AMD Ryzen 7 4980U Microsoft Surface Edition",
+    "score": 17.469,
+    "rank": 689
+  },
+  {
+    "cpu": "Intel Core i7-1270P",
+    "score": 17.46,
+    "rank": 690
+  },
+  {
+    "cpu": "Intel Xeon E5-4669 v3 @ 2.10GHz",
+    "score": 17.43,
+    "rank": 691
+  },
+  {
+    "cpu": "Intel Core i7-6950X @ 3.00GHz",
+    "score": 17.419,
+    "rank": 692
+  },
+  {
+    "cpu": "Intel Core i5-11500 @ 2.70GHz",
+    "score": 17.392,
+    "rank": 693
+  },
+  {
+    "cpu": "Intel Xeon E-2288G @ 3.70GHz",
+    "score": 17.359,
+    "rank": 694
+  },
+  {
+    "cpu": "Intel Core 5 120U",
+    "score": 17.34,
+    "rank": 695
+  },
+  {
+    "cpu": "Intel Xeon E-2378 @ 2.60GHz",
+    "score": 17.31,
+    "rank": 696
+  },
+  {
+    "cpu": "Intel Xeon W-2140B @ 3.20GHz",
+    "score": 17.299,
+    "rank": 697
+  },
+  {
+    "cpu": "Intel Core i5-1240P",
+    "score": 17.27,
+    "rank": 698
+  },
+  {
+    "cpu": "Intel Core i7-1260P",
+    "score": 17.239,
+    "rank": 699
+  },
+  {
+    "cpu": "Intel Core i7-7820X @ 3.60GHz",
+    "score": 17.194,
+    "rank": 700
+  },
+  {
+    "cpu": "Intel Xeon W-3223 @ 3.50GHz",
+    "score": 17.17,
+    "rank": 701
+  },
+  {
+    "cpu": "AMD Ryzen 5 4400G",
+    "score": 17.16,
+    "rank": 702
+  },
+  {
+    "cpu": "Apple M1 Pro 8 Core 3200 MHz",
+    "score": 17.144,
+    "rank": 704
+  },
+  {
+    "cpu": "Intel Core i5-12450H",
+    "score": 17.144,
+    "rank": 703
+  },
+  {
+    "cpu": "Intel Core i5-11400F @ 2.60GHz",
+    "score": 17.084,
+    "rank": 705
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 5850U",
+    "score": 17.077,
+    "rank": 706
+  },
+  {
+    "cpu": "Intel Core i5-11400 @ 2.60GHz",
+    "score": 17.065,
+    "rank": 707
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600H",
+    "score": 17.037,
+    "rank": 708
+  },
+  {
+    "cpu": "Intel Xeon E-2278G @ 3.40GHz",
+    "score": 17.023,
+    "rank": 709
+  },
+  {
+    "cpu": "AMD EPYC 7232P",
+    "score": 17.017,
+    "rank": 711
+  },
+  {
+    "cpu": "Intel Xeon E5-2689 v4 @ 3.10GHz",
+    "score": 17.017,
+    "rank": 710
+  },
+  {
+    "cpu": "Intel Core i9-10900TE @ 1.80GHz",
+    "score": 16.914,
+    "rank": 712
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 2700X",
+    "score": 16.908,
+    "rank": 713
+  },
+  {
+    "cpu": "AMD Ryzen 7 Extreme Edition",
+    "score": 16.903,
+    "rank": 714
+  },
+  {
+    "cpu": "Intel Core i7-12700TE",
+    "score": 16.833,
+    "rank": 715
+  },
+  {
+    "cpu": "AMD Ryzen 5 6600U",
+    "score": 16.792,
+    "rank": 717
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper 1900X",
+    "score": 16.792,
+    "rank": 716
+  },
+  {
+    "cpu": "Intel Xeon E-2336 @ 2.90GHz",
+    "score": 16.768,
+    "rank": 718
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 6650U",
+    "score": 16.736,
+    "rank": 719
+  },
+  {
+    "cpu": "AMD Ryzen 7 4800U",
+    "score": 16.715,
+    "rank": 720
+  },
+  {
+    "cpu": "AMD Ryzen Embedded V2748",
+    "score": 16.706,
+    "rank": 721
+  },
+  {
+    "cpu": "Intel Core i7-11600H @ 2.90GHz",
+    "score": 16.685,
+    "rank": 722
+  },
+  {
+    "cpu": "Intel Xeon Gold 5118 @ 2.30GHz",
+    "score": 16.652,
+    "rank": 723
+  },
+  {
+    "cpu": "Intel Xeon Gold 6134 @ 3.20GHz",
+    "score": 16.621,
+    "rank": 724
+  },
+  {
+    "cpu": "Intel Core i7-10700E @ 2.90GHz",
+    "score": 16.599,
+    "rank": 725
+  },
+  {
+    "cpu": "Intel Core i5-12500T",
+    "score": 16.592,
+    "rank": 726
+  },
+  {
+    "cpu": "Intel Core i9-9900 @ 3.10GHz",
+    "score": 16.548,
+    "rank": 727
+  },
+  {
+    "cpu": "Intel Xeon E5-2690 v3 @ 2.60GHz",
+    "score": 16.545,
+    "rank": 728
+  },
+  {
+    "cpu": "AMD Ryzen 5 7535U",
+    "score": 16.526,
+    "rank": 729
+  },
+  {
+    "cpu": "Intel Core i7-10700F @ 2.90GHz",
+    "score": 16.462,
+    "rank": 730
+  },
+  {
+    "cpu": "Intel Core i7-10700 @ 2.90GHz",
+    "score": 16.457,
+    "rank": 731
+  },
+  {
+    "cpu": "Intel Xeon Silver 4214Y @ 2.20GHz",
+    "score": 16.442,
+    "rank": 732
+  },
+  {
+    "cpu": "Intel Xeon E-2278GE @ 3.30GHz",
+    "score": 16.401,
+    "rank": 733
+  },
+  {
+    "cpu": "AMD Ryzen 7 1800X",
+    "score": 16.388,
+    "rank": 734
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 4655G",
+    "score": 16.355,
+    "rank": 735
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 4400G",
+    "score": 16.354,
+    "rank": 736
+  },
+  {
+    "cpu": "Intel Xeon E5-2695 v3 @ 2.30GHz",
+    "score": 16.348,
+    "rank": 737
+  },
+  {
+    "cpu": "Intel Core Ultra 7 155U",
+    "score": 16.294,
+    "rank": 738
+  },
+  {
+    "cpu": "Intel Xeon E5-2698B v3 @ 2.00GHz",
+    "score": 16.287,
+    "rank": 739
+  },
+  {
+    "cpu": "AMD Ryzen 5 7530U",
+    "score": 16.263,
+    "rank": 740
+  },
+  {
+    "cpu": "Intel Xeon w3-2423",
+    "score": 16.259,
+    "rank": 741
+  },
+  {
+    "cpu": "Intel Core Ultra 7 164U",
+    "score": 16.246,
+    "rank": 742
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 5875U",
+    "score": 16.242,
+    "rank": 743
+  },
+  {
+    "cpu": "AMD Ryzen Embedded V2546",
+    "score": 16.236,
+    "rank": 744
+  },
+  {
+    "cpu": "Intel Xeon D-2733NT @ 2.10GHz",
+    "score": 16.206,
+    "rank": 745
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 4650G",
+    "score": 16.205,
+    "rank": 746
+  },
+  {
+    "cpu": "Intel Core i5-1335U",
+    "score": 16.192,
+    "rank": 747
+  },
+  {
+    "cpu": "Intel Xeon Silver 4214 @ 2.20GHz",
+    "score": 16.19,
+    "rank": 748
+  },
+  {
+    "cpu": "Intel Xeon E E-2434",
+    "score": 16.187,
+    "rank": 749
+  },
+  {
+    "cpu": "Intel Core i5-11500H @ 2.90GHz",
+    "score": 16.171,
+    "rank": 750
+  },
+  {
+    "cpu": "Intel Core i5-12400T",
+    "score": 16.155,
+    "rank": 751
+  },
+  {
+    "cpu": "Intel Core i3-1220PE",
+    "score": 16.146,
+    "rank": 752
+  },
+  {
+    "cpu": "AMD Ryzen 5 4500",
+    "score": 16.137,
+    "rank": 753
+  },
+  {
+    "cpu": "Intel Xeon E5-2669 v3 @ 2.30GHz",
+    "score": 16.107,
+    "rank": 754
+  },
+  {
+    "cpu": "Intel Xeon E5-2660 v4 @ 2.00GHz",
+    "score": 16.086,
+    "rank": 755
+  },
+  {
+    "cpu": "AMD Ryzen Embedded V2718",
+    "score": 16.075,
+    "rank": 756
+  },
+  {
+    "cpu": "AMD Ryzen 5 4600G",
+    "score": 16.052,
+    "rank": 757
+  },
+  {
+    "cpu": "Intel Xeon W-11865MLE @ 1.50GHz",
+    "score": 15.958,
+    "rank": 758
+  },
+  {
+    "cpu": "AMD Ryzen 7 4850U Mobile",
+    "score": 15.92,
+    "rank": 759
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700U",
+    "score": 15.857,
+    "rank": 760
+  },
+  {
+    "cpu": "AMD Ryzen 5 4600GE",
+    "score": 15.823,
+    "rank": 761
+  },
+  {
+    "cpu": "Intel Core i9-13900TE",
+    "score": 15.819,
+    "rank": 762
+  },
+  {
+    "cpu": "Intel Xeon Gold 5117 @ 2.00GHz",
+    "score": 15.816,
+    "rank": 763
+  },
+  {
+    "cpu": "Intel Core i5-11260H @ 2.60GHz",
+    "score": 15.778,
+    "rank": 764
+  },
+  {
+    "cpu": "Intel Core i5-11400H @ 2.70GHz",
+    "score": 15.732,
+    "rank": 765
+  },
+  {
+    "cpu": "AMD Ryzen 7 2700",
+    "score": 15.717,
+    "rank": 766
+  },
+  {
+    "cpu": "Intel Xeon W-10885M @ 2.40GHz",
+    "score": 15.709,
+    "rank": 767
+  },
+  {
+    "cpu": "AMD Ryzen 7 1700X",
+    "score": 15.671,
+    "rank": 768
+  },
+  {
+    "cpu": "Intel Xeon Gold 5215 @ 2.50GHz",
+    "score": 15.624,
+    "rank": 769
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 1700X",
+    "score": 15.612,
+    "rank": 770
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 4650GE",
+    "score": 15.569,
+    "rank": 771
+  },
+  {
+    "cpu": "AMD Ryzen Embedded V3C18I",
+    "score": 15.541,
+    "rank": 772
+  },
+  {
+    "cpu": "Intel Core i7-11700T @ 1.40GHz",
+    "score": 15.511,
+    "rank": 773
+  },
+  {
+    "cpu": "Intel Xeon D-1726 @ 2.90GHz",
+    "score": 15.511,
+    "rank": 774
+  },
+  {
+    "cpu": "Intel Core i9-10980HK @ 2.40GHz",
+    "score": 15.489,
+    "rank": 775
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600U",
+    "score": 15.482,
+    "rank": 776
+  },
+  {
+    "cpu": "Apple M2 8 Core 3500 MHz",
+    "score": 15.466,
+    "rank": 777
+  },
+  {
+    "cpu": "Intel Core i3-14100",
+    "score": 15.458,
+    "rank": 778
+  },
+  {
+    "cpu": "Intel Xeon Gold 5217 @ 3.00GHz",
+    "score": 15.429,
+    "rank": 779
+  },
+  {
+    "cpu": "Intel Core i5-1345U",
+    "score": 15.422,
+    "rank": 780
+  },
+  {
+    "cpu": "Intel Xeon E5-4667 v3 @ 2.00GHz",
+    "score": 15.397,
+    "rank": 781
+  },
+  {
+    "cpu": "Intel Core i3-14100F",
+    "score": 15.377,
+    "rank": 782
+  },
+  {
+    "cpu": "Intel Xeon E5-4660 v4 @ 2.20GHz",
+    "score": 15.375,
+    "rank": 783
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 7530U",
+    "score": 15.309,
+    "rank": 784
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 2700",
+    "score": 15.28,
+    "rank": 785
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 4750U",
+    "score": 15.206,
+    "rank": 786
+  },
+  {
+    "cpu": "Intel Xeon E5-2680 v3 @ 2.50GHz",
+    "score": 15.192,
+    "rank": 787
+  },
+  {
+    "cpu": "Intel Xeon Silver 4116T @ 2.10GHz",
+    "score": 15.187,
+    "rank": 788
+  },
+  {
+    "cpu": "Intel Core i9-10885H @ 2.40GHz",
+    "score": 15.158,
+    "rank": 789
+  },
+  {
+    "cpu": "Intel Core i7-1355U",
+    "score": 15.156,
+    "rank": 790
+  },
+  {
+    "cpu": "Intel Xeon Silver 4116 @ 2.10GHz",
+    "score": 15.122,
+    "rank": 791
+  },
+  {
+    "cpu": "Intel Xeon D-2166NT @ 2.00GHz",
+    "score": 15.105,
+    "rank": 792
+  },
+  {
+    "cpu": "AMD Ryzen 5 5560U",
+    "score": 15.075,
+    "rank": 793
+  },
+  {
+    "cpu": "Intel Core i7-1365U",
+    "score": 15.065,
+    "rank": 794
+  },
+  {
+    "cpu": "Intel Xeon Silver 4210R @ 2.40GHz",
+    "score": 15.046,
+    "rank": 795
+  },
+  {
+    "cpu": "Intel Xeon E-2286M @ 2.40GHz",
+    "score": 15.032,
+    "rank": 796
+  },
+  {
+    "cpu": "Intel Core i9-10900T @ 1.90GHz",
+    "score": 15.023,
+    "rank": 797
+  },
+  {
+    "cpu": "Intel Xeon Silver 4215R @ 3.20GHz",
+    "score": 15.004,
+    "rank": 798
+  },
+  {
+    "cpu": "AMD EPYC 7301",
+    "score": 14.991,
+    "rank": 799
+  },
+  {
+    "cpu": "AMD Ryzen 5 5625U",
+    "score": 14.97,
+    "rank": 800
+  },
+  {
+    "cpu": "AMD EPYC 7251",
+    "score": 14.935,
+    "rank": 801
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 5650U",
+    "score": 14.933,
+    "rank": 802
+  },
+  {
+    "cpu": "Intel Core i7-10875H @ 2.30GHz",
+    "score": 14.904,
+    "rank": 803
+  },
+  {
+    "cpu": "Intel Xeon E5-2658A v3 @ 2.20GHz",
+    "score": 14.879,
+    "rank": 804
+  },
+  {
+    "cpu": "Intel Xeon D-1733NT @ 2.00GHz",
+    "score": 14.849,
+    "rank": 805
+  },
+  {
+    "cpu": "Intel Xeon E5-1681 v3 @ 2.90GHz",
+    "score": 14.82,
+    "rank": 806
+  },
+  {
+    "cpu": "AMD Ryzen 7 1700",
+    "score": 14.817,
+    "rank": 807
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 4400GE",
+    "score": 14.795,
+    "rank": 808
+  },
+  {
+    "cpu": "Intel Xeon E5-2683 v3 @ 2.00GHz",
+    "score": 14.749,
+    "rank": 809
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 5675U",
+    "score": 14.737,
+    "rank": 810
+  },
+  {
+    "cpu": "AMD Ryzen 5 7430U",
+    "score": 14.73,
+    "rank": 811
+  },
+  {
+    "cpu": "Intel Xeon E5-2678 v3 @ 2.50GHz",
+    "score": 14.722,
+    "rank": 812
+  },
+  {
+    "cpu": "Intel Core i5-11600T @ 1.70GHz",
+    "score": 14.713,
+    "rank": 813
+  },
+  {
+    "cpu": "Intel Core i3-12300",
+    "score": 14.695,
+    "rank": 814
+  },
+  {
+    "cpu": "Intel Xeon E5-2687W v3 @ 3.10GHz",
+    "score": 14.69,
+    "rank": 815
+  },
+  {
+    "cpu": "Intel Xeon Gold 5115 @ 2.40GHz",
+    "score": 14.677,
+    "rank": 816
+  },
+  {
+    "cpu": "Intel Core i3-13100",
+    "score": 14.674,
+    "rank": 817
+  },
+  {
+    "cpu": "Montage Jintide C4215R",
+    "score": 14.672,
+    "rank": 818
+  },
+  {
+    "cpu": "AMD Ryzen 7 2700E",
+    "score": 14.657,
+    "rank": 819
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 1700",
+    "score": 14.653,
+    "rank": 820
+  },
+  {
+    "cpu": "Intel Core i9-10880H @ 2.30GHz",
+    "score": 14.642,
+    "rank": 821
+  },
+  {
+    "cpu": "Intel Core i3-13100F",
+    "score": 14.637,
+    "rank": 822
+  },
+  {
+    "cpu": "Intel Core i5-12500TE",
+    "score": 14.536,
+    "rank": 823
+  },
+  {
+    "cpu": "Intel Core i7-10870H @ 2.20GHz",
+    "score": 14.498,
+    "rank": 824
+  },
+  {
+    "cpu": "Intel Core i7-9700K @ 3.60GHz",
+    "score": 14.471,
+    "rank": 825
+  },
+  {
+    "cpu": "Intel Xeon W-2135 @ 3.70GHz",
+    "score": 14.465,
+    "rank": 826
+  },
+  {
+    "cpu": "Intel Core i7-6900K @ 3.20GHz",
+    "score": 14.449,
+    "rank": 827
+  },
+  {
+    "cpu": "AMD Ryzen 5 4600H",
+    "score": 14.446,
+    "rank": 828
+  },
+  {
+    "cpu": "Intel Xeon Silver 4215 @ 2.50GHz",
+    "score": 14.439,
+    "rank": 829
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 4655GE",
+    "score": 14.436,
+    "rank": 830
+  },
+  {
+    "cpu": "Intel Xeon E5-2658 v4 @ 2.30GHz",
+    "score": 14.434,
+    "rank": 831
+  },
+  {
+    "cpu": "Intel Core i3-1220P",
+    "score": 14.424,
+    "rank": 832
+  },
+  {
+    "cpu": "Intel Xeon Silver 4123 @ 3.00GHz",
+    "score": 14.405,
+    "rank": 833
+  },
+  {
+    "cpu": "Intel Xeon W-2235 @ 3.80GHz",
+    "score": 14.383,
+    "rank": 834
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 8300G",
+    "score": 14.351,
+    "rank": 835
+  },
+  {
+    "cpu": "Intel Core i5-10600K @ 4.10GHz",
+    "score": 14.33,
+    "rank": 836
+  },
+  {
+    "cpu": "Intel Xeon E5-2666 v3 @ 2.90GHz",
+    "score": 14.325,
+    "rank": 838
+  },
+  {
+    "cpu": "Intel Xeon E5-2673 v3 @ 2.40GHz",
+    "score": 14.325,
+    "rank": 837
+  },
+  {
+    "cpu": "Intel Xeon W-1250P @ 4.10GHz",
+    "score": 14.324,
+    "rank": 839
+  },
+  {
+    "cpu": "Intel Core i7-8086K @ 4.00GHz",
+    "score": 14.322,
+    "rank": 840
+  },
+  {
+    "cpu": "Intel Core i7-9700KF @ 3.60GHz",
+    "score": 14.315,
+    "rank": 841
+  },
+  {
+    "cpu": "Intel Xeon E5-2697 v2 @ 2.70GHz",
+    "score": 14.295,
+    "rank": 842
+  },
+  {
+    "cpu": "Intel Xeon E5-4660 v3 @ 2.10GHz",
+    "score": 14.256,
+    "rank": 843
+  },
+  {
+    "cpu": "Intel Xeon D-1732TE @ 1.90GHz",
+    "score": 14.254,
+    "rank": 844
+  },
+  {
+    "cpu": "Intel Core i3-12100E",
+    "score": 14.25,
+    "rank": 845
+  },
+  {
+    "cpu": "Intel Core i5-10600KF @ 4.10GHz",
+    "score": 14.246,
+    "rank": 846
+  },
+  {
+    "cpu": "Intel CC150 @ 3.50GHz",
+    "score": 14.245,
+    "rank": 847
+  },
+  {
+    "cpu": "AMD Ryzen 5 4600HS",
+    "score": 14.23,
+    "rank": 848
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 8300GE",
+    "score": 14.227,
+    "rank": 849
+  },
+  {
+    "cpu": "Apple M1 8 Core 3200 MHz",
+    "score": 14.185,
+    "rank": 850
+  },
+  {
+    "cpu": "Intel Xeon E5-1680 v4 @ 3.40GHz",
+    "score": 14.164,
+    "rank": 851
+  },
+  {
+    "cpu": "Intel Core i7-1260U",
+    "score": 14.161,
+    "rank": 852
+  },
+  {
+    "cpu": "Intel Core i3-12100F",
+    "score": 14.144,
+    "rank": 853
+  },
+  {
+    "cpu": "Intel Core i9-9980HK @ 2.40GHz",
+    "score": 14.134,
+    "rank": 854
+  },
+  {
+    "cpu": "Intel Core i7-1370PRE",
+    "score": 14.103,
+    "rank": 855
+  },
+  {
+    "cpu": "Intel Xeon E5-2696 v2 @ 2.50GHz",
+    "score": 14.061,
+    "rank": 856
+  },
+  {
+    "cpu": "Intel Xeon E-2236 @ 3.40GHz",
+    "score": 14.023,
+    "rank": 857
+  },
+  {
+    "cpu": "Intel Xeon E-2286G @ 4.00GHz",
+    "score": 13.994,
+    "rank": 858
+  },
+  {
+    "cpu": "Intel Core i7-1265U",
+    "score": 13.959,
+    "rank": 859
+  },
+  {
+    "cpu": "Intel Xeon E-2186G @ 3.80GHz",
+    "score": 13.955,
+    "rank": 860
+  },
+  {
+    "cpu": "AMD Ryzen 5 2600X",
+    "score": 13.917,
+    "rank": 861
+  },
+  {
+    "cpu": "AMD EPYC 3251",
+    "score": 13.912,
+    "rank": 862
+  },
+  {
+    "cpu": "Intel Xeon E-2246G @ 3.60GHz",
+    "score": 13.898,
+    "rank": 863
+  },
+  {
+    "cpu": "Intel Xeon E5-2667 v4 @ 3.20GHz",
+    "score": 13.88,
+    "rank": 864
+  },
+  {
+    "cpu": "Intel Xeon E-2276G @ 3.80GHz",
+    "score": 13.873,
+    "rank": 865
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 5350G",
+    "score": 13.864,
+    "rank": 866
+  },
+  {
+    "cpu": "Intel Core i9-9880H @ 2.30GHz",
+    "score": 13.807,
+    "rank": 867
+  },
+  {
+    "cpu": "Intel Core i7-1255U",
+    "score": 13.746,
+    "rank": 868
+  },
+  {
+    "cpu": "Intel Core i5-1240U",
+    "score": 13.745,
+    "rank": 869
+  },
+  {
+    "cpu": "Intel Xeon E5-2650 v4 @ 2.20GHz",
+    "score": 13.689,
+    "rank": 870
+  },
+  {
+    "cpu": "Intel Core i5-10600 @ 3.30GHz",
+    "score": 13.679,
+    "rank": 871
+  },
+  {
+    "cpu": "Intel Xeon W-1250 @ 3.30GHz",
+    "score": 13.675,
+    "rank": 872
+  },
+  {
+    "cpu": "Intel Core i7-8700K @ 3.70GHz",
+    "score": 13.648,
+    "rank": 873
+  },
+  {
+    "cpu": "Intel Core i5-11400T @ 1.30GHz",
+    "score": 13.626,
+    "rank": 874
+  },
+  {
+    "cpu": "Intel Xeon E-2374G @ 3.70GHz",
+    "score": 13.607,
+    "rank": 875
+  },
+  {
+    "cpu": "Intel Xeon E5-2670 v3 @ 2.30GHz",
+    "score": 13.598,
+    "rank": 876
+  },
+  {
+    "cpu": "Intel Xeon E5-1660 v4 @ 3.20GHz",
+    "score": 13.567,
+    "rank": 877
+  },
+  {
+    "cpu": "Intel Xeon D-1587 @ 1.70GHz",
+    "score": 13.566,
+    "rank": 878
+  },
+  {
+    "cpu": "Intel Xeon E5-2676 v3 @ 2.40GHz",
+    "score": 13.565,
+    "rank": 879
+  },
+  {
+    "cpu": "Intel Xeon E-2176G @ 3.70GHz",
+    "score": 13.555,
+    "rank": 880
+  },
+  {
+    "cpu": "Intel Xeon W-1270TE @ 2.00GHz",
+    "score": 13.553,
+    "rank": 881
+  },
+  {
+    "cpu": "Intel Core i3-12100",
+    "score": 13.548,
+    "rank": 882
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 2600",
+    "score": 13.509,
+    "rank": 883
+  },
+  {
+    "cpu": "Intel Xeon E5-2658 v3 @ 2.20GHz",
+    "score": 13.487,
+    "rank": 884
+  },
+  {
+    "cpu": "Intel Xeon Silver 4210 @ 2.20GHz",
+    "score": 13.48,
+    "rank": 885
+  },
+  {
+    "cpu": "Intel Xeon E5-2690 v2 @ 3.00GHz",
+    "score": 13.473,
+    "rank": 886
+  },
+  {
+    "cpu": "Intel Core i5-1235U",
+    "score": 13.463,
+    "rank": 887
+  },
+  {
+    "cpu": "Intel Xeon E-2136 @ 3.30GHz",
+    "score": 13.451,
+    "rank": 888
+  },
+  {
+    "cpu": "AMD Ryzen 5 4600U",
+    "score": 13.445,
+    "rank": 889
+  },
+  {
+    "cpu": "Intel Core i5-1245U",
+    "score": 13.419,
+    "rank": 890
+  },
+  {
+    "cpu": "AMD Ryzen 7 4700U",
+    "score": 13.411,
+    "rank": 891
+  },
+  {
+    "cpu": "Intel Core i5-1334U",
+    "score": 13.408,
+    "rank": 892
+  },
+  {
+    "cpu": "Intel Core i7-10700TE @ 2.00GHz",
+    "score": 13.368,
+    "rank": 893
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 5350GE",
+    "score": 13.303,
+    "rank": 894
+  },
+  {
+    "cpu": "AMD Ryzen 3 5300GE",
+    "score": 13.299,
+    "rank": 895
+  },
+  {
+    "cpu": "Intel Xeon D-1581 @ 1.80GHz",
+    "score": 13.282,
+    "rank": 896
+  },
+  {
+    "cpu": "Intel Xeon E-2146G @ 3.50GHz",
+    "score": 13.268,
+    "rank": 897
+  },
+  {
+    "cpu": "Intel Core i7-9700F @ 3.00GHz",
+    "score": 13.264,
+    "rank": 898
+  },
+  {
+    "cpu": "Intel Xeon E5-2695 v2 @ 2.40GHz",
+    "score": 13.264,
+    "rank": 899
+  },
+  {
+    "cpu": "Intel Core i3-12300T",
+    "score": 13.251,
+    "rank": 900
+  },
+  {
+    "cpu": "Intel Xeon Gold 6128 @ 3.40GHz",
+    "score": 13.229,
+    "rank": 901
+  },
+  {
+    "cpu": "Intel Core i9-9900T @ 2.10GHz",
+    "score": 13.224,
+    "rank": 902
+  },
+  {
+    "cpu": "Intel Core i7-9700 @ 3.00GHz",
+    "score": 13.202,
+    "rank": 903
+  },
+  {
+    "cpu": "AMD Ryzen 5 2600",
+    "score": 13.2,
+    "rank": 904
+  },
+  {
+    "cpu": "Intel Core i5-10500 @ 3.10GHz",
+    "score": 13.191,
+    "rank": 905
+  },
+  {
+    "cpu": "Intel Xeon E5-2675 v3 @ 1.80GHz",
+    "score": 13.18,
+    "rank": 906
+  },
+  {
+    "cpu": "AMD Ryzen 5 3500X",
+    "score": 13.176,
+    "rank": 907
+  },
+  {
+    "cpu": "Intel Xeon E5-2660 v3 @ 2.60GHz",
+    "score": 13.163,
+    "rank": 908
+  },
+  {
+    "cpu": "Intel Xeon Silver 4114 @ 2.20GHz",
+    "score": 13.143,
+    "rank": 909
+  },
+  {
+    "cpu": "Intel Xeon E5-1680 v3 @ 3.20GHz",
+    "score": 13.132,
+    "rank": 910
+  },
+  {
+    "cpu": "Intel Core i3-13100T",
+    "score": 13.073,
+    "rank": 911
+  },
+  {
+    "cpu": "AMD Ryzen 5 1600X",
+    "score": 13.069,
+    "rank": 912
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500U",
+    "score": 13.06,
+    "rank": 913
+  },
+  {
+    "cpu": "Intel Core i5-11500T @ 1.50GHz",
+    "score": 13.048,
+    "rank": 914
+  },
+  {
+    "cpu": "AMD Ryzen Embedded V2516",
+    "score": 13.016,
+    "rank": 915
+  },
+  {
+    "cpu": "Intel Xeon E5-4627 v4 @ 2.60GHz",
+    "score": 12.969,
+    "rank": 916
+  },
+  {
+    "cpu": "Intel Xeon E5-2685 v3 @ 2.60GHz",
+    "score": 12.944,
+    "rank": 917
+  },
+  {
+    "cpu": "Intel Xeon E-2334 @ 3.40GHz",
+    "score": 12.929,
+    "rank": 918
+  },
+  {
+    "cpu": "AMD Ryzen 3 5300G",
+    "score": 12.896,
+    "rank": 919
+  },
+  {
+    "cpu": "Intel Core i7-7800X @ 3.50GHz",
+    "score": 12.882,
+    "rank": 920
+  },
+  {
+    "cpu": "Intel Core i7-8700 @ 3.20GHz",
+    "score": 12.865,
+    "rank": 921
+  },
+  {
+    "cpu": "Intel Core i7-10700T @ 2.00GHz",
+    "score": 12.835,
+    "rank": 922
+  },
+  {
+    "cpu": "Intel Core i7-5960X @ 3.00GHz",
+    "score": 12.801,
+    "rank": 923
+  },
+  {
+    "cpu": "AMD Ryzen 5 3500",
+    "score": 12.794,
+    "rank": 924
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 7330U",
+    "score": 12.758,
+    "rank": 925
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 4650U",
+    "score": 12.732,
+    "rank": 926
+  },
+  {
+    "cpu": "Intel Xeon W-10855M @ 2.80GHz",
+    "score": 12.728,
+    "rank": 927
+  },
+  {
+    "cpu": "Intel Xeon E5-1680 v2 @ 3.00GHz",
+    "score": 12.718,
+    "rank": 928
+  },
+  {
+    "cpu": "Intel Core i3-12100T",
+    "score": 12.676,
+    "rank": 929
+  },
+  {
+    "cpu": "Intel Xeon W-2133 @ 3.60GHz",
+    "score": 12.673,
+    "rank": 930
+  },
+  {
+    "cpu": "AMD Ryzen 3 3300X",
+    "score": 12.653,
+    "rank": 931
+  },
+  {
+    "cpu": "Intel Xeon E5-2650L v4 @ 1.70GHz",
+    "score": 12.646,
+    "rank": 932
+  },
+  {
+    "cpu": "Intel Xeon E5-2680 v2 @ 2.80GHz",
+    "score": 12.612,
+    "rank": 933
+  },
+  {
+    "cpu": "Intel Core i7-9700E @ 2.60GHz",
+    "score": 12.6,
+    "rank": 934
+  },
+  {
+    "cpu": "Intel Xeon W-11555MLE @ 1.90GHz",
+    "score": 12.591,
+    "rank": 935
+  },
+  {
+    "cpu": "Intel Xeon E5-2667 v3 @ 3.20GHz",
+    "score": 12.572,
+    "rank": 936
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 7335U",
+    "score": 12.56,
+    "rank": 937
+  },
+  {
+    "cpu": "Intel Xeon E5-1660 v3 @ 3.00GHz",
+    "score": 12.485,
+    "rank": 938
+  },
+  {
+    "cpu": "Intel Xeon D-2143IT @ 2.20GHz",
+    "score": 12.461,
+    "rank": 940
+  },
+  {
+    "cpu": "Intel Xeon E5-4628L v4 @ 1.80GHz",
+    "score": 12.461,
+    "rank": 939
+  },
+  {
+    "cpu": "Intel Core i3-1315U",
+    "score": 12.44,
+    "rank": 941
+  },
+  {
+    "cpu": "Intel Xeon E5-2618L v4 @ 2.20GHz",
+    "score": 12.429,
+    "rank": 942
+  },
+  {
+    "cpu": "Intel Xeon E5-2649 v3 @ 2.30GHz",
+    "score": 12.399,
+    "rank": 943
+  },
+  {
+    "cpu": "Intel Xeon E5-2640 v4 @ 2.40GHz",
+    "score": 12.361,
+    "rank": 944
+  },
+  {
+    "cpu": "Intel Core i3-12100TE",
+    "score": 12.314,
+    "rank": 945
+  },
+  {
+    "cpu": "AMD Ryzen 5 1600",
+    "score": 12.285,
+    "rank": 946
+  },
+  {
+    "cpu": "Apple A17 Pro",
+    "score": 12.268,
+    "rank": 947
+  },
+  {
+    "cpu": "Intel Xeon E5-2667 v2 @ 3.30GHz",
+    "score": 12.262,
+    "rank": 948
+  },
+  {
+    "cpu": "Intel Xeon E5-2687W v2 @ 3.40GHz",
+    "score": 12.246,
+    "rank": 949
+  },
+  {
+    "cpu": "Intel Xeon W-1250E @ 3.50GHz",
+    "score": 12.212,
+    "rank": 950
+  },
+  {
+    "cpu": "Intel Core i5-10400F @ 2.90GHz",
+    "score": 12.204,
+    "rank": 951
+  },
+  {
+    "cpu": "Intel Core i5-10505 @ 3.20GHz",
+    "score": 12.202,
+    "rank": 952
+  },
+  {
+    "cpu": "Intel Xeon E5-2673 v2 @ 3.30GHz",
+    "score": 12.128,
+    "rank": 953
+  },
+  {
+    "cpu": "Intel Core i5-10400 @ 2.90GHz",
+    "score": 12.127,
+    "rank": 954
+  },
+  {
+    "cpu": "Intel Xeon E5-2692 v2 @ 2.20GHz",
+    "score": 12.119,
+    "rank": 955
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 4500U",
+    "score": 12.117,
+    "rank": 957
+  },
+  {
+    "cpu": "Intel Xeon D-2141I @ 2.20GHz",
+    "score": 12.117,
+    "rank": 956
+  },
+  {
+    "cpu": "Intel Core i7-1250U",
+    "score": 12.052,
+    "rank": 958
+  },
+  {
+    "cpu": "Intel Xeon E-2278GEL @ 2.00GHz",
+    "score": 12.024,
+    "rank": 959
+  },
+  {
+    "cpu": "Intel Core i7-8700B @ 3.20GHz",
+    "score": 11.962,
+    "rank": 960
+  },
+  {
+    "cpu": "Intel Xeon E5-2650 v3 @ 2.30GHz",
+    "score": 11.924,
+    "rank": 961
+  },
+  {
+    "cpu": "Intel Xeon E E-2414",
+    "score": 11.923,
+    "rank": 962
+  },
+  {
+    "cpu": "Intel Core i7-10750H @ 2.60GHz",
+    "score": 11.918,
+    "rank": 963
+  },
+  {
+    "cpu": "Intel Core 3 100U",
+    "score": 11.885,
+    "rank": 964
+  },
+  {
+    "cpu": "Intel Xeon E5-2650L v3 @ 1.80GHz",
+    "score": 11.88,
+    "rank": 965
+  },
+  {
+    "cpu": "Snapdragon 8cx Gen 3 @ 3.0 GHz",
+    "score": 11.847,
+    "rank": 966
+  },
+  {
+    "cpu": "ARM Neoverse-N1 32 Core 1700 MHz",
+    "score": 11.841,
+    "rank": 967
+  },
+  {
+    "cpu": "Intel Core i7-11375H @ 3.30GHz",
+    "score": 11.838,
+    "rank": 968
+  },
+  {
+    "cpu": "Intel Core i7-10850H @ 2.70GHz",
+    "score": 11.835,
+    "rank": 969
+  },
+  {
+    "cpu": "Intel Xeon E-2276M @ 2.80GHz",
+    "score": 11.791,
+    "rank": 970
+  },
+  {
+    "cpu": "Intel Xeon E5-2663 v3 @ 2.80GHz",
+    "score": 11.777,
+    "rank": 971
+  },
+  {
+    "cpu": "ARM Neoverse-N1 80 Core 2800 MHz",
+    "score": 11.755,
+    "rank": 972
+  },
+  {
+    "cpu": "Intel Xeon D-2146NT @ 2.30GHz",
+    "score": 11.736,
+    "rank": 973
+  },
+  {
+    "cpu": "Intel Core i7-11370H @ 3.30GHz",
+    "score": 11.726,
+    "rank": 974
+  },
+  {
+    "cpu": "Microsoft SQ3 @ 3.0 GHz",
+    "score": 11.715,
+    "rank": 975
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8481C @ 2.70GHz",
+    "score": 11.681,
+    "rank": 976
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500H",
+    "score": 11.671,
+    "rank": 977
+  },
+  {
+    "cpu": "Intel Xeon E5-2630 v4 @ 2.20GHz",
+    "score": 11.661,
+    "rank": 978
+  },
+  {
+    "cpu": "Intel Core i3-13100E",
+    "score": 11.65,
+    "rank": 979
+  },
+  {
+    "cpu": "Intel Xeon D-1577 @ 1.30GHz",
+    "score": 11.645,
+    "rank": 980
+  },
+  {
+    "cpu": "AMD Ryzen 3 3100",
+    "score": 11.613,
+    "rank": 982
+  },
+  {
+    "cpu": "Intel Xeon E5-4657L v2 @ 2.40GHz",
+    "score": 11.613,
+    "rank": 981
+  },
+  {
+    "cpu": "QTI SM8650",
+    "score": 11.605,
+    "rank": 983
+  },
+  {
+    "cpu": "Intel Xeon E-2186M @ 2.90GHz",
+    "score": 11.599,
+    "rank": 984
+  },
+  {
+    "cpu": "Intel Xeon E5-2648L v4 @ 1.80GHz",
+    "score": 11.547,
+    "rank": 985
+  },
+  {
+    "cpu": "Intel Xeon E5-4669 v4 @ 2.20GHz",
+    "score": 11.523,
+    "rank": 986
+  },
+  {
+    "cpu": "Intel Core i7-6850K @ 3.60GHz",
+    "score": 11.466,
+    "rank": 987
+  },
+  {
+    "cpu": "Intel Xeon E5-1650 v4 @ 3.60GHz",
+    "score": 11.448,
+    "rank": 988
+  },
+  {
+    "cpu": "AMD Ryzen 3 5425U",
+    "score": 11.432,
+    "rank": 989
+  },
+  {
+    "cpu": "Intel Xeon Silver 4208 @ 2.10GHz",
+    "score": 11.371,
+    "rank": 990
+  },
+  {
+    "cpu": "Intel Core i3-11100B @ 3.60GHz",
+    "score": 11.357,
+    "rank": 991
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 5475U",
+    "score": 11.354,
+    "rank": 992
+  },
+  {
+    "cpu": "Intel Xeon E5-4627 v3 @ 2.60GHz",
+    "score": 11.344,
+    "rank": 993
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 4200G",
+    "score": 11.315,
+    "rank": 994
+  },
+  {
+    "cpu": "Intel Core i5-10600T @ 2.40GHz",
+    "score": 11.303,
+    "rank": 995
+  },
+  {
+    "cpu": "Intel Xeon E5-2670 v2 @ 2.50GHz",
+    "score": 11.3,
+    "rank": 996
+  },
+  {
+    "cpu": "Intel Core i3-11100HE @ 2.40GHz",
+    "score": 11.289,
+    "rank": 997
+  },
+  {
+    "cpu": "Intel Core i5-10500H @ 2.50GHz",
+    "score": 11.263,
+    "rank": 998
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 1600",
+    "score": 11.24,
+    "rank": 999
+  },
+  {
+    "cpu": "AMD Ryzen 3 4300GE",
+    "score": 11.216,
+    "rank": 1000
+  },
+  {
+    "cpu": "Intel Core i5-1230U",
+    "score": 11.14,
+    "rank": 1001
+  },
+  {
+    "cpu": "Intel Xeon E5-2640 v3 @ 2.60GHz",
+    "score": 11.13,
+    "rank": 1002
+  },
+  {
+    "cpu": "Intel Xeon E5-2643 v4 @ 3.40GHz",
+    "score": 11.125,
+    "rank": 1003
+  },
+  {
+    "cpu": "Hygon C86 3250 8-core",
+    "score": 11.114,
+    "rank": 1004
+  },
+  {
+    "cpu": "Intel Core i7-9850H @ 2.60GHz",
+    "score": 11.106,
+    "rank": 1005
+  },
+  {
+    "cpu": "Intel Xeon E-2226G @ 3.40GHz",
+    "score": 11.093,
+    "rank": 1006
+  },
+  {
+    "cpu": "Apple A16 Bionic",
+    "score": 11.084,
+    "rank": 1007
+  },
+  {
+    "cpu": "AMD Ryzen 3 4100",
+    "score": 11.082,
+    "rank": 1008
+  },
+  {
+    "cpu": "Intel Xeon Silver 4209T @ 2.20GHz",
+    "score": 11.08,
+    "rank": 1009
+  },
+  {
+    "cpu": "Intel Xeon E5-2628L v4 @ 1.90GHz",
+    "score": 11.079,
+    "rank": 1010
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 5450U",
+    "score": 11.066,
+    "rank": 1011
+  },
+  {
+    "cpu": "Intel Xeon E5-4650 v2 @ 2.40GHz",
+    "score": 11.064,
+    "rank": 1012
+  },
+  {
+    "cpu": "Apple A12X Bionic",
+    "score": 11.035,
+    "rank": 1013
+  },
+  {
+    "cpu": "AMD Ryzen 3 5400U",
+    "score": 11.029,
+    "rank": 1014
+  },
+  {
+    "cpu": "Intel Core i3-1215U",
+    "score": 11.029,
+    "rank": 1015
+  },
+  {
+    "cpu": "Intel Core i5-11320H @ 3.20GHz",
+    "score": 11.007,
+    "rank": 1016
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 4350GE",
+    "score": 10.964,
+    "rank": 1017
+  },
+  {
+    "cpu": "Intel Core i5-11300H @ 3.10GHz",
+    "score": 10.956,
+    "rank": 1018
+  },
+  {
+    "cpu": "AMD Ryzen 3 4300G",
+    "score": 10.955,
+    "rank": 1019
+  },
+  {
+    "cpu": "AMD Ryzen 5 4500U",
+    "score": 10.945,
+    "rank": 1020
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 4350G",
+    "score": 10.933,
+    "rank": 1021
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 4200GE",
+    "score": 10.93,
+    "rank": 1022
+  },
+  {
+    "cpu": "AMD Ryzen 3 7330U",
+    "score": 10.918,
+    "rank": 1023
+  },
+  {
+    "cpu": "Intel Xeon E-2176M @ 2.70GHz",
+    "score": 10.887,
+    "rank": 1024
+  },
+  {
+    "cpu": "Intel Xeon E5-2618L v3 @ 2.30GHz",
+    "score": 10.881,
+    "rank": 1025
+  },
+  {
+    "cpu": "Intel Core i7-9750H @ 2.60GHz",
+    "score": 10.875,
+    "rank": 1026
+  },
+  {
+    "cpu": "Intel Xeon E5-4650 v3 @ 2.10GHz",
+    "score": 10.838,
+    "rank": 1027
+  },
+  {
+    "cpu": "Intel Core i7-1195G7 @ 2.90GHz",
+    "score": 10.829,
+    "rank": 1028
+  },
+  {
+    "cpu": "Intel Core i5-10500E @ 3.10GHz",
+    "score": 10.827,
+    "rank": 1029
+  },
+  {
+    "cpu": "Intel Core i7-6800K @ 3.40GHz",
+    "score": 10.763,
+    "rank": 1030
+  },
+  {
+    "cpu": "Intel Core i7-9700T @ 2.00GHz",
+    "score": 10.738,
+    "rank": 1031
+  },
+  {
+    "cpu": "Intel Core i5-9600KF @ 3.70GHz",
+    "score": 10.705,
+    "rank": 1032
+  },
+  {
+    "cpu": "Intel Core i5-9600K @ 3.70GHz",
+    "score": 10.684,
+    "rank": 1033
+  },
+  {
+    "cpu": "Mediatek MT6989",
+    "score": 10.669,
+    "rank": 1034
+  },
+  {
+    "cpu": "Intel Xeon E5-2470 v2 @ 2.40GHz",
+    "score": 10.656,
+    "rank": 1035
+  },
+  {
+    "cpu": "Intel Core i7-1185G7E @ 2.80GHz",
+    "score": 10.601,
+    "rank": 1036
+  },
+  {
+    "cpu": "Intel Core i7-9750HF @ 2.60GHz",
+    "score": 10.588,
+    "rank": 1037
+  },
+  {
+    "cpu": "Intel Xeon W-2225 @ 4.10GHz",
+    "score": 10.567,
+    "rank": 1038
+  },
+  {
+    "cpu": "Intel Core i9-8950HK @ 2.90GHz",
+    "score": 10.563,
+    "rank": 1039
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 4355GE",
+    "score": 10.559,
+    "rank": 1040
+  },
+  {
+    "cpu": "Intel Xeon E-2126G @ 3.30GHz",
+    "score": 10.545,
+    "rank": 1041
+  },
+  {
+    "cpu": "Intel Xeon E5-2660 v2 @ 2.20GHz",
+    "score": 10.528,
+    "rank": 1042
+  },
+  {
+    "cpu": "Intel Xeon E5-4620 v3 @ 2.00GHz",
+    "score": 10.525,
+    "rank": 1043
+  },
+  {
+    "cpu": "Intel Xeon E5-2658 v2 @ 2.40GHz",
+    "score": 10.523,
+    "rank": 1044
+  },
+  {
+    "cpu": "Intel Core i3-1210U",
+    "score": 10.513,
+    "rank": 1045
+  },
+  {
+    "cpu": "Intel Xeon E5-2630L v4 @ 1.80GHz",
+    "score": 10.479,
+    "rank": 1046
+  },
+  {
+    "cpu": "Intel Xeon E5-2643 v3 @ 3.40GHz",
+    "score": 10.465,
+    "rank": 1047
+  },
+  {
+    "cpu": "Intel Core i7-1185G7 @ 3.00GHz",
+    "score": 10.461,
+    "rank": 1048
+  },
+  {
+    "cpu": "Samsung s5e9945",
+    "score": 10.46,
+    "rank": 1049
+  },
+  {
+    "cpu": "Intel Xeon D-1567 @ 2.10GHz",
+    "score": 10.447,
+    "rank": 1050
+  },
+  {
+    "cpu": "Intel Xeon E5-2630 v3 @ 2.40GHz",
+    "score": 10.434,
+    "rank": 1051
+  },
+  {
+    "cpu": "Intel Xeon E5-1650 v3 @ 3.50GHz",
+    "score": 10.422,
+    "rank": 1052
+  },
+  {
+    "cpu": "Intel Core i5-9600 @ 3.10GHz",
+    "score": 10.385,
+    "rank": 1053
+  },
+  {
+    "cpu": "Intel Xeon E5-4640 v3 @ 1.90GHz",
+    "score": 10.372,
+    "rank": 1054
+  },
+  {
+    "cpu": "QTI QCS8550",
+    "score": 10.369,
+    "rank": 1055
+  },
+  {
+    "cpu": "Intel Xeon Silver 4109T @ 2.00GHz",
+    "score": 10.348,
+    "rank": 1056
+  },
+  {
+    "cpu": "Intel Core i7-5930K @ 3.50GHz",
+    "score": 10.325,
+    "rank": 1057
+  },
+  {
+    "cpu": "Intel Core i7-9700TE @ 1.80GHz",
+    "score": 10.28,
+    "rank": 1058
+  },
+  {
+    "cpu": "Intel Core i7-1365URE",
+    "score": 10.278,
+    "rank": 1060
+  },
+  {
+    "cpu": "Intel Xeon E5-1660 v2 @ 3.70GHz",
+    "score": 10.278,
+    "rank": 1059
+  },
+  {
+    "cpu": "Intel Core i7-1165G7 @ 2.80GHz",
+    "score": 10.271,
+    "rank": 1061
+  },
+  {
+    "cpu": "Intel Core i3-10325 @ 3.90GHz",
+    "score": 10.268,
+    "rank": 1062
+  },
+  {
+    "cpu": "Intel Core i7-8850H @ 2.60GHz",
+    "score": 10.261,
+    "rank": 1063
+  },
+  {
+    "cpu": "Intel Core i5-1155G7 @ 2.50GHz",
+    "score": 10.226,
+    "rank": 1064
+  },
+  {
+    "cpu": "Intel Core i5-8600K @ 3.60GHz",
+    "score": 10.199,
+    "rank": 1065
+  },
+  {
+    "cpu": "Intel Xeon Silver 4110 @ 2.10GHz",
+    "score": 10.183,
+    "rank": 1066
+  },
+  {
+    "cpu": "Intel Core i7-8700T @ 2.40GHz",
+    "score": 10.179,
+    "rank": 1067
+  },
+  {
+    "cpu": "Intel Xeon D-1541 @ 2.10GHz",
+    "score": 10.163,
+    "rank": 1068
+  },
+  {
+    "cpu": "Intel Core i7-4960X @ 3.60GHz",
+    "score": 10.092,
+    "rank": 1069
+  },
+  {
+    "cpu": "Intel Core i3-N305",
+    "score": 10.09,
+    "rank": 1070
+  },
+  {
+    "cpu": "Intel Core i7-11390H @ 3.40GHz",
+    "score": 10.073,
+    "rank": 1071
+  },
+  {
+    "cpu": "Intel Xeon D-1540 @ 2.00GHz",
+    "score": 10.061,
+    "rank": 1072
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 4450U",
+    "score": 10.047,
+    "rank": 1073
+  },
+  {
+    "cpu": "Intel Core i5-10500T @ 2.30GHz",
+    "score": 10.039,
+    "rank": 1074
+  },
+  {
+    "cpu": "Intel Core i5-9500F @ 3.00GHz",
+    "score": 10.028,
+    "rank": 1075
+  },
+  {
+    "cpu": "Intel Core i3-10320 @ 3.80GHz",
+    "score": 10.01,
+    "rank": 1076
+  },
+  {
+    "cpu": "Intel Xeon W-2125 @ 4.00GHz",
+    "score": 9.998,
+    "rank": 1077
+  },
+  {
+    "cpu": "Intel Xeon E5-2687W @ 3.10GHz",
+    "score": 9.986,
+    "rank": 1078
+  },
+  {
+    "cpu": "Intel Xeon E-2234 @ 3.60GHz",
+    "score": 9.961,
+    "rank": 1079
+  },
+  {
+    "cpu": "Intel Xeon E5-2628L v3 @ 2.00GHz",
+    "score": 9.949,
+    "rank": 1080
+  },
+  {
+    "cpu": "Intel Core i5-8600 @ 3.10GHz",
+    "score": 9.942,
+    "rank": 1081
+  },
+  {
+    "cpu": "Intel Core i7-8750H @ 2.20GHz",
+    "score": 9.913,
+    "rank": 1082
+  },
+  {
+    "cpu": "Apple A15 Bionic",
+    "score": 9.896,
+    "rank": 1083
+  },
+  {
+    "cpu": "Intel Xeon E5-2650 v2 @ 2.60GHz",
+    "score": 9.883,
+    "rank": 1084
+  },
+  {
+    "cpu": "Intel Core i5-9500TE @ 2.20GHz",
+    "score": 9.861,
+    "rank": 1085
+  },
+  {
+    "cpu": "Intel Xeon E-2274G @ 4.00GHz",
+    "score": 9.86,
+    "rank": 1086
+  },
+  {
+    "cpu": "Intel Core i5-1145G7 @ 2.60GHz",
+    "score": 9.853,
+    "rank": 1087
+  },
+  {
+    "cpu": "Intel Xeon E5-2648L v3 @ 1.80GHz",
+    "score": 9.847,
+    "rank": 1088
+  },
+  {
+    "cpu": "Intel Core i7-5820K @ 3.30GHz",
+    "score": 9.844,
+    "rank": 1089
+  },
+  {
+    "cpu": "Intel Core i5-9500 @ 3.00GHz",
+    "score": 9.817,
+    "rank": 1090
+  },
+  {
+    "cpu": "Intel Core i5-1135G7 @ 2.40GHz",
+    "score": 9.813,
+    "rank": 1091
+  },
+  {
+    "cpu": "Intel Core i5-10400T @ 2.00GHz",
+    "score": 9.809,
+    "rank": 1092
+  },
+  {
+    "cpu": "Intel Xeon E-2324G @ 3.10GHz",
+    "score": 9.771,
+    "rank": 1093
+  },
+  {
+    "cpu": "Intel Xeon E5-2690 @ 2.90GHz",
+    "score": 9.744,
+    "rank": 1094
+  },
+  {
+    "cpu": "Intel Xeon E-2174G @ 3.80GHz",
+    "score": 9.716,
+    "rank": 1095
+  },
+  {
+    "cpu": "Intel Xeon D-1718T @ 2.60GHz",
+    "score": 9.713,
+    "rank": 1096
+  },
+  {
+    "cpu": "AMD Ryzen 3 5300U",
+    "score": 9.696,
+    "rank": 1098
+  },
+  {
+    "cpu": "Intel Xeon E5-2689 @ 2.60GHz",
+    "score": 9.696,
+    "rank": 1097
+  },
+  {
+    "cpu": "Intel Core i3-1125G4 @ 2.00GHz",
+    "score": 9.69,
+    "rank": 1099
+  },
+  {
+    "cpu": "Intel Core i7-7700K @ 4.20GHz",
+    "score": 9.657,
+    "rank": 1100
+  },
+  {
+    "cpu": "Intel Core i7-10710U @ 1.10GHz",
+    "score": 9.654,
+    "rank": 1101
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 3350GE",
+    "score": 9.643,
+    "rank": 1103
+  },
+  {
+    "cpu": "Intel Core i3-1215UE",
+    "score": 9.643,
+    "rank": 1102
+  },
+  {
+    "cpu": "Intel Core i7-7740X @ 4.30GHz",
+    "score": 9.624,
+    "rank": 1105
+  },
+  {
+    "cpu": "Intel Xeon E-2244G @ 3.80GHz",
+    "score": 9.624,
+    "rank": 1104
+  },
+  {
+    "cpu": "Intel Core i5-9600T @ 2.30GHz",
+    "score": 9.609,
+    "rank": 1106
+  },
+  {
+    "cpu": "Intel Xeon E5-4620 v2 @ 2.60GHz",
+    "score": 9.59,
+    "rank": 1107
+  },
+  {
+    "cpu": "Intel Core i5-8500 @ 3.00GHz",
+    "score": 9.57,
+    "rank": 1108
+  },
+  {
+    "cpu": "Intel Xeon E5-2651 v2 @ 1.80GHz",
+    "score": 9.544,
+    "rank": 1109
+  },
+  {
+    "cpu": "ARM HUAWEI,Kunpeng 920 24 Core 2600 MHz",
+    "score": 9.496,
+    "rank": 1110
+  },
+  {
+    "cpu": "Intel Xeon Gold 5222 @ 3.80GHz",
+    "score": 9.489,
+    "rank": 1111
+  },
+  {
+    "cpu": "Intel Core i5-1145G7E @ 2.60GHz",
+    "score": 9.484,
+    "rank": 1112
+  },
+  {
+    "cpu": "AMD Ryzen 5 2500X",
+    "score": 9.482,
+    "rank": 1113
+  },
+  {
+    "cpu": "Intel U300E",
+    "score": 9.478,
+    "rank": 1114
+  },
+  {
+    "cpu": "Intel Core i5-9400F @ 2.90GHz",
+    "score": 9.468,
+    "rank": 1115
+  },
+  {
+    "cpu": "Intel Core i7-1068NG7 @ 2.30GHz",
+    "score": 9.408,
+    "rank": 1116
+  },
+  {
+    "cpu": "Intel Xeon E5-2680 @ 2.70GHz",
+    "score": 9.405,
+    "rank": 1117
+  },
+  {
+    "cpu": "Intel Core i7-4930K @ 3.40GHz",
+    "score": 9.402,
+    "rank": 1118
+  },
+  {
+    "cpu": "Intel Core i5-1140G7 @ 1.10GHz",
+    "score": 9.391,
+    "rank": 1119
+  },
+  {
+    "cpu": "Intel Pentium Gold 8505",
+    "score": 9.386,
+    "rank": 1120
+  },
+  {
+    "cpu": "Intel Core i5-9400 @ 2.90GHz",
+    "score": 9.381,
+    "rank": 1121
+  },
+  {
+    "cpu": "Intel Xeon E5-4655 v3 @ 2.90GHz",
+    "score": 9.377,
+    "rank": 1122
+  },
+  {
+    "cpu": "Apple A12Z Bionic",
+    "score": 9.365,
+    "rank": 1123
+  },
+  {
+    "cpu": "Snapdragon 8 Gen2 Mobile Platform for Galaxy",
+    "score": 9.362,
+    "rank": 1124
+  },
+  {
+    "cpu": "AMD Ryzen 5 3350GE",
+    "score": 9.343,
+    "rank": 1125
+  },
+  {
+    "cpu": "Intel Core i5-8600T @ 2.30GHz",
+    "score": 9.34,
+    "rank": 1127
+  },
+  {
+    "cpu": "Intel Xeon E5-1650 v2 @ 3.50GHz",
+    "score": 9.34,
+    "rank": 1126
+  },
+  {
+    "cpu": "Intel Xeon E5-4627 v2 @ 3.30GHz",
+    "score": 9.32,
+    "rank": 1128
+  },
+  {
+    "cpu": "Intel U300",
+    "score": 9.309,
+    "rank": 1129
+  },
+  {
+    "cpu": "Intel Core i3-10300 @ 3.70GHz",
+    "score": 9.308,
+    "rank": 1130
+  },
+  {
+    "cpu": "Intel Xeon E3-1275 v6 @ 3.80GHz",
+    "score": 9.303,
+    "rank": 1131
+  },
+  {
+    "cpu": "AMD Ryzen 5 7520U",
+    "score": 9.302,
+    "rank": 1132
+  },
+  {
+    "cpu": "Intel Core i3-10305 @ 3.80GHz",
+    "score": 9.291,
+    "rank": 1133
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 3350G",
+    "score": 9.288,
+    "rank": 1134
+  },
+  {
+    "cpu": "Intel Xeon D-1557 @ 1.50GHz",
+    "score": 9.285,
+    "rank": 1135
+  },
+  {
+    "cpu": "Intel Core i5-1245UE",
+    "score": 9.283,
+    "rank": 1136
+  },
+  {
+    "cpu": "AMD Ryzen 5 3400G",
+    "score": 9.28,
+    "rank": 1137
+  },
+  {
+    "cpu": "Intel Xeon E-2144G @ 3.60GHz",
+    "score": 9.27,
+    "rank": 1138
+  },
+  {
+    "cpu": "Hygon C86 3185 8-core",
+    "score": 9.243,
+    "rank": 1139
+  },
+  {
+    "cpu": "Intel Core i5-8400 @ 2.80GHz",
+    "score": 9.231,
+    "rank": 1140
+  },
+  {
+    "cpu": "Intel Xeon E5-2450 v2 @ 2.50GHz",
+    "score": 9.227,
+    "rank": 1141
+  },
+  {
+    "cpu": "Intel Xeon E5-2620 v4 @ 2.10GHz",
+    "score": 9.196,
+    "rank": 1142
+  },
+  {
+    "cpu": "Intel Core i7-1265UE",
+    "score": 9.195,
+    "rank": 1143
+  },
+  {
+    "cpu": "Intel Core i5-1145GRE @ 2.60GHz",
+    "score": 9.191,
+    "rank": 1144
+  },
+  {
+    "cpu": "Intel Core i7-1160G7 @ 1.20GHz",
+    "score": 9.19,
+    "rank": 1145
+  },
+  {
+    "cpu": "Intel Xeon E-2134 @ 3.50GHz",
+    "score": 9.143,
+    "rank": 1146
+  },
+  {
+    "cpu": "QTI SM8550",
+    "score": 9.14,
+    "rank": 1147
+  },
+  {
+    "cpu": "Intel Xeon E5-2629 v3 @ 2.40GHz",
+    "score": 9.139,
+    "rank": 1148
+  },
+  {
+    "cpu": "Mediatek MT6983W/CZA",
+    "score": 9.136,
+    "rank": 1149
+  },
+  {
+    "cpu": "Intel Xeon E5-2643 v2 @ 3.50GHz",
+    "score": 9.134,
+    "rank": 1150
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 3400G",
+    "score": 9.132,
+    "rank": 1151
+  },
+  {
+    "cpu": "Mediatek MT8798Z/CNZA",
+    "score": 9.11,
+    "rank": 1152
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 1500",
+    "score": 9.106,
+    "rank": 1153
+  },
+  {
+    "cpu": "Intel Xeon D-1715TER @ 2.40GHz",
+    "score": 9.104,
+    "rank": 1154
+  },
+  {
+    "cpu": "AMD Ryzen 5 1500X",
+    "score": 9.098,
+    "rank": 1155
+  },
+  {
+    "cpu": "Intel Xeon D-1548 @ 2.00GHz",
+    "score": 9.075,
+    "rank": 1156
+  },
+  {
+    "cpu": "Intel Core i5-1038NG7 @ 2.00GHz",
+    "score": 9.074,
+    "rank": 1157
+  },
+  {
+    "cpu": "Intel Core i3-1305U",
+    "score": 9.062,
+    "rank": 1158
+  },
+  {
+    "cpu": "Intel Xeon E5-4648 v3 @ 1.70GHz",
+    "score": 9.061,
+    "rank": 1159
+  },
+  {
+    "cpu": "Intel Xeon E3-1280 v6 @ 3.90GHz",
+    "score": 9.028,
+    "rank": 1160
+  },
+  {
+    "cpu": "Intel Core i5-8500B @ 3.00GHz",
+    "score": 9.019,
+    "rank": 1161
+  },
+  {
+    "cpu": "Intel Core i3-10105F @ 3.70GHz",
+    "score": 9.006,
+    "rank": 1162
+  },
+  {
+    "cpu": "AMD Ryzen 3 7320U",
+    "score": 9.005,
+    "rank": 1163
+  },
+  {
+    "cpu": "AMD Ryzen 5 3350G",
+    "score": 8.977,
+    "rank": 1164
+  },
+  {
+    "cpu": "Intel Xeon E3-1270 v6 @ 3.80GHz",
+    "score": 8.956,
+    "rank": 1165
+  },
+  {
+    "cpu": "Intel Xeon E5-2670 @ 2.60GHz",
+    "score": 8.95,
+    "rank": 1166
+  },
+  {
+    "cpu": "Intel Core i7-6700K @ 4.00GHz",
+    "score": 8.928,
+    "rank": 1167
+  },
+  {
+    "cpu": "AMD Ryzen 5 3400GE",
+    "score": 8.907,
+    "rank": 1168
+  },
+  {
+    "cpu": "Intel Core i3-1315UE",
+    "score": 8.906,
+    "rank": 1169
+  },
+  {
+    "cpu": "Intel Core i5-3170K @ 3.20GHz",
+    "score": 8.882,
+    "rank": 1170
+  },
+  {
+    "cpu": "Intel Xeon Silver 4108 @ 1.80GHz",
+    "score": 8.878,
+    "rank": 1171
+  },
+  {
+    "cpu": "Intel Xeon Gold 5122 @ 3.60GHz",
+    "score": 8.843,
+    "rank": 1172
+  },
+  {
+    "cpu": "Intel Xeon E5-2648L v2 @ 1.90GHz",
+    "score": 8.828,
+    "rank": 1173
+  },
+  {
+    "cpu": "Intel Xeon E3-1245 v6 @ 3.70GHz",
+    "score": 8.772,
+    "rank": 1174
+  },
+  {
+    "cpu": "Intel Core i3-10100F @ 3.60GHz",
+    "score": 8.764,
+    "rank": 1175
+  },
+  {
+    "cpu": "AMD Ryzen 5 2400G",
+    "score": 8.731,
+    "rank": 1176
+  },
+  {
+    "cpu": "ARM - 32 Core 3300 MHz",
+    "score": 8.684,
+    "rank": 1177
+  },
+  {
+    "cpu": "ARM X-Gene 32 Core 3300 MHz",
+    "score": 8.684,
+    "rank": 1178
+  },
+  {
+    "cpu": "Intel Core i5-1130G7 @ 1.10GHz",
+    "score": 8.684,
+    "rank": 1179
+  },
+  {
+    "cpu": "Intel Xeon E5-2630L v3 @ 1.80GHz",
+    "score": 8.677,
+    "rank": 1180
+  },
+  {
+    "cpu": "Intel Xeon E3-1240 v6 @ 3.70GHz",
+    "score": 8.669,
+    "rank": 1181
+  },
+  {
+    "cpu": "Intel Core i3-10100 @ 3.60GHz",
+    "score": 8.661,
+    "rank": 1182
+  },
+  {
+    "cpu": "Intel Core i7-7700 @ 3.60GHz",
+    "score": 8.658,
+    "rank": 1183
+  },
+  {
+    "cpu": "Intel Atom C5125",
+    "score": 8.631,
+    "rank": 1184
+  },
+  {
+    "cpu": "Intel Xeon E5-4650 @ 2.70GHz",
+    "score": 8.63,
+    "rank": 1185
+  },
+  {
+    "cpu": "AMD Ryzen 3 7320C",
+    "score": 8.614,
+    "rank": 1186
+  },
+  {
+    "cpu": "ARM - 8 Core 2424 MHz",
+    "score": 8.61,
+    "rank": 1187
+  },
+  {
+    "cpu": "Intel Xeon W-2223 @ 3.60GHz",
+    "score": 8.596,
+    "rank": 1188
+  },
+  {
+    "cpu": "AMD Ryzen Embedded V1807B",
+    "score": 8.567,
+    "rank": 1189
+  },
+  {
+    "cpu": "Intel Core i7-8809G @ 3.10GHz",
+    "score": 8.561,
+    "rank": 1190
+  },
+  {
+    "cpu": "Intel Core i3-10105 @ 3.70GHz",
+    "score": 8.548,
+    "rank": 1191
+  },
+  {
+    "cpu": "AMD EPYC 3201",
+    "score": 8.545,
+    "rank": 1192
+  },
+  {
+    "cpu": "Apple A14 Bionic",
+    "score": 8.543,
+    "rank": 1193
+  },
+  {
+    "cpu": "Intel Xeon E3-1285 v6 @ 4.10GHz",
+    "score": 8.536,
+    "rank": 1194
+  },
+  {
+    "cpu": "Intel Xeon E5-4650L @ 2.60GHz",
+    "score": 8.533,
+    "rank": 1195
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 2400G",
+    "score": 8.508,
+    "rank": 1196
+  },
+  {
+    "cpu": "Intel Xeon W-2123 @ 3.60GHz",
+    "score": 8.507,
+    "rank": 1197
+  },
+  {
+    "cpu": "Intel Xeon W-11155MLE @ 1.80GHz",
+    "score": 8.502,
+    "rank": 1198
+  },
+  {
+    "cpu": "Intel Xeon E3-1275 v5 @ 3.60GHz",
+    "score": 8.495,
+    "rank": 1199
+  },
+  {
+    "cpu": "Intel Core i5-10400H @ 2.60GHz",
+    "score": 8.492,
+    "rank": 1200
+  },
+  {
+    "cpu": "AMD Ryzen Embedded R2544",
+    "score": 8.486,
+    "rank": 1201
+  },
+  {
+    "cpu": "Intel Core i7-3970X @ 3.50GHz",
+    "score": 8.461,
+    "rank": 1202
+  },
+  {
+    "cpu": "Intel Core i7-8559U @ 2.70GHz",
+    "score": 8.45,
+    "rank": 1203
+  },
+  {
+    "cpu": "Intel Core i5-10500TE @ 2.30GHz",
+    "score": 8.449,
+    "rank": 1204
+  },
+  {
+    "cpu": "Intel Xeon E5-2628 v3 @ 2.50GHz",
+    "score": 8.447,
+    "rank": 1205
+  },
+  {
+    "cpu": "Intel Core i5-10300H @ 2.50GHz",
+    "score": 8.419,
+    "rank": 1206
+  },
+  {
+    "cpu": "Intel Xeon E3-1585 v5 @ 3.50GHz",
+    "score": 8.408,
+    "rank": 1207
+  },
+  {
+    "cpu": "Intel Xeon E5-1660 @ 3.30GHz",
+    "score": 8.405,
+    "rank": 1208
+  },
+  {
+    "cpu": "Intel Core i7-3960X @ 3.30GHz",
+    "score": 8.401,
+    "rank": 1209
+  },
+  {
+    "cpu": "Intel Xeon E3-1280 v5 @ 3.70GHz",
+    "score": 8.399,
+    "rank": 1210
+  },
+  {
+    "cpu": "Intel Core i5-9400T @ 1.80GHz",
+    "score": 8.393,
+    "rank": 1211
+  },
+  {
+    "cpu": "AMD EPYC 3151",
+    "score": 8.376,
+    "rank": 1212
+  },
+  {
+    "cpu": "Intel Core i3-10100E @ 3.20GHz",
+    "score": 8.365,
+    "rank": 1213
+  },
+  {
+    "cpu": "Intel Core i7-1065G7 @ 1.30GHz",
+    "score": 8.35,
+    "rank": 1214
+  },
+  {
+    "cpu": "Intel Xeon E3-1270 v5 @ 3.60GHz",
+    "score": 8.34,
+    "rank": 1215
+  },
+  {
+    "cpu": "Intel Xeon E5-2470 @ 2.30GHz",
+    "score": 8.295,
+    "rank": 1216
+  },
+  {
+    "cpu": "AMD Opteron 6386 SE",
+    "score": 8.291,
+    "rank": 1218
+  },
+  {
+    "cpu": "AMD Ryzen Embedded V1756B",
+    "score": 8.291,
+    "rank": 1217
+  },
+  {
+    "cpu": "Intel Xeon E5-2665 @ 2.40GHz",
+    "score": 8.29,
+    "rank": 1219
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 3400GE",
+    "score": 8.279,
+    "rank": 1220
+  },
+  {
+    "cpu": "AMD Athlon Gold PRO 4150GE",
+    "score": 8.259,
+    "rank": 1221
+  },
+  {
+    "cpu": "Intel Core i7-1180G7 @ 1.30GHz",
+    "score": 8.259,
+    "rank": 1222
+  },
+  {
+    "cpu": "Intel Xeon E3-1240 v5 @ 3.50GHz",
+    "score": 8.254,
+    "rank": 1223
+  },
+  {
+    "cpu": "Intel Core i7-10810U @ 1.10GHz",
+    "score": 8.244,
+    "rank": 1224
+  },
+  {
+    "cpu": "Intel Core i7-8569U @ 2.80GHz",
+    "score": 8.228,
+    "rank": 1225
+  },
+  {
+    "cpu": "Intel Xeon E3-1260L v5 @ 2.90GHz",
+    "score": 8.226,
+    "rank": 1226
+  },
+  {
+    "cpu": "Intel Core i7-3930K @ 3.20GHz",
+    "score": 8.207,
+    "rank": 1227
+  },
+  {
+    "cpu": "Intel Core i5-9500T @ 2.20GHz",
+    "score": 8.206,
+    "rank": 1228
+  },
+  {
+    "cpu": "ARM X-Gene 32 Core 3000 MHz",
+    "score": 8.202,
+    "rank": 1229
+  },
+  {
+    "cpu": "ARM Avalanche-M2 4 Core 2424 MHz",
+    "score": 8.182,
+    "rank": 1230
+  },
+  {
+    "cpu": "Intel Core i7-1185GRE @ 2.80GHz",
+    "score": 8.179,
+    "rank": 1231
+  },
+  {
+    "cpu": "Intel Core i5-1035G7 @ 1.20GHz",
+    "score": 8.167,
+    "rank": 1233
+  },
+  {
+    "cpu": "Intel Xeon E-2276ME @ 2.80GHz",
+    "score": 8.167,
+    "rank": 1232
+  },
+  {
+    "cpu": "Intel Core i5-10200H @ 2.40GHz",
+    "score": 8.157,
+    "rank": 1234
+  },
+  {
+    "cpu": "AMD Ryzen 7 3750H",
+    "score": 8.151,
+    "rank": 1235
+  },
+  {
+    "cpu": "Intel Xeon E-2314 @ 2.80GHz",
+    "score": 8.146,
+    "rank": 1236
+  },
+  {
+    "cpu": "Google Tensor G3",
+    "score": 8.141,
+    "rank": 1237
+  },
+  {
+    "cpu": "Intel Core i3-10305T @ 3.00GHz",
+    "score": 8.136,
+    "rank": 1238
+  },
+  {
+    "cpu": "ARM - 32 Core 2911 MHz",
+    "score": 8.132,
+    "rank": 1239
+  },
+  {
+    "cpu": "Intel Xeon E5-2660 @ 2.20GHz",
+    "score": 8.132,
+    "rank": 1240
+  },
+  {
+    "cpu": "Intel Xeon E3-1230 v6 @ 3.50GHz",
+    "score": 8.113,
+    "rank": 1241
+  },
+  {
+    "cpu": "Intel Xeon E5-1650 @ 3.20GHz",
+    "score": 8.099,
+    "rank": 1242
+  },
+  {
+    "cpu": "Intel Core i7-8706G @ 3.10GHz",
+    "score": 8.095,
+    "rank": 1243
+  },
+  {
+    "cpu": "Intel Core i7-6700 @ 3.40GHz",
+    "score": 8.094,
+    "rank": 1244
+  },
+  {
+    "cpu": "Intel Xeon E3-1585L v5 @ 3.00GHz",
+    "score": 8.083,
+    "rank": 1245
+  },
+  {
+    "cpu": "Intel Xeon E3-1285L v4 @ 3.40GHz",
+    "score": 8.074,
+    "rank": 1246
+  },
+  {
+    "cpu": "Intel Core i7-4790K @ 4.00GHz",
+    "score": 8.068,
+    "rank": 1247
+  },
+  {
+    "cpu": "Mediatek Dimensity 9200 (MT6985)",
+    "score": 8.067,
+    "rank": 1248
+  },
+  {
+    "cpu": "CentaurHauls @2500MHz",
+    "score": 8.055,
+    "rank": 1250
+  },
+  {
+    "cpu": "Intel Core i5-8269U @ 2.60GHz",
+    "score": 8.055,
+    "rank": 1249
+  },
+  {
+    "cpu": "Intel Xeon E3-1535M v6 @ 3.10GHz",
+    "score": 8.053,
+    "rank": 1251
+  },
+  {
+    "cpu": "Intel Xeon E3-1245 v5 @ 3.50GHz",
+    "score": 8.029,
+    "rank": 1252
+  },
+  {
+    "cpu": "Intel Core i3-10105T @ 3.00GHz",
+    "score": 8.024,
+    "rank": 1253
+  },
+  {
+    "cpu": "Intel Xeon D-1559 @ 1.50GHz",
+    "score": 8.015,
+    "rank": 1254
+  },
+  {
+    "cpu": "AMD Ryzen 7 2800H",
+    "score": 8.013,
+    "rank": 1255
+  },
+  {
+    "cpu": "Intel Core i3-10300T @ 3.00GHz",
+    "score": 8.003,
+    "rank": 1256
+  },
+  {
+    "cpu": "Intel Xeon D-2712T @ 1.90GHz",
+    "score": 7.99,
+    "rank": 1257
+  },
+  {
+    "cpu": "Intel Xeon E3-1230 v5 @ 3.40GHz",
+    "score": 7.98,
+    "rank": 1258
+  },
+  {
+    "cpu": "Intel Xeon E3-1575M v5 @ 3.00GHz",
+    "score": 7.965,
+    "rank": 1259
+  },
+  {
+    "cpu": "Intel Core i7-8709G @ 3.10GHz",
+    "score": 7.947,
+    "rank": 1260
+  },
+  {
+    "cpu": "Intel Xeon E3-1515M v5 @ 2.80GHz",
+    "score": 7.938,
+    "rank": 1261
+  },
+  {
+    "cpu": "Intel Core i5-1035G4 @ 1.10GHz",
+    "score": 7.931,
+    "rank": 1262
+  },
+  {
+    "cpu": "Intel Core i5-8259U @ 2.30GHz",
+    "score": 7.9,
+    "rank": 1263
+  },
+  {
+    "cpu": "Intel Core i5-9400H @ 2.50GHz",
+    "score": 7.898,
+    "rank": 1264
+  },
+  {
+    "cpu": "Intel Core i7-995X @ 3.60GHz",
+    "score": 7.862,
+    "rank": 1265
+  },
+  {
+    "cpu": "AMD Opteron 6348",
+    "score": 7.85,
+    "rank": 1266
+  },
+  {
+    "cpu": "AMD Ryzen 5 2600H",
+    "score": 7.834,
+    "rank": 1267
+  },
+  {
+    "cpu": "Intel Xeon E3-1545M v5 @ 2.90GHz",
+    "score": 7.823,
+    "rank": 1268
+  },
+  {
+    "cpu": "Intel Xeon E5-2620 v3 @ 2.40GHz",
+    "score": 7.81,
+    "rank": 1269
+  },
+  {
+    "cpu": "Intel Xeon E3-1285 v4 @ 3.50GHz",
+    "score": 7.808,
+    "rank": 1270
+  },
+  {
+    "cpu": "ARM Firestorm 4 Core 2064 MHz",
+    "score": 7.804,
+    "rank": 1271
+  },
+  {
+    "cpu": "ARM Firestorm-M1 4 Core 2064 MHz",
+    "score": 7.799,
+    "rank": 1272
+  },
+  {
+    "cpu": "AMD Ryzen 5 3550H",
+    "score": 7.797,
+    "rank": 1273
+  },
+  {
+    "cpu": "AMD Ryzen Embedded V1807F",
+    "score": 7.775,
+    "rank": 1274
+  },
+  {
+    "cpu": "AMD Ryzen 5 1400",
+    "score": 7.747,
+    "rank": 1275
+  },
+  {
+    "cpu": "Intel Core i5-8500T @ 2.10GHz",
+    "score": 7.735,
+    "rank": 1276
+  },
+  {
+    "cpu": "Mediatek MT6983Z/CZA",
+    "score": 7.726,
+    "rank": 1277
+  },
+  {
+    "cpu": "Intel Core i5-8400H @ 2.50GHz",
+    "score": 7.724,
+    "rank": 1278
+  },
+  {
+    "cpu": "AMD Athlon Gold PRO 3150G",
+    "score": 7.702,
+    "rank": 1279
+  },
+  {
+    "cpu": "Intel Core i3-9350K @ 4.00GHz",
+    "score": 7.7,
+    "rank": 1280
+  },
+  {
+    "cpu": "Intel Core i7-5950HQ @ 2.90GHz",
+    "score": 7.696,
+    "rank": 1281
+  },
+  {
+    "cpu": "Mediatek MT6895Z_A/TCZA",
+    "score": 7.686,
+    "rank": 1282
+  },
+  {
+    "cpu": "Intel Core i7-8705G @ 3.10GHz",
+    "score": 7.684,
+    "rank": 1283
+  },
+  {
+    "cpu": "Intel Core i7-5775C @ 3.30GHz",
+    "score": 7.683,
+    "rank": 1284
+  },
+  {
+    "cpu": "Intel Xeon E5-1630 v4 @ 3.70GHz",
+    "score": 7.682,
+    "rank": 1285
+  },
+  {
+    "cpu": "AMD Ryzen 5 3550U",
+    "score": 7.681,
+    "rank": 1286
+  },
+  {
+    "cpu": "Intel Xeon E3-1270L v4 @ 3.00GHz",
+    "score": 7.662,
+    "rank": 1287
+  },
+  {
+    "cpu": "Mediatek Dimensity 8200-Ultimate (MT6896)",
+    "score": 7.661,
+    "rank": 1288
+  },
+  {
+    "cpu": "Intel Xeon E5-2440 v2 @ 1.90GHz",
+    "score": 7.655,
+    "rank": 1289
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 2400GE",
+    "score": 7.654,
+    "rank": 1290
+  },
+  {
+    "cpu": "Intel Xeon E-2224G @ 3.50GHz",
+    "score": 7.629,
+    "rank": 1292
+  },
+  {
+    "cpu": "Intel Xeon E5-2640 v2 @ 2.00GHz",
+    "score": 7.629,
+    "rank": 1291
+  },
+  {
+    "cpu": "Intel Core i7-7700T @ 2.90GHz",
+    "score": 7.622,
+    "rank": 1293
+  },
+  {
+    "cpu": "MediaTek MT6895",
+    "score": 7.615,
+    "rank": 1294
+  },
+  {
+    "cpu": "Intel Core i5-9300H @ 2.40GHz",
+    "score": 7.608,
+    "rank": 1295
+  },
+  {
+    "cpu": "Intel Core i3-N300",
+    "score": 7.604,
+    "rank": 1296
+  },
+  {
+    "cpu": "Intel Core i7-5775R @ 3.30GHz",
+    "score": 7.596,
+    "rank": 1297
+  },
+  {
+    "cpu": "Intel Xeon E5-2650L v2 @ 1.70GHz",
+    "score": 7.586,
+    "rank": 1298
+  },
+  {
+    "cpu": "Intel Core i5-8260U @ 1.60GHz",
+    "score": 7.577,
+    "rank": 1299
+  },
+  {
+    "cpu": "Intel Core i7-9850HL @ 1.90GHz",
+    "score": 7.563,
+    "rank": 1300
+  },
+  {
+    "cpu": "Intel Core i3-9350KF @ 4.00GHz",
+    "score": 7.549,
+    "rank": 1301
+  },
+  {
+    "cpu": "Intel Xeon E5-2450 @ 2.10GHz",
+    "score": 7.534,
+    "rank": 1302
+  },
+  {
+    "cpu": "AMD Ryzen 3 2300X",
+    "score": 7.531,
+    "rank": 1303
+  },
+  {
+    "cpu": "Intel Xeon E3-1271 v3 @ 3.60GHz",
+    "score": 7.529,
+    "rank": 1304
+  },
+  {
+    "cpu": "Intel Core i5-8257U @ 1.40GHz",
+    "score": 7.528,
+    "rank": 1305
+  },
+  {
+    "cpu": "AMD Ryzen 5 2400GE",
+    "score": 7.521,
+    "rank": 1307
+  },
+  {
+    "cpu": "QTI SM7475",
+    "score": 7.521,
+    "rank": 1306
+  },
+  {
+    "cpu": "Intel Xeon E3-1535M v5 @ 2.90GHz",
+    "score": 7.517,
+    "rank": 1308
+  },
+  {
+    "cpu": "Intel Xeon E5-2667 @ 2.90GHz",
+    "score": 7.511,
+    "rank": 1309
+  },
+  {
+    "cpu": "Intel Xeon E3-1276 v3 @ 3.60GHz",
+    "score": 7.508,
+    "rank": 1310
+  },
+  {
+    "cpu": "Intel Core i7-8557U @ 1.70GHz",
+    "score": 7.498,
+    "rank": 1311
+  },
+  {
+    "cpu": "Mediatek MT6891Z/CZA",
+    "score": 7.487,
+    "rank": 1312
+  },
+  {
+    "cpu": "Intel Xeon D-1531 @ 2.20GHz",
+    "score": 7.483,
+    "rank": 1313
+  },
+  {
+    "cpu": "Intel Xeon E5-2630 v2 @ 2.60GHz",
+    "score": 7.482,
+    "rank": 1314
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 3700U",
+    "score": 7.471,
+    "rank": 1315
+  },
+  {
+    "cpu": "Intel Xeon E3-1505M v6 @ 3.00GHz",
+    "score": 7.47,
+    "rank": 1316
+  },
+  {
+    "cpu": "Intel Core i5-8300H @ 2.30GHz",
+    "score": 7.469,
+    "rank": 1317
+  },
+  {
+    "cpu": "Intel Core i5-8279U @ 2.40GHz",
+    "score": 7.457,
+    "rank": 1318
+  },
+  {
+    "cpu": "Intel Core i7-7820EQ @ 3.00GHz",
+    "score": 7.453,
+    "rank": 1319
+  },
+  {
+    "cpu": "AMD Ryzen 3 4300U",
+    "score": 7.448,
+    "rank": 1320
+  },
+  {
+    "cpu": "Intel Xeon E5-2608L v4 @ 1.60GHz",
+    "score": 7.447,
+    "rank": 1321
+  },
+  {
+    "cpu": "Intel Xeon D-1537 @ 1.70GHz",
+    "score": 7.444,
+    "rank": 1322
+  },
+  {
+    "cpu": "Intel Core i5-8400T @ 1.70GHz",
+    "score": 7.441,
+    "rank": 1323
+  },
+  {
+    "cpu": "Intel Xeon E3-1281 v3 @ 3.70GHz",
+    "score": 7.435,
+    "rank": 1324
+  },
+  {
+    "cpu": "Intel Core i5-1035G1 @ 1.00GHz",
+    "score": 7.428,
+    "rank": 1325
+  },
+  {
+    "cpu": "Intel Xeon E3-1286 v3 @ 3.70GHz",
+    "score": 7.418,
+    "rank": 1326
+  },
+  {
+    "cpu": "Intel Xeon E5-2637 v4 @ 3.50GHz",
+    "score": 7.418,
+    "rank": 1327
+  },
+  {
+    "cpu": "Intel Xeon E-2124G @ 3.40GHz",
+    "score": 7.416,
+    "rank": 1328
+  },
+  {
+    "cpu": "Intel Core i7-7820HK @ 2.90GHz",
+    "score": 7.405,
+    "rank": 1329
+  },
+  {
+    "cpu": "Intel Xeon E3-1280 v3 @ 3.60GHz",
+    "score": 7.402,
+    "rank": 1330
+  },
+  {
+    "cpu": "Intel Xeon E5-1630 v3 @ 3.70GHz",
+    "score": 7.396,
+    "rank": 1332
+  },
+  {
+    "cpu": "Intel Xeon E5-2650 @ 2.00GHz",
+    "score": 7.396,
+    "rank": 1331
+  },
+  {
+    "cpu": "Mediatek MT6897",
+    "score": 7.391,
+    "rank": 1333
+  },
+  {
+    "cpu": "Intel Atom P5322",
+    "score": 7.378,
+    "rank": 1334
+  },
+  {
+    "cpu": "Google GS201",
+    "score": 7.377,
+    "rank": 1335
+  },
+  {
+    "cpu": "Intel Core i7-7920HQ @ 3.10GHz",
+    "score": 7.377,
+    "rank": 1336
+  },
+  {
+    "cpu": "Intel Xeon E5-1620 v4 @ 3.50GHz",
+    "score": 7.372,
+    "rank": 1337
+  },
+  {
+    "cpu": "Intel Xeon @ 2.00GHz",
+    "score": 7.363,
+    "rank": 1338
+  },
+  {
+    "cpu": "Intel Core i3-9320 @ 3.70GHz",
+    "score": 7.358,
+    "rank": 1339
+  },
+  {
+    "cpu": "Intel Core i5-9300HF @ 2.40GHz",
+    "score": 7.341,
+    "rank": 1340
+  },
+  {
+    "cpu": "QTI SM8475",
+    "score": 7.325,
+    "rank": 1341
+  },
+  {
+    "cpu": "Intel Core i7-6920HQ @ 2.90GHz",
+    "score": 7.324,
+    "rank": 1342
+  },
+  {
+    "cpu": "Intel Xeon E-2224 @ 3.40GHz",
+    "score": 7.324,
+    "rank": 1343
+  },
+  {
+    "cpu": "Intel Core i3-10100T @ 3.00GHz",
+    "score": 7.321,
+    "rank": 1344
+  },
+  {
+    "cpu": "AMD Ryzen 3 3200GE",
+    "score": 7.309,
+    "rank": 1345
+  },
+  {
+    "cpu": "Intel Xeon Phi 7210 @ 1.30GHz",
+    "score": 7.306,
+    "rank": 1346
+  },
+  {
+    "cpu": "Intel Xeon E3-1270 v3 @ 3.50GHz",
+    "score": 7.296,
+    "rank": 1347
+  },
+  {
+    "cpu": "AMD Opteron 6281",
+    "score": 7.279,
+    "rank": 1348
+  },
+  {
+    "cpu": "Intel Xeon E3-1246 v3 @ 3.50GHz",
+    "score": 7.276,
+    "rank": 1349
+  },
+  {
+    "cpu": "Intel Core i7-4790 @ 3.60GHz",
+    "score": 7.268,
+    "rank": 1350
+  },
+  {
+    "cpu": "Intel Xeon E5-2637 v3 @ 3.50GHz",
+    "score": 7.266,
+    "rank": 1351
+  },
+  {
+    "cpu": "AMD Ryzen 5 Microsoft Surface Edition",
+    "score": 7.243,
+    "rank": 1352
+  },
+  {
+    "cpu": "AMD Ryzen 5 3580U",
+    "score": 7.24,
+    "rank": 1353
+  },
+  {
+    "cpu": "Intel Core i7-6700T @ 2.80GHz",
+    "score": 7.239,
+    "rank": 1354
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 1300",
+    "score": 7.234,
+    "rank": 1355
+  },
+  {
+    "cpu": "Intel Xeon W3690 @ 3.47GHz",
+    "score": 7.231,
+    "rank": 1356
+  },
+  {
+    "cpu": "Intel Xeon E5-4610 v3 @ 1.70GHz",
+    "score": 7.229,
+    "rank": 1357
+  },
+  {
+    "cpu": "Intel Xeon E3-1275 v3 @ 3.50GHz",
+    "score": 7.196,
+    "rank": 1358
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 2700U",
+    "score": 7.188,
+    "rank": 1359
+  },
+  {
+    "cpu": "Intel Xeon E5-2628L v2 @ 1.90GHz",
+    "score": 7.181,
+    "rank": 1360
+  },
+  {
+    "cpu": "Intel Xeon D-1539 @ 1.60GHz",
+    "score": 7.175,
+    "rank": 1361
+  },
+  {
+    "cpu": "AMD Ryzen 7 3700U",
+    "score": 7.174,
+    "rank": 1362
+  },
+  {
+    "cpu": "Intel Core i7-7820HQ @ 2.90GHz",
+    "score": 7.164,
+    "rank": 1363
+  },
+  {
+    "cpu": "AMD Ryzen 7 3700C",
+    "score": 7.145,
+    "rank": 1364
+  },
+  {
+    "cpu": "Intel 300",
+    "score": 7.142,
+    "rank": 1365
+  },
+  {
+    "cpu": "Intel Xeon E3-1241 v3 @ 3.50GHz",
+    "score": 7.141,
+    "rank": 1366
+  },
+  {
+    "cpu": "vendor Kirin9000E",
+    "score": 7.141,
+    "rank": 1367
+  },
+  {
+    "cpu": "Intel Core i7-4771 @ 3.50GHz",
+    "score": 7.14,
+    "rank": 1368
+  },
+  {
+    "cpu": "Intel Core i3-9300 @ 3.70GHz",
+    "score": 7.137,
+    "rank": 1369
+  },
+  {
+    "cpu": "AMD Ryzen 3 3200G",
+    "score": 7.135,
+    "rank": 1371
+  },
+  {
+    "cpu": "Mediatek MT6895Z_B/TCZA",
+    "score": 7.135,
+    "rank": 1370
+  },
+  {
+    "cpu": "Intel Core i7-4770K @ 3.50GHz",
+    "score": 7.125,
+    "rank": 1372
+  },
+  {
+    "cpu": "Intel Core i7-6770HQ @ 2.60GHz",
+    "score": 7.116,
+    "rank": 1373
+  },
+  {
+    "cpu": "AMD Athlon Gold 3150G",
+    "score": 7.112,
+    "rank": 1374
+  },
+  {
+    "cpu": "Intel Core i7-990X @ 3.47GHz",
+    "score": 7.106,
+    "rank": 1375
+  },
+  {
+    "cpu": "Intel Xeon X5679 @ 3.20GHz",
+    "score": 7.095,
+    "rank": 1376
+  },
+  {
+    "cpu": "Mediatek MT8797Z/CNZA",
+    "score": 7.084,
+    "rank": 1377
+  },
+  {
+    "cpu": "Intel Core i7-4940MX @ 3.10GHz",
+    "score": 7.071,
+    "rank": 1378
+  },
+  {
+    "cpu": "Intel Xeon E3-1240 v3 @ 3.40GHz",
+    "score": 7.062,
+    "rank": 1379
+  },
+  {
+    "cpu": "Intel Core i7-4770 @ 3.40GHz",
+    "score": 7.059,
+    "rank": 1380
+  },
+  {
+    "cpu": "Intel Core i7-6820HK @ 2.70GHz",
+    "score": 7.057,
+    "rank": 1381
+  },
+  {
+    "cpu": "Intel Xeon E3-1231 v3 @ 3.40GHz",
+    "score": 7.044,
+    "rank": 1382
+  },
+  {
+    "cpu": "Intel Xeon E5-2430 v2 @ 2.50GHz",
+    "score": 7.039,
+    "rank": 1383
+  },
+  {
+    "cpu": "Intel Xeon E5-4620 @ 2.20GHz",
+    "score": 7.037,
+    "rank": 1384
+  },
+  {
+    "cpu": "Intel Core i7-5850EQ @ 2.70GHz",
+    "score": 7.036,
+    "rank": 1385
+  },
+  {
+    "cpu": "Intel Xeon E3-1245 v3 @ 3.40GHz",
+    "score": 7.021,
+    "rank": 1386
+  },
+  {
+    "cpu": "Intel Core i7-4790S @ 3.20GHz",
+    "score": 7.019,
+    "rank": 1387
+  },
+  {
+    "cpu": "Intel Xeon X5690 @ 3.47GHz",
+    "score": 7.016,
+    "rank": 1388
+  },
+  {
+    "cpu": "Intel Xeon E5-4640 @ 2.40GHz",
+    "score": 7.012,
+    "rank": 1389
+  },
+  {
+    "cpu": "AMD Athlon Gold PRO 3150GE",
+    "score": 7.006,
+    "rank": 1390
+  },
+  {
+    "cpu": "Intel Xeon W3680 @ 3.33GHz",
+    "score": 7.005,
+    "rank": 1391
+  },
+  {
+    "cpu": "Intel Core i7-6820EQ @ 2.80GHz",
+    "score": 7.001,
+    "rank": 1392
+  },
+  {
+    "cpu": "AMD Ryzen Embedded R2514",
+    "score": 6.998,
+    "rank": 1393
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 3500U",
+    "score": 6.995,
+    "rank": 1394
+  },
+  {
+    "cpu": "Intel Xeon E5-1620 v3 @ 3.50GHz",
+    "score": 6.993,
+    "rank": 1395
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 3200G",
+    "score": 6.991,
+    "rank": 1396
+  },
+  {
+    "cpu": "Intel Xeon E5-4607 v2 @ 2.60GHz",
+    "score": 6.986,
+    "rank": 1397
+  },
+  {
+    "cpu": "AMD Ryzen 3 1300X",
+    "score": 6.98,
+    "rank": 1398
+  },
+  {
+    "cpu": "Intel Xeon E3-1285 v3 @ 3.60GHz",
+    "score": 6.974,
+    "rank": 1399
+  },
+  {
+    "cpu": "AMD Ryzen 7 3780U",
+    "score": 6.961,
+    "rank": 1400
+  },
+  {
+    "cpu": "Intel Xeon E3-1265L v4 @ 2.30GHz",
+    "score": 6.954,
+    "rank": 1401
+  },
+  {
+    "cpu": "Intel Core i5-8305G @ 2.80GHz",
+    "score": 6.951,
+    "rank": 1402
+  },
+  {
+    "cpu": "AMD Ryzen 5 3500U",
+    "score": 6.95,
+    "rank": 1403
+  },
+  {
+    "cpu": "Samsung s5e8845",
+    "score": 6.948,
+    "rank": 1404
+  },
+  {
+    "cpu": "Intel Xeon E3-1505M v5 @ 2.80GHz",
+    "score": 6.946,
+    "rank": 1405
+  },
+  {
+    "cpu": "Intel Xeon E5-2623 v4 @ 2.60GHz",
+    "score": 6.94,
+    "rank": 1406
+  },
+  {
+    "cpu": "Intel Xeon E-2124 @ 3.30GHz",
+    "score": 6.936,
+    "rank": 1407
+  },
+  {
+    "cpu": "Intel Core i7-980 @ 3.33GHz",
+    "score": 6.926,
+    "rank": 1408
+  },
+  {
+    "cpu": "AMD Opteron 6287 SE",
+    "score": 6.925,
+    "rank": 1409
+  },
+  {
+    "cpu": "Intel Core i7-7700HQ @ 2.80GHz",
+    "score": 6.92,
+    "rank": 1410
+  },
+  {
+    "cpu": "vendor Kirin9000",
+    "score": 6.914,
+    "rank": 1411
+  },
+  {
+    "cpu": "AMD Ryzen 7 2700U",
+    "score": 6.868,
+    "rank": 1413
+  },
+  {
+    "cpu": "Intel Core i3-9100E @ 3.10GHz",
+    "score": 6.868,
+    "rank": 1412
+  },
+  {
+    "cpu": "Intel Core i7-5850HQ @ 2.70GHz",
+    "score": 6.866,
+    "rank": 1414
+  },
+  {
+    "cpu": "Intel Core i3-8350K @ 4.00GHz",
+    "score": 6.863,
+    "rank": 1415
+  },
+  {
+    "cpu": "Intel Core i5-7640X @ 4.00GHz",
+    "score": 6.844,
+    "rank": 1416
+  },
+  {
+    "cpu": "Intel Core i7-6820HQ @ 2.70GHz",
+    "score": 6.832,
+    "rank": 1417
+  },
+  {
+    "cpu": "Intel Core i7-980X @ 3.33GHz",
+    "score": 6.828,
+    "rank": 1418
+  },
+  {
+    "cpu": "Intel Xeon X5680 @ 3.33GHz",
+    "score": 6.82,
+    "rank": 1419
+  },
+  {
+    "cpu": "Intel Xeon E3-1285L v3 @ 3.10GHz",
+    "score": 6.819,
+    "rank": 1420
+  },
+  {
+    "cpu": "Intel Xeon E3-1230 v3 @ 3.30GHz",
+    "score": 6.808,
+    "rank": 1421
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 2200G",
+    "score": 6.805,
+    "rank": 1422
+  },
+  {
+    "cpu": "Intel Core i5-7600K @ 3.80GHz",
+    "score": 6.797,
+    "rank": 1423
+  },
+  {
+    "cpu": "Mediatek MT6895Z/TCZA",
+    "score": 6.794,
+    "rank": 1424
+  },
+  {
+    "cpu": "Intel Xeon E5-2623 v3 @ 3.00GHz",
+    "score": 6.79,
+    "rank": 1425
+  },
+  {
+    "cpu": "Intel Xeon D-1528 @ 1.90GHz",
+    "score": 6.785,
+    "rank": 1426
+  },
+  {
+    "cpu": "ARM Firestorm 8 Core 2064 MHz",
+    "score": 6.775,
+    "rank": 1427
+  },
+  {
+    "cpu": "Intel Xeon E5-2448L v2 @ 1.80GHz",
+    "score": 6.774,
+    "rank": 1428
+  },
+  {
+    "cpu": "Intel Pentium Gold G7400",
+    "score": 6.771,
+    "rank": 1429
+  },
+  {
+    "cpu": "Snapdragon 8cx Gen 2 @ 3.0 GHz",
+    "score": 6.77,
+    "rank": 1430
+  },
+  {
+    "cpu": "AMD FX-9590 Eight-Core",
+    "score": 6.767,
+    "rank": 1431
+  },
+  {
+    "cpu": "AMD Ryzen 3 2200G",
+    "score": 6.767,
+    "rank": 1432
+  },
+  {
+    "cpu": "Intel Core i7-4770S @ 3.10GHz",
+    "score": 6.76,
+    "rank": 1433
+  },
+  {
+    "cpu": "Google Tensor",
+    "score": 6.742,
+    "rank": 1435
+  },
+  {
+    "cpu": "Intel Core i3-9100F @ 3.60GHz",
+    "score": 6.742,
+    "rank": 1434
+  },
+  {
+    "cpu": "AMD Ryzen 5 3450U",
+    "score": 6.733,
+    "rank": 1436
+  },
+  {
+    "cpu": "Qualcomm SM8250",
+    "score": 6.728,
+    "rank": 1437
+  },
+  {
+    "cpu": "Intel Core i7-10610U @ 1.80GHz",
+    "score": 6.715,
+    "rank": 1438
+  },
+  {
+    "cpu": "QTI SG8175P",
+    "score": 6.713,
+    "rank": 1439
+  },
+  {
+    "cpu": "Intel Xeon E5-2630L v2 @ 2.40GHz",
+    "score": 6.701,
+    "rank": 1440
+  },
+  {
+    "cpu": "AMD Ryzen Embedded V1605B",
+    "score": 6.698,
+    "rank": 1441
+  },
+  {
+    "cpu": "Mediatek MT6893Z_T/CZA",
+    "score": 6.688,
+    "rank": 1442
+  },
+  {
+    "cpu": "AMD Opteron 6380",
+    "score": 6.687,
+    "rank": 1443
+  },
+  {
+    "cpu": "Intel Xeon D-2123IT @ 2.20GHz",
+    "score": 6.673,
+    "rank": 1444
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 2500U",
+    "score": 6.66,
+    "rank": 1445
+  },
+  {
+    "cpu": "Mediatek MT8789",
+    "score": 6.64,
+    "rank": 1446
+  },
+  {
+    "cpu": "Intel Core i7-1060NG7 @ 1.20GHz",
+    "score": 6.633,
+    "rank": 1447
+  },
+  {
+    "cpu": "Intel Xeon E3-1275 V2 @ 3.50GHz",
+    "score": 6.63,
+    "rank": 1448
+  },
+  {
+    "cpu": "Samsung s5e9925",
+    "score": 6.627,
+    "rank": 1449
+  },
+  {
+    "cpu": "Intel Core i7-4770R @ 3.20GHz",
+    "score": 6.62,
+    "rank": 1450
+  },
+  {
+    "cpu": "Snapdragon 8cx Gen 2 @ 3.15 GHz",
+    "score": 6.614,
+    "rank": 1451
+  },
+  {
+    "cpu": "Intel Core i3-9100 @ 3.60GHz",
+    "score": 6.609,
+    "rank": 1452
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 3200GE",
+    "score": 6.608,
+    "rank": 1453
+  },
+  {
+    "cpu": "Intel Core i7-10510U @ 1.80GHz",
+    "score": 6.599,
+    "rank": 1454
+  },
+  {
+    "cpu": "MediaTek MT6983",
+    "score": 6.588,
+    "rank": 1456
+  },
+  {
+    "cpu": "Qualcomm Technologies, Inc SM8350AC",
+    "score": 6.588,
+    "rank": 1455
+  },
+  {
+    "cpu": "Intel Xeon E3-1280 V2 @ 3.60GHz",
+    "score": 6.571,
+    "rank": 1457
+  },
+  {
+    "cpu": "QTI SM8250",
+    "score": 6.564,
+    "rank": 1458
+  },
+  {
+    "cpu": "Intel Core i5-7600 @ 3.50GHz",
+    "score": 6.561,
+    "rank": 1459
+  },
+  {
+    "cpu": "Intel Core i7-4980HQ @ 2.80GHz",
+    "score": 6.555,
+    "rank": 1460
+  },
+  {
+    "cpu": "Qualcomm Technologies, Inc SA8195P",
+    "score": 6.554,
+    "rank": 1461
+  },
+  {
+    "cpu": "Intel Core i7-970 @ 3.20GHz",
+    "score": 6.553,
+    "rank": 1462
+  },
+  {
+    "cpu": "AMD Ryzen 5 2500U",
+    "score": 6.552,
+    "rank": 1463
+  },
+  {
+    "cpu": "QTI SM8350",
+    "score": 6.551,
+    "rank": 1464
+  },
+  {
+    "cpu": "MT8797Z/CNZA",
+    "score": 6.55,
+    "rank": 1465
+  },
+  {
+    "cpu": "CentaurHauls @2000MHz",
+    "score": 6.549,
+    "rank": 1466
+  },
+  {
+    "cpu": "Intel Xeon E5-1620 v2 @ 3.70GHz",
+    "score": 6.544,
+    "rank": 1467
+  },
+  {
+    "cpu": "Qualcomm SM8350",
+    "score": 6.53,
+    "rank": 1468
+  },
+  {
+    "cpu": "Intel Core i7-6700HQ @ 2.60GHz",
+    "score": 6.527,
+    "rank": 1469
+  },
+  {
+    "cpu": "Intel Xeon E3-1290 V2 @ 3.70GHz",
+    "score": 6.526,
+    "rank": 1470
+  },
+  {
+    "cpu": "Intel Core i7-4820K @ 3.70GHz",
+    "score": 6.525,
+    "rank": 1471
+  },
+  {
+    "cpu": "Mediatek MT6891Z_Z/CZA",
+    "score": 6.497,
+    "rank": 1472
+  },
+  {
+    "cpu": "Intel Core i7-4960HQ @ 2.60GHz",
+    "score": 6.485,
+    "rank": 1474
+  },
+  {
+    "cpu": "MT6893Z_Z/CZA",
+    "score": 6.485,
+    "rank": 1473
+  },
+  {
+    "cpu": "Intel Xeon E3-1270 V2 @ 3.50GHz",
+    "score": 6.482,
+    "rank": 1475
+  },
+  {
+    "cpu": "MT6893Z/CZA",
+    "score": 6.467,
+    "rank": 1476
+  },
+  {
+    "cpu": "Intel Core i7-3770K @ 3.50GHz",
+    "score": 6.464,
+    "rank": 1477
+  },
+  {
+    "cpu": "Intel Xeon E5-4610 @ 2.40GHz",
+    "score": 6.46,
+    "rank": 1478
+  },
+  {
+    "cpu": "Odin based on Qualcomm Technologies, Inc SM8350",
+    "score": 6.456,
+    "rank": 1479
+  },
+  {
+    "cpu": "Intel Xeon E3-1286L v3 @ 3.20GHz",
+    "score": 6.45,
+    "rank": 1480
+  },
+  {
+    "cpu": "redwood based Qualcomm Technologies, Inc. SM7325",
+    "score": 6.448,
+    "rank": 1481
+  },
+  {
+    "cpu": "Intel Xeon E3-1240L v5 @ 2.10GHz",
+    "score": 6.446,
+    "rank": 1482
+  },
+  {
+    "cpu": "Intel Xeon Silver 4112 @ 2.60GHz",
+    "score": 6.446,
+    "rank": 1483
+  },
+  {
+    "cpu": "QTI SM7550",
+    "score": 6.443,
+    "rank": 1484
+  },
+  {
+    "cpu": "Intel Core i7-4930MX @ 3.00GHz",
+    "score": 6.435,
+    "rank": 1486
+  },
+  {
+    "cpu": "Intel Xeon W3670 @ 3.20GHz",
+    "score": 6.435,
+    "rank": 1485
+  },
+  {
+    "cpu": "Intel Xeon X5675 @ 3.07GHz",
+    "score": 6.433,
+    "rank": 1487
+  },
+  {
+    "cpu": "Qualcomm Technologies, Inc SM7325",
+    "score": 6.431,
+    "rank": 1488
+  },
+  {
+    "cpu": "Qualcomm Technologies, Inc SM8250_AC",
+    "score": 6.416,
+    "rank": 1489
+  },
+  {
+    "cpu": "Intel Xeon E5-2608L v3 @ 2.00GHz",
+    "score": 6.415,
+    "rank": 1490
+  },
+  {
+    "cpu": "Mediatek MT6889",
+    "score": 6.415,
+    "rank": 1491
+  },
+  {
+    "cpu": "Intel Xeon E5-2637 v2 @ 3.50GHz",
+    "score": 6.413,
+    "rank": 1493
+  },
+  {
+    "cpu": "Mediatek MT6883Z/CZA",
+    "score": 6.413,
+    "rank": 1492
+  },
+  {
+    "cpu": "Intel Core i7-3770 @ 3.40GHz",
+    "score": 6.41,
+    "rank": 1494
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 2200GE",
+    "score": 6.398,
+    "rank": 1495
+  },
+  {
+    "cpu": "Intel Core i5-10310U @ 1.70GHz",
+    "score": 6.392,
+    "rank": 1496
+  },
+  {
+    "cpu": "AMD Opteron 6282 SE",
+    "score": 6.385,
+    "rank": 1497
+  },
+  {
+    "cpu": "QTI SM8450",
+    "score": 6.381,
+    "rank": 1498
+  },
+  {
+    "cpu": "MT6893Z_B/CZA",
+    "score": 6.371,
+    "rank": 1499
+  },
+  {
+    "cpu": "taoyao based Qualcomm Technologies, Inc. Yupik IDP",
+    "score": 6.359,
+    "rank": 1500
+  },
+  {
+    "cpu": "Intel Xeon E-2276ML @ 2.00GHz",
+    "score": 6.353,
+    "rank": 1501
+  },
+  {
+    "cpu": "Intel Xeon E5-2420 v2 @ 2.20GHz",
+    "score": 6.352,
+    "rank": 1502
+  },
+  {
+    "cpu": "Intel Xeon E3-1240 V2 @ 3.40GHz",
+    "score": 6.351,
+    "rank": 1503
+  },
+  {
+    "cpu": "Intel Core i7-4870HQ @ 2.50GHz",
+    "score": 6.337,
+    "rank": 1505
+  },
+  {
+    "cpu": "Mediatek MT6893",
+    "score": 6.337,
+    "rank": 1504
+  },
+  {
+    "cpu": "Intel Core i7-4790T @ 2.70GHz",
+    "score": 6.334,
+    "rank": 1506
+  },
+  {
+    "cpu": "Intel Xeon E-2254ML @ 1.70GHz",
+    "score": 6.333,
+    "rank": 1507
+  },
+  {
+    "cpu": "Intel Xeon E5-2430L v2 @ 2.40GHz",
+    "score": 6.332,
+    "rank": 1508
+  },
+  {
+    "cpu": "Intel Xeon E5-2640 @ 2.50GHz",
+    "score": 6.327,
+    "rank": 1509
+  },
+  {
+    "cpu": "Intel Core i5-6600K @ 3.50GHz",
+    "score": 6.323,
+    "rank": 1510
+  },
+  {
+    "cpu": "Intel Core i3-8300 @ 3.70GHz",
+    "score": 6.31,
+    "rank": 1511
+  },
+  {
+    "cpu": "Intel Xeon E3-1245 V2 @ 3.40GHz",
+    "score": 6.31,
+    "rank": 1512
+  },
+  {
+    "cpu": "Intel Core i7-4760HQ @ 2.10GHz",
+    "score": 6.3,
+    "rank": 1513
+  },
+  {
+    "cpu": "Intel Xeon E5-4617 @ 2.90GHz",
+    "score": 6.298,
+    "rank": 1514
+  },
+  {
+    "cpu": "AMD Ryzen 3 1200",
+    "score": 6.294,
+    "rank": 1515
+  },
+  {
+    "cpu": "AMD Opteron 6276",
+    "score": 6.286,
+    "rank": 1516
+  },
+  {
+    "cpu": "HiSilicon Kirin",
+    "score": 6.283,
+    "rank": 1517
+  },
+  {
+    "cpu": "Qualcomm Technologies, Inc KONA-IOT",
+    "score": 6.282,
+    "rank": 1518
+  },
+  {
+    "cpu": "Intel Core i7-8650U @ 1.90GHz",
+    "score": 6.272,
+    "rank": 1519
+  },
+  {
+    "cpu": "Intel Xeon E3-1275L v3 @ 2.70GHz",
+    "score": 6.263,
+    "rank": 1520
+  },
+  {
+    "cpu": "Intel Core i7-8665U @ 1.90GHz",
+    "score": 6.262,
+    "rank": 1521
+  },
+  {
+    "cpu": "Intel Xeon E5-1428L v2 @ 2.20GHz",
+    "score": 6.255,
+    "rank": 1522
+  },
+  {
+    "cpu": "Intel Core i7-4910MQ @ 2.90GHz",
+    "score": 6.249,
+    "rank": 1523
+  },
+  {
+    "cpu": "Intel Xeon E5-2620 v2 @ 2.10GHz",
+    "score": 6.244,
+    "rank": 1524
+  },
+  {
+    "cpu": "Intel Core i7-4860HQ @ 2.40GHz",
+    "score": 6.242,
+    "rank": 1525
+  },
+  {
+    "cpu": "Intel Core i3-10100TE @ 2.30GHz",
+    "score": 6.237,
+    "rank": 1526
+  },
+  {
+    "cpu": "SM7325",
+    "score": 6.23,
+    "rank": 1527
+  },
+  {
+    "cpu": "Samsung Exynos 990",
+    "score": 6.229,
+    "rank": 1528
+  },
+  {
+    "cpu": "AMD FX-8370 Eight-Core",
+    "score": 6.205,
+    "rank": 1530
+  },
+  {
+    "cpu": "Intel Core i5-10210U @ 1.60GHz",
+    "score": 6.205,
+    "rank": 1529
+  },
+  {
+    "cpu": "Intel Xeon D-1622 @ 2.60GHz",
+    "score": 6.205,
+    "rank": 1531
+  },
+  {
+    "cpu": "Microsoft SQ2 @ 3.15 GHz",
+    "score": 6.203,
+    "rank": 1532
+  },
+  {
+    "cpu": "Intel Core i5-8350U @ 1.70GHz",
+    "score": 6.193,
+    "rank": 1533
+  },
+  {
+    "cpu": "Intel Xeon E5-2650L @ 1.80GHz",
+    "score": 6.192,
+    "rank": 1534
+  },
+  {
+    "cpu": "Intel Core i7-3770S @ 3.10GHz",
+    "score": 6.19,
+    "rank": 1535
+  },
+  {
+    "cpu": "Intel Core i7-8565UC @ 1.80GHz",
+    "score": 6.187,
+    "rank": 1536
+  },
+  {
+    "cpu": "Intel Xeon E3-1230 V2 @ 3.30GHz",
+    "score": 6.186,
+    "rank": 1537
+  },
+  {
+    "cpu": "Intel Xeon E5-2630 @ 2.30GHz",
+    "score": 6.183,
+    "rank": 1538
+  },
+  {
+    "cpu": "Intel Core i5-8365U @ 1.60GHz",
+    "score": 6.171,
+    "rank": 1539
+  },
+  {
+    "cpu": "Intel Xeon E3-1265L v3 @ 2.50GHz",
+    "score": 6.171,
+    "rank": 1540
+  },
+  {
+    "cpu": "AMD FX-9370 Eight-Core",
+    "score": 6.167,
+    "rank": 1541
+  },
+  {
+    "cpu": "Intel Core i3-9300T @ 3.20GHz",
+    "score": 6.164,
+    "rank": 1542
+  },
+  {
+    "cpu": "Intel Core i3-1215UL",
+    "score": 6.161,
+    "rank": 1543
+  },
+  {
+    "cpu": "MT6893Z_C/CZA",
+    "score": 6.139,
+    "rank": 1544
+  },
+  {
+    "cpu": "Intel Core i7-6700TE @ 2.40GHz",
+    "score": 6.135,
+    "rank": 1545
+  },
+  {
+    "cpu": "Intel Core i7-4850HQ @ 2.30GHz",
+    "score": 6.133,
+    "rank": 1546
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 1200",
+    "score": 6.131,
+    "rank": 1547
+  },
+  {
+    "cpu": "SM8350",
+    "score": 6.131,
+    "rank": 1548
+  },
+  {
+    "cpu": "Intel Core i3-8100 @ 3.60GHz",
+    "score": 6.12,
+    "rank": 1549
+  },
+  {
+    "cpu": "Qualcomm Technologies, Inc SM8350",
+    "score": 6.112,
+    "rank": 1550
+  },
+  {
+    "cpu": "Intel Core i7-8565U @ 1.80GHz",
+    "score": 6.105,
+    "rank": 1551
+  },
+  {
+    "cpu": "vendor Kirin990",
+    "score": 6.1,
+    "rank": 1552
+  },
+  {
+    "cpu": "Qualcomm SM7325",
+    "score": 6.099,
+    "rank": 1553
+  },
+  {
+    "cpu": "Intel Core i3-1115G4 @ 3.00GHz",
+    "score": 6.098,
+    "rank": 1555
+  },
+  {
+    "cpu": "Intel Core i7-4900MQ @ 2.80GHz",
+    "score": 6.098,
+    "rank": 1554
+  },
+  {
+    "cpu": "Intel Xeon E5-2440 @ 2.40GHz",
+    "score": 6.091,
+    "rank": 1556
+  },
+  {
+    "cpu": "Intel Core i7-5675C @ 3.10GHz",
+    "score": 6.089,
+    "rank": 1558
+  },
+  {
+    "cpu": "Intel Xeon X5670 @ 2.93GHz",
+    "score": 6.089,
+    "rank": 1557
+  },
+  {
+    "cpu": "Intel Xeon E3-1505L v6 @ 2.20GHz",
+    "score": 6.088,
+    "rank": 1559
+  },
+  {
+    "cpu": "Intel Core i7-4770HQ @ 2.20GHz",
+    "score": 6.086,
+    "rank": 1560
+  },
+  {
+    "cpu": "Intel Core i3-8100B @ 3.60GHz",
+    "score": 6.079,
+    "rank": 1562
+  },
+  {
+    "cpu": "Intel Xeon E3-1268L v5 @ 2.40GHz",
+    "score": 6.079,
+    "rank": 1561
+  },
+  {
+    "cpu": "Intel Xeon E5-2658 @ 2.10GHz",
+    "score": 6.073,
+    "rank": 1563
+  },
+  {
+    "cpu": "AMD Opteron 6344",
+    "score": 6.069,
+    "rank": 1564
+  },
+  {
+    "cpu": "Intel Core i7-4810MQ @ 2.80GHz",
+    "score": 6.063,
+    "rank": 1565
+  },
+  {
+    "cpu": "AMD FX-8350 Eight-Core",
+    "score": 6.061,
+    "rank": 1566
+  },
+  {
+    "cpu": "AMD Ryzen 3 2200GE",
+    "score": 6.056,
+    "rank": 1567
+  },
+  {
+    "cpu": "Intel Core i5-6600 @ 3.30GHz",
+    "score": 6.051,
+    "rank": 1568
+  },
+  {
+    "cpu": "AMD EPYC 3101 4-Core",
+    "score": 6.05,
+    "rank": 1569
+  },
+  {
+    "cpu": "Spreadtrum T820",
+    "score": 6.044,
+    "rank": 1570
+  },
+  {
+    "cpu": "MT6893Z_A/CZA",
+    "score": 6.043,
+    "rank": 1571
+  },
+  {
+    "cpu": "Intel Core i7-5700HQ @ 2.70GHz",
+    "score": 6.039,
+    "rank": 1572
+  },
+  {
+    "cpu": "AMD Ryzen Embedded R2314",
+    "score": 6.031,
+    "rank": 1573
+  },
+  {
+    "cpu": "Intel Core i5-7500 @ 3.40GHz",
+    "score": 6.026,
+    "rank": 1575
+  },
+  {
+    "cpu": "Samsung s5e8835",
+    "score": 6.026,
+    "rank": 1574
+  },
+  {
+    "cpu": "MT6891Z/CZA",
+    "score": 6.025,
+    "rank": 1576
+  },
+  {
+    "cpu": "Intel Xeon X5660 @ 2.80GHz",
+    "score": 6.008,
+    "rank": 1577
+  },
+  {
+    "cpu": "AMD Ryzen Embedded V1404I",
+    "score": 6.007,
+    "rank": 1578
+  },
+  {
+    "cpu": "Intel Core i5-8265U @ 1.60GHz",
+    "score": 5.985,
+    "rank": 1579
+  },
+  {
+    "cpu": "Intel Xeon E3-1225 v5 @ 3.30GHz",
+    "score": 5.978,
+    "rank": 1580
+  },
+  {
+    "cpu": "Intel Core i7-4770T @ 2.50GHz",
+    "score": 5.973,
+    "rank": 1581
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 3300U",
+    "score": 5.955,
+    "rank": 1582
+  },
+  {
+    "cpu": "Intel Core i7-3840QM @ 2.80GHz",
+    "score": 5.936,
+    "rank": 1583
+  },
+  {
+    "cpu": "QTI SM7325",
+    "score": 5.936,
+    "rank": 1584
+  },
+  {
+    "cpu": "Intel N97",
+    "score": 5.919,
+    "rank": 1585
+  },
+  {
+    "cpu": "Intel Core i7-8550U @ 1.80GHz",
+    "score": 5.918,
+    "rank": 1586
+  },
+  {
+    "cpu": "Intel Xeon E-2104G @ 3.20GHz",
+    "score": 5.913,
+    "rank": 1587
+  },
+  {
+    "cpu": "Intel Core i3-1115G4E @ 3.00GHz",
+    "score": 5.912,
+    "rank": 1588
+  },
+  {
+    "cpu": "Intel Core i5-7600T @ 2.80GHz",
+    "score": 5.903,
+    "rank": 1589
+  },
+  {
+    "cpu": "AMD Opteron 6378",
+    "score": 5.889,
+    "rank": 1590
+  },
+  {
+    "cpu": "Intel Core i5-8250U @ 1.60GHz",
+    "score": 5.885,
+    "rank": 1591
+  },
+  {
+    "cpu": "Intel Xeon E5-2450L @ 1.80GHz",
+    "score": 5.88,
+    "rank": 1592
+  },
+  {
+    "cpu": "AMD Ryzen 3 3350U",
+    "score": 5.876,
+    "rank": 1593
+  },
+  {
+    "cpu": "Intel Xeon E5-1620 @ 3.60GHz",
+    "score": 5.859,
+    "rank": 1594
+  },
+  {
+    "cpu": "Qualcomm Technologies, Inc SM8250",
+    "score": 5.852,
+    "rank": 1595
+  },
+  {
+    "cpu": "Intel Core i7-4710MQ @ 2.50GHz",
+    "score": 5.839,
+    "rank": 1596
+  },
+  {
+    "cpu": "Intel Core i7-3940XM @ 3.00GHz",
+    "score": 5.83,
+    "rank": 1597
+  },
+  {
+    "cpu": "MT6891",
+    "score": 5.817,
+    "rank": 1598
+  },
+  {
+    "cpu": "Intel Core i7-5700EQ @ 2.60GHz",
+    "score": 5.803,
+    "rank": 1599
+  },
+  {
+    "cpu": "Intel Xeon E3-1220 v5 @ 3.00GHz",
+    "score": 5.797,
+    "rank": 1600
+  },
+  {
+    "cpu": "Intel Atom x7425E",
+    "score": 5.793,
+    "rank": 1601
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 2300U",
+    "score": 5.778,
+    "rank": 1602
+  },
+  {
+    "cpu": "AMD Opteron 4274 HE",
+    "score": 5.776,
+    "rank": 1603
+  },
+  {
+    "cpu": "Intel Xeon E3-1268L v3 @ 2.30GHz",
+    "score": 5.77,
+    "rank": 1604
+  },
+  {
+    "cpu": "Intel Xeon Bronze 3106 @ 1.70GHz",
+    "score": 5.769,
+    "rank": 1605
+  },
+  {
+    "cpu": "Intel Core i5-1030NG7 @ 1.10GHz",
+    "score": 5.756,
+    "rank": 1606
+  },
+  {
+    "cpu": "Intel Xeon E3-1220 v6 @ 3.00GHz",
+    "score": 5.756,
+    "rank": 1607
+  },
+  {
+    "cpu": "Intel Core i7-4720HQ @ 2.60GHz",
+    "score": 5.755,
+    "rank": 1608
+  },
+  {
+    "cpu": "Intel Core i7-3820 @ 3.60GHz",
+    "score": 5.754,
+    "rank": 1609
+  },
+  {
+    "cpu": "QTI SM7435",
+    "score": 5.752,
+    "rank": 1610
+  },
+  {
+    "cpu": "AMD Ryzen 3 3300U",
+    "score": 5.741,
+    "rank": 1611
+  },
+  {
+    "cpu": "MT8195AV/ZA",
+    "score": 5.735,
+    "rank": 1612
+  },
+  {
+    "cpu": "Intel Core i3-8300T @ 3.20GHz",
+    "score": 5.733,
+    "rank": 1613
+  },
+  {
+    "cpu": "Intel Core i7-4800MQ @ 2.70GHz",
+    "score": 5.73,
+    "rank": 1614
+  },
+  {
+    "cpu": "Intel Core i7-2700K @ 3.50GHz",
+    "score": 5.724,
+    "rank": 1615
+  },
+  {
+    "cpu": "Intel Xeon X5650 @ 2.67GHz",
+    "score": 5.717,
+    "rank": 1616
+  },
+  {
+    "cpu": "Intel Xeon E5-1410 v2 @ 2.80GHz",
+    "score": 5.715,
+    "rank": 1617
+  },
+  {
+    "cpu": "Intel Core i5-7440EQ @ 2.90GHz",
+    "score": 5.711,
+    "rank": 1619
+  },
+  {
+    "cpu": "Intel Core i5-8365UE @ 1.60GHz",
+    "score": 5.711,
+    "rank": 1618
+  },
+  {
+    "cpu": "Intel Core i7-3740QM @ 2.70GHz",
+    "score": 5.701,
+    "rank": 1620
+  },
+  {
+    "cpu": "MT6893Z_D/CZA",
+    "score": 5.701,
+    "rank": 1621
+  },
+  {
+    "cpu": "Intel Core i5-4690K @ 3.50GHz",
+    "score": 5.688,
+    "rank": 1622
+  },
+  {
+    "cpu": "Intel Pentium Gold G7400T",
+    "score": 5.688,
+    "rank": 1623
+  },
+  {
+    "cpu": "Intel Xeon E5649 @ 2.53GHz",
+    "score": 5.686,
+    "rank": 1624
+  },
+  {
+    "cpu": "Apple A13 Bionic",
+    "score": 5.683,
+    "rank": 1625
+  },
+  {
+    "cpu": "Intel Xeon E3-1205 v6 @ 3.00GHz",
+    "score": 5.682,
+    "rank": 1626
+  },
+  {
+    "cpu": "Intel Core i7-4750HQ @ 2.00GHz",
+    "score": 5.68,
+    "rank": 1627
+  },
+  {
+    "cpu": "Intel Core i7-3720QM @ 2.60GHz",
+    "score": 5.677,
+    "rank": 1628
+  },
+  {
+    "cpu": "Intel Xeon E3-1225 v6 @ 3.30GHz",
+    "score": 5.67,
+    "rank": 1629
+  },
+  {
+    "cpu": "Intel Xeon Platinum 8151 @ 3.40GHz",
+    "score": 5.669,
+    "rank": 1630
+  },
+  {
+    "cpu": "MT6883Z/CZA",
+    "score": 5.665,
+    "rank": 1631
+  },
+  {
+    "cpu": "Qualcomm Technologies, Inc KONA",
+    "score": 5.661,
+    "rank": 1632
+  },
+  {
+    "cpu": "Intel Core i7-3820QM @ 2.70GHz",
+    "score": 5.659,
+    "rank": 1633
+  },
+  {
+    "cpu": "Intel Xeon D-1521 @ 2.40GHz",
+    "score": 5.657,
+    "rank": 1634
+  },
+  {
+    "cpu": "Intel Xeon E3-1240L v3 @ 2.00GHz",
+    "score": 5.655,
+    "rank": 1635
+  },
+  {
+    "cpu": "Intel Core i7-4700HQ @ 2.40GHz",
+    "score": 5.652,
+    "rank": 1636
+  },
+  {
+    "cpu": "Intel Core i7-3920XM @ 2.90GHz",
+    "score": 5.651,
+    "rank": 1637
+  },
+  {
+    "cpu": "Intel Core i5-6600T @ 2.70GHz",
+    "score": 5.649,
+    "rank": 1638
+  },
+  {
+    "cpu": "AMD Ryzen 5 3500C",
+    "score": 5.647,
+    "rank": 1639
+  },
+  {
+    "cpu": "AMD Opteron 6274",
+    "score": 5.643,
+    "rank": 1640
+  },
+  {
+    "cpu": "Intel Xeon W-2104 @ 3.20GHz",
+    "score": 5.64,
+    "rank": 1641
+  },
+  {
+    "cpu": "Qualcomm SM8150",
+    "score": 5.635,
+    "rank": 1642
+  },
+  {
+    "cpu": "Intel Core i5-6500 @ 3.20GHz",
+    "score": 5.63,
+    "rank": 1643
+  },
+  {
+    "cpu": "SM8325",
+    "score": 5.629,
+    "rank": 1644
+  },
+  {
+    "cpu": "AMD Opteron 6238",
+    "score": 5.625,
+    "rank": 1645
+  },
+  {
+    "cpu": "Intel Core i7-4722HQ @ 2.40GHz",
+    "score": 5.62,
+    "rank": 1646
+  },
+  {
+    "cpu": "Intel Xeon E3-1280 @ 3.50GHz",
+    "score": 5.615,
+    "rank": 1647
+  },
+  {
+    "cpu": "AMD Opteron 6366 HE",
+    "score": 5.613,
+    "rank": 1648
+  },
+  {
+    "cpu": "Intel Xeon E5-2430 @ 2.20GHz",
+    "score": 5.586,
+    "rank": 1649
+  },
+  {
+    "cpu": "Intel Core i5-5675C @ 3.10GHz",
+    "score": 5.579,
+    "rank": 1650
+  },
+  {
+    "cpu": "QTI SM6450",
+    "score": 5.575,
+    "rank": 1651
+  },
+  {
+    "cpu": "AMD Opteron 6376",
+    "score": 5.572,
+    "rank": 1652
+  },
+  {
+    "cpu": "Intel Core i5-4690 @ 3.50GHz",
+    "score": 5.57,
+    "rank": 1653
+  },
+  {
+    "cpu": "Intel Core i5-4670K @ 3.40GHz",
+    "score": 5.567,
+    "rank": 1654
+  },
+  {
+    "cpu": "Microsoft SQ1 @ 3.0 GHz",
+    "score": 5.565,
+    "rank": 1655
+  },
+  {
+    "cpu": "Intel Xeon E3-1226 v3 @ 3.30GHz",
+    "score": 5.562,
+    "rank": 1656
+  },
+  {
+    "cpu": "Snapdragon 7325",
+    "score": 5.561,
+    "rank": 1657
+  },
+  {
+    "cpu": "Intel N100",
+    "score": 5.556,
+    "rank": 1658
+  },
+  {
+    "cpu": "Virtual @ 2.99GHz",
+    "score": 5.555,
+    "rank": 1659
+  },
+  {
+    "cpu": "Qualcomm Technologies, Inc SDM778G",
+    "score": 5.553,
+    "rank": 1660
+  },
+  {
+    "cpu": "Intel Core i7-3615QE @ 2.30GHz",
+    "score": 5.548,
+    "rank": 1661
+  },
+  {
+    "cpu": "Snapdragon 855 @ 2.84 GHz",
+    "score": 5.547,
+    "rank": 1662
+  },
+  {
+    "cpu": "Intel Xeon E5-2430L @ 2.00GHz",
+    "score": 5.539,
+    "rank": 1663
+  },
+  {
+    "cpu": "Intel Core i5-5675R @ 3.10GHz",
+    "score": 5.537,
+    "rank": 1664
+  },
+  {
+    "cpu": "AMD Ryzen 3 2300U",
+    "score": 5.532,
+    "rank": 1665
+  },
+  {
+    "cpu": "Intel Core i5-4690S @ 3.20GHz",
+    "score": 5.524,
+    "rank": 1666
+  },
+  {
+    "cpu": "Intel Core i7-4710HQ @ 2.50GHz",
+    "score": 5.521,
+    "rank": 1667
+  },
+  {
+    "cpu": "Intel Core i5-7440HQ @ 2.80GHz",
+    "score": 5.513,
+    "rank": 1668
+  },
+  {
+    "cpu": "Intel Core i5-4670 @ 3.40GHz",
+    "score": 5.51,
+    "rank": 1669
+  },
+  {
+    "cpu": "QTI SM7450",
+    "score": 5.509,
+    "rank": 1670
+  },
+  {
+    "cpu": "Intel Xeon E3-1275 @ 3.40GHz",
+    "score": 5.503,
+    "rank": 1671
+  },
+  {
+    "cpu": "Intel Core i7-4860EQ @ 1.80GHz",
+    "score": 5.5,
+    "rank": 1672
+  },
+  {
+    "cpu": "QTI SM7350",
+    "score": 5.499,
+    "rank": 1673
+  },
+  {
+    "cpu": "Intel Core i7-4785T @ 2.20GHz",
+    "score": 5.494,
+    "rank": 1674
+  },
+  {
+    "cpu": "Intel Core i7-2600K @ 3.40GHz",
+    "score": 5.483,
+    "rank": 1675
+  },
+  {
+    "cpu": "vendor Kirin985",
+    "score": 5.481,
+    "rank": 1676
+  },
+  {
+    "cpu": "Intel Core i5-7400 @ 3.00GHz",
+    "score": 5.478,
+    "rank": 1677
+  },
+  {
+    "cpu": "ARM Cortex-A72 16 Core 2200 MHz",
+    "score": 5.47,
+    "rank": 1678
+  },
+  {
+    "cpu": "Samsung Exynos 2100",
+    "score": 5.461,
+    "rank": 1679
+  },
+  {
+    "cpu": "lisa based Qualcomm Technologies, Inc. SM7325",
+    "score": 5.456,
+    "rank": 1680
+  },
+  {
+    "cpu": "AMD FX-8320 Eight-Core",
+    "score": 5.454,
+    "rank": 1681
+  },
+  {
+    "cpu": "Intel Core i5-6440EQ @ 2.70GHz",
+    "score": 5.445,
+    "rank": 1682
+  },
+  {
+    "cpu": "Intel Core i7-3770T @ 2.50GHz",
+    "score": 5.444,
+    "rank": 1683
+  },
+  {
+    "cpu": "Intel Xeon E5-2609 v4 @ 1.70GHz",
+    "score": 5.443,
+    "rank": 1684
+  },
+  {
+    "cpu": "Intel Core i5-760S @ 2.53GHz",
+    "score": 5.44,
+    "rank": 1685
+  },
+  {
+    "cpu": "Intel Xeon E5-2643 @ 3.30GHz",
+    "score": 5.433,
+    "rank": 1686
+  },
+  {
+    "cpu": "Intel Xeon E3-1290 @ 3.60GHz",
+    "score": 5.429,
+    "rank": 1687
+  },
+  {
+    "cpu": "Intel Core i3-9100T @ 3.10GHz",
+    "score": 5.425,
+    "rank": 1688
+  },
+  {
+    "cpu": "AMD Ryzen Embedded V1500B Quad-core @ 2.20GHz",
+    "score": 5.417,
+    "rank": 1689
+  },
+  {
+    "cpu": "Mediatek MT6891",
+    "score": 5.412,
+    "rank": 1690
+  },
+  {
+    "cpu": "Intel Core i5-6402P @ 2.80GHz",
+    "score": 5.404,
+    "rank": 1691
+  },
+  {
+    "cpu": "Intel Xeon E3-1240 @ 3.30GHz",
+    "score": 5.399,
+    "rank": 1692
+  },
+  {
+    "cpu": "Venus based on Qualcomm Technologies, Inc SM8350",
+    "score": 5.398,
+    "rank": 1693
+  },
+  {
+    "cpu": "Intel N95",
+    "score": 5.387,
+    "rank": 1694
+  },
+  {
+    "cpu": "Intel Xeon E3-1270 @ 3.40GHz",
+    "score": 5.383,
+    "rank": 1695
+  },
+  {
+    "cpu": "Intel Pentium Silver N6005 @ 2.00GHz",
+    "score": 5.381,
+    "rank": 1696
+  },
+  {
+    "cpu": "Intel Xeon E5-2418L v2 @ 2.00GHz",
+    "score": 5.38,
+    "rank": 1697
+  },
+  {
+    "cpu": "Intel Core i5-4590 @ 3.30GHz",
+    "score": 5.368,
+    "rank": 1698
+  },
+  {
+    "cpu": "Haydn based on Qualcomm Technologies, Inc SM8350",
+    "score": 5.359,
+    "rank": 1699
+  },
+  {
+    "cpu": "Intel Core i7-4700MQ @ 2.40GHz",
+    "score": 5.351,
+    "rank": 1700
+  },
+  {
+    "cpu": "Intel Core i7-2600 @ 3.40GHz",
+    "score": 5.344,
+    "rank": 1701
+  },
+  {
+    "cpu": "Intel Core i7-4712MQ @ 2.30GHz",
+    "score": 5.341,
+    "rank": 1703
+  },
+  {
+    "cpu": "QTI SM8150",
+    "score": 5.341,
+    "rank": 1702
+  },
+  {
+    "cpu": "Intel Xeon E3-1245 @ 3.30GHz",
+    "score": 5.339,
+    "rank": 1704
+  },
+  {
+    "cpu": "Intel Core i7-4702HQ @ 2.20GHz",
+    "score": 5.334,
+    "rank": 1705
+  },
+  {
+    "cpu": "Intel Core i7-4712HQ @ 2.30GHz",
+    "score": 5.316,
+    "rank": 1706
+  },
+  {
+    "cpu": "AMD FX-8370E Eight-Core",
+    "score": 5.312,
+    "rank": 1707
+  },
+  {
+    "cpu": "Intel Xeon X5687 @ 3.60GHz",
+    "score": 5.309,
+    "rank": 1708
+  },
+  {
+    "cpu": "AMD Opteron 6328",
+    "score": 5.306,
+    "rank": 1709
+  },
+  {
+    "cpu": "vendor Kirin980",
+    "score": 5.306,
+    "rank": 1710
+  },
+  {
+    "cpu": "AMD FX-8300 Eight-Core",
+    "score": 5.305,
+    "rank": 1711
+  },
+  {
+    "cpu": "Intel Xeon E5-2630L @ 2.00GHz",
+    "score": 5.305,
+    "rank": 1712
+  },
+  {
+    "cpu": "Intel Xeon E3-1505L v5 @ 2.00GHz",
+    "score": 5.301,
+    "rank": 1713
+  },
+  {
+    "cpu": "Mediatek MT8390AV/A",
+    "score": 5.301,
+    "rank": 1714
+  },
+  {
+    "cpu": "Vili based on Qualcomm Technologies, Inc SM8350",
+    "score": 5.299,
+    "rank": 1715
+  },
+  {
+    "cpu": "Intel Xeon E3-1225 v3 @ 3.20GHz",
+    "score": 5.298,
+    "rank": 1716
+  },
+  {
+    "cpu": "Intel Xeon E5-2620 @ 2.00GHz",
+    "score": 5.291,
+    "rank": 1717
+  },
+  {
+    "cpu": "Snapdragon 860 @ 2.96 GHz",
+    "score": 5.291,
+    "rank": 1718
+  },
+  {
+    "cpu": "Intel Core i3-8100T @ 3.10GHz",
+    "score": 5.273,
+    "rank": 1719
+  },
+  {
+    "cpu": "Intel Xeon E5-2648L @ 1.80GHz",
+    "score": 5.262,
+    "rank": 1720
+  },
+  {
+    "cpu": "AMD FX-8150 Eight-Core",
+    "score": 5.26,
+    "rank": 1721
+  },
+  {
+    "cpu": "Intel Core i5-7500T @ 2.70GHz",
+    "score": 5.255,
+    "rank": 1722
+  },
+  {
+    "cpu": "MT6877V/TTZA",
+    "score": 5.253,
+    "rank": 1723
+  },
+  {
+    "cpu": "Intel Xeon E3-1230L v3 @ 1.80GHz",
+    "score": 5.251,
+    "rank": 1724
+  },
+  {
+    "cpu": "Mediatek MT6875",
+    "score": 5.249,
+    "rank": 1725
+  },
+  {
+    "cpu": "Intel Core i7-6822EQ @ 2.00GHz",
+    "score": 5.241,
+    "rank": 1727
+  },
+  {
+    "cpu": "Star based on Qualcomm Technologies, Inc SM8350",
+    "score": 5.241,
+    "rank": 1726
+  },
+  {
+    "cpu": "AMD Opteron 6272",
+    "score": 5.24,
+    "rank": 1728
+  },
+  {
+    "cpu": "Intel Core i7-4700EQ @ 2.40GHz",
+    "score": 5.238,
+    "rank": 1729
+  },
+  {
+    "cpu": "Intel Core i5-4670R @ 3.00GHz",
+    "score": 5.233,
+    "rank": 1730
+  },
+  {
+    "cpu": "Mars based on Qualcomm Technologies, Inc SM8350",
+    "score": 5.23,
+    "rank": 1732
+  },
+  {
+    "cpu": "Snapdragon 8c @ 2.46 GHz",
+    "score": 5.23,
+    "rank": 1731
+  },
+  {
+    "cpu": "Intel Core i5-4570 @ 3.20GHz",
+    "score": 5.226,
+    "rank": 1733
+  },
+  {
+    "cpu": "Intel Xeon D-1527 @ 2.20GHz",
+    "score": 5.213,
+    "rank": 1734
+  },
+  {
+    "cpu": "Mediatek MT6879V_T/ZA",
+    "score": 5.211,
+    "rank": 1735
+  },
+  {
+    "cpu": "Intel Pentium Gold 7505 @ 2.00GHz",
+    "score": 5.21,
+    "rank": 1736
+  },
+  {
+    "cpu": "Intel Xeon E3-1220 v3 @ 3.10GHz",
+    "score": 5.208,
+    "rank": 1737
+  },
+  {
+    "cpu": "Intel Core i7-3615QM @ 2.30GHz",
+    "score": 5.206,
+    "rank": 1738
+  },
+  {
+    "cpu": "Intel Xeon E5-1607 v4 @ 3.10GHz",
+    "score": 5.202,
+    "rank": 1739
+  },
+  {
+    "cpu": "Intel Core i7-4702MQ @ 2.20GHz",
+    "score": 5.186,
+    "rank": 1740
+  },
+  {
+    "cpu": "Intel Xeon E3-1265L V2 @ 2.50GHz",
+    "score": 5.183,
+    "rank": 1741
+  },
+  {
+    "cpu": "Intel Core i7-8665UE @ 1.70GHz",
+    "score": 5.17,
+    "rank": 1742
+  },
+  {
+    "cpu": "Intel Core i5-6400 @ 2.70GHz",
+    "score": 5.168,
+    "rank": 1743
+  },
+  {
+    "cpu": "Intel N200",
+    "score": 5.165,
+    "rank": 1744
+  },
+  {
+    "cpu": "MT8188JV/A",
+    "score": 5.155,
+    "rank": 1745
+  },
+  {
+    "cpu": "AMD FX-8310 Eight-Core",
+    "score": 5.149,
+    "rank": 1746
+  },
+  {
+    "cpu": "Intel Core i5-4670S @ 3.10GHz",
+    "score": 5.14,
+    "rank": 1747
+  },
+  {
+    "cpu": "Intel Core i5-4590S @ 3.00GHz",
+    "score": 5.132,
+    "rank": 1748
+  },
+  {
+    "cpu": "Intel Core i7-4765T @ 2.00GHz",
+    "score": 5.122,
+    "rank": 1749
+  },
+  {
+    "cpu": "Intel Core i5-6440HQ @ 2.60GHz",
+    "score": 5.12,
+    "rank": 1750
+  },
+  {
+    "cpu": "Intel Core i7-3610QM @ 2.30GHz",
+    "score": 5.119,
+    "rank": 1751
+  },
+  {
+    "cpu": "Intel Core i7-3630QM @ 2.40GHz",
+    "score": 5.117,
+    "rank": 1752
+  },
+  {
+    "cpu": "Intel Atom C3758R @ 2.40GHz",
+    "score": 5.116,
+    "rank": 1753
+  },
+  {
+    "cpu": "Intel Xeon E3-1230 @ 3.20GHz",
+    "score": 5.11,
+    "rank": 1754
+  },
+  {
+    "cpu": "MT6893",
+    "score": 5.102,
+    "rank": 1755
+  },
+  {
+    "cpu": "Intel Core i5-7300HQ @ 2.50GHz",
+    "score": 5.101,
+    "rank": 1756
+  },
+  {
+    "cpu": "Intel Core i7-10510Y @ 1.20GHz",
+    "score": 5.1,
+    "rank": 1757
+  },
+  {
+    "cpu": "AMD FX-8320E Eight-Core",
+    "score": 5.083,
+    "rank": 1759
+  },
+  {
+    "cpu": "Hisilicon Kirin9000",
+    "score": 5.083,
+    "rank": 1758
+  },
+  {
+    "cpu": "Intel Xeon W-2102 @ 2.90GHz",
+    "score": 5.075,
+    "rank": 1760
+  },
+  {
+    "cpu": "Intel Core i5-8265UC @ 1.60GHz",
+    "score": 5.073,
+    "rank": 1761
+  },
+  {
+    "cpu": "Intel Core i5-5575R @ 2.80GHz",
+    "score": 5.07,
+    "rank": 1762
+  },
+  {
+    "cpu": "Intel Xeon E3-1235 @ 3.20GHz",
+    "score": 5.053,
+    "rank": 1763
+  },
+  {
+    "cpu": "Intel Xeon E5645 @ 2.40GHz",
+    "score": 5.046,
+    "rank": 1764
+  },
+  {
+    "cpu": "vendor Kirin820",
+    "score": 5.044,
+    "rank": 1765
+  },
+  {
+    "cpu": "Mediatek MT6877",
+    "score": 5.038,
+    "rank": 1766
+  },
+  {
+    "cpu": "Intel Core i5-4670K CPT @ 3.40GHz",
+    "score": 5.034,
+    "rank": 1767
+  },
+  {
+    "cpu": "Intel Xeon E5-2420 @ 1.90GHz",
+    "score": 5.032,
+    "rank": 1768
+  },
+  {
+    "cpu": "Intel Core i7-3610QE @ 2.30GHz",
+    "score": 5.026,
+    "rank": 1769
+  },
+  {
+    "cpu": "Intel Core i5-4570S @ 2.90GHz",
+    "score": 5.016,
+    "rank": 1770
+  },
+  {
+    "cpu": "Intel Xeon E3-1235L v5 @ 2.00GHz",
+    "score": 5.013,
+    "rank": 1771
+  },
+  {
+    "cpu": "Intel Xeon X5677 @ 3.47GHz",
+    "score": 5.003,
+    "rank": 1772
+  },
+  {
+    "cpu": "Intel Xeon X5672 @ 3.20GHz",
+    "score": 4.996,
+    "rank": 1773
+  },
+  {
+    "cpu": "Intel Xeon E5-1607 v3 @ 3.10GHz",
+    "score": 4.986,
+    "rank": 1774
+  },
+  {
+    "cpu": "Intel Core i3-7350K @ 4.20GHz",
+    "score": 4.958,
+    "rank": 1775
+  },
+  {
+    "cpu": "Intel Core i5-3570K @ 3.40GHz",
+    "score": 4.954,
+    "rank": 1776
+  },
+  {
+    "cpu": "Apple A12 Bionic",
+    "score": 4.951,
+    "rank": 1777
+  },
+  {
+    "cpu": "Mediatek MT6877V/TTZA",
+    "score": 4.94,
+    "rank": 1778
+  },
+  {
+    "cpu": "Intel Core i3-1005G1 @ 1.20GHz",
+    "score": 4.934,
+    "rank": 1779
+  },
+  {
+    "cpu": "Intel Core i7-3612QE @ 2.10GHz",
+    "score": 4.929,
+    "rank": 1780
+  },
+  {
+    "cpu": "Intel Core i5-3570 @ 3.40GHz",
+    "score": 4.925,
+    "rank": 1781
+  },
+  {
+    "cpu": "Intel Xeon D-1520 @ 2.20GHz",
+    "score": 4.917,
+    "rank": 1782
+  },
+  {
+    "cpu": "SM8450",
+    "score": 4.896,
+    "rank": 1783
+  },
+  {
+    "cpu": "Mediatek MT8791V/TN",
+    "score": 4.892,
+    "rank": 1784
+  },
+  {
+    "cpu": "Intel Core i5-4460 @ 3.20GHz",
+    "score": 4.881,
+    "rank": 1785
+  },
+  {
+    "cpu": "Intel Core i7-4770TE @ 2.30GHz",
+    "score": 4.877,
+    "rank": 1786
+  },
+  {
+    "cpu": "MT6877V/TZA",
+    "score": 4.871,
+    "rank": 1787
+  },
+  {
+    "cpu": "Mediatek Dimensity 7200-Pro (MT6886)",
+    "score": 4.869,
+    "rank": 1788
+  },
+  {
+    "cpu": "Renoir based on Qualcomm Technologies, Inc SM7350",
+    "score": 4.869,
+    "rank": 1789
+  },
+  {
+    "cpu": "AMD FX-8140 Eight-Core",
+    "score": 4.86,
+    "rank": 1790
+  },
+  {
+    "cpu": "Intel Xeon D-1518 @ 2.20GHz",
+    "score": 4.854,
+    "rank": 1791
+  },
+  {
+    "cpu": "Samsung Technologies, Inc Exynos E1080",
+    "score": 4.846,
+    "rank": 1792
+  },
+  {
+    "cpu": "Intel Core i3-7320 @ 4.10GHz",
+    "score": 4.844,
+    "rank": 1794
+  },
+  {
+    "cpu": "Intel Xeon E5-1410 @ 2.80GHz",
+    "score": 4.844,
+    "rank": 1795
+  },
+  {
+    "cpu": "Mediatek MT6877V/TZA",
+    "score": 4.844,
+    "rank": 1793
+  },
+  {
+    "cpu": "Intel Xeon Bronze 3204 @ 1.90GHz",
+    "score": 4.835,
+    "rank": 1796
+  },
+  {
+    "cpu": "Intel Core i5-7442EQ @ 2.10GHz",
+    "score": 4.834,
+    "rank": 1797
+  },
+  {
+    "cpu": "Intel Core i5-3550 @ 3.30GHz",
+    "score": 4.809,
+    "rank": 1798
+  },
+  {
+    "cpu": "Snapdragon 8cx @ 2.84 GHz",
+    "score": 4.806,
+    "rank": 1799
+  },
+  {
+    "cpu": "Intel Core i3-9100TE @ 2.20GHz",
+    "score": 4.791,
+    "rank": 1800
+  },
+  {
+    "cpu": "MT6877V/ZA",
+    "score": 4.787,
+    "rank": 1801
+  },
+  {
+    "cpu": "Intel Core i5-6500T @ 2.50GHz",
+    "score": 4.783,
+    "rank": 1802
+  },
+  {
+    "cpu": "Intel Core i5-4440 @ 3.10GHz",
+    "score": 4.772,
+    "rank": 1803
+  },
+  {
+    "cpu": "Intel Core i7-3635QM @ 2.40GHz",
+    "score": 4.771,
+    "rank": 1804
+  },
+  {
+    "cpu": "AMD Athlon Gold 7220U",
+    "score": 4.753,
+    "rank": 1805
+  },
+  {
+    "cpu": "AMD Opteron 6220",
+    "score": 4.753,
+    "rank": 1806
+  },
+  {
+    "cpu": "Intel Xeon E3-1225 V2 @ 3.20GHz",
+    "score": 4.746,
+    "rank": 1807
+  },
+  {
+    "cpu": "Intel Core i5-4470S @ 3.00GHz",
+    "score": 4.742,
+    "rank": 1809
+  },
+  {
+    "cpu": "Intel Core i5-7400T @ 2.40GHz",
+    "score": 4.742,
+    "rank": 1808
+  },
+  {
+    "cpu": "Intel Core i7-2960XM @ 2.70GHz",
+    "score": 4.727,
+    "rank": 1810
+  },
+  {
+    "cpu": "Intel Core i5-6500TE @ 2.30GHz",
+    "score": 4.724,
+    "rank": 1811
+  },
+  {
+    "cpu": "MT8771V/PZA",
+    "score": 4.723,
+    "rank": 1812
+  },
+  {
+    "cpu": "Mediatek MT6877V/ZA",
+    "score": 4.719,
+    "rank": 1813
+  },
+  {
+    "cpu": "Intel Atom C3858 @ 2.00GHz",
+    "score": 4.707,
+    "rank": 1814
+  },
+  {
+    "cpu": "Intel Core i5-6300HQ @ 2.30GHz",
+    "score": 4.703,
+    "rank": 1815
+  },
+  {
+    "cpu": "Intel Xeon E5-2603 v4 @ 1.70GHz",
+    "score": 4.695,
+    "rank": 1816
+  },
+  {
+    "cpu": "Intel Core i7-3632QM @ 2.20GHz",
+    "score": 4.693,
+    "rank": 1817
+  },
+  {
+    "cpu": "Intel Xeon E5-1603 v4 @ 2.80GHz",
+    "score": 4.683,
+    "rank": 1818
+  },
+  {
+    "cpu": "Intel Core i7-3612QM @ 2.10GHz",
+    "score": 4.68,
+    "rank": 1819
+  },
+  {
+    "cpu": "Intel Core i5-3470 @ 3.20GHz",
+    "score": 4.677,
+    "rank": 1820
+  },
+  {
+    "cpu": "Intel Xeon E3-1220 V2 @ 3.10GHz",
+    "score": 4.667,
+    "rank": 1821
+  },
+  {
+    "cpu": "AMD Opteron 4284",
+    "score": 4.665,
+    "rank": 1822
+  },
+  {
+    "cpu": "Intel Core i5-4430 @ 3.00GHz",
+    "score": 4.654,
+    "rank": 1823
+  },
+  {
+    "cpu": "Intel Core i5-4690T @ 2.50GHz",
+    "score": 4.654,
+    "rank": 1824
+  },
+  {
+    "cpu": "Intel Xeon X5667 @ 3.07GHz",
+    "score": 4.649,
+    "rank": 1825
+  },
+  {
+    "cpu": "AMD FX-8120 Eight-Core",
+    "score": 4.643,
+    "rank": 1826
+  },
+  {
+    "cpu": "Samsung Exynos 980",
+    "score": 4.637,
+    "rank": 1827
+  },
+  {
+    "cpu": "AMD Athlon Silver PRO 3125GE",
+    "score": 4.633,
+    "rank": 1828
+  },
+  {
+    "cpu": "Intel Core i7-6970HQ @ 2.80GHz",
+    "score": 4.632,
+    "rank": 1829
+  },
+  {
+    "cpu": "Intel Core i7-2600S @ 2.80GHz",
+    "score": 4.628,
+    "rank": 1830
+  },
+  {
+    "cpu": "Intel Core i5-3570S @ 3.10GHz",
+    "score": 4.618,
+    "rank": 1831
+  },
+  {
+    "cpu": "Intel Atom C3758 @ 2.20GHz",
+    "score": 4.614,
+    "rank": 1832
+  },
+  {
+    "cpu": "Intel Xeon L5640 @ 2.27GHz",
+    "score": 4.606,
+    "rank": 1834
+  },
+  {
+    "cpu": "Mediatek Dimensity 7025 (MT6855)",
+    "score": 4.606,
+    "rank": 1833
+  },
+  {
+    "cpu": "Snapdragon 8350",
+    "score": 4.599,
+    "rank": 1835
+  },
+  {
+    "cpu": "Intel Core i5-4460S @ 2.90GHz",
+    "score": 4.596,
+    "rank": 1836
+  },
+  {
+    "cpu": "Qualcomm Technologies, Inc SM8150",
+    "score": 4.587,
+    "rank": 1837
+  },
+  {
+    "cpu": "AMD Ryzen Embedded V1500B",
+    "score": 4.584,
+    "rank": 1838
+  },
+  {
+    "cpu": "Intel Core i5-4570R @ 2.70GHz",
+    "score": 4.581,
+    "rank": 1839
+  },
+  {
+    "cpu": "Samsung s5e8825",
+    "score": 4.574,
+    "rank": 1840
+  },
+  {
+    "cpu": "Qualcomm SC7180P",
+    "score": 4.558,
+    "rank": 1841
+  },
+  {
+    "cpu": "Intel Celeron G6900",
+    "score": 4.557,
+    "rank": 1842
+  },
+  {
+    "cpu": "Intel Core i7-2860QM @ 2.50GHz",
+    "score": 4.556,
+    "rank": 1843
+  },
+  {
+    "cpu": "MT6877T",
+    "score": 4.548,
+    "rank": 1844
+  },
+  {
+    "cpu": "AMD FX-6350 Six-Core",
+    "score": 4.546,
+    "rank": 1845
+  },
+  {
+    "cpu": "AMD Athlon Silver 3050GE",
+    "score": 4.545,
+    "rank": 1846
+  },
+  {
+    "cpu": "AMD Athlon 240GE",
+    "score": 4.534,
+    "rank": 1847
+  },
+  {
+    "cpu": "Intel Core i3-7300 @ 4.00GHz",
+    "score": 4.53,
+    "rank": 1848
+  },
+  {
+    "cpu": "Rockchip RK3588",
+    "score": 4.515,
+    "rank": 1849
+  },
+  {
+    "cpu": "Intel Core i3-6320 @ 3.90GHz",
+    "score": 4.509,
+    "rank": 1851
+  },
+  {
+    "cpu": "Intel Pentium Gold G6605 @ 4.30GHz",
+    "score": 4.509,
+    "rank": 1850
+  },
+  {
+    "cpu": "AMD Opteron 4280",
+    "score": 4.504,
+    "rank": 1853
+  },
+  {
+    "cpu": "MT6889Z/CZA",
+    "score": 4.504,
+    "rank": 1852
+  },
+  {
+    "cpu": "Intel Core i5-3450 @ 3.10GHz",
+    "score": 4.499,
+    "rank": 1854
+  },
+  {
+    "cpu": "Qualcomm Technologies, Inc SM8150P",
+    "score": 4.495,
+    "rank": 1855
+  },
+  {
+    "cpu": "AMD Athlon 3000G",
+    "score": 4.49,
+    "rank": 1856
+  },
+  {
+    "cpu": "Intel Core i5-6442EQ @ 1.90GHz",
+    "score": 4.487,
+    "rank": 1857
+  },
+  {
+    "cpu": "Intel Core i5-10210Y @ 1.00GHz",
+    "score": 4.475,
+    "rank": 1858
+  },
+  {
+    "cpu": "Mediatek DM700",
+    "score": 4.471,
+    "rank": 1859
+  },
+  {
+    "cpu": "Samsung s5e8535",
+    "score": 4.468,
+    "rank": 1860
+  },
+  {
+    "cpu": "Intel Xeon E5-2609 v3 @ 1.90GHz",
+    "score": 4.444,
+    "rank": 1861
+  },
+  {
+    "cpu": "Intel Core i5-4670T @ 2.30GHz",
+    "score": 4.441,
+    "rank": 1863
+  },
+  {
+    "cpu": "Intel Xeon X5647 @ 2.93GHz",
+    "score": 4.441,
+    "rank": 1864
+  },
+  {
+    "cpu": "SM6375",
+    "score": 4.441,
+    "rank": 1862
+  },
+  {
+    "cpu": "Spreadtrum T760",
+    "score": 4.44,
+    "rank": 1865
+  },
+  {
+    "cpu": "Intel Core i5-3550S @ 3.00GHz",
+    "score": 4.438,
+    "rank": 1866
+  },
+  {
+    "cpu": "AMD FX-6330 Six-Core",
+    "score": 4.433,
+    "rank": 1867
+  },
+  {
+    "cpu": "Intel Core i3-7101E @ 3.90GHz",
+    "score": 4.43,
+    "rank": 1868
+  },
+  {
+    "cpu": "Mediatek MT6833G",
+    "score": 4.43,
+    "rank": 1869
+  },
+  {
+    "cpu": "AMD Athlon 220GE",
+    "score": 4.429,
+    "rank": 1870
+  },
+  {
+    "cpu": "Intel Pentium 6805 @ 1.10GHz",
+    "score": 4.424,
+    "rank": 1872
+  },
+  {
+    "cpu": "Intel Xeon Bronze 3104 @ 1.70GHz",
+    "score": 4.424,
+    "rank": 1871
+  },
+  {
+    "cpu": "AMD Athlon PRO 300GE",
+    "score": 4.423,
+    "rank": 1873
+  },
+  {
+    "cpu": "Intel Xeon L5639 @ 2.13GHz",
+    "score": 4.419,
+    "rank": 1874
+  },
+  {
+    "cpu": "Intel Core i7-2920XM @ 2.50GHz",
+    "score": 4.418,
+    "rank": 1875
+  },
+  {
+    "cpu": "Intel Xeon E5-1603 v3 @ 2.80GHz",
+    "score": 4.416,
+    "rank": 1876
+  },
+  {
+    "cpu": "Mediatek MT8771V/PZA",
+    "score": 4.414,
+    "rank": 1877
+  },
+  {
+    "cpu": "Mediatek MT8781V/NA",
+    "score": 4.406,
+    "rank": 1878
+  },
+  {
+    "cpu": "Apple A11 Bionic",
+    "score": 4.404,
+    "rank": 1879
+  },
+  {
+    "cpu": "MT6875",
+    "score": 4.393,
+    "rank": 1880
+  },
+  {
+    "cpu": "Intel Core i5-3470S @ 2.90GHz",
+    "score": 4.391,
+    "rank": 1882
+  },
+  {
+    "cpu": "Intel Core i5-4440S @ 2.80GHz",
+    "score": 4.391,
+    "rank": 1881
+  },
+  {
+    "cpu": "Intel Core i3-1110G4 @ 1.80GHz",
+    "score": 4.39,
+    "rank": 1883
+  },
+  {
+    "cpu": "AMD Athlon 320GE",
+    "score": 4.388,
+    "rank": 1884
+  },
+  {
+    "cpu": "Intel Core i3-8121U @ 2.20GHz",
+    "score": 4.388,
+    "rank": 1886
+  },
+  {
+    "cpu": "Intel Core i7-2820QM @ 2.30GHz",
+    "score": 4.388,
+    "rank": 1885
+  },
+  {
+    "cpu": "AMD Opteron 4386",
+    "score": 4.378,
+    "rank": 1887
+  },
+  {
+    "cpu": "Intel Celeron J6413 @ 1.80GHz",
+    "score": 4.378,
+    "rank": 1888
+  },
+  {
+    "cpu": "Intel Core i7-2760QM @ 2.40GHz",
+    "score": 4.377,
+    "rank": 1889
+  },
+  {
+    "cpu": "Intel Core i5-3450S @ 2.80GHz",
+    "score": 4.375,
+    "rank": 1890
+  },
+  {
+    "cpu": "Mediatek MT6879V/ZA",
+    "score": 4.373,
+    "rank": 1891
+  },
+  {
+    "cpu": "Intel Pentium Gold G6505 @ 4.20GHz",
+    "score": 4.371,
+    "rank": 1892
+  },
+  {
+    "cpu": "Mediatek MT6833GP",
+    "score": 4.362,
+    "rank": 1893
+  },
+  {
+    "cpu": "Hisilicon Kirin980",
+    "score": 4.361,
+    "rank": 1894
+  },
+  {
+    "cpu": "Qualcomm SDM845",
+    "score": 4.357,
+    "rank": 1895
+  },
+  {
+    "cpu": "AMD FX-6130 Six-Core",
+    "score": 4.353,
+    "rank": 1896
+  },
+  {
+    "cpu": "Qualcomm Technologies, Inc SDM750G",
+    "score": 4.35,
+    "rank": 1897
+  },
+  {
+    "cpu": "QTI SM7225",
+    "score": 4.337,
+    "rank": 1898
+  },
+  {
+    "cpu": "Intel Core i3-6300 @ 3.80GHz",
+    "score": 4.336,
+    "rank": 1899
+  },
+  {
+    "cpu": "Intel Core i3-7100 @ 3.90GHz",
+    "score": 4.333,
+    "rank": 1900
+  },
+  {
+    "cpu": "Mediatek MT6853V/TNZA",
+    "score": 4.324,
+    "rank": 1901
+  },
+  {
+    "cpu": "Intel Core i3-1115GRE @ 3.00GHz",
+    "score": 4.322,
+    "rank": 1902
+  },
+  {
+    "cpu": "Intel Core i5-4430S @ 2.70GHz",
+    "score": 4.321,
+    "rank": 1903
+  },
+  {
+    "cpu": "Mediatek MT6833V/ZA",
+    "score": 4.316,
+    "rank": 1904
+  },
+  {
+    "cpu": "QTI SM7250",
+    "score": 4.304,
+    "rank": 1905
+  },
+  {
+    "cpu": "Mediatek MT8789V/T",
+    "score": 4.293,
+    "rank": 1906
+  },
+  {
+    "cpu": "Mediatek MT6789V/CD",
+    "score": 4.287,
+    "rank": 1907
+  },
+  {
+    "cpu": "Intel Atom C3958 @ 2.00GHz",
+    "score": 4.281,
+    "rank": 1909
+  },
+  {
+    "cpu": "Intel Core i5-6400T @ 2.20GHz",
+    "score": 4.281,
+    "rank": 1908
+  },
+  {
+    "cpu": "Intel Core i5-3350P @ 3.10GHz",
+    "score": 4.28,
+    "rank": 1910
+  },
+  {
+    "cpu": "AMD Athlon 300GE",
+    "score": 4.273,
+    "rank": 1911
+  },
+  {
+    "cpu": "Intel Pentium Gold G6600 @ 4.20GHz",
+    "score": 4.273,
+    "rank": 1912
+  },
+  {
+    "cpu": "Qualcomm Technologies, Inc SM6375",
+    "score": 4.266,
+    "rank": 1913
+  },
+  {
+    "cpu": "Intel Core i5-3475S @ 2.90GHz",
+    "score": 4.264,
+    "rank": 1914
+  },
+  {
+    "cpu": "vendor Kirin810",
+    "score": 4.264,
+    "rank": 1915
+  },
+  {
+    "cpu": "天玑900",
+    "score": 4.259,
+    "rank": 1916
+  },
+  {
+    "cpu": "Intel Core i5-6350HQ @ 2.30GHz",
+    "score": 4.255,
+    "rank": 1917
+  },
+  {
+    "cpu": "MediaTek G99 Ultimate (MT6789)",
+    "score": 4.253,
+    "rank": 1918
+  },
+  {
+    "cpu": "Intel Pentium Gold G6405 @ 4.10GHz",
+    "score": 4.252,
+    "rank": 1919
+  },
+  {
+    "cpu": "Intel Core i5-3340 @ 3.10GHz",
+    "score": 4.249,
+    "rank": 1920
+  },
+  {
+    "cpu": "Intel Core i3-8109U @ 3.00GHz",
+    "score": 4.244,
+    "rank": 1921
+  },
+  {
+    "cpu": "Intel Core i3-8140U @ 2.10GHz",
+    "score": 4.227,
+    "rank": 1922
+  },
+  {
+    "cpu": "Qualcomm SM7150",
+    "score": 4.212,
+    "rank": 1923
+  },
+  {
+    "cpu": "Intel Core i3-7300T @ 3.50GHz",
+    "score": 4.211,
+    "rank": 1924
+  },
+  {
+    "cpu": "AMD FX-6300 Six-Core",
+    "score": 4.207,
+    "rank": 1925
+  },
+  {
+    "cpu": "Intel Core i5-2450P @ 3.20GHz",
+    "score": 4.203,
+    "rank": 1926
+  },
+  {
+    "cpu": "Qualcomm Technologies, Inc SM8150_Plus",
+    "score": 4.201,
+    "rank": 1927
+  },
+  {
+    "cpu": "Intel Xeon E5-1607 v2 @ 3.00GHz",
+    "score": 4.189,
+    "rank": 1928
+  },
+  {
+    "cpu": "Intel Pentium J6426 @ 2.00GHz",
+    "score": 4.18,
+    "rank": 1929
+  },
+  {
+    "cpu": "Mediatek MT6781V/CDZAMB-H",
+    "score": 4.172,
+    "rank": 1930
+  },
+  {
+    "cpu": "Mediatek MT6833V/PNZA",
+    "score": 4.167,
+    "rank": 1931
+  },
+  {
+    "cpu": "MT6833V/PNZA",
+    "score": 4.164,
+    "rank": 1932
+  },
+  {
+    "cpu": "Hisilicon Kirin985",
+    "score": 4.162,
+    "rank": 1933
+  },
+  {
+    "cpu": "QTI SM6375",
+    "score": 4.159,
+    "rank": 1934
+  },
+  {
+    "cpu": "MT6833P",
+    "score": 4.158,
+    "rank": 1935
+  },
+  {
+    "cpu": "QTI SM6350",
+    "score": 4.152,
+    "rank": 1936
+  },
+  {
+    "cpu": "Intel Core i3-6100 @ 3.70GHz",
+    "score": 4.146,
+    "rank": 1938
+  },
+  {
+    "cpu": "Mediatek MT8781V/CA",
+    "score": 4.146,
+    "rank": 1937
+  },
+  {
+    "cpu": "Intel Pentium Gold G6500 @ 4.10GHz",
+    "score": 4.145,
+    "rank": 1939
+  },
+  {
+    "cpu": "AMD Ryzen Embedded R1606G",
+    "score": 4.144,
+    "rank": 1940
+  },
+  {
+    "cpu": "AMD Opteron 3380",
+    "score": 4.134,
+    "rank": 1941
+  },
+  {
+    "cpu": "Intel Core i5-2550K @ 3.40GHz",
+    "score": 4.134,
+    "rank": 1942
+  },
+  {
+    "cpu": "Intel Core i7-7567U @ 3.50GHz",
+    "score": 4.131,
+    "rank": 1943
+  },
+  {
+    "cpu": "Intel Celeron N5095A @ 2.00GHz",
+    "score": 4.129,
+    "rank": 1944
+  },
+  {
+    "cpu": "Intel Core i5-2500 @ 3.30GHz",
+    "score": 4.125,
+    "rank": 1945
+  },
+  {
+    "cpu": "Intel Pentium Gold G5600F @ 3.90GHz",
+    "score": 4.124,
+    "rank": 1946
+  },
+  {
+    "cpu": "Intel Pentium Gold G6400 @ 4.00GHz",
+    "score": 4.124,
+    "rank": 1947
+  },
+  {
+    "cpu": "Intel Core i5-2500K @ 3.30GHz",
+    "score": 4.119,
+    "rank": 1949
+  },
+  {
+    "cpu": "MT8789V/CT",
+    "score": 4.119,
+    "rank": 1948
+  },
+  {
+    "cpu": "AMD Athlon 200GE",
+    "score": 4.117,
+    "rank": 1950
+  },
+  {
+    "cpu": "Intel Core i5-3570T @ 2.30GHz",
+    "score": 4.107,
+    "rank": 1951
+  },
+  {
+    "cpu": "AMD FX-6200 Six-Core",
+    "score": 4.105,
+    "rank": 1952
+  },
+  {
+    "cpu": "MT8789V/T",
+    "score": 4.104,
+    "rank": 1953
+  },
+  {
+    "cpu": "Intel Pentium Gold G5620 @ 4.00GHz",
+    "score": 4.102,
+    "rank": 1954
+  },
+  {
+    "cpu": "MT6833V/ZA",
+    "score": 4.101,
+    "rank": 1955
+  },
+  {
+    "cpu": "Intel Core i3-8145UE @ 2.20GHz",
+    "score": 4.099,
+    "rank": 1956
+  },
+  {
+    "cpu": "Intel Core i5-3330 @ 3.00GHz",
+    "score": 4.096,
+    "rank": 1957
+  },
+  {
+    "cpu": "Mediatek MT6833",
+    "score": 4.096,
+    "rank": 1958
+  },
+  {
+    "cpu": "Intel Celeron N5095 @ 2.00GHz",
+    "score": 4.092,
+    "rank": 1959
+  },
+  {
+    "cpu": "AMD Opteron 3365",
+    "score": 4.091,
+    "rank": 1960
+  },
+  {
+    "cpu": "MediaTek MT6873",
+    "score": 4.087,
+    "rank": 1961
+  },
+  {
+    "cpu": "AMD Athlon PRO 300U",
+    "score": 4.08,
+    "rank": 1963
+  },
+  {
+    "cpu": "ARM - 8 Core 1766 MHz",
+    "score": 4.08,
+    "rank": 1962
+  },
+  {
+    "cpu": "Intel Core i5-4590T @ 2.00GHz",
+    "score": 4.076,
+    "rank": 1964
+  },
+  {
+    "cpu": "Intel Core i5-3335S @ 2.70GHz",
+    "score": 4.074,
+    "rank": 1965
+  },
+  {
+    "cpu": "AMD Opteron 6234",
+    "score": 4.072,
+    "rank": 1966
+  },
+  {
+    "cpu": "Intel Xeon E3-1260L @ 2.40GHz",
+    "score": 4.068,
+    "rank": 1968
+  },
+  {
+    "cpu": "Mediatek MT6853V/NZA",
+    "score": 4.068,
+    "rank": 1967
+  },
+  {
+    "cpu": "AMD Ryzen 3 PRO 2100GE",
+    "score": 4.062,
+    "rank": 1969
+  },
+  {
+    "cpu": "Intel Core i7-7660U @ 2.50GHz",
+    "score": 4.062,
+    "rank": 1970
+  },
+  {
+    "cpu": "Intel Celeron N5105 @ 2.00GHz",
+    "score": 4.058,
+    "rank": 1971
+  },
+  {
+    "cpu": "AMD FX-8100 Eight-Core",
+    "score": 4.046,
+    "rank": 1972
+  },
+  {
+    "cpu": "MT8186",
+    "score": 4.046,
+    "rank": 1973
+  },
+  {
+    "cpu": "Intel Core i7-2710QE @ 2.10GHz",
+    "score": 4.044,
+    "rank": 1974
+  },
+  {
+    "cpu": "Intel Core i7-2720QM @ 2.20GHz",
+    "score": 4.028,
+    "rank": 1975
+  },
+  {
+    "cpu": "Intel Core i3-6098P @ 3.60GHz",
+    "score": 4.021,
+    "rank": 1976
+  },
+  {
+    "cpu": "AMD Athlon Gold 3150U",
+    "score": 4.011,
+    "rank": 1977
+  },
+  {
+    "cpu": "AMD Opteron 6212",
+    "score": 4.007,
+    "rank": 1978
+  },
+  {
+    "cpu": "QTI QCM5430",
+    "score": 4.006,
+    "rank": 1979
+  },
+  {
+    "cpu": "Intel Celeron G6900T",
+    "score": 4.003,
+    "rank": 1980
+  },
+  {
+    "cpu": "Intel Core i3-6300T @ 3.30GHz",
+    "score": 4.002,
+    "rank": 1981
+  },
+  {
+    "cpu": "Intel Core i5-7260U @ 2.20GHz",
+    "score": 3.984,
+    "rank": 1982
+  },
+  {
+    "cpu": "Intel Core i5-4470 @ 3.30GHz",
+    "score": 3.971,
+    "rank": 1983
+  },
+  {
+    "cpu": "AMD PRO A12-8870",
+    "score": 3.969,
+    "rank": 1984
+  },
+  {
+    "cpu": "MT6781V/CD",
+    "score": 3.969,
+    "rank": 1985
+  },
+  {
+    "cpu": "Hisilicon Kirin 990",
+    "score": 3.965,
+    "rank": 1986
+  },
+  {
+    "cpu": "MediaTek Kompanio 520/528 (MT8186/MT8186T)",
+    "score": 3.965,
+    "rank": 1987
+  },
+  {
+    "cpu": "Intel Core i3-7101TE @ 3.40GHz",
+    "score": 3.957,
+    "rank": 1988
+  },
+  {
+    "cpu": "QTI SM4375",
+    "score": 3.95,
+    "rank": 1989
+  },
+  {
+    "cpu": "AMD Opteron 4334",
+    "score": 3.949,
+    "rank": 1990
+  },
+  {
+    "cpu": "Mediatek MT8789V/CT",
+    "score": 3.946,
+    "rank": 1991
+  },
+  {
+    "cpu": "Intel Core i7-985 @ 3.47GHz",
+    "score": 3.928,
+    "rank": 1992
+  },
+  {
+    "cpu": "AMD Athlon PRO 200GE",
+    "score": 3.926,
+    "rank": 1993
+  },
+  {
+    "cpu": "AMD Athlon 300U",
+    "score": 3.923,
+    "rank": 1994
+  },
+  {
+    "cpu": "Intel Core i5-3340S @ 2.80GHz",
+    "score": 3.914,
+    "rank": 1995
+  },
+  {
+    "cpu": "Intel Xeon E3-1220 @ 3.10GHz",
+    "score": 3.911,
+    "rank": 1996
+  },
+  {
+    "cpu": "ARM Kunpeng-920 8 Core 2600 MHz",
+    "score": 3.91,
+    "rank": 1997
+  },
+  {
+    "cpu": "Intel Pentium Gold G6400E @ 3.80GHz",
+    "score": 3.908,
+    "rank": 1998
+  },
+  {
+    "cpu": "AMD Opteron 4332 HE",
+    "score": 3.906,
+    "rank": 1999
+  },
+  {
+    "cpu": "Intel Xeon E3-1225 @ 3.10GHz",
+    "score": 3.906,
+    "rank": 2000
+  },
+  {
+    "cpu": "Samsung Exynos 9820",
+    "score": 3.905,
+    "rank": 2001
+  },
+  {
+    "cpu": "Intel Core i3-10110U @ 2.10GHz",
+    "score": 3.902,
+    "rank": 2002
+  },
+  {
+    "cpu": "QTI SM4450",
+    "score": 3.901,
+    "rank": 2003
+  },
+  {
+    "cpu": "Hisilicon Kirin820",
+    "score": 3.893,
+    "rank": 2004
+  },
+  {
+    "cpu": "AMD FX-6120 Six-Core",
+    "score": 3.887,
+    "rank": 2005
+  },
+  {
+    "cpu": "Intel Core i5-7360U @ 2.30GHz",
+    "score": 3.886,
+    "rank": 2006
+  },
+  {
+    "cpu": "Intel Atom x6413E @ 1.50GHz",
+    "score": 3.885,
+    "rank": 2007
+  },
+  {
+    "cpu": "Intel Core i5-3330S @ 2.70GHz",
+    "score": 3.884,
+    "rank": 2008
+  }
+]

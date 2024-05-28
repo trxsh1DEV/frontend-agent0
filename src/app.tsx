@@ -2,15 +2,20 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "./app.css";
 import Clients from "./pages/Clients/Clients";
 import Client from "./pages/Clients/Client";
-import Peripherical from "./pages/Peripherical/Peripherical";
+import Peripherical from "./pages/Peripherical/TablePeriphericals";
 import { tableTheme } from "./styles/theme";
 import { ThemeProvider } from "@mui/material";
-import Example from "./pages/Peripherical/Test";
+// import Example from "./pages/Peripherical/Test";
 import { QueryClientProvider } from "@tanstack/react-query";
 import { queryClient } from "./queryClient";
 import Charts from "./pages/Charts/Charts";
 import CompareHardware from "./pages/Performance/CompareHardware";
 import Softwares from "./pages/Software/Software";
+import Teste from "./pages/Peripherical/Periphericals";
+import { store } from "./redux/store";
+import { Provider } from "react-redux";
+// import TesteTable from "./pages/Peripherical/Periphericals";
+// import TablePeriphericals from "./pages/Peripherical/Periphericals";
 
 export function App() {
   const router = createBrowserRouter([
@@ -36,7 +41,7 @@ export function App() {
         },
         {
           path: "/teste",
-          element: <Example />,
+          element: <Teste />,
         },
         {
           path: "/charts",
@@ -60,9 +65,11 @@ export function App() {
 
   return (
     <ThemeProvider theme={tableTheme}>
-      <QueryClientProvider client={queryClient}>
-        <RouterProvider router={router} />
-      </QueryClientProvider>
+      <Provider store={store}>
+        <QueryClientProvider client={queryClient}>
+          <RouterProvider router={router} />
+        </QueryClientProvider>
+      </Provider>
     </ThemeProvider>
   );
 }

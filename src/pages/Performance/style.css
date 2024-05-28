@@ -3,6 +3,7 @@
     flex-direction: column;
     align-items: center;
     height: 100vh;
+    position: relative;
 }
 
 .centralizado {
@@ -48,4 +49,21 @@ input {
 input[readonly]:focus {
     cursor: none;
     outline: none;
+}
+
+.icon {
+    /* display: inline-block; */
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    background-size: cover;
+    right: -4%;
+}
+
+.icon-x {
+    background-image: url('x.png');
+}
+
+.icon-ok {
+    background-image: url('ok.png');
 }

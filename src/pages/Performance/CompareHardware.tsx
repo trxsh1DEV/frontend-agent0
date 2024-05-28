@@ -1,6 +1,63 @@
+import { useState } from "preact/hooks";
+import { request } from "../../utils/request";
 import "./style.css";
 
+// type TypeResponseHardware = {
+
+// }
+
+type GenericHardware = {
+  score: number;
+};
+
 export default function CompareHardware() {
+  const [icons, setIcons] = useState<any>({});
+
+  const calculate = async () => {
+    const cpuElements = document.querySelectorAll(".cpu");
+    const gpuElements: NodeListOf<HTMLInputElement> =
+      document.querySelectorAll(".gpu");
+    const cpuValues: string[] = [];
+    const gpuValues: string[] = [];
+
+    cpuElements.forEach((cpuElement: any, index: number) => {
+      cpuValues.push(cpuElement.value);
+      gpuValues.push(gpuElements[index].value);
+    });
+
+    if (cpuValues.length > 0) {
+      try {
+        const promiseCpu = request.post("/hardware/cpu/compare", cpuValues);
+        const promiseGpu = request.post("/hardware/gpu/compare", gpuValues);
+
+        const [resCpu, resGpu] = await Promise.all([promiseCpu, promiseGpu]);
+
+        if (resCpu.data && resGpu.data) {
+          const newIcons: any = {};
+          // console.log(resCpu.data, resGpu.data);
+
+          newIcons.cpu =
+            resCpu.data[0].score < resCpu.data[1].score ? "icon-x" : "icon-ok";
+          newIcons.gpu =
+            resGpu.data[0].score < resGpu.data[1].score ? "icon-x" : "icon-ok";
+
+          ["ram", "disk", "so", "depreciation", "release"].forEach(
+            (type, _) => {
+              const elements = document.querySelectorAll(`.${type}`);
+              const values = Array.from(elements).map((element: any) =>
+                Number(element.value.match(/\d+/))
+              );
+              newIcons[type] = values[0] < values[1] ? "icon-x" : "icon-ok";
+            }
+          );
+
+          setIcons(newIcons);
+        }
+      } catch (error) {
+        console.error("Error:", error);
+      }
+    }
+  };
   return (
     <main className="container">
       <h2>Análise de Depreciação</h2>
@@ -8,77 +65,154 @@ export default function CompareHardware() {
         <form>
           <h3>Hardware PC-8152</h3>
           <div className="Wrapper">
-            <label htmlFor="input1">CPU:</label>
-            <input type="text" id="input1" defaultValue="i5-9400F" />
+            <label htmlFor="cpu-current">CPU:</label>
+            <input
+              type="text"
+              id="cpu-current"
+              className="cpu"
+              defaultValue="i5-9400F"
+            />
           </div>
           <div className="Wrapper">
             <label htmlFor="input2">RAM:</label>
-            <input type="text" id="input2" defaultValue="16GB DDR3" />
+            <input
+              type="text"
+              id="input2"
+              defaultValue="16GB DDR3"
+              className="ram"
+            />
           </div>
           <div className="Wrapper">
             <label htmlFor="input3">Disco:</label>
-            <input type="text" id="input3" defaultValue="SSD 240GB" />
+            <input
+              type="text"
+              id="input3"
+              defaultValue="SSD 240GB"
+              className="disk"
+            />
           </div>
           <div className="Wrapper">
-            <label htmlFor="input4">GPU:</label>
-            <input type="text" id="input4" defaultValue="RX 550" />
+            <label htmlFor="gpu-current">GPU:</label>
+            <input
+              type="text"
+              id="gpu-current"
+              className="gpu"
+              defaultValue="RX 550"
+            />
           </div>
           <div className="Wrapper">
             <label htmlFor="input5">SO:</label>
-            <input type="text" id="input5" defaultValue="Windows 11 Pro" />
+            <input
+              type="text"
+              id="input5"
+              defaultValue="Windows 11 Pro"
+              className="so"
+            />
           </div>
           <div className="Wrapper">
             <label htmlFor="input6">T. Depreciação:</label>
-            <input type="text" id="input6" defaultValue="36" />
+            <input
+              type="text"
+              id="input6"
+              defaultValue="36"
+              className="depreciation"
+            />
           </div>
           <div className="Wrapper">
             <label htmlFor="input7">Lançamento Hardw. :</label>
-            <input type="text" id="input7" defaultValue="2019" />
+            <input
+              type="text"
+              id="input7"
+              defaultValue="2019"
+              className="release"
+            />
           </div>
         </form>
         <form>
           <h3>Hardware Base</h3>
           <div className="Wrapper">
-            <label htmlFor="input8">CPU:</label>
-            <input readOnly type="text" id="input8" defaultValue="i7-8700" />
-          </div>
-          <div className="Wrapper">
-            <label htmlFor="input9">RAM:</label>
-            <input readOnly type="text" id="input9" defaultValue="8GB DDR3" />
-          </div>
-          <div className="Wrapper">
-            <label htmlFor="input10">Disco:</label>
-            <input readOnly type="text" id="input10" defaultValue="HD 200GB" />
-          </div>
-          <div className="Wrapper">
-            <label htmlFor="input11">GPU:</label>
+            <label htmlFor="cpu-base">CPU:</label>
             <input
               readOnly
               type="text"
-              id="input11"
-              defaultValue="R7 360 / GTX 750"
+              id="cpu-base"
+              className="cpu"
+              defaultValue="i7-8700K"
             />
+            <span className={`icon ${icons.cpu || ""}`} />
+          </div>
+          <div className="Wrapper">
+            <label htmlFor="input9">RAM:</label>
+            <input
+              readOnly
+              type="text"
+              id="input9"
+              defaultValue="8GB DDR3"
+              className="ram"
+            />
+            <span className={`icon ${icons.ram || ""}`} />
+          </div>
+          <div className="Wrapper">
+            <label htmlFor="input10">Disco:</label>
+            <input
+              readOnly
+              type="text"
+              id="input10"
+              defaultValue="HD 200GB"
+              className="disk"
+            />
+            <span className={`icon ${icons.disk || ""}`} />
+          </div>
+          <div className="Wrapper">
+            <label htmlFor="gpu-base">GPU:</label>
+            <input
+              readOnly
+              type="text"
+              id="gpu-base"
+              className="gpu"
+              defaultValue="GTX 750"
+            />
+            <span className={`icon ${icons.gpu || ""}`} />
           </div>
           <div className="Wrapper">
             <label htmlFor="input12">SO:</label>
             <input
               readOnly
+              className="so"
               type="text"
               id="input12"
               defaultValue="Windows 10 Home"
             />
+            <span className={`icon ${icons.so || ""}`} />
           </div>
           <div className="Wrapper">
             <label htmlFor="input13">T. Depreciação:</label>
-            <input readOnly type="text" id="input13" defaultValue="48" />
+            <input
+              readOnly
+              type="text"
+              id="input13"
+              defaultValue="48"
+              className="depreciation"
+            />
+            <span className={`icon ${icons.depreciation || ""}`} />
           </div>
           <div className="Wrapper">
             <label htmlFor="input14">Lançamento Hardw. :</label>
-            <input readOnly type="text" id="input14" defaultValue="2017" />
+            <input
+              readOnly
+              type="text"
+              id="input14"
+              defaultValue="2017"
+              className="release"
+            />
+            <span className={`icon ${icons.release || ""}`} />
           </div>
         </form>
       </section>
-      <button style={{ marginTop: "30px", borderColor: "#646cff" }}>
+      <button
+        onClick={calculate}
+        style={{ marginTop: "30px", borderColor: "#646cff" }}
+      >
         Calcular Depreciação
       </button>
     </main>
