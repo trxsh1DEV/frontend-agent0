@@ -1,7 +1,7 @@
 import { useEffect, useState } from "preact/hooks";
 import { useLocation } from "react-router-dom";
 import "./style.css";
-import { Agent } from "../../utils/types/types";
+import { AgentType } from "../../utils/types/types";
 import { request } from "../../utils/request";
 
 const renderKeyValuePair = (
@@ -92,7 +92,7 @@ const handleLabelClick = (inputId: string) => {
 export default function Client() {
   const location = useLocation();
   const id = location.pathname.split("/")[2];
-  const [agent, setAgent] = useState<Agent | null>(null);
+  const [agent, setAgent] = useState<AgentType | null>(null);
   const [activeTab, setActiveTab] = useState("Geral");
 
   const handleActiveTab = (name: string) => {
@@ -239,7 +239,7 @@ export default function Client() {
                 </div>
 
                 <div className="Content">
-                  <label htmlFor="storage-total">D. Total</label>
+                  <label htmlFor="storage-total">Disco T.</label>
                   <input
                     id="storage-total"
                     value={agent.inventory.storage.total + " GB"}
@@ -283,7 +283,7 @@ export default function Client() {
                 </div>
 
                 <div className="Content">
-                  <label htmlFor="net-name">Int. Rede</label>
+                  <label htmlFor="net-name">Rede Conec.</label>
                   <input
                     id="net-name"
                     value={agent.inventory.network.network}
@@ -308,7 +308,7 @@ export default function Client() {
                   <label htmlFor="manufacturer">Placa mãe</label>
                   <input
                     id="manufacturer"
-                    value={agent.inventory.motherboard.motherboard}
+                    value={agent.inventory.motherboard.model_extend}
                     readOnly
                     className={"ProfileInput"}
                     onClick={() => handleLabelClick("manufacturer")}

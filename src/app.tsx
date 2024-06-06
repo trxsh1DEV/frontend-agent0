@@ -14,6 +14,7 @@ import Softwares from "./pages/Software/Software";
 import Teste from "./pages/Peripherical/Periphericals";
 import { store } from "./redux/store";
 import { Provider } from "react-redux";
+import SearchComponent from "./components/SearchComponent";
 // import TesteTable from "./pages/Peripherical/Periphericals";
 // import TablePeriphericals from "./pages/Peripherical/Periphericals";
 
@@ -30,6 +31,10 @@ export function App() {
         {
           path: "/performance",
           element: <CompareHardware />,
+        },
+        {
+          path: "/input",
+          element: <SearchComponent />,
         },
         {
           path: "/softwares",

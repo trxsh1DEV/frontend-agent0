@@ -108,7 +108,7 @@ const Peripherical: FC = () => {
     columns,
     data,
     enableRowActions: true,
-    renderRowActionMenuItems: ({ row, table }) => [
+    renderRowActionMenuItems: ({ table }) => [
       <MRT_ActionMenuItem
         icon={<Pen />}
         key="edit"

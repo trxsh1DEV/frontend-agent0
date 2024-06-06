@@ -1,21 +1,24 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
-import { MaterialReactTable, type MRT_ColumnDef } from "material-react-table";
+import {
+  MaterialReactTable,
+  useMaterialReactTable,
+  type MRT_ColumnDef,
+} from "material-react-table";
 import { Box, IconButton, Tooltip } from "@mui/material";
 import {
   Package,
   Code,
   Eye,
   UploadSimple,
-  Eraser,
-  ShieldCheck,
+  // Eraser,
+  // ShieldCheck,
 } from "phosphor-react";
 import { formatDateString } from "../../utils/utils";
-import { Agent } from "../../utils/types/types";
+import { AgentType } from "../../utils/types/types";
 import { Link } from "react-router-dom";
 import { mkConfig, generateCsv, download } from "export-to-csv";
 import { request } from "../../utils/request";
 import BlackScreen from "./Shell";
-import { AxiosError } from "axios";
 
 const csvConfig = mkConfig({
   fieldSeparator: ",",
@@ -24,7 +27,7 @@ const csvConfig = mkConfig({
 });
 
 const Clients: React.FC = () => {
-  const [clients, setClients] = useState<Agent[] | null>(null);
+  const [clients, setClients] = useState<AgentType[] | null>([]);
   const [isTerminalOpen, setIsTerminalOpen] = useState(false);
   const [selectedClientId, setSelectedClientId] = useState<string | null>(null);
   const fileInputRef = useRef<any>();
@@ -46,7 +49,7 @@ const Clients: React.FC = () => {
     download(csvConfig)(csv);
   };
 
-  const columns = useMemo<MRT_ColumnDef<Agent>[]>(
+  const columns = useMemo<MRT_ColumnDef<AgentType>[]>(
     () => [
       {
         accessorKey: "inventory.system.hostname",
@@ -160,142 +163,195 @@ const Clients: React.FC = () => {
     setSelectedClientId(null);
   };
 
+  const table = useMaterialReactTable({
+    columns,
+    data: clients || [],
+    enableDensityToggle: false,
+    enableColumnActions: false,
+    columnFilterDisplayMode: "popover",
+    renderTopToolbarCustomActions: () => (
+      <div
+        style={{
+          display: "flex",
+          gap: "16px",
+          padding: "8px",
+          flexWrap: "wrap",
+        }}
+      >
+        <button onClick={handleExportData}>Export Data</button>
+      </div>
+    ),
+    paginationDisplayMode: "pages",
+    initialState: {
+      pagination: { pageSize: 20, pageIndex: 0 },
+      showColumnFilters: true,
+    },
+    muiPaginationProps: {
+      shape: "rounded",
+      showRowsPerPage: false,
+      variant: "outlined",
+    },
+    enableRowActions: true,
+    getRowId: (row) => row.uid,
+    // renderRowActionMenuItems: ({ closeMenu, row, table }) => [
+    //   <MRT_ActionMenuItem
+    //     icon={<Package size={32} />}
+    //     key="get_inventory"
+    //     label={row.original.online ? "Obter Inventário" : "Agent Offline"}
+    //     onClick={() => sendCommand(row.id, "get_inventory")}
+    //     disabled={!row.original.online}
+    //     table={table}
+    //   />,
+    //   <MRT_ActionMenuItem
+    //     icon={<Code size={32} />}
+    //     key="custom_command"
+    //     label={row.original.online ? "Comando Personalizado" : "Agent Offline"}
+    //     onClick={() => {
+    //       openTerminal(row.id);
+    //       closeMenu();
+    //     }}
+    //     disabled={!row.original.online}
+    //     table={table}
+    //   />,
+    //   <MRT_ActionMenuItem
+    //     icon={<Eraser size={32} />}
+    //     key="format_device"
+    //     label={row.original.online ? "Formatar Dispositivo" : "Agent Offline"}
+    //     onClick={() => console.log(row.id)}
+    //     disabled={!row.original.online}
+    //     table={table}
+    //   />,
+    //   <MRT_ActionMenuItem
+    //     icon={<ShieldCheck size={32} />}
+    //     key="activate_bitlocker"
+    //     label={row.original.online ? "Ativar BitLocker" : "Agent Offline"}
+    //     onClick={() => console.log(row.id)}
+    //     disabled={!row.original.online}
+    //     table={table}
+    //   />,
+    //   <MRT_ActionMenuItem
+    //     icon={<UploadSimple size={32} />}
+    //     key="upload_script"
+    //     label={
+    //       row.original.online ? "Enviar Script (.bat | .ps1)" : "Agent Offline"
+    //     }
+    //     onClick={() => fileInputRef.current.click()}
+    //     disabled={!row.original.online}
+    //     table={table}
+    //   />,
+    //   <input
+    //     type="file"
+    //     accept=".bat"
+    //     ref={fileInputRef}
+    //     onChange={(e: any) => uploadBatFile(row.id, e?.target?.files[0])}
+    //     style={{ display: "none" }}
+    //   />,
+    //   <MRT_ActionMenuItem
+    //     icon={<Eye size={32} />}
+    //     key="details"
+    //     label="Mais detalhes"
+    //     onClick={() => navigate(`/agent/${row.id}`)}
+    //     table={table}
+    //   />,
+    // ],
+    renderRowActions: ({ row }) => (
+      <Box sx={{ display: "flex" }}>
+        <Tooltip
+          title={row.original.online ? "Obter Inventário" : "Agent Offline"}
+        >
+          <span>
+            <IconButton
+              color="success"
+              onClick={() => sendCommand(row.id, "get_inventory")}
+              disabled={!row.original.online}
+            >
+              <Package size={32} />
+            </IconButton>
+          </span>
+        </Tooltip>
+        <Tooltip
+          title={
+            row.original.online ? "Comando Personalizado" : "Agent Offline"
+          }
+        >
+          <span>
+            <IconButton
+              color="info"
+              onClick={() => openTerminal(row.id)}
+              disabled={!row.original.online}
+            >
+              <Code size={32} />
+            </IconButton>
+          </span>
+        </Tooltip>
+        {/* <Tooltip
+          title={row.original.online ? "Formatar Dispositivo" : "Agent Offline"}
+        >
+          <span>
+            <IconButton
+              color="error"
+              onClick={() => console.log(row.id)}
+              disabled={!row.original.online}
+            >
+              <Eraser size={32} />
+            </IconButton>
+          </span>
+        </Tooltip> */}
+        {/* <Tooltip
+          title={row.original.online ? "Ativar BitLocker" : "Agent Offline"}
+        >
+          <span>
+            <IconButton
+              color="success"
+              onClick={() => console.log(row.id)}
+              disabled={!row.original.online}
+            >
+              <ShieldCheck size={32} />
+            </IconButton>
+          </span>
+        </Tooltip> */}
+        <Tooltip
+          title={
+            row.original.online
+              ? "Enviar Script (.bat | .ps1)"
+              : "Agent Offline"
+          }
+        >
+          <span>
+            <IconButton
+              color="secondary"
+              onClick={() => fileInputRef.current.click()}
+              disabled={!row.original.online}
+            >
+              <input
+                type="file"
+                accept=".bat"
+                ref={fileInputRef}
+                onChange={(e: any) =>
+                  uploadBatFile(row.id, e?.target?.files[0])
+                }
+                style={{ display: "none" }}
+              />
+              <UploadSimple size={32} />
+            </IconButton>
+          </span>
+        </Tooltip>
+        <Tooltip title="Mais detalhes">
+          <Link to={`/agent/${row.id}`}>
+            <IconButton color="default">
+              <Eye size={32} />
+            </IconButton>
+          </Link>
+        </Tooltip>
+      </Box>
+    ),
+  });
+
   return (
     <>
       <h1>Connected Clients</h1>
       {!clients && <div>Nenhum dado disponível</div>}
-      {clients && clients.length > 0 && (
-        <MaterialReactTable
-          columns={columns}
-          data={clients}
-          defaultColumn={{
-            minSize: 50,
-            maxSize: 200,
-          }}
-          enableDensityToggle={false}
-          columnFilterDisplayMode={"popover"}
-          renderTopToolbarCustomActions={() => (
-            <div
-              style={{
-                display: "flex",
-                gap: "16px",
-                padding: "8px",
-                flexWrap: "wrap",
-              }}
-            >
-              <button onClick={handleExportData}>Export Data</button>
-            </div>
-          )}
-          paginationDisplayMode={"pages"}
-          initialState={{ pagination: { pageSize: 20, pageIndex: 0 } }}
-          muiPaginationProps={{
-            shape: "rounded",
-            showRowsPerPage: false,
-            variant: "outlined",
-          }}
-          enableRowActions
-          getRowId={(row) => row.uid}
-          renderRowActions={({ row }: any) => (
-            <Box sx={{ display: "flex" }}>
-              <Tooltip
-                title={
-                  row.original.online ? "Obter Inventário" : "Agent Offline"
-                }
-              >
-                <span>
-                  <IconButton
-                    color="default"
-                    onClick={() => sendCommand(row.id, "get_inventory")}
-                    disabled={!row.original.online}
-                  >
-                    <Package size={32} />
-                  </IconButton>
-                </span>
-              </Tooltip>
-              <Tooltip
-                title={
-                  row.original.online
-                    ? "Comando Personalizado"
-                    : "Agent Offline"
-                }
-              >
-                <span>
-                  <IconButton
-                    color="info"
-                    onClick={() => openTerminal(row.id)}
-                    disabled={!row.original.online}
-                  >
-                    <Code size={32} />
-                  </IconButton>
-                </span>
-              </Tooltip>
-              <Tooltip
-                title={
-                  row.original.online ? "Formatar Dispositivo" : "Agent Offline"
-                }
-              >
-                <span>
-                  <IconButton
-                    color="error"
-                    onClick={() => console.log(row.id)}
-                    disabled={!row.original.online}
-                  >
-                    <Eraser size={32} />
-                  </IconButton>
-                </span>
-              </Tooltip>
-              <Tooltip
-                title={
-                  row.original.online ? "Ativar BitLocker" : "Agent Offline"
-                }
-              >
-                <span>
-                  <IconButton
-                    color="success"
-                    onClick={() => console.log(row.id)}
-                    disabled={!row.original.online}
-                  >
-                    <ShieldCheck size={32} />
-                  </IconButton>
-                </span>
-              </Tooltip>
-              <Tooltip
-                title={
-                  row.original.online
-                    ? "Enviar Script (.bat | .ps1)"
-                    : "Agent Offline"
-                }
-              >
-                <span>
-                  <IconButton
-                    color="secondary"
-                    onClick={() => fileInputRef.current.click()}
-                    disabled={!row.original.online}
-                  >
-                    <input
-                      type="file"
-                      accept=".bat"
-                      ref={fileInputRef}
-                      onChange={(event: any) =>
-                        uploadBatFile(row.id, event.target.files[0])
-                      }
-                      style={{ display: "none" }}
-                    />
-                    <UploadSimple size={32} />
-                  </IconButton>
-                </span>
-              </Tooltip>
-              <Tooltip title="Mais detalhes">
-                <Link to={`/agent/${row.id}`}>
-                  <IconButton color="default">
-                    <Eye size={32} />
-                  </IconButton>
-                </Link>
-              </Tooltip>
-            </Box>
-          )}
-        />
-      )}
+      {clients && clients.length > 0 && <MaterialReactTable table={table} />}
       {isTerminalOpen && selectedClientId && (
         <BlackScreen clientId={selectedClientId} onClose={closeTerminal} />
       )}

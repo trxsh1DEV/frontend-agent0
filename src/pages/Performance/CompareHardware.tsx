@@ -1,17 +1,15 @@
 import { useState } from "preact/hooks";
 import { request } from "../../utils/request";
 import "./style.css";
-
-// type TypeResponseHardware = {
-
-// }
-
-type GenericHardware = {
-  score: number;
-};
+import CustomInput from "../../components/InputCommom";
 
 export default function CompareHardware() {
   const [icons, setIcons] = useState<any>({});
+  // const [query, setQuery] = useState<string>("");
+
+  // const handleInputChange = (e: any) => {
+  //   setQuery(e?.target?.value);
+  // };
 
   const calculate = async () => {
     const cpuElements = document.querySelectorAll(".cpu");
@@ -34,12 +32,12 @@ export default function CompareHardware() {
 
         if (resCpu.data && resGpu.data) {
           const newIcons: any = {};
-          // console.log(resCpu.data, resGpu.data);
+          console.log(resCpu.data, resGpu.data);
 
           newIcons.cpu =
-            resCpu.data[0].score < resCpu.data[1].score ? "icon-x" : "icon-ok";
+            resCpu.data[0].score >= resCpu.data[1].score ? "icon-ok" : "icon-x";
           newIcons.gpu =
-            resGpu.data[0].score < resGpu.data[1].score ? "icon-x" : "icon-ok";
+            resGpu.data[0].score >= resGpu.data[1].score ? "icon-ok" : "icon-x";
 
           ["ram", "disk", "so", "depreciation", "release"].forEach(
             (type, _) => {
@@ -47,7 +45,7 @@ export default function CompareHardware() {
               const values = Array.from(elements).map((element: any) =>
                 Number(element.value.match(/\d+/))
               );
-              newIcons[type] = values[0] < values[1] ? "icon-x" : "icon-ok";
+              newIcons[type] = values[0] >= values[1] ? "icon-ok" : "icon-x";
             }
           );
 
@@ -65,12 +63,11 @@ export default function CompareHardware() {
         <form>
           <h3>Hardware PC-8152</h3>
           <div className="Wrapper">
-            <label htmlFor="cpu-current">CPU:</label>
-            <input
-              type="text"
-              id="cpu-current"
-              className="cpu"
-              defaultValue="i5-9400F"
+            <CustomInput
+              typeData="cpuData"
+              placeholder="i5-9400F"
+              label="CPU"
+              defaultValue="i5-9400"
             />
           </div>
           <div className="Wrapper">
@@ -92,12 +89,11 @@ export default function CompareHardware() {
             />
           </div>
           <div className="Wrapper">
-            <label htmlFor="gpu-current">GPU:</label>
-            <input
-              type="text"
-              id="gpu-current"
-              className="gpu"
-              defaultValue="RX 550"
+            <CustomInput
+              typeData="test"
+              placeholder="GeForce GTX 1060"
+              label="GPU"
+              defaultValue="GeForce GTX 1060"
             />
           </div>
           <div className="Wrapper">
@@ -119,7 +115,7 @@ export default function CompareHardware() {
             />
           </div>
           <div className="Wrapper">
-            <label htmlFor="input7">Lançamento Hardw. :</label>
+            <label htmlFor="input7">Lançamento</label>
             <input
               type="text"
               id="input7"
@@ -197,7 +193,7 @@ export default function CompareHardware() {
             <span className={`icon ${icons.depreciation || ""}`} />
           </div>
           <div className="Wrapper">
-            <label htmlFor="input14">Lançamento Hardw. :</label>
+            <label htmlFor="input14">Lançamento</label>
             <input
               readOnly
               type="text"

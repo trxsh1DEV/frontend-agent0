@@ -1,4 +1,4 @@
-export type Agent = {
+export type AgentType = {
   hwid: string;
   uid: string;
   online: boolean;
@@ -6,7 +6,7 @@ export type Agent = {
   inventory: {
     motherboard: {
       manufacturer: string;
-      motherboard: string;
+      model_extend: string;
       model: string;
     };
     cpu: {

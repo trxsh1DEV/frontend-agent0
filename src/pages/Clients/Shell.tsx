@@ -2,53 +2,6 @@ import { useState, useRef, useEffect } from "react";
 import { XCircle } from "phosphor-react";
 import { request } from "../../utils/request";
 
-const InputShell = ({
-  onSubmit,
-  isLoading,
-}: {
-  onSubmit: (command: string) => void;
-  isLoading: boolean;
-}) => {
-  const [command, setCommand] = useState("");
-
-  const inputRef = useRef<HTMLInputElement>(null);
-
-  useEffect(() => {
-    if (inputRef.current && !isLoading) {
-      inputRef.current.focus();
-    }
-  }, [isLoading]);
-
-  const handleKeyPress = (e: any) => {
-    if (e.key === "Enter" && !isLoading) {
-      onSubmit(command);
-      setCommand("");
-    }
-  };
-
-  return (
-    <div style={{ display: "flex", alignItems: "center" }}>
-      <span style={{ marginRight: "5px" }}>$</span>
-      <input
-        ref={inputRef}
-        type="text"
-        value={command}
-        onChange={(e: any) => setCommand(e.target.value)}
-        onKeyPress={handleKeyPress}
-        disabled={isLoading}
-        style={{
-          backgroundColor: "transparent",
-          border: "none",
-          color: "white",
-          fontSize: "18px",
-          outline: "none",
-          flex: 1,
-        }}
-      />
-    </div>
-  );
-};
-
 const Shell = ({
   onClose,
   clientId,
@@ -57,21 +10,26 @@ const Shell = ({
   clientId: string;
 }) => {
   const [output, setOutput] = useState<string[]>([]);
+  const [command, setCommand] = useState("");
   const [isLoading, setIsLoading] = useState<boolean>(false);
   const outputRef = useRef<HTMLDivElement>(null);
+  const inputRef = useRef<HTMLInputElement>(null);
+  const input = document.querySelector(".input-shell") as HTMLInputElement;
 
   useEffect(() => {
-    const input = document.querySelector(".input-shell") as HTMLInputElement;
+    if (inputRef.current && !isLoading) {
+      inputRef.current.focus();
+    }
+  }, [isLoading]);
+
+  useEffect(() => {
     if (outputRef.current) {
       let outputHeight = outputRef.current.scrollHeight;
       outputRef.current.scrollTop = outputHeight;
-
       const outputEl = document.querySelector(".output")?.lastElementChild;
 
       if (input && outputEl) {
-        // @ts-ignore
         input.style.top = `${outputRef.current.scrollHeight + 60}px`;
-        // outputRef.current.scrollTop = outputRef.current.scrollHeight;
         input.scrollIntoView({ behavior: "smooth" });
       }
     }
@@ -84,13 +42,26 @@ const Shell = ({
         clientId,
         command,
       });
-      console.log(result.data);
       setOutput((prevOutput) => [...prevOutput, result.data]);
     } catch (err: any) {
-      console.log(err.response.data.message);
       setOutput((prevOutput) => [...prevOutput, err.response.data.message]);
     } finally {
       setIsLoading(false);
+    }
+  };
+
+  const handleKeyPress = (e: any) => {
+    if (e.key === "Enter" && !isLoading) {
+      switch (e.target.value) {
+        case "clear":
+          setOutput([]);
+          input.style.top = `0px`;
+          break;
+        default:
+          handleCommandSubmit(command);
+          break;
+      }
+      setCommand("");
     }
   };
 
@@ -148,23 +119,37 @@ const Shell = ({
           }}
           className="input-shell"
         >
-          <InputShell onSubmit={handleCommandSubmit} isLoading={isLoading} />
+          <span style={{ marginRight: "5px" }}>$</span>
+          <input
+            ref={inputRef}
+            type="text"
+            value={command}
+            onChange={(e: any) => setCommand(e.target.value)}
+            onKeyPress={handleKeyPress}
+            disabled={isLoading}
+            style={{
+              backgroundColor: "transparent",
+              border: "none",
+              color: "white",
+              fontSize: "18px",
+              outline: "none",
+              flex: 1,
+            }}
+          />
         </div>
         <div ref={outputRef} className="output" style={{ marginTop: "35px" }}>
           {output.map((line, index) => (
-            <>
-              <div
-                key={index}
-                style={{
-                  whiteSpace: "pre-wrap",
-                  fontSize: "18px",
-                  margin: "15px",
-                }}
-              >
-                {line}
-                <hr />
-              </div>
-            </>
+            <div
+              key={index}
+              style={{
+                whiteSpace: "pre-wrap",
+                fontSize: "18px",
+                margin: "15px",
+              }}
+            >
+              {line}
+              <hr />
+            </div>
           ))}
         </div>
       </div>
